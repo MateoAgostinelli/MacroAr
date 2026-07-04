@@ -94,7 +94,8 @@ function plantilla(serie) {
   <main class="detalle-container" id="detalle-container">
     <a href="/datos" class="btn-back" id="btn-back">← Volver atrás</a>
     <div id="detalle-content">
-      <p style="text-align: center; color: #64748b; padding: 2rem;">Cargando información ampliada del indicador...</p>
+      <h1 class="detalle-titulo-static">${escapeHtml(serie.titulo)}</h1>
+      <p class="detalle-desc-static">${escapeHtml(desc)}</p>
     </div>
   </main>
 

@@ -467,6 +467,9 @@ body > * { min-width: 0; }
 .category-section { scroll-margin-top: 90px; }
 
 /* ── Vista detalle (detalle.html + páginas /indicador/<slug>) ─────────────── */
+.detalle-titulo-static { font-family: 'Poppins', sans-serif; font-size: 1.5rem; font-weight: 700; color: var(--text); margin: 1.5rem 0 0.5rem; }
+.detalle-desc-static  { color: var(--muted); font-size: 0.95rem; line-height: 1.6; max-width: 680px; margin-bottom: 1.5rem; }
+
 .detalle-container {
   width: 100%;
   max-width: 1264px; /* 1200 de contenido + 2*2rem de padding, alineado con el navbar */
