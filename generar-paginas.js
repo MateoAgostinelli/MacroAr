@@ -59,6 +59,7 @@ function plantilla(serie) {
   <meta name="twitter:title" content="${t}">
   <meta name="twitter:description" content="${d}">
   <meta name="twitter:image" content="${BASE_URL}/og-image.png">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":${JSON.stringify(serie.titulo)},"description":${JSON.stringify(desc)},"url":${JSON.stringify(url)},"publisher":{"@type":"Organization","name":"MacroAr","url":"${BASE_URL}"},"spatialCoverage":"Argentina","inLanguage":"es-AR"}</script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
