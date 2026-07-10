@@ -1,17 +1,17 @@
 {
-  "publicacion": "2026-05-01",
+  "publicacion": "2026-06-01",
   "datos": [
     {
       "fecha": "2026-01-01",
-      "valor": 2.91
+      "valor": 3.0
     },
     {
       "fecha": "2027-01-01",
-      "valor": 3.1
+      "valor": 3.0
     },
     {
       "fecha": "2028-01-01",
-      "valor": 3.05
+      "valor": 3.0
     }
   ]
 }
