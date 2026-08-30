@@ -17,7 +17,15 @@
   const elFresh = document.getElementById('lab-freshness');
   const btnShare = document.getElementById('lab-share');
   const canvas = document.getElementById('lab-chart');
+  const hintZoom = document.getElementById('lab-hint-zoom');
   if (!selA || !selB) return;
+
+  function mostrarResetZoomLab() {
+    if (hintZoom) { hintZoom.style.transition = 'opacity .4s'; hintZoom.style.opacity = '0'; }
+  }
+  canvas.addEventListener('dblclick', () => { if (chart) chart.resetZoom(); });
+  canvas.addEventListener('mousedown', () => { canvas.style.cursor = 'grabbing'; });
+  canvas.addEventListener('mouseup', () => { canvas.style.cursor = 'grab'; });
 
   let modo = 'indice';
   let chart = null;
@@ -272,10 +280,29 @@
       options: {
         responsive: true, maintainAspectRatio: false,
         interaction: { mode: 'index', intersect: false },
-        plugins: { legend: { position: 'top' } },
+        plugins: {
+          legend: { position: 'top' },
+          zoom: {
+            zoom: {
+              wheel: { enabled: true, speed: 0.12 },
+              pinch: { enabled: true },
+              mode: 'x',
+              onZoomComplete: mostrarResetZoomLab,
+            },
+            pan: {
+              enabled: true,
+              mode: 'x',
+              onPanComplete: mostrarResetZoomLab,
+            },
+            limits: { x: { min: 'original', max: 'original' } },
+          },
+        },
         scales: { x: { ticks: { maxTicksLimit: 12 } } },
       },
     });
+    canvas.style.cursor = 'grab';
+    // Nuevo gráfico → el hint de zoom vuelve a mostrarse hasta el próximo zoom/pan.
+    if (hintZoom) { hintZoom.style.transition = ''; hintZoom.style.opacity = ''; }
   }
 
   // ── Pipeline principal ───────────────────────────────────────────────────────
