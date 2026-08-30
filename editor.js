@@ -324,17 +324,52 @@
         return { ...base, type: 'line', borderColor: color, backgroundColor: 'transparent', borderWidth: st.width, pointRadius: st.points, tension: st.tension };
       });
 
+      // Título de cada eje Y: qué serie(s) usan ese eje y en qué unidad, para
+      // poder identificarlas sin ambigüedad cuando hay eje izq. y der. a la vez.
+      // Si el eje lo usa una sola serie, el título se pinta de su color.
+      function tituloEje(lado) {
+        const cols = columnas.filter(c => c.fila.eje === lado);
+        if (!cols.length) return { text: '', color: st.texto };
+        const nombres = cols.map(c => c.serie.titulo).join(' · ');
+        let unidadTxt;
+        if (modo === 'indice') unidadTxt = 'índice base 100';
+        else if (modo === 'variacion') unidadTxt = '% variación';
+        else if (modo === 'interanual') unidadTxt = '% var. interanual';
+        else {
+          const unidades = [...new Set(cols.map(c => c.serie.unidad).filter(Boolean))];
+          unidadTxt = unidades.length === 1 ? unidades[0] : '';
+        }
+        const text = unidadTxt ? `${nombres} (${unidadTxt})` : nombres;
+        const color = cols.length === 1 ? (cols[0].fila.color || colorDefault(cols[0].fila.id)) : st.texto;
+        return { text, color };
+      }
+      const tituloIzq = tituloEje('l');
+      const tituloDer = usaDerecho ? tituloEje('r') : null;
+
       const ejeBase = {
         ticks: { color: st.tick, font: { size: st.font } },
         grid: { display: st.grid, color: st.gridColor },
         border: { color: st.gridColor },
       };
       const escalas = {
-        x: { ...ejeBase, ticks: { ...ejeBase.ticks, maxTicksLimit: 12 } },
-        y: { ...ejeBase, position: 'left' },
+        x: {
+          ...ejeBase,
+          ticks: { ...ejeBase.ticks, maxTicksLimit: 12 },
+          title: { display: true, text: 'Fecha', color: st.texto, font: { size: st.font, weight: '600' } },
+        },
+        y: {
+          ...ejeBase,
+          position: 'left',
+          title: { display: !!tituloIzq.text, text: tituloIzq.text, color: tituloIzq.color, font: { size: st.font, weight: '600' } },
+        },
       };
       if (usaDerecho) {
-        escalas.y2 = { ...ejeBase, position: 'right', grid: { display: false } };
+        escalas.y2 = {
+          ...ejeBase,
+          position: 'right',
+          grid: { display: false },
+          title: { display: !!tituloDer.text, text: tituloDer.text, color: tituloDer.color, font: { size: st.font, weight: '600' } },
+        };
       }
 
       // El fondo se pinta sobre el canvas mismo (no solo CSS) para que el PNG
