@@ -2,295 +2,295 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://macroar.com.ar/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/datos</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/laboratorio</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://macroar.com.ar/constructor</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://macroar.com.ar/editor</loc>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/contacto</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/dolar-oficial</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/dolar-blue</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/inflacion-mensual</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/actividad-economica-emae</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/confianza-del-consumidor</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/expectativas-de-inflacion</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/rem-inflacion-general</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/rem-inflacion-nucleo</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/rem-pib</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/rem-tipo-de-cambio</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/rem-tasa-badlar</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/rem-exportaciones</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/rem-importaciones</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/rem-desocupacion</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/rem-resultado-primario</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/reservas-internacionales</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/base-monetaria</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/tasa-badlar</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/dolar-mayorista</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/precio-del-oro</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/precio-soja</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/petroleo-wti</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/petroleo-brent</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/riesgo-pais</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/merval</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/inflacion-interanual</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/tasa-plazo-fijo</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/recaudacion-total</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/recaudacion-dgi</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/recaudacion-aduana</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/recaudacion-seguridad-social</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/dolar-mep</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/dolar-ccl</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/tasa-politica-monetaria</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/uva</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/ipi-manufacturero</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/isac-construccion</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/precios-mayoristas</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/indice-salarios</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/salarios-privado</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/salarios-publico</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/tasa-desocupacion</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/empleo-registrado</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://macroar.com.ar/indicador/empleo-no-registrado</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

@@ -63,10 +63,16 @@
     html, body{ background: #fff; }
     .editor-toolbar{ display: none !important; }
     .editor-lienzo{ box-shadow: none; margin: 0; max-width: none; }
-    .editor-lienzo > .cabecera-fija,
-    .editor-lienzo > .cuerpo,
-    .editor-lienzo > .pie-fijo{ padding-left: 0; padding-right: 0; }
     [contenteditable="true"]:hover, [contenteditable="true"]:focus{ box-shadow: none; }
+    /* El margen lateral lo da SIEMPRE nuestro padding (arriba, para pantalla),
+       nunca el @page de estilo-macroar.css — si el diálogo de impresión del
+       navegador tiene "Márgenes: Ninguno" (guardado de una impresión previa
+       o elegido por el usuario), Chrome anula el margen de @page y el texto
+       queda pegado al borde. Solo dejamos que @page aporte el margen vertical
+       (20mm arriba/abajo, que si no se puede replicar con padding en un
+       documento de varias páginas) y ponemos 0 en el lateral para no duplicar
+       nuestro propio padding.  */
+    @page{ margin: 20mm 0; }
   }
 </style>
 </head>

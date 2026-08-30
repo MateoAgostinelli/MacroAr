@@ -6,8 +6,17 @@ Plantilla de estructura para informes de consultoría en PDF, independiente del 
 
 `render_pdf.py` convierte el Markdown a PDF con la paleta y tipografías del sitio
 (navy/celeste/sol, Poppins/Inter, portada oscura tipo hero), tomadas de
-`_template-consultora.html`. Requiere el paquete `markdown` (`pip install -r informes/requirements.txt`)
-y Edge o Chrome instalados (los usa en modo headless para imprimir a PDF).
+`_template-consultora.html`. La cabecera con la franja de colores y el pie de
+página se repiten en **todas** las páginas del cuerpo (vía header/footer
+template nativo de Chromium) — la portada queda aparte, sin cabecera, full
+bleed.
+
+Requiere (`pip install -r informes/requirements.txt`): `markdown`, `playwright`,
+`pymupdf`. Primera vez además hay que bajar el navegador embebido de Playwright:
+
+```bash
+python -m playwright install chromium
+```
 
 1. Copiá `_plantilla.md` con el nombre del informe, ej. `2026-07-cliente-x.md`.
 2. Completá los `[corchetes]` con el contenido real (título en el primer `#`, metadatos en negrita tipo `**Cliente:** ...`).
@@ -19,7 +28,9 @@ python informes/render_pdf.py informes/2026-07-cliente-x.md
 python informes/render_pdf.py informes/2026-07-cliente-x.md informes/2026-07-cliente-x.pdf
 ```
 
-El estilo visual vive en `estilo-macroar.css` — tocalo ahí si cambia la identidad del sitio (colores, portada, tablas).
+El estilo visual vive en `estilo-macroar.css` — tocalo ahí si cambia la identidad del sitio (colores, portada, tablas). El HTML de la cabecera/pie que se repite por página vive directamente en `render_pdf.py` (`construir_header_template`/`construir_footer_template`), no en el CSS — es un `<div>` chico e inline-styled porque Chromium renderiza el header/footer template de forma aislada, sin acceso al resto de la página.
+
+**Nota:** el botón "🖨 PDF" de `editor.html` (impresión manual desde el navegador) **no** puede repetir esta cabecera en cada hoja — es una limitación de Chromium: el header/footer con HTML propio solo existe en el modo automatizado (`Page.printToPDF` vía Playwright/CDP), no en el diálogo de impresión manual del usuario. Para el PDF final con cabecera en todas las páginas, siempre generalo con `render_pdf.py` a partir del `.md` (editado en `editor.html` si hizo falta retocarlo).
 
 ## Alternativa: PDF genérico sin marca (make-pdf)
 

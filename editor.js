@@ -1,4 +1,4 @@
-// Constructor de gráficos personalizados (MacroAr).
+// Editor de gráficos personalizados (MacroAr).
 // Reusa de app.js: SERIES, obtenerDatosSerie, charts, descargarPNG.
 // De lib.js: agregarDatos, normalizar, formatFecha.
 // Todo client-side: el usuario arma un gráfico con hasta 6 series, personaliza
@@ -26,7 +26,16 @@
   const btnCsv = document.getElementById('ctor-csv');
   const btnShare = document.getElementById('ctor-share');
   const canvas = document.getElementById('ctor-chart');
+  const hintZoom = document.getElementById('ctor-hint-zoom');
   if (!contSeries || !canvas) return;
+
+  function mostrarResetZoomCtor() {
+    if (hintZoom) { hintZoom.style.transition = 'opacity .4s'; hintZoom.style.opacity = '0'; }
+  }
+
+  canvas.addEventListener('dblclick', () => { if (chart) chart.resetZoom(); });
+  canvas.addEventListener('mousedown', () => { canvas.style.cursor = 'grabbing'; });
+  canvas.addEventListener('mouseup', () => { canvas.style.cursor = 'grab'; });
 
   // Estado. Cada fila: { id, color ('#rrggbb'), tipo ('line'|'bar'|'area'), eje ('l'|'r') }
   let filas = [
@@ -360,6 +369,20 @@
               color: st.texto,
               font: { size: st.titleFont, weight: '600' },
             },
+            zoom: {
+              zoom: {
+                wheel: { enabled: true, speed: 0.12 },
+                pinch: { enabled: true },
+                mode: 'x',
+                onZoomComplete: mostrarResetZoomCtor,
+              },
+              pan: {
+                enabled: true,
+                mode: 'x',
+                onPanComplete: mostrarResetZoomCtor,
+              },
+              limits: { x: { min: 'original', max: 'original' } },
+            },
           },
           scales: escalas,
         },
@@ -367,6 +390,9 @@
       });
       charts['ctor'] = chart; // registrar para descargarPNG (app.js)
       canvas.parentElement.style.background = st.bg; // el wrap acompaña el tema
+      canvas.style.cursor = 'grab';
+      // Nuevo gráfico → el hint de zoom vuelve a mostrarse hasta el próximo zoom/pan.
+      if (hintZoom) { hintZoom.style.transition = ''; hintZoom.style.opacity = ''; }
 
       ultimoRender = { fechas, columnas };
       elFresh.textContent = 'Última actualización — ' +

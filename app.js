@@ -5,7 +5,7 @@ const isToolsPage = document.body.classList.contains('page-tools');
 const isDatosPage = document.body.classList.contains('page-datos');
 const isDetallePage = document.body.classList.contains('page-detalle');
 const isLabPage = document.body.classList.contains('page-laboratorio');
-const isConstructorPage = document.body.classList.contains('page-constructor');
+const isConstructorPage = document.body.classList.contains('page-editor');
 
 // ─── Configuración de series ──────────────────────────────────────────────────
 
@@ -1559,8 +1559,8 @@ async function cargarSerie(serie) {
 // ─── Inicialización ───────────────────────────────────────────────────────────
 
 function loadAll() {
-  // El Laboratorio y el Constructor manejan su propia carga (laboratorio.js /
-  // constructor.js); app.js solo aporta SERIES + obtenerDatosSerie.
+  // El Laboratorio y el Editor de gráficos manejan su propia carga (laboratorio.js /
+  // editor.js); app.js solo aporta SERIES + obtenerDatosSerie.
   if (isLabPage || isConstructorPage) return;
 
   _bluelyticsCache = null;

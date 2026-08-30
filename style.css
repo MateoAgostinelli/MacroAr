@@ -1251,7 +1251,7 @@ html, body { overflow-x: hidden; }
   .section-header-row { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
 }
 
-/* ─── Constructor de gráficos (/constructor) ──────────────────────────────── */
+/* ─── Editor de gráficos (/editor) ──────────────────────────────── */
 .ctor-titulo-field { max-width: 480px; margin-bottom: 1.25rem; }
 .ctor-titulo-field input[type="text"] {
   font-family: 'Inter', sans-serif;
@@ -1348,7 +1348,7 @@ html, body { overflow-x: hidden; }
   .ctor-acciones { flex-direction: column; align-items: flex-start; gap: 0.6rem; }
 }
 
-/* Panel avanzado de estilo del constructor */
+/* Panel avanzado de estilo del editor de gráficos */
 .ctor-avanzado { margin-bottom: 1.5rem; }
 .ctor-avanzado > summary {
   cursor: pointer;
