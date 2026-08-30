@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Constructor de gráficos — MacroAr | Armá tu propio gráfico de la economía argentina</title>
+  <meta name="description" content="Armá tu propio gráfico con los indicadores de la economía argentina: elegí hasta 6 series, personalizá colores, ejes y tipo de gráfico, y compartilo con un link.">
+  <link rel="canonical" href="https://macroar.com.ar/constructor">
+  <meta name="theme-color" content="#1c3c63">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="MacroAr">
+  <meta property="og:locale" content="es_AR">
+  <meta property="og:url" content="https://macroar.com.ar/constructor">
+  <meta property="og:title" content="Constructor de gráficos — MacroAr">
+  <meta property="og:description" content="Armá tu propio gráfico con hasta 6 indicadores de la economía argentina y compartilo con un link.">
+  <meta property="og:image" content="https://macroar.com.ar/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Constructor de gráficos — MacroAr">
+  <meta name="twitter:description" content="Armá y compartí tus propios gráficos de la economía argentina.">
+  <meta name="twitter:image" content="https://macroar.com.ar/og-image.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body class="page-constructor">
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo" aria-label="MacroAr — ir al inicio">Macro<span>Ar</span></a>
+      <div class="nav-links">
+        <a href="/datos">Datos</a>
+        <a href="/constructor">Constructor</a>
+        <a href="/contacto">Contacto</a>
+      </div>
+      <div class="nav-actions"><a class="nav-cta" href="/laboratorio">Laboratorio</a></div>
+      <button class="nav-burger" aria-label="Abrir menú" aria-expanded="false" aria-controls="nav-mobile">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+  <nav class="nav-mobile" id="nav-mobile" aria-label="Menú mobile">
+    <a href="/datos">Datos</a>
+    <a href="/constructor">Constructor</a>
+    <a href="/contacto">Contacto</a>
+    <a href="/laboratorio" class="nav-mobile-cta">Laboratorio</a>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-shapes" aria-hidden="true"><span class="hs hs-line"></span><span class="hs hs-sol"></span><span class="hs hs-navy"></span><span class="hs hs-celeste"></span></div>
+    <div class="hero-inner">
+      <div class="hero-text">
+        <p class="hero-eyebrow">Herramientas</p>
+        <h1>Constructor de <em>Gráficos</em></h1>
+        <p class="hero-sub">Elegí hasta 6 indicadores, personalizá colores, ejes y tipo de gráfico, y compartilo con un link.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Constructor -->
+  <section class="lab-section">
+
+    <div class="lab-field ctor-titulo-field">
+      <label for="ctor-titulo">Título del gráfico</label>
+      <input type="text" id="ctor-titulo" placeholder="Mi gráfico" maxlength="80">
+    </div>
+
+    <div id="ctor-series" class="ctor-series"></div>
+    <button type="button" class="btn-export-mini ctor-add" id="ctor-add">+ Agregar serie</button>
+
+    <div class="lab-controls ctor-globales">
+      <div class="lab-field">
+        <label for="ctor-freq">Frecuencia</label>
+        <select id="ctor-freq">
+          <option value="original">Original</option>
+          <option value="mensual">Mensual</option>
+          <option value="trimestral">Trimestral</option>
+          <option value="anual">Anual</option>
+        </select>
+      </div>
+      <div class="lab-field">
+        <label>Cómo mostrar</label>
+        <div class="btn-group" id="ctor-modo">
+          <button type="button" data-modo="niveles" class="active">Niveles</button>
+          <button type="button" data-modo="indice">Índice 100</button>
+          <button type="button" data-modo="variacion">Variación %</button>
+          <button type="button" data-modo="interanual">Var. % interanual</button>
+        </div>
+      </div>
+      <div class="lab-field">
+        <label for="ctor-desde">Desde</label>
+        <input type="date" id="ctor-desde">
+      </div>
+      <div class="lab-field">
+        <label for="ctor-hasta">Hasta</label>
+        <input type="date" id="ctor-hasta">
+      </div>
+      <div class="lab-field">
+        <label for="ctor-estilo">Estilo</label>
+        <select id="ctor-estilo">
+          <option value="macroar">MacroAr</option>
+          <option value="oscuro">Oscuro</option>
+          <option value="minimal">Minimal</option>
+          <option value="presentacion">Presentación</option>
+        </select>
+      </div>
+    </div>
+
+    <details class="ctor-avanzado" id="ctor-avanzado">
+      <summary>Ajustes avanzados de estilo</summary>
+      <div class="lab-controls ctor-avanzado-grid">
+        <div class="lab-field">
+          <label for="ctor-adv-grid">Grilla</label>
+          <select id="ctor-adv-grid" data-adv="grid">
+            <option value="">Auto (según estilo)</option>
+            <option value="1">Con grilla</option>
+            <option value="0">Sin grilla</option>
+          </select>
+        </div>
+        <div class="lab-field">
+          <label for="ctor-adv-width">Grosor de línea</label>
+          <select id="ctor-adv-width" data-adv="width">
+            <option value="">Auto (según estilo)</option>
+            <option value="1">Fina</option>
+            <option value="2">Media</option>
+            <option value="3">Gruesa</option>
+            <option value="4">Muy gruesa</option>
+          </select>
+        </div>
+        <div class="lab-field">
+          <label for="ctor-adv-points">Puntos</label>
+          <select id="ctor-adv-points" data-adv="points">
+            <option value="">Auto (según estilo)</option>
+            <option value="0">Ocultos</option>
+            <option value="2">Chicos</option>
+            <option value="3">Grandes</option>
+          </select>
+        </div>
+        <div class="lab-field">
+          <label for="ctor-adv-legend">Leyenda</label>
+          <select id="ctor-adv-legend" data-adv="legend">
+            <option value="">Auto (según estilo)</option>
+            <option value="top">Arriba</option>
+            <option value="bottom">Abajo</option>
+            <option value="off">Oculta</option>
+          </select>
+        </div>
+        <div class="lab-field">
+          <label for="ctor-adv-smooth">Suavizado</label>
+          <select id="ctor-adv-smooth" data-adv="suave">
+            <option value="">Auto (según estilo)</option>
+            <option value="0">Recto</option>
+            <option value="15">Leve</option>
+            <option value="40">Curvo</option>
+          </select>
+        </div>
+      </div>
+    </details>
+
+    <div class="lab-chart-wrap ctor-chart-wrap">
+      <canvas id="ctor-chart" role="img" aria-label="Gráfico personalizado de indicadores"></canvas>
+    </div>
+
+    <div class="lab-footer-row ctor-acciones">
+      <p class="lab-freshness" id="ctor-freshness"></p>
+      <div class="ctor-botones">
+        <button type="button" class="btn-export-mini" id="ctor-png">🖼 PNG</button>
+        <button type="button" class="btn-export-mini" id="ctor-csv">⬇ CSV</button>
+        <button type="button" class="btn-export-mini" id="ctor-share">🔗 Copiar enlace</button>
+      </div>
+    </div>
+
+    <p class="lab-disclaimer">
+      Las series se muestran en su frecuencia y unidad original salvo que elijas otra cosa.
+      Al combinar series de distinta frecuencia (diarias y mensuales), los puntos se conectan
+      salteando fechas sin dato. Índice 100 y Variación % se calculan sobre el rango visible.
+      <strong>Var. % interanual</strong> lleva todas las series a una unidad comparable (% contra
+      el mismo período del año anterior): los índices y niveles se comparan contra un año atrás,
+      las variaciones mensuales (ej. IPC) se componen 12 meses, y las tasas ya expresadas en %
+      (BADLAR, desocupación) se muestran tal cual. Para comparar series nominales con precios
+      (ej. salarios vs. IPC), usá este modo.
+    </p>
+  </section>
+
+  <!-- Footer -->
+  <footer id="fuentes">
+    <div class="footer-inner">
+      <div class="footer-logo">Macro<span>Ar</span></div>
+      <p class="footer-desc">Visualización de datos macroeconómicos de Argentina.</p>
+      <div class="footer-links">
+        <a href="/laboratorio">Laboratorio</a>
+        <a href="/constructor">Constructor</a>
+        <a href="/contacto">Contacto</a>
+        <a href="https://www.bcra.gob.ar" target="_blank">BCRA</a>
+        <a href="https://apis.datos.gob.ar/series" target="_blank">datos.gob.ar</a>
+        <a href="https://www.indec.gob.ar" target="_blank">INDEC</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/lib.js"></script>
+  <script src="/app.js"></script>
+  <script src="/constructor.js"></script>
+</body>
+</html>

@@ -1,0 +1,217 @@
+11<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PREVIEW — MacroAr estilo consultora</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#22384e;        /* azul petróleo de titulares */
+    --navy:#1c3c63;
+    --celeste:#74ACDF;
+    --celeste-dark:#5a96cf;
+    --sol:#F6B40E;
+    --bg:#ffffff;
+    --bg-soft:#f5f7f9;
+    --dark:#16283c;       /* banda oscura */
+    --muted:#5b6675;
+    --border:#e5eaef;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:'Inter',sans-serif;color:var(--ink);background:var(--bg)}
+  .wrap{max-width:1200px;margin:0 auto;padding:0 2rem}
+
+  /* ── Navbar clara ── */
+  .nav{background:#fff;position:sticky;top:0;z-index:50;box-shadow:0 1px 0 var(--border)}
+  .nav-in{max-width:1200px;margin:0 auto;padding:0 2rem;height:88px;display:flex;align-items:center;justify-content:space-between}
+  .logo{font-family:'Poppins',sans-serif;font-weight:800;font-size:1.55rem;letter-spacing:-.5px;text-decoration:none}
+  .logo .m{color:var(--celeste-dark)} .logo .ar{color:var(--ink)}
+  .logo small{display:block;font-family:'Inter',sans-serif;font-weight:600;font-size:.55rem;letter-spacing:2.5px;color:var(--muted);margin-top:1px}
+  .links{display:flex;gap:2.4rem;align-items:center}
+  .links a{color:var(--ink);text-decoration:none;font-size:.95rem;font-weight:500}
+  .links a:hover{color:var(--celeste-dark)}
+  .links a.cta{background:var(--ink);color:#fff;padding:.6rem 1.3rem;border-radius:6px;font-size:.88rem}
+
+  /* ── Hero claro con formas diagonales ── */
+  .hero{position:relative;overflow:hidden;background:linear-gradient(180deg,#fbfcfd 0%,#fff 100%);min-height:640px;display:flex;align-items:center}
+  .hero-in{max-width:1200px;margin:0 auto;padding:5rem 2rem;position:relative;z-index:2;width:100%}
+  .eyebrow{display:flex;align-items:center;gap:.6rem;color:var(--celeste-dark);font-size:.78rem;font-weight:600;letter-spacing:2.5px;text-transform:uppercase;margin-bottom:1.6rem}
+  .eyebrow::before{content:"";width:34px;height:2px;background:var(--celeste-dark)}
+  .hero h1{font-family:'Poppins',sans-serif;font-weight:600;font-size:4.2rem;line-height:1.12;letter-spacing:-1px;max-width:620px}
+  .hero p.sub{margin-top:1.8rem;max-width:520px;font-size:1.05rem;line-height:1.75;color:var(--muted)}
+  .hero-ctas{margin-top:2.4rem;display:flex;gap:1rem}
+  .btn-a{background:var(--ink);color:#fff;text-decoration:none;padding:.85rem 1.7rem;border-radius:6px;font-weight:600;font-size:.95rem}
+  .btn-b{color:var(--ink);text-decoration:none;padding:.85rem 1.4rem;font-weight:600;font-size:.95rem;display:flex;align-items:center;gap:.5rem}
+  .btn-b::after{content:"→"}
+
+  /* formas diagonales a la derecha (firma visual tipo consultora) */
+  .shapes{position:absolute;right:-60px;top:0;bottom:0;width:46%;z-index:1;pointer-events:none}
+  .sh{position:absolute;border-radius:70px;transform:rotate(24deg)}
+  .sh-celeste{width:380px;height:1100px;right:-40px;top:-220px;background:var(--celeste);
+    background-image:radial-gradient(rgba(255,255,255,.4) 1.6px,transparent 1.6px);background-size:16px 16px}
+  .sh-navy{width:150px;height:760px;right:330px;top:120px;background:var(--ink)}
+  .sh-sol{width:90px;height:420px;right:470px;top:380px;background:var(--sol)}
+  .sh-line{width:14px;height:300px;right:300px;top:-60px;background:#e8edf2;border-radius:10px}
+
+  /* ── Cinta de indicadores (consultora data strip) ── */
+  .strip{background:#fff;border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
+  .strip-in{max-width:1200px;margin:0 auto;padding:0 2rem;display:grid;grid-template-columns:repeat(4,1fr)}
+  .stat{padding:1.9rem 1.6rem;border-right:1px solid var(--border)}
+  .stat:first-child{padding-left:0}.stat:last-child{border-right:none}
+  .stat .k{font-size:.72rem;font-weight:600;letter-spacing:1.6px;text-transform:uppercase;color:var(--muted)}
+  .stat .v{font-family:'Poppins',sans-serif;font-weight:700;font-size:2rem;color:var(--ink);margin-top:.45rem}
+  .stat .v span{font-size:.95rem;font-weight:500;color:var(--muted);margin-left:.3rem}
+  .stat .d{font-size:.8rem;font-weight:600;margin-top:.3rem}
+  .d.up{color:#0a8a5f}.d.down{color:#c2403c}
+
+  /* ── Banda oscura: Laboratorio ── */
+  .band{background:var(--dark);color:#fff;padding:5.5rem 0}
+  .band-in{max-width:1200px;margin:0 auto;padding:0 2rem;display:grid;grid-template-columns:1.1fr 1fr;gap:4rem;align-items:center}
+  .band .eyebrow{color:var(--celeste)} .band .eyebrow::before{background:var(--celeste)}
+  .band h2{font-family:'Poppins',sans-serif;font-weight:600;font-size:2.6rem;line-height:1.2;letter-spacing:-.5px}
+  .band p{margin-top:1.3rem;color:#b9c6d4;line-height:1.75;font-size:1rem;max-width:480px}
+  .band .btn-ghost{display:inline-block;margin-top:2rem;color:#fff;border:1px solid rgba(255,255,255,.35);text-decoration:none;padding:.8rem 1.6rem;border-radius:6px;font-weight:600;font-size:.92rem}
+  .band .btn-ghost:hover{border-color:var(--celeste);color:var(--celeste)}
+  .band-card{background:#1f3954;border:1px solid rgba(255,255,255,.08);border-radius:14px;padding:1.8rem;box-shadow:0 24px 60px rgba(0,0,0,.35)}
+  .band-card .t{font-size:.8rem;color:#9fb6cc;margin-bottom:1rem}
+  .band-card svg{width:100%;height:190px}
+  .band-card .r{margin-top:1rem;font-size:.86rem;color:#dbe7f2;border-left:3px solid var(--celeste);padding-left:.8rem;line-height:1.6}
+
+  /* ── Sección publicaciones / indicadores ── */
+  .sec{padding:5.5rem 0;background:var(--bg-soft)}
+  .sec-head{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:2.6rem}
+  .sec h2{font-family:'Poppins',sans-serif;font-weight:600;font-size:2.2rem;letter-spacing:-.5px}
+  .sec-head a{color:var(--celeste-dark);text-decoration:none;font-weight:600;font-size:.92rem}
+  .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:1.6rem}
+  .card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:1.7rem;transition:box-shadow .2s, transform .2s}
+  .card:hover{box-shadow:0 14px 40px rgba(34,56,78,.10);transform:translateY(-3px)}
+  .card .cat{font-size:.7rem;font-weight:600;letter-spacing:1.8px;text-transform:uppercase;color:var(--celeste-dark)}
+  .card h3{font-family:'Poppins',sans-serif;font-weight:600;font-size:1.12rem;margin:.7rem 0 1.1rem;color:var(--ink)}
+  .card svg{width:100%;height:90px}
+  .card .meta{display:flex;justify-content:space-between;margin-top:1rem;font-size:.82rem;color:var(--muted)}
+  .card .val{font-weight:700;color:var(--ink)}
+
+  /* ── Fuentes ── */
+  .fuentes{background:#fff;padding:3.4rem 0;border-top:1px solid var(--border)}
+  .fuentes-in{max-width:1200px;margin:0 auto;padding:0 2rem;display:flex;align-items:center;justify-content:space-between;gap:2rem}
+  .fuentes .t{font-size:.78rem;letter-spacing:2px;text-transform:uppercase;color:var(--muted);font-weight:600}
+  .flogos{display:flex;gap:3.2rem;align-items:center}
+  .flogos span{font-family:'Poppins',sans-serif;font-weight:700;font-size:1.05rem;color:#9aa9b8}
+
+  /* ── Footer ── */
+  footer{background:var(--dark);color:#b9c6d4;padding:3.6rem 0}
+  .f-in{max-width:1200px;margin:0 auto;padding:0 2rem;display:flex;justify-content:space-between;align-items:center}
+  .f-in .logo .ar{color:#fff}
+  .f-links{display:flex;gap:2rem}
+  .f-links a{color:#b9c6d4;text-decoration:none;font-size:.88rem}
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-in">
+    <a class="logo" href="#"><span class="m">Macro</span><span class="ar">Ar</span><small>CENTRO DE DATOS MACROECONÓMICOS</small></a>
+    <div class="links">
+      <a href="#">Indicadores</a>
+      <a href="#">Laboratorio</a>
+      <a href="#">Datos</a>
+      <a href="#">Contacto</a>
+      <a class="cta" href="#">Explorar datos</a>
+    </div>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="shapes">
+    <div class="sh sh-line"></div>
+    <div class="sh sh-sol"></div>
+    <div class="sh sh-navy"></div>
+    <div class="sh sh-celeste"></div>
+  </div>
+  <div class="hero-in">
+    <div class="eyebrow">Análisis macroeconómico de Argentina</div>
+    <h1>Los datos de la economía, con rigor y en tiempo real</h1>
+    <p class="sub">Seguimos los principales indicadores de la macro argentina —dólar, inflación, riesgo país, actividad— directo de las fuentes oficiales, con herramientas de análisis abiertas y gratuitas.</p>
+    <div class="hero-ctas">
+      <a class="btn-a" href="#">Ver indicadores</a>
+      <a class="btn-b" href="#">Probar el Laboratorio</a>
+    </div>
+  </div>
+</section>
+
+<div class="strip">
+  <div class="strip-in">
+    <div class="stat"><div class="k">Dólar oficial</div><div class="v">$1.429<span>/USD</span></div><div class="d up">▲ 0,4% semanal</div></div>
+    <div class="stat"><div class="k">Inflación mensual</div><div class="v">2,58<span>%</span></div><div class="d down">▼ vs. mes anterior</div></div>
+    <div class="stat"><div class="k">Riesgo país</div><div class="v">488<span>pb</span></div><div class="d down">▼ 12 pb</div></div>
+    <div class="stat"><div class="k">Reservas BCRA</div><div class="v">48.362<span>M USD</span></div><div class="d up">▲ 1,2% mensual</div></div>
+  </div>
+</div>
+
+<section class="band">
+  <div class="band-in">
+    <div>
+      <div class="eyebrow">Análisis avanzado</div>
+      <h2>Laboratorio de correlaciones y regresiones</h2>
+      <p>Cruzá dos indicadores y obtené el análisis completo: correlación, lead/lag, regresión MCO con ANOVA y significatividad estadística. Compartí cada hallazgo con un link.</p>
+      <a class="btn-ghost" href="#">— Conocé el Laboratorio</a>
+    </div>
+    <div class="band-card">
+      <div class="t">Dólar Blue vs. Inflación Mensual · variación % · 112 meses</div>
+      <svg viewBox="0 0 400 190" preserveAspectRatio="none">
+        <polyline points="0,150 40,140 80,148 120,120 160,128 200,90 240,100 280,60 320,75 360,40 400,52" fill="none" stroke="#74ACDF" stroke-width="3"/>
+        <polyline points="0,160 40,155 80,150 120,142 160,135 200,120 240,118 280,95 320,88 360,70 400,66" fill="none" stroke="#F6B40E" stroke-width="3"/>
+      </svg>
+      <div class="r">En los 112 meses en común, la correlación es moderada positiva (r = 0.54). El blue tendió a moverse ~1 mes antes.</div>
+    </div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Indicadores destacados</h2>
+      <a href="#">Ver catálogo completo →</a>
+    </div>
+    <div class="cards">
+      <div class="card">
+        <div class="cat">Mercado cambiario</div>
+        <h3>Tipo de Cambio Oficial</h3>
+        <svg viewBox="0 0 300 90" preserveAspectRatio="none"><polyline points="0,80 30,78 60,75 90,70 120,68 150,60 180,55 210,42 240,35 270,20 300,12" fill="none" stroke="#74ACDF" stroke-width="2.5"/></svg>
+        <div class="meta"><span>Último: hoy</span><span class="val">$1.429</span></div>
+      </div>
+      <div class="card">
+        <div class="cat">Precios</div>
+        <h3>Inflación Interanual (IPC)</h3>
+        <svg viewBox="0 0 300 90" preserveAspectRatio="none"><polyline points="0,15 30,12 60,20 90,30 120,42 150,50 180,58 210,64 240,70 270,73 300,75" fill="none" stroke="#c2403c" stroke-width="2.5"/></svg>
+        <div class="meta"><span>Último: abr 2026</span><span class="val">32,4%</span></div>
+      </div>
+      <div class="card">
+        <div class="cat">Mercado de capitales</div>
+        <h3>Riesgo País (EMBI+)</h3>
+        <svg viewBox="0 0 300 90" preserveAspectRatio="none"><polyline points="0,20 30,28 60,22 90,40 120,38 150,52 180,48 210,60 240,66 270,62 300,70" fill="none" stroke="#22384e" stroke-width="2.5"/></svg>
+        <div class="meta"><span>Último: hoy</span><span class="val">488 pb</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="fuentes">
+  <div class="fuentes-in">
+    <div class="t">Datos directos de fuentes oficiales</div>
+    <div class="flogos"><span>BCRA</span><span>INDEC</span><span>UTDT</span><span>BYMA</span><span>datos.gob.ar</span></div>
+  </div>
+</div>
+
+<footer>
+  <div class="f-in">
+    <a class="logo" href="#"><span class="m">Macro</span><span class="ar">Ar</span></a>
+    <div class="f-links"><a href="#">Indicadores</a><a href="#">Laboratorio</a><a href="#">Contacto</a></div>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <style>
+    doc-page:not(:defined) { visibility: hidden; }
+    body { margin: 0; }
+    a { color: #2f6cb3; }
+    a:hover { color: #1e3a5f; }
+  </style>
+</helmet>
+<x-import component-from-global-scope="doc-page" from="./doc-page.js" size="letter" orientation="portrait" margin="0" hint-size="100%,1400px">
+
+  <!-- ===================== PORTADA ===================== -->
+  <sc-if value="{{ showCover }}" hint-placeholder-val="{{ true }}">
+  <div data-screen-label="Portada" style="position: relative; height: 11in; overflow: hidden; background: linear-gradient(180deg, #eef4f8 0%, #f7fafc 60%, #ffffff 100%); break-after: page;">
+    <!-- formas diagonales -->
+    <div style="position: absolute; right: -150px; top: 200px; width: 260px; height: 1100px; background: #7da9d8; border-radius: 130px; transform: rotate(24deg); background-image: radial-gradient(rgba(255,255,255,0.55) 2.5px, transparent 2.5px); background-size: 26px 26px;"></div>
+    <div style="position: absolute; right: 60px; top: 180px; width: 130px; height: 950px; background: #1e3a5f; border-radius: 65px; transform: rotate(24deg);"></div>
+    <div style="position: absolute; top: 179px; width: 56px; height: 950px; background: #f0b429; border-radius: 28px; transform: rotate(24deg); left: 585px"></div>
+
+    <!-- contenido de portada -->
+    <div style="position: relative; padding: 0.9in 0.9in 0;">
+      <div style="font-family: Arial, Helvetica, sans-serif; font-size: 30px; font-weight: 800; letter-spacing: -0.5px;"><span style="color: #3f7cbf;">Macro</span><span style="color: #1e3a5f;">Ar</span></div>
+
+      <div style="display: flex; align-items: center; gap: 12px; margin-top: 1.5in;">
+        <div style="width: 34px; height: 3px; background: #3f7cbf; border-radius: 2px;"></div>
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 3px; color: #3f7cbf;">INFORME DE CONSULTORÍA</div>
+      </div>
+
+      <h1 style="font-family: Arial, Helvetica, sans-serif; font-size: 44px; line-height: 1.15; font-weight: 800; color: #1e3a5f; margin: 18px 0 0; max-width: 6in;">Panorama cambiario e inflacionario — Julio 2026</h1>
+    </div>
+
+    <div style="position: absolute; left: 0.9in; bottom: 1.1in; width: 408px; height: 115px">
+      <div style="height: 1px; background: #c9d6e2; margin-bottom: 22px;"></div>
+      <div style="display: grid; gap: 10px; font-family: Arial, Helvetica, sans-serif; font-size: 14.5px; color: #44586e;">
+        <div><strong style="color: #1e3a5f;">Cliente:</strong> Cliente Demo</div>
+        <div><strong style="color: #1e3a5f;">Preparado por:</strong> MacroAr</div>
+        <div><strong style="color: #1e3a5f;">Fecha:</strong> 13/07/2026</div>
+        <div><strong style="color: #1e3a5f;">Período analizado:</strong> Julio 2026</div>
+      </div>
+    </div>
+  </div>
+  </sc-if>
+
+  <!-- ===================== CUERPO ===================== -->
+  <div data-screen-label="Informe" style="padding: 0.75in 0.9in 0.9in; font-family: Arial, Helvetica, sans-serif; color: #33414f; font-size: 14.5px; line-height: 1.65;">
+
+    <!-- cabecera del documento -->
+    <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 24px;">
+      <div>
+        <div style="font-size: 12.5px; font-weight: 700; letter-spacing: 2.5px; color: #3f7cbf;">INFORME DE CONSULTORÍA</div>
+        <div style="font-size: 12.5px; color: #8296a9; margin-top: 4px;">13/07/2026 · Panorama cambiario e inflacionario</div>
+      </div>
+      <div style="font-size: 19px; font-weight: 800;"><span style="color: #3f7cbf;">Macro</span><span style="color: #1e3a5f;">Ar</span></div>
+    </div>
+    <div style="display: flex; height: 6px; border-radius: 3px; overflow: hidden; margin: 16px 0 34px;">
+      <div style="flex: 2; background: #dde4ea;"></div>
+      <div style="flex: 2; background: #6fa8dc;"></div>
+      <div style="flex: 2; background: #f0b429;"></div>
+      <div style="flex: 2; background: #6fa8dc;"></div>
+      <div style="flex: 2; background: #1e3a5f;"></div>
+    </div>
+
+    <!-- Resumen ejecutivo -->
+    <h2 style="font-size: 22px; font-weight: 800; color: #1e3a5f; margin: 0 0 12px;">Resumen ejecutivo</h2>
+    <p style="margin: 0 0 14px;">El dólar oficial y el blue se mantienen prácticamente pegados ($1.513 vs. $1.510), con la brecha cambiaria en mínimos históricos. La inflación mensual de mayo se ubicó en 2,15%, sostenida. El riesgo país sigue bajando (402 puntos, -0,5% en la última semana) y las reservas se mantienen estables en torno a los US$48.273 M.</p>
+    <ul style="margin: 0 0 34px; padding-left: 22px; display: grid; gap: 8px;">
+      <li><strong style="color: #1e3a5f;">Hallazgo principal:</strong> brecha cambiaria casi nula — el oficial y el blue cotizan a la par.</li>
+      <li><strong style="color: #1e3a5f;">Riesgo o alerta principal:</strong> ninguna señal de estrés cambiario en el corto plazo, pero la inflación mensual no perfora el 2%.</li>
+      <li><strong style="color: #1e3a5f;">Recomendación principal:</strong> monitorear el rebote intradiario del dólar reportado hoy por los medios, que borró la suba acumulada de julio.</li>
+    </ul>
+
+    <!-- 1. Contexto -->
+    <h2 style="font-size: 20px; font-weight: 800; color: #1e3a5f; margin: 0 0 10px;">1. Contexto</h2>
+    <p style="margin: 0 0 34px;">Este informe cubre julio 2026, con foco en el mercado cambiario y la dinámica de precios, a pedido del cliente. El alcance no incluye un análisis fiscal detallado.</p>
+
+    <!-- 2. Diagnóstico -->
+    <h2 style="font-size: 20px; font-weight: 800; color: #1e3a5f; margin: 0 0 14px;">2. Diagnóstico</h2>
+    <h3 style="font-size: 13.5px; font-weight: 700; letter-spacing: 2px; color: #3f7cbf; margin: 0 0 10px;">2.1 MERCADO CAMBIARIO</h3>
+    <p style="margin: 0 0 18px;">El dólar oficial cerró el 13/07 en <strong>$1.513</strong>, con el blue apenas por debajo en <strong>$1.510</strong> — la brecha es de ~0,2%, virtualmente nula. Según cobertura de Infobae del mismo día, el dólar "bajó por segundo día y borró toda la suba que acumulaba en julio", lo que confirma una dinámica de estabilización más que de tensión.</p>
+
+    <table style="width: 100%; border-collapse: collapse; font-size: 13.5px; margin: 0 0 30px;">
+      <thead>
+        <tr style="background: #1e3a5f; color: #ffffff; text-align: left;">
+          <th style="padding: 11px 14px; font-weight: 700;">Indicador</th>
+          <th style="padding: 11px 14px; font-weight: 700;">Valor actual</th>
+          <th style="padding: 11px 14px; font-weight: 700;">Fecha</th>
+          <th style="padding: 11px 14px; font-weight: 700;">Fuente</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom: 1px solid #e3e9ef;">
+          <td style="padding: 10px 14px;">Dólar oficial</td>
+          <td style="padding: 10px 14px;">$1.513</td>
+          <td style="padding: 10px 14px;">13/07/2026</td>
+          <td style="padding: 10px 14px;">Bluelytics</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #e3e9ef; background: #f5f8fa;">
+          <td style="padding: 10px 14px;">Dólar blue</td>
+          <td style="padding: 10px 14px;">$1.510</td>
+          <td style="padding: 10px 14px;">13/07/2026</td>
+          <td style="padding: 10px 14px;">Bluelytics</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #e3e9ef;">
+          <td style="padding: 10px 14px;">Riesgo país</td>
+          <td style="padding: 10px 14px;">402 pb (-0,5% semanal)</td>
+          <td style="padding: 10px 14px;">10/07/2026</td>
+          <td style="padding: 10px 14px;">ArgentinaDatos</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #e3e9ef; background: #f5f8fa;">
+          <td style="padding: 10px 14px;">Reservas BCRA</td>
+          <td style="padding: 10px 14px;">US$48.273 M (+0,07%)</td>
+          <td style="padding: 10px 14px;">06/07/2026</td>
+          <td style="padding: 10px 14px;">BCRA v4.0</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3 style="font-size: 13.5px; font-weight: 700; letter-spacing: 2px; color: #3f7cbf; margin: 0 0 10px;">2.2 PRECIOS</h3>
+    <p style="margin: 0 0 34px;">La inflación mensual (INDEC) del último dato disponible (mayo 2026) fue <strong>2,15%</strong>, en línea con los meses previos — no hay señales de aceleración ni de desinflación marcada.</p>
+
+    <!-- 3. Hallazgos -->
+    <h2 style="font-size: 20px; font-weight: 800; color: #1e3a5f; margin: 0 0 10px;">3. Hallazgos</h2>
+    <ol style="margin: 0 0 34px; padding-left: 22px; display: grid; gap: 8px;">
+      <li>La brecha cambiaria oficial-blue es prácticamente nula, señal de baja demanda de cobertura.</li>
+      <li>El riesgo país continúa su tendencia bajista, ya en 402 pb.</li>
+      <li>Las reservas se mantienen estables, sin variación significativa semana a semana.</li>
+      <li>La inflación mensual no logra perforar el 2%, manteniendo el nivel de mayo.</li>
+    </ol>
+
+    <!-- 4. Conclusiones -->
+    <h2 style="font-size: 20px; font-weight: 800; color: #1e3a5f; margin: 0 0 10px;">4. Conclusiones y recomendaciones</h2>
+    <ul style="margin: 0 0 26px; padding-left: 22px; display: grid; gap: 10px;">
+      <li><strong style="color: #1e3a5f;">Recomendación 1:</strong> mantener el posicionamiento actual en pesos — sin señales de estrés cambiario que justifiquen cobertura adicional. <em style="color: #3f7cbf;">Justificación:</em> brecha nula y reservas estables.</li>
+      <li><strong style="color: #1e3a5f;">Recomendación 2:</strong> seguir de cerca el próximo dato de inflación (junio 2026) para confirmar si el 2,15% de mayo es piso o techo. <em style="color: #3f7cbf;">Justificación:</em> la inflación mensual lleva varios meses sin ceder por debajo del 2%.</li>
+    </ul>
+
+    <h3 style="font-size: 13.5px; font-weight: 700; letter-spacing: 2px; color: #3f7cbf; margin: 0 0 10px;">PRÓXIMOS PASOS</h3>
+    <ul style="margin: 0 0 34px; padding-left: 22px; display: grid; gap: 8px; list-style: none;">
+      <li style="display: flex; gap: 10px; align-items: baseline;"><span style="display: inline-block; width: 13px; height: 13px; border: 2px solid #6fa8dc; border-radius: 4px; flex: none; transform: translateY(2px);"></span>Revisar el dato de inflación de junio apenas lo publique INDEC.</li>
+      <li style="display: flex; gap: 10px; align-items: baseline;"><span style="display: inline-block; width: 13px; height: 13px; border: 2px solid #6fa8dc; border-radius: 4px; flex: none; transform: translateY(2px);"></span>Actualizar este informe si el riesgo país corta la tendencia bajista.</li>
+    </ul>
+
+    <!-- Anexos -->
+    <sc-if value="{{ showAnexos }}" hint-placeholder-val="{{ true }}">
+    <div>
+      <div style="height: 1px; background: #dde4ea; margin: 0 0 30px;"></div>
+
+      <h2 style="font-size: 18px; font-weight: 800; color: #1e3a5f; margin: 0 0 10px;">Anexo A — Metodología</h2>
+      <p style="margin: 0 0 30px;">Los datos de dólar oficial/blue se toman de Bluelytics (cotización de venta), riesgo país de ArgentinaDatos (EMBI+), reservas de la API v4.0 del BCRA, e inflación mensual del IPC de INDEC vía datos.gob.ar. Las noticias citadas se recolectan de RSS de medios (Ámbito, Infobae) vía <code style="font-family: Menlo, Consolas, monospace; font-size: 13px; background: #eef3f8; padding: 2px 6px; border-radius: 4px; color: #1e3a5f;">fetch_noticias.py</code>.</p>
+
+      <h2 style="font-size: 18px; font-weight: 800; color: #1e3a5f; margin: 0 0 14px;">Anexo B — Fuentes de datos</h2>
+      <table style="width: 100%; border-collapse: collapse; font-size: 13.5px; margin: 0 0 30px;">
+        <thead>
+          <tr style="background: #1e3a5f; color: #ffffff; text-align: left;">
+            <th style="padding: 11px 14px; font-weight: 700;">Fuente</th>
+            <th style="padding: 11px 14px; font-weight: 700;">Qué provee</th>
+            <th style="padding: 11px 14px; font-weight: 700;">Frecuencia</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="border-bottom: 1px solid #e3e9ef;">
+            <td style="padding: 10px 14px;">BCRA</td>
+            <td style="padding: 10px 14px;">Reservas, tipo de cambio mayorista</td>
+            <td style="padding: 10px 14px;">Diaria</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #e3e9ef; background: #f5f8fa;">
+            <td style="padding: 10px 14px;">INDEC</td>
+            <td style="padding: 10px 14px;">IPC (inflación)</td>
+            <td style="padding: 10px 14px;">Mensual</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #e3e9ef;">
+            <td style="padding: 10px 14px;">Bluelytics</td>
+            <td style="padding: 10px 14px;">Dólar oficial y blue</td>
+            <td style="padding: 10px 14px;">Diaria</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #e3e9ef; background: #f5f8fa;">
+            <td style="padding: 10px 14px;">ArgentinaDatos</td>
+            <td style="padding: 10px 14px;">Riesgo país (EMBI+)</td>
+            <td style="padding: 10px 14px;">Diaria</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #e3e9ef;">
+            <td style="padding: 10px 14px;">Ámbito / Infobae (RSS)</td>
+            <td style="padding: 10px 14px;">Noticias económicas</td>
+            <td style="padding: 10px 14px;">Diaria</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h2 style="font-size: 18px; font-weight: 800; color: #1e3a5f; margin: 0 0 10px;">Anexo C — Notas y limitaciones</h2>
+      <p style="margin: 0;">Este es un informe de demostración generado manualmente (sin usar la API de Claude) para verificar el pipeline de plantilla → PDF armado en esta sesión. Los datos son reales al 13/07/2026, pero el análisis y las recomendaciones son ilustrativos.</p>
+    </div>
+    </sc-if>
+
+    <!-- pie -->
+    <div style="display: flex; justify-content: space-between; gap: 24px; margin-top: 44px; padding-top: 14px; border-top: 1px solid #dde4ea; font-size: 11.5px; color: #8296a9;">
+      <div>MacroAr — Informe confidencial</div>
+      <div>Panorama cambiario e inflacionario · Julio 2026</div>
+    </div>
+  </div>
+
+</x-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{
+  &quot;showCover&quot;: { &quot;editor&quot;: &quot;boolean&quot;, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;, &quot;section&quot;: &quot;Contenido&quot; },
+  &quot;showAnexos&quot;: { &quot;editor&quot;: &quot;boolean&quot;, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;, &quot;section&quot;: &quot;Contenido&quot; }
+}">
+class Component extends DCLogic {
+  renderVals() {
+    return {
+      showCover: this.props.showCover ?? true,
+      showAnexos: this.props.showAnexos ?? true,
+    };
+  }
+}
+</script>
+</body>
+</html>

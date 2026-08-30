@@ -1250,3 +1250,114 @@ html, body { overflow-x: hidden; }
   .strip .hero-stat { flex: 1 1 45%; border-right: none; border-bottom: 1px solid var(--border); padding: 1.2rem 1rem; }
   .section-header-row { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
 }
+
+/* ─── Constructor de gráficos (/constructor) ──────────────────────────────── */
+.ctor-titulo-field { max-width: 480px; margin-bottom: 1.25rem; }
+.ctor-titulo-field input[type="text"] {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95rem;
+  padding: 0.6rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--text);
+  outline: none;
+  width: 100%;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.ctor-titulo-field input[type="text"]:focus { border-color: var(--teal); box-shadow: 0 0 0 3px rgba(116,172,223,0.18); }
+
+.ctor-series { display: flex; flex-direction: column; gap: 0.6rem; margin-bottom: 0.75rem; }
+.ctor-series-row {
+  display: grid;
+  grid-template-columns: minmax(180px, 1fr) 42px 110px 110px 36px;
+  gap: 0.6rem;
+  align-items: center;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.6rem 0.75rem;
+}
+.ctor-series-row select {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.88rem;
+  padding: 0.5rem 0.55rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--text);
+  outline: none;
+  width: 100%;
+  min-width: 0;
+}
+.ctor-series-row select:focus { border-color: var(--teal); box-shadow: 0 0 0 3px rgba(116,172,223,0.18); }
+.ctor-series-row input[type="color"] {
+  width: 38px;
+  height: 36px;
+  padding: 2px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #fff;
+  cursor: pointer;
+}
+.ctor-quitar {
+  border: 1px solid var(--border);
+  background: #fff;
+  color: var(--muted);
+  border-radius: 8px;
+  width: 34px;
+  height: 34px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background 0.12s, color 0.12s, border-color 0.12s;
+}
+.ctor-quitar:hover:not(:disabled) { background: #fef2f2; color: #c2403c; border-color: #f3c1bf; }
+.ctor-quitar:disabled { opacity: 0.35; cursor: default; }
+
+.ctor-add { margin-bottom: 1.5rem; }
+.ctor-add:disabled { opacity: 0.5; cursor: default; }
+
+.ctor-globales .lab-field input[type="date"] {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+  padding: 0.55rem 0.6rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--text);
+  outline: none;
+  width: 100%;
+  min-width: 0;
+}
+.ctor-globales .lab-field input[type="date"]:focus { border-color: var(--teal); box-shadow: 0 0 0 3px rgba(116,172,223,0.18); }
+
+.ctor-botones { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+
+@media (max-width: 640px) {
+  .ctor-series-row {
+    grid-template-columns: 1fr 42px 36px;
+    grid-template-areas:
+      "serie color quitar"
+      "tipo  tipo  eje";
+  }
+  .ctor-series-row select[data-campo="id"] { grid-area: serie; }
+  .ctor-series-row input[type="color"] { grid-area: color; }
+  .ctor-series-row select[data-campo="tipo"] { grid-area: tipo; }
+  .ctor-series-row select[data-campo="eje"] { grid-area: eje; width: auto; }
+  .ctor-quitar { grid-area: quitar; }
+  .ctor-acciones { flex-direction: column; align-items: flex-start; gap: 0.6rem; }
+}
+
+/* Panel avanzado de estilo del constructor */
+.ctor-avanzado { margin-bottom: 1.5rem; }
+.ctor-avanzado > summary {
+  cursor: pointer;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--navy);
+  padding: 0.5rem 0;
+  user-select: none;
+}
+.ctor-avanzado > summary:hover { color: var(--teal); }
+.ctor-avanzado[open] > summary { margin-bottom: 0.75rem; }
+.ctor-avanzado-grid { margin-bottom: 0; }

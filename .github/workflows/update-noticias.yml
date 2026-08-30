@@ -1,0 +1,42 @@
+name: Actualizar noticias económicas
+
+# Refresca data/noticias/{fuente}.json desde RSS de medios (Ámbito, Infobae,
+# Urgente24) y, para Página 12 (sin RSS funcional), parseando el JSON
+# embebido de su página de sección.
+# Se acumula histórico con merge/dedup por link (ver fetch_noticias.py).
+
+on:
+  schedule:
+    # Todos los días a las 11:00 UTC (08:00 ART)
+    - cron: '0 11 * * *'
+  workflow_dispatch:  # permite correrlo manualmente desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Traer noticias
+        run: python fetch_noticias.py
+
+      - name: Commitear si hay cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data/noticias/)" ]; then
+            git add data/noticias/
+            git commit -m "data: auto-update noticias económicas ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "Sin cambios en las noticias."
+          fi
