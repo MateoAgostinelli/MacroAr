@@ -690,23 +690,34 @@ async function fetchBcra(idVariable, dias) {
   const hasta = new Date();
   const desde = new Date();
   desde.setDate(hasta.getDate() - dias);
-  
+
   const format = (d) => {
     const y = d.getFullYear();
     const m = String(d.getMonth() + 1).padStart(2, '0');
     const day = String(d.getDate()).padStart(2, '0');
     return `${y}-${m}-${day}`;
   };
-  
-  const url = `https://api.bcra.gob.ar/estadisticas/v4.0/monetarias/${idVariable}?desde=${format(desde)}&hasta=${format(hasta)}`;
-  
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`BCRA HTTP ${res.status}`);
-  const json = await res.json();
-  
-  // En la API v4.0, el historial de datos viene dentro del array "detalle"
-  const detalle = json.results?.[0]?.detalle || [];
-  
+
+  // La API v4.0 del BCRA pagina: sin "limit" devuelve como máximo 1000
+  // registros por request (aunque "desde" sea mucho más viejo), y el propio
+  // "limit" tiene un tope duro de 3000 (pedir más devuelve 400). Para series
+  // diarias con varios años de historial (UVA, base monetaria, tasas) eso
+  // trunca en silencio los datos más antiguos si no se pagina con "offset".
+  const LIMIT = 3000;
+  const MAX_PAGINAS = 5; // cubre ~40.000 registros diarios — de sobra para cualquier serie del catálogo
+  let detalle = [];
+  for (let pagina = 0; pagina < MAX_PAGINAS; pagina++) {
+    const offset = pagina * LIMIT;
+    const url = `https://api.bcra.gob.ar/estadisticas/v4.0/monetarias/${idVariable}?desde=${format(desde)}&hasta=${format(hasta)}&limit=${LIMIT}&offset=${offset}`;
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`BCRA HTTP ${res.status}`);
+    const json = await res.json();
+    const pagina_detalle = json.results?.[0]?.detalle || [];
+    detalle = detalle.concat(pagina_detalle);
+    const total = json.metadata?.resultset?.count ?? detalle.length;
+    if (detalle.length >= total || pagina_detalle.length < LIMIT) break;
+  }
+
   return detalle
     .map(d => ({ fecha: d.fecha, valor: d.valor }))
     .sort((a, b) => a.fecha.localeCompare(b.fecha));
