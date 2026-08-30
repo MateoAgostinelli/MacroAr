@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Editor de informes — MacroAr</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilo-macroar.css">
+<script src="https://cdn.jsdelivr.net/npm/marked@12/lib/marked.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/turndown@7/dist/turndown.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/turndown-plugin-gfm@1/dist/turndown-plugin-gfm.js"></script>
+<style>
+  /* Solo para la UI del editor en pantalla — no toca estilo-macroar.css,
+     que es el que define cómo se ve el documento (y cómo se imprime). */
+  html, body { background: #dfe4ea; }
+  body { padding-bottom: 4rem; }
+
+  .editor-toolbar{
+    position: sticky; top: 0; z-index: 10;
+    display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem;
+    background: #16283c; color: #e8eef4;
+    padding: 0.6rem 1rem;
+    font-family: 'Inter', Arial, sans-serif;
+    font-size: 0.85rem;
+  }
+  .editor-toolbar .grupo{ display: flex; gap: 0.25rem; padding-right: 0.6rem; border-right: 1px solid rgba(255,255,255,.15); }
+  .editor-toolbar .grupo:last-child{ border-right: none; }
+  .editor-toolbar button, .editor-toolbar label.btn{
+    background: rgba(255,255,255,.08);
+    color: #e8eef4;
+    border: 1px solid rgba(255,255,255,.15);
+    border-radius: 5px;
+    padding: 0.4rem 0.65rem;
+    font-size: 0.82rem;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  .editor-toolbar button:hover, .editor-toolbar label.btn:hover{ background: rgba(255,255,255,.18); }
+  .editor-toolbar button.destacado{ background: #F6B40E; color: #16283c; border-color: #F6B40E; font-weight: 600; }
+  .editor-toolbar button.destacado:hover{ background: #ffc633; }
+  .editor-toolbar input[type=file]{ display: none; }
+  .editor-toolbar .archivo{ margin-left: auto; opacity: .75; font-size: 0.78rem; }
+
+  .editor-lienzo{ max-width: 210mm; margin: 2rem auto; box-shadow: 0 8px 30px rgba(0,0,0,.18); background: #fff; }
+
+  [contenteditable="true"]{ outline: none; }
+  [contenteditable="true"]:hover{ box-shadow: inset 0 0 0 1px rgba(116,172,223,.5); }
+  [contenteditable="true"]:focus{ box-shadow: inset 0 0 0 2px #74ACDF; }
+
+  @media print{
+    html, body{ background: #fff; }
+    .editor-toolbar{ display: none !important; }
+    .editor-lienzo{ box-shadow: none; margin: 0; max-width: none; }
+    [contenteditable="true"]:hover, [contenteditable="true"]:focus{ box-shadow: none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="editor-toolbar">
+  <div class="grupo">
+    <label class="btn" for="ed-cargar">📂 Abrir .md</label>
+    <input type="file" id="ed-cargar" accept=".md,.markdown">
+    <span class="archivo" id="ed-archivo">Sin archivo cargado — mostrando ejemplo en blanco</span>
+  </div>
+  <div class="grupo">
+    <button type="button" data-cmd="undo" title="Deshacer (Ctrl+Z)">↶</button>
+    <button type="button" data-cmd="redo" title="Rehacer (Ctrl+Y)">↷</button>
+  </div>
+  <div class="grupo">
+    <button type="button" data-cmd="bold" title="Negrita (Ctrl+B)"><strong>N</strong></button>
+    <button type="button" data-cmd="italic" title="Cursiva (Ctrl+I)"><em>C</em></button>
+  </div>
+  <div class="grupo">
+    <button type="button" data-block="h2">H2</button>
+    <button type="button" data-block="h3">H3</button>
+    <button type="button" data-block="p">Párrafo</button>
+  </div>
+  <div class="grupo">
+    <button type="button" data-cmd="insertUnorderedList" title="Lista con viñetas">• Lista</button>
+    <button type="button" data-cmd="insertOrderedList" title="Lista numerada">1. Lista</button>
+    <button type="button" id="ed-link" title="Insertar enlace">🔗</button>
+    <button type="button" id="ed-hr" title="Insertar separador">―</button>
+  </div>
+  <div class="grupo">
+    <button type="button" id="ed-tabla" title="Insertar tabla">▦ Tabla</button>
+    <button type="button" id="ed-fila" title="Agregar fila a la tabla más cercana">▦ +Fila</button>
+  </div>
+  <div class="grupo">
+    <button type="button" id="ed-md" title="Descargar el informe editado como Markdown">⬇ .md</button>
+    <button type="button" class="destacado" id="ed-pdf" title="Imprimir / Guardar como PDF">🖨 PDF</button>
+  </div>
+</div>
+
+<div class="editor-lienzo">
+  <div class="portada">
+    <div class="formas">
+      <div class="f f-celeste"></div>
+      <div class="f f-navy"></div>
+      <div class="f f-sol"></div>
+    </div>
+    <div class="logo"><span class="m">Macro</span>Ar</div>
+    <div>
+      <div class="eyebrow">Informe de consultoría</div>
+      <h1 id="ed-titulo" contenteditable="true">Título del informe</h1>
+    </div>
+    <div class="meta" id="ed-meta" contenteditable="true">
+      <div><strong>Cliente:</strong> Nombre del cliente</div>
+      <div><strong>Preparado por:</strong> MacroAr</div>
+      <div><strong>Fecha:</strong> DD/MM/AAAA</div>
+      <div><strong>Período analizado:</strong> Semana del DD/MM al DD/MM</div>
+    </div>
+  </div>
+
+  <div class="cabecera-fija">
+    <div class="franja">
+      <span></span><span></span><span></span><span></span><span></span><span></span>
+    </div>
+    <div class="cabecera-fila">
+      <div class="cabecera-titulo">
+        <div class="cat">Informe de consultoría</div>
+        <div class="fecha" id="ed-fecha-cab">DD/MM/AAAA</div>
+      </div>
+      <div class="cabecera-logo">
+        <div class="logo"><span class="m">Macro</span>Ar</div>
+        <div class="tagline">Análisis macroeconómico</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="cuerpo" id="ed-cuerpo" contenteditable="true">
+    <h2>Economía</h2>
+    <p>Cargá un informe generado con <code>python informes/generar_informe.py</code> (botón "Abrir .md") para editarlo acá, o escribí directamente sobre este ejemplo.</p>
+  </div>
+
+  <div class="pie-fijo">
+    <span>MacroAr — Informe confidencial</span>
+    <span id="ed-pie-titulo">Título del informe</span>
+  </div>
+</div>
+
+<script src="editor.js"></script>
+</body>
+</html>
