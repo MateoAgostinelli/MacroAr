@@ -29,6 +29,69 @@
   const hintZoom = document.getElementById('ctor-hint-zoom');
   if (!contSeries || !canvas) return;
 
+  // ── Tooltip arrastrable ──────────────────────────────────────────────────────
+  // El tooltip por defecto de Chart.js es semitransparente y sigue al mouse, así
+  // que a veces tapa justo la línea que se quiere leer. Se reemplaza por un div
+  // propio (fondo sólido, más legible) que además se puede arrastrar con el
+  // mouse (cursor de "manito") para sacarlo de en medio; el corrimiento elegido
+  // se mantiene mientras se sigue navegando el gráfico.
+  let tooltipOffset = { x: 0, y: 0 };
+  let arrastrandoTooltip = false;
+  let arrastreInicio = null;
+
+  document.addEventListener('mousemove', (e) => {
+    if (!arrastrandoTooltip) return;
+    tooltipOffset.x = arrastreInicio.offX + (e.clientX - arrastreInicio.x);
+    tooltipOffset.y = arrastreInicio.offY + (e.clientY - arrastreInicio.y);
+  });
+  document.addEventListener('mouseup', () => {
+    if (!arrastrandoTooltip) return;
+    arrastrandoTooltip = false;
+    const el = document.getElementById('ctor-tooltip-el');
+    if (el) el.style.cursor = 'grab';
+  });
+
+  function renderTooltipExterno(context) {
+    const { chart, tooltip } = context;
+    let el = document.getElementById('ctor-tooltip-el');
+    if (!el) {
+      el = document.createElement('div');
+      el.id = 'ctor-tooltip-el';
+      el.style.cssText = `
+        position:absolute; pointer-events:auto; z-index:20; top:0; left:0;
+        background:rgba(15,23,42,0.94); color:#fff; border-radius:8px;
+        padding:8px 11px; font-family:'Inter',Arial,sans-serif; font-size:12px;
+        line-height:1.55; cursor:grab; box-shadow:0 4px 14px rgba(0,0,0,.28);
+        white-space:nowrap;
+      `;
+      chart.canvas.parentNode.appendChild(el);
+      el.addEventListener('mousedown', (e) => {
+        arrastrandoTooltip = true;
+        arrastreInicio = { x: e.clientX, y: e.clientY, offX: tooltipOffset.x, offY: tooltipOffset.y };
+        el.style.cursor = 'grabbing';
+        e.preventDefault();
+      });
+    }
+
+    if (tooltip.opacity === 0) { el.style.opacity = '0'; return; }
+
+    let html = '';
+    (tooltip.title || []).forEach(t => {
+      html += `<div style="font-weight:600;margin-bottom:3px;">${t}</div>`;
+    });
+    tooltip.dataPoints.forEach((dp, i) => {
+      const color = dp.dataset.borderColor || dp.dataset.backgroundColor || '#fff';
+      const linea = (tooltip.body[i] && tooltip.body[i].lines[0]) || '';
+      html += `<div style="display:flex; align-items:center; gap:6px;">`
+        + `<span style="width:9px; height:9px; border-radius:2px; background:${color}; flex:none;"></span>`
+        + `<span>${linea}</span></div>`;
+    });
+    el.innerHTML = html;
+    el.style.opacity = '1';
+    el.style.left = (tooltip.caretX + tooltipOffset.x) + 'px';
+    el.style.top = (tooltip.caretY + tooltipOffset.y) + 'px';
+  }
+
   function mostrarResetZoomCtor() {
     if (hintZoom) { hintZoom.style.transition = 'opacity .4s'; hintZoom.style.opacity = '0'; }
   }
@@ -403,6 +466,10 @@
               text: inputTitulo.value.trim(),
               color: st.texto,
               font: { size: st.titleFont, weight: '600' },
+            },
+            tooltip: {
+              enabled: false,
+              external: renderTooltipExterno,
             },
             zoom: {
               zoom: {
