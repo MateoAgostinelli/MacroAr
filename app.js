@@ -1097,6 +1097,16 @@ function resetZoom(serieId) {
 function descargarPNG(serieId, titulo) {
   const chart = charts[serieId];
   if (!chart) return;
+
+  // Se exporta a mayor densidad de píxeles que la pantalla (no solo se
+  // agranda el canvas ya dibujado, se le pide a Chart.js que vuelva a
+  // trazar todo —líneas, texto— a más resolución), así se ve nítido si
+  // después se lo agranda o se lo inserta en un informe.
+  const ESCALA_EXPORT = 2;
+  const dprOriginal = chart.options.devicePixelRatio;
+  chart.options.devicePixelRatio = (dprOriginal || window.devicePixelRatio || 1) * ESCALA_EXPORT;
+  chart.resize();
+
   // Fondo blanco: el canvas es transparente por defecto y queda feo en PNG
   const canvas = chart.canvas;
   const tmp = document.createElement('canvas');
@@ -1112,6 +1122,11 @@ function descargarPNG(serieId, titulo) {
   link.download = `macroar-${slug}.png`;
   link.href = tmp.toDataURL('image/png');
   link.click();
+
+  // Restaurar la resolución normal de pantalla (si no, el gráfico queda
+  // pesado/lento de renderizar en cada interacción).
+  chart.options.devicePixelRatio = dprOriginal;
+  chart.resize();
 }
 
 
