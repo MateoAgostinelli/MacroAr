@@ -59,11 +59,16 @@
   [contenteditable="true"]:hover{ box-shadow: inset 0 0 0 1px rgba(116,172,223,.5); }
   [contenteditable="true"]:focus{ box-shadow: inset 0 0 0 2px #74ACDF; }
 
+  .cuerpo img{ cursor: pointer; }
+  .cuerpo img.ed-img-selected{ outline: 2px solid #74ACDF; outline-offset: 2px; }
+
   @media print{
     html, body{ background: #fff; }
     .editor-toolbar{ display: none !important; }
     .editor-lienzo{ box-shadow: none; margin: 0; max-width: none; }
     [contenteditable="true"]:hover, [contenteditable="true"]:focus{ box-shadow: none; }
+    .cuerpo img.ed-img-selected{ outline: none; }
+    #ed-img-toolbar{ display: none !important; }
     /* El margen lateral lo da SIEMPRE nuestro padding (arriba, para pantalla),
        nunca el @page de estilo-macroar.css — si el diálogo de impresión del
        navegador tiene "Márgenes: Ninguno" (guardado de una impresión previa

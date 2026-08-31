@@ -135,6 +135,147 @@
     lector.readAsDataURL(file);
   });
 
+  // ── Agrandar / achicar / mover la imagen insertada ──────────────────────────
+  // Al hacer clic sobre una imagen del cuerpo aparece un toolbar flotante con
+  // controles de tamaño (ancho en % del cuerpo, se mantiene la relación de
+  // aspecto) y de posición (sube/baja como bloque entero en el documento).
+  let imgSel = null;
+  let toolbarImg = null;
+
+  function crearToolbarImg() {
+    const tb = document.createElement('div');
+    tb.id = 'ed-img-toolbar';
+    tb.style.cssText = `
+      position:fixed; z-index:30; display:none; gap:2px;
+      background:#16283c; border-radius:8px; padding:4px;
+      box-shadow:0 4px 14px rgba(0,0,0,.28); font-family:'Inter',Arial,sans-serif;
+    `;
+    tb.innerHTML = `
+      <button type="button" data-act="achicar" title="Achicar">－</button>
+      <button type="button" data-act="agrandar" title="Agrandar">＋</button>
+      <button type="button" data-act="subir" title="Mover arriba">▲</button>
+      <button type="button" data-act="bajar" title="Mover abajo">▼</button>
+    `;
+    tb.querySelectorAll('button').forEach((b) => {
+      b.style.cssText = 'background:rgba(255,255,255,.1); border:none; color:#fff; width:28px; height:28px; border-radius:5px; cursor:pointer; font-size:14px; line-height:1;';
+      b.addEventListener('mousedown', (e) => e.preventDefault()); // no perder la imagen seleccionada
+      b.addEventListener('click', () => accionImg(b.dataset.act));
+    });
+    document.body.appendChild(tb);
+    return tb;
+  }
+
+  // Tirador en la esquina inferior derecha para redimensionar arrastrando con
+  // el mouse (además de los botones － / ＋, para ajuste fino directo).
+  let handleResize = null;
+  let arrastrandoResize = false;
+  let resizeInicio = null;
+
+  function crearHandleResize() {
+    const h = document.createElement('div');
+    h.id = 'ed-img-resize-handle';
+    h.style.cssText = `
+      position:fixed; z-index:31; display:none; width:14px; height:14px;
+      border-radius:3px; background:#74ACDF; border:2px solid #16283c;
+      cursor:nwse-resize;
+    `;
+    h.addEventListener('mousedown', (e) => {
+      if (!imgSel) return;
+      arrastrandoResize = true;
+      const r = imgSel.getBoundingClientRect();
+      resizeInicio = { x: e.clientX, anchoInicial: r.width, anchoCuerpo: elCuerpo.getBoundingClientRect().width };
+      e.preventDefault();
+      e.stopPropagation();
+    });
+    document.body.appendChild(h);
+    return h;
+  }
+
+  document.addEventListener('mousemove', (e) => {
+    if (!arrastrandoResize || !imgSel || !resizeInicio) return;
+    const nuevoAncho = Math.max(30, resizeInicio.anchoInicial + (e.clientX - resizeInicio.x));
+    const pct = Math.max(10, Math.min(100, (nuevoAncho / resizeInicio.anchoCuerpo) * 100));
+    imgSel.style.width = pct + '%';
+    imgSel.style.height = 'auto';
+    posicionarControlesImg();
+  });
+  document.addEventListener('mouseup', () => {
+    arrastrandoResize = false;
+    resizeInicio = null;
+  });
+  window.addEventListener('resize', () => { if (imgSel) posicionarControlesImg(); });
+
+  function posicionarControlesImg() {
+    if (!imgSel) return;
+    const r = imgSel.getBoundingClientRect();
+    if (toolbarImg) {
+      toolbarImg.style.display = 'flex';
+      toolbarImg.style.left = Math.max(4, r.left) + 'px';
+      toolbarImg.style.top = Math.max(4, r.top - 36) + 'px';
+    }
+    if (handleResize) {
+      handleResize.style.display = 'block';
+      handleResize.style.left = (r.right - 7) + 'px';
+      handleResize.style.top = (r.bottom - 7) + 'px';
+    }
+  }
+
+  function seleccionarImg(img) {
+    if (imgSel) imgSel.classList.remove('ed-img-selected');
+    imgSel = img;
+    imgSel.classList.add('ed-img-selected');
+    if (!toolbarImg) toolbarImg = crearToolbarImg();
+    if (!handleResize) handleResize = crearHandleResize();
+    posicionarControlesImg();
+  }
+
+  function deseleccionarImg() {
+    if (imgSel) imgSel.classList.remove('ed-img-selected');
+    imgSel = null;
+    if (toolbarImg) toolbarImg.style.display = 'none';
+    if (handleResize) handleResize.style.display = 'none';
+  }
+
+  // Sube el <img> al nivel de bloque directo del cuerpo (si estaba metido
+  // dentro de un párrafo de texto) para poder reordenarlo como una unidad.
+  function extraerComoBloque(img) {
+    if (img.parentNode === elCuerpo) return img;
+    let contenedor = img;
+    while (contenedor.parentNode && contenedor.parentNode !== elCuerpo) contenedor = contenedor.parentNode;
+    img.remove();
+    contenedor.after(img);
+    return img;
+  }
+
+  function accionImg(accion) {
+    if (!imgSel) return;
+    if (accion === 'achicar' || accion === 'agrandar') {
+      const pctActual = parseFloat(imgSel.style.width)
+        || Math.round((imgSel.getBoundingClientRect().width / elCuerpo.getBoundingClientRect().width) * 100);
+      const pctNuevo = Math.max(15, Math.min(100, pctActual + (accion === 'agrandar' ? 10 : -10)));
+      imgSel.style.width = pctNuevo + '%';
+      imgSel.style.height = 'auto';
+    } else {
+      const bloque = extraerComoBloque(imgSel);
+      const hermano = accion === 'subir' ? bloque.previousElementSibling : bloque.nextElementSibling;
+      if (hermano) {
+        if (accion === 'subir') bloque.parentNode.insertBefore(bloque, hermano);
+        else bloque.parentNode.insertBefore(hermano, bloque);
+      }
+    }
+    posicionarControlesImg();
+  }
+
+  elCuerpo.addEventListener('click', (e) => {
+    if (e.target.tagName === 'IMG') seleccionarImg(e.target);
+    else deseleccionarImg();
+  });
+  document.addEventListener('click', (e) => {
+    if (e.target.closest('#ed-cuerpo') || e.target.closest('#ed-img-toolbar')) return;
+    deseleccionarImg();
+  });
+  window.addEventListener('scroll', deseleccionarImg, true);
+
   document.getElementById('ed-tabla').addEventListener('click', () => {
     const tablaHtml = `
       <table>

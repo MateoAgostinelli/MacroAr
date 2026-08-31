@@ -27,6 +27,7 @@
   const btnShare = document.getElementById('ctor-share');
   const canvas = document.getElementById('ctor-chart');
   const hintZoom = document.getElementById('ctor-hint-zoom');
+  const elInsight = document.getElementById('ctor-insight');
   if (!contSeries || !canvas) return;
 
   // ── Tooltip arrastrable ──────────────────────────────────────────────────────
@@ -282,6 +283,47 @@
     return datos;
   }
 
+  // ── Brecha / crecimiento acumulado ──────────────────────────────────────────
+  // Crecimiento total entre el primer y el último dato del rango elegido (no
+  // depende del modo de visualización ni de la frecuencia, siempre se calcula
+  // sobre los niveles/tasas crudos). Para series ya en % (serie.variacion,
+  // ej. IPC) se compone cada período en vez de restar niveles.
+  function crecimientoAcumulado(datos, serie) {
+    if (datos.length < 2) return null;
+    if (serie.variacion) {
+      let compuesto = 1;
+      for (const d of datos) compuesto *= (1 + d.valor / 100);
+      return (compuesto - 1) * 100;
+    }
+    const primero = datos[0].valor;
+    const ultimo = datos[datos.length - 1].valor;
+    if (!primero) return null;
+    return (ultimo / primero - 1) * 100;
+  }
+
+  function actualizarInsight(crudasFiltradas) {
+    const validas = crudasFiltradas.filter(c => c.crecimiento != null);
+    if (validas.length < 1) { elInsight.style.display = 'none'; return; }
+
+    const fmt = n => n.toLocaleString('es-AR', { maximumFractionDigits: 2, minimumFractionDigits: 2 });
+    const lineas = validas.map(c => `<strong>${c.serie.titulo}</strong> acumuló ${fmt(c.crecimiento)}%`);
+
+    let brechaTxt = '';
+    if (validas.length === 2) {
+      const [a, b] = validas;
+      const idxA = 100 + a.crecimiento;
+      const idxB = 100 + b.crecimiento;
+      if (idxB > 0) {
+        const brecha = (idxA / idxB - 1) * 100;
+        const [mayor, menor] = idxA >= idxB ? [a, b] : [b, a];
+        brechaTxt = ` — <strong>${mayor.serie.titulo}</strong> le sacó una brecha acumulada de <strong>${fmt(Math.abs(brecha))}%</strong> a <strong>${menor.serie.titulo}</strong> en el período elegido.`;
+      }
+    }
+
+    elInsight.innerHTML = lineas.join(' · ') + brechaTxt;
+    elInsight.style.display = '';
+  }
+
   // ── Frescura ─────────────────────────────────────────────────────────────────
   function frescuraTexto(serie, datos) {
     if (!datos.length) return '';
@@ -305,11 +347,13 @@
       const freq = selFreq.value;
 
       // Por serie: filtrar rango → agregar → normalizar (manteniendo sus fechas).
+      const crecimientos = [];
       const procesadas = filas.map((f, idx) => {
         const serie = serieDe(f.id);
         let datos = crudas[idx].map(d => ({ fecha: d.fecha, valor: d.valor }));
         if (desde) datos = datos.filter(d => d.fecha >= desde);
         if (hasta) datos = datos.filter(d => d.fecha <= hasta);
+        crecimientos.push({ serie, crecimiento: crecimientoAcumulado(datos, serie) });
 
         let fechas, valores;
         if (modo === 'interanual') {
@@ -499,9 +543,11 @@
       ultimoRender = { fechas, columnas };
       elFresh.textContent = 'Última actualización — ' +
         procesadas.map(p => frescuraTexto(p.serie, cache[p.fila.id])).join(' · ');
+      actualizarInsight(crecimientos);
     } catch (err) {
       if (ticket !== pidiendo) return;
       elFresh.textContent = 'No se pudieron cargar los datos. Probá de nuevo en un momento.';
+      elInsight.style.display = 'none';
     }
   }
 
