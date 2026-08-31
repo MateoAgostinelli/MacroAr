@@ -129,7 +129,10 @@
         r.collapse(false); // sin selección previa: insertar al final
         sel.addRange(r);
       }
-      document.execCommand('insertHTML', false, `<img src="${lector.result}" alt="${file.name.replace(/\.[^.]+$/, '')}"><p></p>`);
+      // Ancho 100% por defecto: sin esto, algunas imágenes entran a su tamaño
+      // natural (chico) en vez de ocupar el ancho de la hoja. Se puede achicar
+      // después con el botón "－" o el tirador de la esquina.
+      document.execCommand('insertHTML', false, `<img src="${lector.result}" style="width:100%;" alt="${file.name.replace(/\.[^.]+$/, '')}"><p></p>`);
       inputImagen.value = ''; // permite volver a subir el mismo archivo si hace falta
     };
     lector.readAsDataURL(file);
