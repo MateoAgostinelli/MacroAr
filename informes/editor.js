@@ -227,7 +227,28 @@
     if (!toolbarImg) toolbarImg = crearToolbarImg();
     if (!handleResize) handleResize = crearHandleResize();
     posicionarControlesImg();
+
+    // Selección real del nodo (no solo el resaltado visual): así el navegador
+    // sabe qué borrar si el usuario aprieta Backspace/Delete.
+    const range = document.createRange();
+    range.selectNode(img);
+    const sel = window.getSelection();
+    sel.removeAllRanges();
+    sel.addRange(range);
   }
+
+  // Backspace/Delete sobre una imagen seleccionada: se borra directo en vez
+  // de depender de que el navegador interprete bien la selección del nodo
+  // (inconsistente entre navegadores para elementos que no son texto).
+  elCuerpo.addEventListener('keydown', (e) => {
+    if (!imgSel) return;
+    if (e.key === 'Delete' || e.key === 'Backspace') {
+      e.preventDefault();
+      const img = imgSel;
+      deseleccionarImg();
+      img.remove();
+    }
+  });
 
   function deseleccionarImg() {
     if (imgSel) imgSel.classList.remove('ed-img-selected');
