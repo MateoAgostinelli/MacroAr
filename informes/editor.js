@@ -113,16 +113,18 @@
   });
   btnImagen.addEventListener('click', () => inputImagen.click());
 
-  inputImagen.addEventListener('change', () => {
-    const file = inputImagen.files[0];
-    if (!file) return;
+  // Inserta un archivo de imagen en un punto del documento (rango de
+  // selección dado, o al final si no hay ninguno). La usan tanto el botón
+  // "Insertar imagen" como arrastrar y soltar un archivo sobre el cuerpo.
+  function insertarImagenDesdeArchivo(file, rango) {
+    if (!file || !file.type.startsWith('image/')) return;
     const lector = new FileReader();
     lector.onload = () => {
       elCuerpo.focus();
       const sel = window.getSelection();
       sel.removeAllRanges();
-      if (rangoImagenGuardado) {
-        sel.addRange(rangoImagenGuardado);
+      if (rango) {
+        sel.addRange(rango);
       } else {
         const r = document.createRange();
         r.selectNodeContents(elCuerpo);
@@ -133,9 +135,38 @@
       // natural (chico) en vez de ocupar el ancho de la hoja. Se puede achicar
       // después con el botón "－" o el tirador de la esquina.
       document.execCommand('insertHTML', false, `<img src="${lector.result}" style="width:100%;" alt="${file.name.replace(/\.[^.]+$/, '')}"><p></p>`);
-      inputImagen.value = ''; // permite volver a subir el mismo archivo si hace falta
     };
     lector.readAsDataURL(file);
+  }
+
+  inputImagen.addEventListener('change', () => {
+    insertarImagenDesdeArchivo(inputImagen.files[0], rangoImagenGuardado);
+    inputImagen.value = ''; // permite volver a subir el mismo archivo si hace falta
+  });
+
+  // ── Arrastrar y soltar una imagen directo sobre el cuerpo ───────────────────
+  elCuerpo.addEventListener('dragover', (e) => {
+    if (!e.dataTransfer.types.includes('Files')) return;
+    e.preventDefault(); // habilita el drop (si no, el navegador lo ignora)
+    e.dataTransfer.dropEffect = 'copy';
+    elCuerpo.classList.add('ed-dragover');
+  });
+  elCuerpo.addEventListener('dragleave', () => elCuerpo.classList.remove('ed-dragover'));
+  elCuerpo.addEventListener('drop', (e) => {
+    const archivo = e.dataTransfer.files && e.dataTransfer.files[0];
+    if (!archivo || !archivo.type.startsWith('image/')) return;
+    e.preventDefault(); // reemplaza la inserción nativa del navegador por la nuestra (ancho 100%, etc.)
+    elCuerpo.classList.remove('ed-dragover');
+
+    // Insertar justo donde se soltó, no siempre al final.
+    let rango = null;
+    if (document.caretRangeFromPoint) {
+      rango = document.caretRangeFromPoint(e.clientX, e.clientY);
+    } else if (document.caretPositionFromPoint) {
+      const pos = document.caretPositionFromPoint(e.clientX, e.clientY);
+      if (pos) { rango = document.createRange(); rango.setStart(pos.offsetNode, pos.offset); rango.collapse(true); }
+    }
+    insertarImagenDesdeArchivo(archivo, rango);
   });
 
   // ── Agrandar / achicar / mover la imagen insertada ──────────────────────────
