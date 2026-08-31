@@ -1,5 +1,68 @@
 [
   {
+    "fecha": "2026-08-31",
+    "titulo": "Dólar, tasas e inflación: por qué septiembre puede ser un mes clave para esta carrera",
+    "resumen": "El recalentamiento del tipo de cambio en los últimos días generó dudas sobre cuál será el rumbo que tomará la divisa durante el próximo mes, como así también su impacto en las tasas y en la inflación.",
+    "link": "https://www.ambito.com/economia/dolar-tasas-e-inflacion-que-septiembre-puede-ser-un-mes-clave-esta-carrera-n6316006",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Créditos: debuta el nuevo sistema de cobro con débito en cuenta, pero los bancos anticipan poco uso",
+    "resumen": "Es una medida del BCRA dictada en marzo. Los bancos o billeteras van a poder debitar de manera automática en cuentas que le indiquen los tomadores.",
+    "link": "https://www.ambito.com/economia/creditos-debuta-el-nuevo-sistema-cobro-debito-cuenta-pero-los-bancos-anticipan-poco-uso-n6315995",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Wall Street ya descuenta una suba de tasas de la Fed en septiembre a la espera de datos clave sobre empleo",
+    "resumen": "Tras la conferencia de Kevin Warsh en Jackson Hole, el mercado volvió a poner en precios una suba de tasas para la reunión del banco central a mediados del próximo mes. Los datos de empleo en EEUU que se conocerán esta semana podrían consolidar esa posibilidad o -caso opuesto-...",
+    "link": "https://www.ambito.com/economia/wall-street-ya-descuenta-una-suba-tasas-la-fed-septiembre-la-espera-datos-clave-empleo-n6316774",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Scott Bessent dispara la polémica antes del G20: instó a que otros países apliquen trabas comerciales a China",
+    "resumen": "El secretario del Tesoro norteamericano afirmó que el superávit comercial chino busca compensar un mercado interno débil. Por ese motivo, consideró necesario que los socios comerciales de Beijing cambien sus prácticas comerciales con el gigante asiático.",
+    "link": "https://www.ambito.com/economia/scott-bessent-dispara-la-polemica-antes-del-g20-insto-que-otros-paises-apliquen-trabas-comerciales-china-n6316687",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Las exportaciones a la Unión Europea saltaron casi 20%, impulsadas por el acuerdo comercial",
+    "resumen": "El tratado impulsa envíos con arancel cero para bienes industriales y liberación para el 82% de productos agrícolas. Miel, carne vacuna, langostinos y biocombustibles muestran un fuerte crecimiento y optimización de cupos.",
+    "link": "https://www.ambito.com/economia/las-exportaciones-la-union-europea-saltaron-casi-20-impulsadas-el-acuerdo-comercial-n6316644",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "ARCA cambia las reglas para emitir facturas: qué deberán hacer monotributistas y otros contribuyentes",
+    "resumen": "La medida busca ampliar la trazabilidad de las operaciones y alcanza también a los efectores de la economía social. Entrará en vigencia el 1° de noviembre.",
+    "link": "https://www.ambito.com/economia/arca-cambia-las-reglas-emitir-facturas-que-deberan-hacer-monotributistas-y-otros-contribuyentes-n6316587",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "El Gobierno oficializó un nuevo aumento de salarios para militares, fuerzas de seguridad y empleados públicos: de cuánto será",
+    "resumen": "Las subas se aplicarán en cuatro etapas entre septiembre y diciembre. También se actualizaron los haberes de docentes, personal de la Antártida y trabajadores alcanzados por regímenes especiales.",
+    "link": "https://www.ambito.com/economia/el-gobierno-oficializo-un-nuevo-aumento-salarios-militares-fuerzas-seguridad-y-empleados-publicos-cuanto-sera-n6316553",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "ANSES: el Gobierno confirmó el bono de $70.000 para jubilados y pensionados en septiembre",
+    "resumen": "El refuerzo previsional alcanzará a jubilados, pensionados y titulares de prestaciones sociales de ANSES. Quiénes lo cobrarán completo y cómo será el refuerzo para quienes superen el haber mínimo.",
+    "link": "https://www.ambito.com/economia/anses-el-gobierno-confirmo-el-bono-70000-jubilados-y-pensionados-septiembre-n6316554",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Scott Bessent y Kevin Warsh ordenaron la curva de bonos de EEUU y no hubo tantrum por la suba de tasas que se avecina",
+    "resumen": "El secretario del Tesoro de EEUU evitó un nuevo berrinche de los bonos con recompras de deuda y la amenaza de usar su billón en caja. Warsh, por su parte, recuperó su imagen de halcón en Jackson Hole, pero dejó abierta la duda sobre una suba de tasas en septiembre.",
+    "link": "https://www.ambito.com/economia/scott-bessent-y-kevin-warsh-ordenaron-la-curva-bonos-eeuu-y-no-hubo-tantrum-la-suba-tasas-que-se-avecina-n6316465",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-08-30",
     "titulo": "Aumenta el transporte en septiembre: cuánto costará viajar en colectivo, tren y subte en el AMBA",
     "resumen": "Con el inicio del nuevo mes, aumentarán las tarifas del transporte público que circula por la Ciudad y el conurbano bonaerense. De cuánto será el boleto mínimo.",
@@ -39,6 +102,34 @@
     "titulo": "Salarios y consumo en alerta: el Gobierno busca reaccionar, pero el dogma libertario le pone un límite",
     "resumen": "Pese a las señales recientes, el salario mínimo aumentará por debajo de la inflación. Llegará a los $437.000 recién en abril del 2027.",
     "link": "https://www.ambito.com/economia/salarios-y-consumo-alerta-el-gobierno-busca-reaccionar-pero-el-dogma-libertario-le-pone-un-limite-n6316177",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-08-30",
+    "titulo": "Compras internacionales en dólares: guía para utilizar el sistema Puerta a Puerta sin sorpresas",
+    "resumen": "Se actualizaron los topes para envíos del exterior y se fijaron condiciones que conviene conocer antes de hacer un pedido online.",
+    "link": "https://www.ambito.com/economia/compras-internacionales-dolares-guia-utilizar-el-sistema-puerta-puerta-sorpresas-n6315608",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-08-30",
+    "titulo": "Récord para la agroindustria: 117 productos dispararon las exportaciones a u$s7.073 millones",
+    "resumen": "Las ventas al exterior de estos productos crecieron 58% interanual durante el primer semestre de 2026 y más que se duplicaron frente a 2019. Representaron el 26% de las exportaciones agroindustriales del país.",
+    "link": "https://www.ambito.com/economia/record-la-agroindustria-117-productos-dispararon-las-exportaciones-us7073-millones-n6316469",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-08-30",
+    "titulo": "Federico Sturzenegger admitió la caída del empleo formal y la atribuyó al avance del monotributo",
+    "resumen": "El ministro de Desregulación sostuvo que la caída de los asalariados registrados responde, en parte, al avance del régimen simplificado y destacó que el mercado laboral sumó 500.000 puestos en los últimos tres años.",
+    "link": "https://www.ambito.com/economia/federico-sturzenegger-admitio-la-caida-del-empleo-formal-y-la-atribuyo-al-avance-del-monotributo-n6316461",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-08-30",
+    "titulo": "Salarios, uno por uno: qué trabajadores cobrarán aumentos en septiembre de 2026",
+    "resumen": "Varios gremios aplicarán nuevas escalas, bonos y gratificaciones extraordinarias. Los últimos datos de la Secretaría de Trabajo muestran que los salarios de convenio todavía corren por detrás de la inflación, aunque con fuertes diferencias entre sectores.",
+    "link": "https://www.ambito.com/economia/salarios-uno-uno-que-trabajadores-cobraran-aumentos-septiembre-2026-n6316387",
     "fuente": "ambito"
   },
   {
@@ -88,20 +179,6 @@
     "titulo": "La reforma que prometía empleo lleva tres meses de caída",
     "resumen": "Con 137.500 asalariados privados menos y un crecimiento del monotributo, la nueva normativa abarató los despidos y los litigios, pero dejó intactos los costos de contratación.",
     "link": "https://www.ambito.com/opiniones/la-reforma-que-prometia-empleo-lleva-tres-meses-caida-n6316074",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-08-29",
-    "titulo": "Dólar, tasas e inflación: por qué septiembre puede ser un mes clave para esta carrera",
-    "resumen": "El recalentamiento del tipo de cambio en los últimos días generó dudas sobre cuál será el rumbo que tomará la divisa durante el próximo mes, como así también su impacto en las tasas y en la inflación.",
-    "link": "https://www.ambito.com/economia/dolar-tasas-e-inflacion-que-septiembre-puede-ser-un-mes-clave-esta-carrera-n6316006",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-08-29",
-    "titulo": "Créditos: debuta el nuevo sistema de cobro con débito en cuenta, pero los bancos anticipan poco uso",
-    "resumen": "Es una medida del BCRA dictada en marzo. Los bancos o billeteras van a poder debitar de manera automática en cuentas que le indiquen los tomadores.",
-    "link": "https://www.ambito.com/economia/creditos-debuta-el-nuevo-sistema-cobro-debito-cuenta-pero-los-bancos-anticipan-poco-uso-n6315995",
     "fuente": "ambito"
   },
   {

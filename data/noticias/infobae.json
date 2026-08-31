@@ -1,5 +1,201 @@
 [
   {
+    "fecha": "2026-08-31",
+    "titulo": "Messi empresario: cuáles son los negocios que el 10 que construyó en tres continentes",
+    "resumen": "El rosarino acumula un patrimonio estimado en hasta USD 1.000 millones a través de hoteles, clubes de fútbol, restaurantes, vinos y contratos con marcas globales",
+    "link": "https://www.infobae.com/economia/2026/08/31/messi-empresario-cuales-son-los-negocios-que-el-10-que-construyo-en-tres-continentes/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "El Banco Provincia otorgará créditos hipotecarios en UVA con una cláusula especial en caso de que se dispare la inflación",
+    "resumen": "Era el único banco que no prestaba para la vivienda con esta modalidad. Serán préstamos para construir y refaccionar. Para la compra, seguirán otorgando la línea habitual. Cómo funciona el mecanismo que pone un tope a la cuota si los precios superan al sueldo",
+    "link": "https://www.infobae.com/economia/2026/08/31/el-banco-provincia-otorgara-creditos-hipotecarios-en-uva-con-una-clausula-especial-en-caso-de-que-se-dispare-la-inflacion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Una líder industrial bonaerense habló sobre la crisis en el sector: \"Cuando se cierra una fábrica es porque no hay otra opción\"",
+    "resumen": "El impacto de la coyuntura económica afecta a pequeñas y medianas empresas, la mayoría de carácter familiar, con ajustes de personal y reclamos por la presión tributaria",
+    "link": "https://www.infobae.com/economia/2026/08/31/una-lider-industrial-bonaerense-hablo-sobre-la-crisis-en-el-sector-cuando-se-cierra-una-fabrica-es-porque-no-hay-otra-opcion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "La crisis de la vivienda se profundiza: creció el número de inquilinos y comprar una casa es cada vez más difícil",
+    "resumen": "El acceso a la vivienda propia se volvió cada vez más difícil y el alquiler pasó a ser la principal alternativa para independizarse, con un impacto especialmente fuerte entre jóvenes y adultos mayores",
+    "link": "https://www.infobae.com/economia/2026/08/31/la-crisis-de-la-vivienda-se-profundiza-crecio-el-numero-de-inquilinos-y-comprar-una-casa-es-cada-vez-mas-dificil/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Impacto en el mundo de las telecomunicaciones: Telecentro compró iPlan por USD 260 millones",
+    "resumen": "",
+    "link": "https://www.infobae.com/economia/2026/08/31/impacto-en-el-mundo-de-las-telecomunicaciones-telecentro-compro-iplan-por-usd-260-millones/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este lunes 31 de agosto",
+    "resumen": "El billete al público cede a $1.530 para la venta en el Banco Nación. El blue es negociado a $1.560. Las reservas cedieron debajo de los USD 50.000 millones",
+    "link": "https://www.infobae.com/economia/2026/08/31/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-31-de-agosto/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Mercados, marca y financiamiento: la fórmula de las empresas argentinas para crecer en el exterior",
+    "resumen": "Consultores y referente de compañías de distintos rubros cuentan cómo eligen sus primeros destinos, qué transforman de sus productos y qué obstáculos enfrentan al competir con jugadores ya instalados afuera",
+    "link": "https://www.infobae.com/economia/2026/08/30/mercados-marca-y-financiamiento-la-formula-de-las-empresas-argentinas-para-crecer-en-el-exterior/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "El Gobierno anunció el cierre de 400 Registros del Automotor",
+    "resumen": "Como parte del proceso iniciado en 2024 para cambiar el sistema registrial del automotor, hoy se comunicó la decisión de unificar, suprimir y cerrar dependencias. En total son 395 unidades",
+    "link": "https://www.infobae.com/economia/2026/08/31/el-gobierno-anuncio-el-cierre-de-400-registros-del-automotor/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Mercados: suben las acciones argentinas a pesar de la tendencia negativa en Wall Street",
+    "resumen": "El S&P Merval gana 1,9% y supera los 3 millones de puntos, debido a la ponderación de las acciones petroleras, que se benefician con el salto de 3% en el precio del crudo",
+    "link": "https://www.infobae.com/economia/2026/08/31/mercados-suben-las-acciones-argentinas-a-pesar-de-la-tendencia-negativa-en-wall-street/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "G20 de Estados Unidos: comenzó el encuentro de ministros de Economía y Caputo se reunirá con el secretario del Tesoro, Scott Bessent",
+    "resumen": "El jefe del Palacio de Hacienda además se reunirá con Kristalina Georgieva, directora gerente del FMI, y defenderá el programa de ajuste durante un debate sobre crecimiento global",
+    "link": "https://www.infobae.com/economia/2026/08/31/g20-de-estados-unidos-comenzo-el-encuentro-de-ministros-de-economia-y-caputo-se-reunira-con-el-secretario-del-tesoro-scott-bessent/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Un proyecto clave de Estados Unidos en Brasil para explotar tierras raras enfrenta desafíos en China y en la justicia local",
+    "resumen": "Washington ya destinó unos USD 5.000 millones al proyecto Serra Verde, en Goiás, pero problemas técnicos y riesgos políticos complican la apuesta por armar una cadena de suministro alternativa a la de Beijng",
+    "link": "https://www.infobae.com/america/america-latina/2026/08/31/un-proyecto-clave-estados-unidos-en-brasil-para-explotar-tierras-raras-enfrenta-desafios-de-china-y-la-justicia-local/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "El Gobierno postergó hasta octubre el aumento de los impuestos a los combustibles para evitar un salto en la inflación",
+    "resumen": "La medida, publicada en el Boletín Oficial, busca seguir “estimulando el crecimiento de la economía a través de un sendero fiscal sostenible”, en un momento en que las consultoras proyectan para agosto la inflación más baja en meses",
+    "link": "https://www.infobae.com/economia/2026/08/31/el-gobierno-postergo-hasta-octubre-el-aumento-de-los-impuestos-a-los-combustibles-para-evitar-un-salto-en-la-inflacion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Suben las tasas de plazo fijo: cuánto pagan los principales bancos por depósitos de $1 millón",
+    "resumen": "Las entidades relevadas ofrecen tasas de entre 16 y 24 para colocaciones a 30 días. Con ese rango, el monto final por invertir $1 millón va desde $1.013.150,68 hasta $1.019.726,03, en un contexto de leve repunte en los rendimientos promedio del sistema",
+    "link": "https://www.infobae.com/economia/2026/08/31/suben-las-tasas-de-plazo-fijo-cuanto-pagan-los-principales-bancos-por-depositos-de-1-millon/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "La economía de Milei mantiene las dos velocidades: qué pasó en los gobiernos anteriores",
+    "resumen": "El crecimiento de 5,1% de la actividad en el primer semestre de 2026 frente a igual período de 2023 se apoyó en sectores que explican 55% del PBI y 42% del empleo, mientras comercio, industria y construcción siguieron por debajo de aquel nivel",
+    "link": "https://www.infobae.com/economia/2026/08/31/la-economia-de-milei-mantiene-las-dos-velocidades-que-paso-en-los-gobiernos-anteriores/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "A contramano del Gobierno nacional, La Rioja dispuso una baja de tasas para los morosos del banco provincial",
+    "resumen": "Créditos, refinanciaciones y reestructuración de deudas quedaron alcanzados por una batería de disposiciones del Banco Rioja, en una provincia que presentó la iniciativa como respuesta al aumento de los problemas de pago en los hogares y al peso de las tasas del sistema financ...",
+    "link": "https://www.infobae.com/economia/2026/08/31/a-contramano-del-gobierno-nacional-la-rioja-dispuso-una-baja-de-tasas-para-los-morosos-del-banco-provincial/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Un delicado equilibrio",
+    "resumen": "Tras semanas de estrés financiero, el equipo económico eligió contener la tasa de interés por encima de la defensa del tipo de cambio, con intervenciones en el mercado secundario y de futuros",
+    "link": "https://www.infobae.com/opinion/2026/08/31/un-delicado-equilibrio/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Infobae en Vivo tendrá un especial de “Economía de Quincho” con Pablo Quirno como invitado",
+    "resumen": "Este lunes 31 de agosto, desde las 21, la emisión tendrá como eje la agenda internacional de la Argentina, con información de último momento, novedades sobre la comitiva papal y los nuevos acuerdos y vínculos que impulsa el país",
+    "link": "https://www.infobae.com/economia/2026/08/31/infobae-en-vivo-tendra-un-especial-de-economia-de-quincho-con-pablo-quirno-como-invitado/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Calendario de ANSES: cuándo cobran jubilados, beneficiarios de AUH y planes sociales en septiembre 2026",
+    "resumen": "Todos los haberes del sistema de seguridad social ya tienen fecha de cobro para el noveno mes del año. Qué día se cobrará cada una de las prestaciones",
+    "link": "https://www.infobae.com/economia/2026/08/31/calendario-de-anses-cuando-cobran-jubilados-beneficiarios-de-auh-y-planes-sociales-en-septiembre-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Granja Tres Arroyos cerró sin aviso una planta histórica: denuncian que se retiró maquinaria y que el directorio vació sus oficinas",
+    "resumen": "Un comunicado interno notificó la suspensión “hasta nuevo aviso” por falta de suministro eléctrico y fuerza mayor. Pero las máquinas concesionadas ya no estaban y los directivos habían vaciado sus oficinas",
+    "link": "https://www.infobae.com/economia/2026/08/31/granja-tres-arroyos-cerro-sin-aviso-una-planta-historica-denuncian-que-se-retiro-maquinaria-y-que-el-directorio-vacio-sus-oficinas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "De cuánto será la PUAM de ANSES en septiembre 2026",
+    "resumen": "La prestación tendrá en el próximo mes una suba atada a la inflación de julio. También ya se conoce el calendario de pagos para jubilaciones, pensiones y asignaciones",
+    "link": "https://www.infobae.com/economia/2026/08/31/de-cuanto-sera-la-puam-de-anses-en-septiembre-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Caputo en el G20 de EEUU: el ministro se reunirá con Bessent y defenderá el programa de ajuste",
+    "resumen": "El ministro de Economía participará de la reunión de jefes de Finanzas en Carolina del Norte. En esta oportunidad, el encuentro estará atravesado por la crisis en Medio Oriente y la situación económica de Estados Unidos",
+    "link": "https://www.infobae.com/economia/2026/08/31/caputo-en-el-g20-de-eeuu-el-ministro-se-reunira-con-bessent-y-defendera-el-programa-de-ajuste/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Los aumentos que vienen en septiembre y los que todavía tienen que definirse",
+    "resumen": "El martes arranca un nuevo mes en donde ya se comunicaron incrementos en prepagas, transporte público, peajes y colegios. El Gobierno tiene que definir qué pasa con la tarifas",
+    "link": "https://www.infobae.com/economia/2026/08/31/los-aumentos-que-vienen-en-septiembre-y-los-que-todavia-tienen-que-definirse/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Proyectan que la Argentina exportará más de USD 103.000 millones este año, el mayor registro de su historia",
+    "resumen": "El aumento de los valores colocados de petróleo, oro y litio contribuirán a que, según proyecto la cámara de exportadores, por primera vez la Argentina supere una marca hasta hace poco impensable",
+    "link": "https://www.infobae.com/economia/2026/08/31/proyectan-que-la-argentina-exportara-mas-de-usd-103000-millones-este-ano-el-mayor-registro-de-su-historia/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "El debate por el crecimiento económico gana protagonismo de cara a las presidenciales del año que viene",
+    "resumen": "El PBI de Argentina podría encadenar tres años consecutivos de expansión moderada. Pero la dispersión sectorial y una demanda interna deteriorada opacan el fuerte salto exportador de la mano del agro, la minería y Vaca Muerta, principalmente",
+    "link": "https://www.infobae.com/economia/2026/08/31/el-debate-por-el-crecimiento-economico-gana-protagonismo-de-cara-a-las-presidenciales-del-ano-que-viene/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Houston y Vaca Muerta: por qué el desembarco de una “nueva” petrolera mediana puede ser el inicio de una ola de inversiones de EEUU",
+    "resumen": "Continental construyó su posición en la cuenca neuquina en distintas etapas antes de hacer una movida que un experto de la consultora Rystad Energy consideró un modelo replicable por otras compañías norteamericanas",
+    "link": "https://www.infobae.com/economia/2026/08/31/houston-y-vaca-muerta-por-que-el-desembarco-de-una-nueva-petrolera-mediana-puede-ser-el-inicio-de-una-ola-de-inversiones-de-eeuu/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "El Gobierno dejó que el dólar mayorista supere los $1.500 e inyectó pesos para evitar frenar más el nivel de actividad",
+    "resumen": "Caputo modificó su intervención en el mercado cambiario y monetario, tras semanas de defender un precio del dólar y generar tensión en las tasas de interés. Qué dicen los analistas sobre los motivos y efectos de la decisión",
+    "link": "https://www.infobae.com/economia/2026/08/31/el-gobierno-dejo-que-el-dolar-mayorista-supere-los-1500-e-inyecto-pesos-para-evitar-frenar-mas-el-nivel-de-actividad/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Las consultoras elogian los nuevos créditos hipotecarios y ponen la lupa sobre los datos de morosidad",
+    "resumen": "Un informe llega incluso a señalar que el índice de morosidad argentino es el más bajo de la región",
+    "link": "https://www.infobae.com/economia/2026/08/31/las-consultoras-elogian-los-nuevos-creditos-hipotecarios-y-ponen-la-lupa-sobre-los-datos-de-morosidad/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-31",
+    "titulo": "Cómo la primera empresa que privatizó Milei negoció con Delcy Rodríguez un acuerdo que permitirá recuperar las centrales hidroeléctricas en Venezuela",
+    "resumen": "Avalada por la administración Trump, los representantes de IMPSA cerraron en Caracas un contrato inédito para una empresa argentina, que años atrás estaba colapsada",
+    "link": "https://www.infobae.com/economia/2026/08/30/como-la-primera-empresa-que-privatizo-milei-negocio-con-delcy-rodriguez-un-acuerdo-que-permitira-recuperar-las-centrales-hidroelectricas-en-venezuela/",
+    "fuente": "infobae"
+  },
+  {
     "fecha": "2026-08-30",
     "titulo": "El consumo mostró signos de recuperación, pero analistas advierten que aún no hay cambio de tendencia",
     "resumen": "La demanda registró una leve mejora el mes pasado, aunque la pérdida de poder adquisitivo y la cautela de los hogares limitan cualquier señal de reactivación sostenida",
@@ -95,6 +291,27 @@
     "titulo": "La paradoja de la cuota de carne que anunció Donald Trump: Argentina pierde ventajas y Brasil gana una oportunidad",
     "resumen": "Aunque Milei es su principal aliado en la región y tiene una mala relación con Lula, el jefe de la Casa Blanca anticipó una medida que impulsaría de inmediato las exportaciones brasileñas",
     "link": "https://www.infobae.com/economia/2026/08/29/la-paradoja-de-la-cuota-de-carne-que-anuncio-donald-trump-argentina-perderia-competitividad-y-brasil-gana-una-oportunidad/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-30",
+    "titulo": "Recalculando: las consultoras proyectan una inflación más baja en agosto, incluso inferior al 1,5 por ciento",
+    "resumen": "Volvieron a bajar sus estimaciones de variación del IPC del octavo mes. Ayudaron menores presiones de alimentos y bebidas y del servicio de electricidad",
+    "link": "https://www.infobae.com/economia/2026/08/30/recalculando-las-consultoras-proyectan-una-inflacion-mas-baja-en-agosto-incluso-inferior-al-15-por-ciento/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-30",
+    "titulo": "Con impulso del acuerdo Mercosur-UE, las exportaciones argentinas al bloque europeo crecieron casi 20% en lo que va de 2026",
+    "resumen": "La vigencia desde mayo del acuerdo interino coincidió con un salto de las ventas del país al bloque europeo, en un año en el que el comercio exterior también crece por por energía, agroindustria y manufacturas",
+    "link": "https://www.infobae.com/economia/2026/08/30/con-impulso-del-acuerdo-mercosur-ue-las-exportaciones-argentinas-al-bloque-europeo-crecieron-casi-20-en-lo-que-va-de-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-08-30",
+    "titulo": "Nuevos créditos hipotecarios: qué es el FGS de la Anses y cómo se utilizará para financiar los préstamos a las familias",
+    "resumen": "Se trata del fondo que administra el organismo y que respalda al sistema previsional. El Gobierno destinará $2 billones de ese patrimonio para fondear a los bancos y ampliar el crédito hipotecario en el país",
+    "link": "https://www.infobae.com/economia/2026/08/30/nuevos-creditos-hipotecarios-que-es-el-fgs-de-la-anses-y-como-se-utilizara-para-financiar-los-prestamos-a-las-familias/",
     "fuente": "infobae"
   },
   {
