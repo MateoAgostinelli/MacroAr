@@ -1028,7 +1028,10 @@ footer {
 .lab-field select:focus { border-color: var(--teal); box-shadow: 0 0 0 3px rgba(116,172,223,0.18); }
 
 /* Grupo de botones (modo de comparación) */
-.btn-group { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+/* Sin "overflow: hidden" en el grupo: con textos que envuelven a dos líneas
+   (ej. "Variación %" en espacios angostos) recortaba la segunda línea. El
+   redondeado de las puntas se hace en los botones de los extremos en su lugar. */
+.btn-group { display: inline-flex; flex-wrap: wrap; border: 1px solid var(--border); border-radius: 8px; }
 .btn-group button {
   border: none;
   background: #fff;
@@ -1036,12 +1039,15 @@ footer {
   font-family: 'Inter', sans-serif;
   font-size: 0.82rem;
   font-weight: 500;
+  line-height: 1.25;
   padding: 0.55rem 0.8rem;
   cursor: pointer;
+  white-space: nowrap;
   border-right: 1px solid var(--border);
   transition: background 0.12s, color 0.12s;
 }
-.btn-group button:last-child { border-right: none; }
+.btn-group button:first-child { border-radius: 8px 0 0 8px; }
+.btn-group button:last-child { border-right: none; border-radius: 0 8px 8px 0; }
 .btn-group button:hover { background: var(--bg); }
 .btn-group button.active { background: var(--navy); color: #fff; }
 

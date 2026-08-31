@@ -1155,6 +1155,42 @@ function setupChartControls(serie, datos) {
   aggGroup.firstChild.style.background = '#e2e8f0';
   aggGroup.firstChild.style.color = '#1e293b';
 
+  // 1.5 Lectura: Niveles / Variación % — no aplica a series que ya son una
+  // tasa (serie.variacion, ej. IPC), esas ya se muestran en % de por sí.
+  if (!serie.variacion) {
+    let lecturaWrap = document.getElementById(`lectura-wrap-${serie.id}`);
+    if (!lecturaWrap) {
+      lecturaWrap = document.createElement('div');
+      lecturaWrap.id = `lectura-wrap-${serie.id}`;
+      lecturaWrap.style.cssText = 'display:flex; align-items:center; gap:0.5rem;';
+      lecturaWrap.innerHTML = `
+        <label style="font-weight:500; color:var(--navy);">Lectura:</label>
+        <div class="btn-group" id="lectura-group-${serie.id}"></div>
+      `;
+      aggGroup.parentElement.after(lecturaWrap);
+    }
+    const lecturaGroup = document.getElementById(`lectura-group-${serie.id}`);
+    lecturaGroup.innerHTML = '';
+    [['niveles', 'Niveles'], ['variacion', 'Variación %']].forEach(([key, label], index) => {
+      const btn = document.createElement('button');
+      btn.textContent = label;
+      btn.dataset.lectura = key;
+      Object.assign(btn.style, { background: 'transparent', border: '1px solid #e2e8f0', padding: '3px 8px', cursor: 'pointer', fontSize: '0.75rem' });
+      if (index === 0) btn.style.borderRadius = '6px 0 0 6px';
+      if (index === 1) btn.style.borderRadius = '0 6px 6px 0';
+      if (index > 0) btn.style.borderLeft = 'none';
+      btn.onclick = () => {
+        lecturaGroup.querySelectorAll('button').forEach(b => { b.style.background = 'transparent'; b.style.color = 'inherit'; });
+        btn.style.background = '#e2e8f0';
+        btn.style.color = '#1e293b';
+        actualizarGrafico(serie.id);
+      };
+      lecturaGroup.appendChild(btn);
+    });
+    lecturaGroup.firstChild.style.background = '#e2e8f0';
+    lecturaGroup.firstChild.style.color = '#1e293b';
+  }
+
   // 2. Poblar inputs de fecha
   const minDate = datos[0].fecha.slice(0, 10);
   const maxDate = datos[datos.length - 1].fecha.slice(0, 10);
@@ -1247,6 +1283,7 @@ function actualizarGrafico(serieId) {
   }
 
   let processedData = rawData;
+  let lectura = 'niveles';
 
   // Solo aplicar filtros si estamos en la vista de herramientas o detalle
   if (isToolsPage || isDetallePage) {
@@ -1257,20 +1294,40 @@ function actualizarGrafico(serieId) {
 
     const filteredData = rawData.filter(d => d.fecha.slice(0, 10) >= startDate && d.fecha.slice(0, 10) <= endDate);
     processedData = agregarDatos(filteredData, aggregation);
+
+    if (!serie.variacion) {
+      const lecturaBtn = document.querySelector(`#lectura-group-${serieId} button[style*="background: rgb(226, 232, 240)"]`);
+      lectura = lecturaBtn ? lecturaBtn.dataset.lectura : 'niveles';
+      if (lectura === 'variacion') processedData = calcularVariacionPeriodo(processedData);
+    }
   }
 
-  renderChart(serie, processedData);
+  const serieRender = lectura === 'variacion' ? { ...serie, unidad: '%', tipo: 'bar' } : serie;
+  renderChart(serieRender, processedData);
 
   const badge = document.getElementById(`badge-${serie.id}`);
   if (processedData.length > 0) {
     const ultimoValor = processedData[processedData.length - 1].valor;
-    badge.textContent = `${ultimoValor.toLocaleString('es-AR', { maximumFractionDigits: 2 })} ${serie.unidad}`;
+    const unidadBadge = lectura === 'variacion' ? '%' : serie.unidad;
+    const signo = lectura === 'variacion' && ultimoValor > 0 ? '+' : '';
+    badge.textContent = `${signo}${ultimoValor.toLocaleString('es-AR', { maximumFractionDigits: 2 })} ${unidadBadge}`;
   }
 
   if (isToolsPage || isDetallePage) {
     const btnExport = document.getElementById(`btn-export-${serieId}`);
     if (btnExport) btnExport.onclick = () => exportarCSV(serie, processedData);
   }
+}
+
+// Variación % de un período contra el anterior, sobre datos ya agregados
+// (respeta la frecuencia elegida: diaria, mensual, trimestral o anual).
+function calcularVariacionPeriodo(datos) {
+  const out = [];
+  for (let i = 1; i < datos.length; i++) {
+    const prev = datos[i - 1].valor;
+    if (prev) out.push({ fecha: datos[i].fecha, valor: +((datos[i].valor / prev - 1) * 100).toFixed(2) });
+  }
+  return out;
 }
 
 const LECTURAS_EMAE_LABEL = {
