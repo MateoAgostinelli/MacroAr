@@ -1048,6 +1048,27 @@ footer {
 }
 .btn-group button:first-child { border-radius: 8px 0 0 8px; }
 .btn-group button:last-child { border-right: none; border-radius: 0 8px 8px 0; }
+
+/* Grupos de 4 botones (ej. "Cómo mostrar" del Editor): en vez de dejar que
+   floten envueltos con espacio libre desparejo, arman una grilla 2x2 prolija
+   que ocupa todo el ancho disponible. */
+.btn-group.btn-group-grid4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+}
+.btn-group.btn-group-grid4 button {
+  text-align: center;
+  border-radius: 0;
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+.btn-group.btn-group-grid4 button:nth-child(2n) { border-right: none; }
+.btn-group.btn-group-grid4 button:nth-child(n+3) { border-bottom: none; }
+.btn-group.btn-group-grid4 button:nth-child(1) { border-radius: 8px 0 0 0; }
+.btn-group.btn-group-grid4 button:nth-child(2) { border-radius: 0 8px 0 0; }
+.btn-group.btn-group-grid4 button:nth-child(3) { border-radius: 0 0 0 8px; }
+.btn-group.btn-group-grid4 button:nth-child(4) { border-radius: 0 0 8px 0; }
 .btn-group button:hover { background: var(--bg); }
 .btn-group button.active { background: var(--navy); color: #fff; }
 
