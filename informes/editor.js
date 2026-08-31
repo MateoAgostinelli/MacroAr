@@ -97,6 +97,44 @@
     document.execCommand('insertHorizontalRule', false, null);
   });
 
+  // ── Insertar imagen propia (gráfico armado en /editor, Excel, etc.) ─────────
+  // Se embebe como data: URI directamente en el HTML/Markdown — no depende de
+  // un servidor ni de subir el archivo a ningún lado, es lo más simple para un
+  // informe que se genera y se descarga localmente.
+  let rangoImagenGuardado = null;
+  const inputImagen = document.getElementById('ed-img-input');
+  const btnImagen = document.getElementById('ed-img');
+
+  btnImagen.addEventListener('mousedown', () => {
+    const sel = window.getSelection();
+    rangoImagenGuardado = (sel.rangeCount && elCuerpo.contains(sel.anchorNode))
+      ? sel.getRangeAt(0).cloneRange()
+      : null;
+  });
+  btnImagen.addEventListener('click', () => inputImagen.click());
+
+  inputImagen.addEventListener('change', () => {
+    const file = inputImagen.files[0];
+    if (!file) return;
+    const lector = new FileReader();
+    lector.onload = () => {
+      elCuerpo.focus();
+      const sel = window.getSelection();
+      sel.removeAllRanges();
+      if (rangoImagenGuardado) {
+        sel.addRange(rangoImagenGuardado);
+      } else {
+        const r = document.createRange();
+        r.selectNodeContents(elCuerpo);
+        r.collapse(false); // sin selección previa: insertar al final
+        sel.addRange(r);
+      }
+      document.execCommand('insertHTML', false, `<img src="${lector.result}" alt="${file.name.replace(/\.[^.]+$/, '')}"><p></p>`);
+      inputImagen.value = ''; // permite volver a subir el mismo archivo si hace falta
+    };
+    lector.readAsDataURL(file);
+  });
+
   document.getElementById('ed-tabla').addEventListener('click', () => {
     const tablaHtml = `
       <table>
