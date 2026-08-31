@@ -46,37 +46,44 @@ SERIES_CATALOG = {
         "titulo": "Dólar Oficial (BNA, venta)",
         "fuente": "bluelytics", "tipo_tc": "oficial",
         "unidad": "$/USD", "categoria": "Mercado Cambiario",
+        "variacion": True,
     },
     "tc-blue": {
         "titulo": "Dólar Blue (venta)",
         "fuente": "bluelytics", "tipo_tc": "blue",
         "unidad": "$/USD", "categoria": "Mercado Cambiario",
+        "variacion": True,
     },
     "tc-mayorista": {
         "titulo": "Dólar Mayorista (BCRA)",
         "fuente": "bcra", "serieId": 4,
         "unidad": "$/USD", "categoria": "Mercado Cambiario",
+        "variacion": True,
     },
     "dolar-mep": {
         "titulo": "Dólar MEP (Bolsa)",
         "fuente": "argentinadatos", "serieId": "cotizaciones/dolares/bolsa", "campo": "venta",
         "unidad": "$/USD", "categoria": "Mercado Cambiario",
+        "variacion": True,
     },
     "dolar-ccl": {
         "titulo": "Dólar CCL (Contado con Liqui)",
         "fuente": "argentinadatos", "serieId": "cotizaciones/dolares/contadoconliqui", "campo": "venta",
         "unidad": "$/USD", "categoria": "Mercado Cambiario",
+        "variacion": True,
     },
     # Sector Monetario
     "reservas": {
         "titulo": "Reservas Internacionales",
         "fuente": "bcra", "serieId": 1,
         "unidad": "millones USD", "categoria": "Sector Monetario",
+        "variacion": True,
     },
     "base-monetaria": {
         "titulo": "Base Monetaria",
         "fuente": "bcra", "serieId": 15,
         "unidad": "millones ARS", "categoria": "Sector Monetario",
+        "variacion": True,
     },
     # Sistema Financiero
     "tpm": {
@@ -98,6 +105,7 @@ SERIES_CATALOG = {
         "titulo": "UVA (Unidad de Valor Adquisitivo)",
         "fuente": "bcra", "serieId": 31,
         "unidad": "ARS", "categoria": "Sistema Financiero",
+        "variacion": True,
     },
     # Precios
     "inflacion": {
@@ -118,69 +126,82 @@ SERIES_CATALOG = {
         "titulo": "Actividad Económica (EMAE, desestacionalizada)",
         "fuente": "emae", "serieId": "143.3_NO_PR_2004_A_31",
         "unidad": "índice (base 2004=100)", "categoria": "Actividad",
+        "variacion": True,
     },
     "ipi-manufacturero": {
         "titulo": "Producción Industrial Manufacturera (IPI)",
         "fuente": "indec", "serieId": "453.1_SERIE_ORIGNAL_0_0_14_46",
         "unidad": "índice", "categoria": "Sector Real",
+        "variacion": True,
     },
     "isac": {
         "titulo": "Actividad Constructora (ISAC)",
         "fuente": "indec", "serieId": "33.2_ISAC_NIVELRAL_0_M_18_63",
         "unidad": "índice", "categoria": "Sector Real",
+        "variacion": True,
     },
     "salarios-total": {
         "titulo": "Índice de Salarios (Total)",
         "fuente": "indec", "serieId": "149.1_TL_INDIIOS_OCTU_0_21",
         "unidad": "índice", "categoria": "Sector Real",
+        "variacion": True,
     },
     "salarios-privado": {
         "titulo": "Salarios Privados (Registrado)",
         "fuente": "indec", "serieId": "149.1_SOR_PRIADO_OCTU_0_25",
         "unidad": "índice", "categoria": "Sector Real",
+        "variacion": True,
     },
     "salarios-publico": {
         "titulo": "Salarios Públicos",
         "fuente": "indec", "serieId": "149.1_SOR_PUBICO_OCTU_0_14",
         "unidad": "índice", "categoria": "Sector Real",
+        "variacion": True,
     },
     # Finanzas Públicas
     "recaudacion-total": {
         "titulo": "Recaudación Total (ARCA/DGI)",
         "fuente": "indec", "serieId": "172.3_TL_RECAION_M_0_0_17",
         "unidad": "millones ARS", "categoria": "Finanzas Públicas",
+        "variacion": True,
     },
     # Mercado de Capitales
     "riesgo-pais": {
         "titulo": "Riesgo País Argentina (EMBI+)",
         "fuente": "argentinadatos", "serieId": "finanzas/indices/riesgo-pais",
         "unidad": "puntos básicos", "categoria": "Mercado de Capitales",
+        "variacion": True,
     },
     "merval": {
         "titulo": "Índice Merval (Bolsa de Buenos Aires)",
         "fuente": "local", "serieId": "merval",
         "unidad": "ARS", "categoria": "Mercado de Capitales",
+        "variacion": True,
     },
     # Commodities
     "soja": {
         "titulo": "Soja Chicago (CBOT, USD/tn)",
         "fuente": "local", "serieId": "soja",
         "unidad": "USD/tonelada", "categoria": "Commodities",
+        "variacion": True,
     },
     "wti": {
         "titulo": "Petróleo WTI (NYMEX)",
         "fuente": "local", "serieId": "wti",
         "unidad": "USD/barril", "categoria": "Commodities",
+        "variacion": True,
     },
     "brent": {
         "titulo": "Petróleo Brent (ICE)",
         "fuente": "local", "serieId": "brent",
         "unidad": "USD/barril", "categoria": "Commodities",
+        "variacion": True,
     },
     "oro": {
         "titulo": "Oro (futuro COMEX)",
         "fuente": "local", "serieId": "oro",
         "unidad": "USD/oz", "categoria": "Commodities",
+        "variacion": True,
     },
     # Expectativas (REM BCRA)
     "rem-inflacion": {
@@ -192,6 +213,7 @@ SERIES_CATALOG = {
         "titulo": "Tipo de cambio esperado (REM BCRA)",
         "fuente": "local", "serieId": "rem-tcn",
         "unidad": "$/USD", "categoria": "REM / Expectativas",
+        "variacion": True,
     },
     "rem-pib": {
         "titulo": "Crecimiento del PIB esperado (REM BCRA)",
