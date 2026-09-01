@@ -63,6 +63,13 @@
     aplicarDirUI();
   }
   function escribirHash() {
+    // En /laboratorio con pestañas (Correlaciones + Gráficos, este último con
+    // editor.js) las dos herramientas comparten página pero cada una escribe
+    // su propio estado en la URL — si las dos pisaran el hash con new
+    // URLSearchParams() vacío, cada click en una pestaña borraría el link
+    // compartible de la otra. Por eso: mientras la pestaña de Gráficos está
+    // activa, esta función no toca el hash en absoluto.
+    if (window.__labTabActiva && window.__labTabActiva !== 'correlaciones') return;
     const p = new URLSearchParams({ a: selA.value, b: selB.value, f: selFreq.value, m: modo, d: dirReg });
     history.replaceState(null, '', '#' + p.toString());
   }

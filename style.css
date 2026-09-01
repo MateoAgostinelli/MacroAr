@@ -1489,3 +1489,25 @@ html, body { overflow-x: hidden; }
   .reportes-grid { grid-template-columns: 1fr; }
   .reporte-detalle { padding: 2rem 1.25rem 3rem; }
 }
+
+/* ─── Pestañas de /laboratorio (Correlaciones / Gráficos) ──────────────── */
+.lab-tabs {
+  display: flex;
+  gap: 0.5rem;
+  border-bottom: 2px solid var(--border);
+}
+.lab-tab {
+  background: transparent;
+  border: none;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  padding: 0.85rem 1.4rem;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--muted);
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+.lab-tab:hover { color: var(--navy); }
+.lab-tab.active { color: var(--navy); border-bottom-color: var(--teal); }

@@ -178,6 +178,12 @@
   }
 
   function escribirHash() {
+    // En /laboratorio con pestañas, esta herramienta convive con laboratorio.js
+    // en la misma página, cada una con su propio estado en la URL (y algunas
+    // claves con el mismo nombre pero distinto significado, ej. "f"/"m"). Para
+    // que un click en la otra pestaña no borre este link compartible, acá no
+    // se toca el hash mientras la pestaña de Gráficos no está activa.
+    if (window.__labTabActiva && window.__labTabActiva !== 'graficos') return;
     const p = new URLSearchParams();
     if (inputTitulo.value.trim()) p.set('t', inputTitulo.value.trim());
     p.set('f', selFreq.value);
