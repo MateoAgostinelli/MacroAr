@@ -117,10 +117,10 @@ def construir_pagina_html(titulo, meta_dict, slug, cuerpo_html):
   <!-- Navbar -->
   <nav class="navbar">
     <div class="nav-inner">
-      <a href="/" class="nav-logo" aria-label="MacroAr — ir al inicio">Macro<span>Ar</span></a>
+      <span class="nav-logo">Macro<span>Ar</span></span>
       <div class="nav-links">
+        <a href="/">Inicio</a>
         <a href="/datos">Datos</a>
-        <a href="/editor">Gráficos</a>
         <a href="/reportes" style="color: var(--teal-dark); font-weight: 600;">Informes</a>
         <a href="/contacto">Contacto</a>
       </div>
@@ -131,8 +131,8 @@ def construir_pagina_html(titulo, meta_dict, slug, cuerpo_html):
     </div>
   </nav>
   <nav class="nav-mobile" id="nav-mobile" aria-label="Menú mobile">
+    <a href="/">Inicio</a>
     <a href="/datos">Datos</a>
-    <a href="/editor">Gráficos</a>
     <a href="/reportes">Informes</a>
     <a href="/contacto">Contacto</a>
     <a href="/laboratorio" class="nav-mobile-cta">Laboratorio</a>
@@ -160,7 +160,6 @@ def construir_pagina_html(titulo, meta_dict, slug, cuerpo_html):
       <div class="footer-links">
         <a href="/reportes">Informes</a>
         <a href="/laboratorio">Laboratorio</a>
-        <a href="/editor">Gráficos</a>
         <a href="/contacto">Contacto</a>
         <a href="https://www.bcra.gob.ar" target="_blank">BCRA</a>
         <a href="https://apis.datos.gob.ar/series" target="_blank">datos.gob.ar</a>
