@@ -997,7 +997,10 @@ footer {
 }
 
 /* ── Laboratorio ─────────────────────────────────────────── */
-.lab-section { width: 100%; max-width: 1200px; margin: 0 auto; padding: 2.5rem 2rem 4rem; }
+/* max-width 1264 = 1200 + 2*2rem de padding propio: así el contenido interno
+   (una vez descontado el padding) queda centrado a 1200px igual que .hero-inner,
+   que centra sus 1200px DENTRO del padding de .hero en vez de incluirlo. */
+.lab-section { width: 100%; max-width: 1264px; margin: 0 auto; padding: 2.5rem 2rem 4rem; }
 
 .lab-controls {
   display: grid;
