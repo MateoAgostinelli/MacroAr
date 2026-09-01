@@ -1855,6 +1855,29 @@ function construirNavDatos() {
 
 construirNavDatos();
 
+// ─── Preview de los últimos informes en el home ───────────────────────────────
+// Sin backend: se trae /reportes.html y se reusan sus propias tarjetas
+// (.reporte-card), así no hay que duplicar el listado a mano en cada publicación.
+async function cargarPreviewInformes() {
+  const grid = document.getElementById('informes-preview-grid');
+  if (!grid) return;
+
+  try {
+    const res = await fetch('/reportes');
+    if (!res.ok) return;
+    const html = await res.text();
+    const doc = new DOMParser().parseFromString(html, 'text/html');
+    const tarjetas = [...doc.querySelectorAll('.reporte-card')].slice(0, 3);
+    if (tarjetas.length === 0) return; // sigue el placeholder "todavía no publicamos"
+
+    grid.innerHTML = '';
+    tarjetas.forEach(t => grid.appendChild(document.importNode(t, true)));
+  } catch {
+    // Sin conexión o falla el fetch: se deja el placeholder de siempre.
+  }
+}
+cargarPreviewInformes();
+
 // Botón "Volver atrás" sin javascript: URI (compatible con CSP).
 // href="datos.html" es el fallback; si hay historial, volvemos a la página previa.
 const _btnBack = document.getElementById('btn-back');
