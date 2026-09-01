@@ -1492,25 +1492,31 @@ html, body { overflow-x: hidden; }
 
 /* ─── Pestañas de /laboratorio (Correlaciones / Gráficos) ──────────────── */
 .lab-tabs {
-  display: flex;
-  gap: 0.5rem;
-  border-bottom: 2px solid var(--border);
+  display: inline-flex;
+  gap: 0.3rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 0.35rem;
 }
 .lab-tab {
   background: transparent;
   border: none;
-  border-bottom: 3px solid transparent;
-  margin-bottom: -2px;
-  padding: 0.85rem 1.4rem;
+  border-radius: 8px;
+  padding: 0.7rem 1.5rem;
   font-family: 'Poppins', sans-serif;
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-weight: 600;
   color: var(--muted);
   cursor: pointer;
-  transition: color 0.15s, border-color 0.15s;
+  transition: color 0.15s, background 0.15s, box-shadow 0.15s;
 }
 .lab-tab:hover { color: var(--navy); }
-.lab-tab.active { color: var(--navy); border-bottom-color: var(--teal); }
+.lab-tab.active {
+  color: #fff;
+  background: var(--navy);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
 
 /* Box de presentación arriba de cada pestaña: le da peso visual a cada
    herramienta en vez de arrancar directo en los controles. */
