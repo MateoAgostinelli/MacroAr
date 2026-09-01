@@ -28,6 +28,19 @@ function formatFecha(fechaStr, serie = null) {
   return `${d}/${m}/${y.slice(2)}`;
 }
 
+// Etiqueta de un tick del eje Y de Chart.js. Cuando el paso entre ticks es
+// menor a 1 (rangos de valores chicos: variación % diaria, o cualquier serie
+// acotada a un período corto), redondear siempre a 0 decimales hace que ticks
+// distintos (4.5 y 4) se muestren con la misma etiqueta ("4"); se necesitan
+// hasta 2 decimales en ese caso.
+function formatTickEje(valor, ticksVecinos) {
+  const paso = ticksVecinos && ticksVecinos.length > 1
+    ? Math.abs(ticksVecinos[1].value - ticksVecinos[0].value)
+    : 0;
+  const decimales = paso > 0 && paso < 1 ? 2 : 0;
+  return valor.toLocaleString('es-AR', { maximumFractionDigits: decimales });
+}
+
 function isoHoy() { return new Date().toISOString().split('T')[0]; }
 function isoHace(dias) {
   const d = new Date();
@@ -324,7 +337,7 @@ function regresionLineal(x, y) {
 
 // Doble export: en Node se importan; en el browser quedan como globales.
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { formatFecha, isoHoy, isoHace, agregarDatos, transformarEmae,
+  module.exports = { formatFecha, formatTickEje, isoHoy, isoHace, agregarDatos, transformarEmae,
                      pearson, crossCorrelation, normalizar, alinearSeries,
                      pValorT, pValorF, regresionLineal };
 }
