@@ -2,7 +2,7 @@
 // Correr: node --test
 const { test } = require('node:test');
 const assert = require('node:assert');
-const { formatFecha, isoHace, agregarDatos, transformarEmae,
+const { formatFecha, formatTickEje, isoHace, agregarDatos, transformarEmae,
         pearson, crossCorrelation, normalizar, alinearSeries,
         pValorT, pValorF, regresionLineal } = require('../lib.js');
 
@@ -37,6 +37,32 @@ test('formatFecha: formato largo de 7 chars -> mes año', () => {
 test('formatFecha: trimestre y año se respetan', () => {
   assert.strictEqual(formatFecha('2023-Q1'), '2023 T1');
   assert.strictEqual(formatFecha('2024'), '2024');
+});
+
+// ─── formatTickEje ────────────────────────────────────────────────────────────
+// Regression: ISSUE-001 — con rangos de valores chicos (ej. variación % diaria,
+// o cualquier serie acotada a un período corto) Chart.js elige un paso entre
+// ticks menor a 1 (0.5, 0.25...); redondear siempre a 0 decimales hacía que
+// ticks distintos (4.5 y 4) se mostraran con la misma etiqueta ("4").
+// Found by /qa on 2026-09-01
+// Report: .gstack/qa-reports/qa-report-macroar-com-ar-2026-09-01.md
+
+test('formatTickEje: paso menor a 1 muestra decimales (bug de etiquetas duplicadas)', () => {
+  const ticks = [{ value: 0 }, { value: 0.5 }];
+  assert.strictEqual(formatTickEje(4.5, ticks), '4,5');
+  assert.strictEqual(formatTickEje(4, ticks), '4');
+  assert.strictEqual(formatTickEje(3.5, ticks), '3,5');
+});
+
+test('formatTickEje: paso entero no agrega decimales', () => {
+  const ticks = [{ value: 0 }, { value: 10000 }];
+  assert.strictEqual(formatTickEje(40000, ticks), '40.000');
+});
+
+test('formatTickEje: un solo tick (o ninguno) no rompe', () => {
+  assert.strictEqual(formatTickEje(5, [{ value: 5 }]), '5');
+  assert.strictEqual(formatTickEje(5, []), '5');
+  assert.strictEqual(formatTickEje(5, undefined), '5');
 });
 
 // ─── agregarDatos ───────────────────────────────────────────────────────────
