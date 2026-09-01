@@ -514,7 +514,8 @@ body > * { min-width: 0; }
 .btn-back:hover { color: #2563eb; text-decoration: underline; }
 
 /* ── Contacto ────────────────────────────────────────────── */
-.contacto-section { width: 100%; max-width: 1200px; margin: 0 auto; padding: 2.5rem 2rem 4rem; }
+/* max-width 1264 = 1200 + 2*2rem de padding propio, ver comentario en .lab-section */
+.contacto-section { width: 100%; max-width: 1264px; margin: 0 auto; padding: 2.5rem 2rem 4rem; }
 .contacto-inner {
   display: grid;
   grid-template-columns: 1.6fr 1fr;
@@ -1395,7 +1396,8 @@ html, body { overflow-x: hidden; }
 .ctor-avanzado-grid { margin-bottom: 0; }
 
 /* ─── Informes (/reportes) ─────────────────────────────────────────── */
-.reportes-section { width: 100%; max-width: 1200px; margin: 0 auto; padding: 2.5rem 2rem 4rem; }
+/* max-width 1264 = 1200 + 2*2rem de padding propio, ver comentario en .lab-section */
+.reportes-section { width: 100%; max-width: 1264px; margin: 0 auto; padding: 2.5rem 2rem 4rem; }
 
 .reportes-grid {
   display: grid;
