@@ -1487,6 +1487,7 @@ html, body { overflow-x: hidden; }
 .reporte-cuerpo td { padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--border); }
 .reporte-cuerpo tr:nth-child(even) td { background: var(--bg); }
 .reporte-cuerpo li input[type="checkbox"] { margin-right: 0.4rem; }
+.reporte-cuerpo img { max-width: 100%; height: auto; display: block; margin: 1rem auto 1.4rem; border-radius: 6px; }
 .reporte-cuerpo { overflow-x: auto; }
 .reporte-cuerpo table { display: block; overflow-x: auto; }
 
