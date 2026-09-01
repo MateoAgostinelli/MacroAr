@@ -3,34 +3,30 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Evolución del PIB (REM) — MacroAr</title>
-  <meta name="description" content="Evolución esperada del PIB de Argentina según el REM del BCRA: proyecciones de crecimiento de los analistas, serie histórica.">
-  <link rel="canonical" href="https://macroar.com.ar/indicador/rem-pib">
+  <title>Informes — MacroAr | Informe semanal de la economía argentina</title>
+  <meta name="description" content="Informe semanal de MacroAr: el hecho macroeconómico más relevante de la semana, contrastado con los indicadores en tiempo real. Leelo online o descargalo en PDF.">
+  <link rel="canonical" href="https://macroar.com.ar/reportes">
   <meta name="theme-color" content="#1c3c63">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-  <meta property="og:type" content="article">
+  <meta property="og:type" content="website">
   <meta property="og:site_name" content="MacroAr">
   <meta property="og:locale" content="es_AR">
-  <meta property="og:url" content="https://macroar.com.ar/indicador/rem-pib">
-  <meta property="og:title" content="Evolución del PIB (REM) — MacroAr">
-  <meta property="og:description" content="Evolución esperada del PIB de Argentina según el REM del BCRA: proyecciones de crecimiento de los analistas, serie histórica.">
+  <meta property="og:url" content="https://macroar.com.ar/reportes">
+  <meta property="og:title" content="Informes — MacroAr">
+  <meta property="og:description" content="Informe semanal de MacroAr: el hecho macroeconómico más relevante de la semana, contrastado con los indicadores en tiempo real.">
   <meta property="og:image" content="https://macroar.com.ar/og-image.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Evolución del PIB (REM) — MacroAr">
-  <meta name="twitter:description" content="Evolución esperada del PIB de Argentina según el REM del BCRA: proyecciones de crecimiento de los analistas, serie histórica.">
+  <meta name="twitter:title" content="Informes — MacroAr">
+  <meta name="twitter:description" content="Informe semanal de MacroAr sobre la economía argentina.">
   <meta name="twitter:image" content="https://macroar.com.ar/og-image.png">
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Evolución del PIB (REM)","description":"Evolución esperada del PIB de Argentina según el REM del BCRA: proyecciones de crecimiento de los analistas, serie histórica.","url":"https://macroar.com.ar/indicador/rem-pib","publisher":{"@type":"Organization","name":"MacroAr","url":"https://macroar.com.ar"},"spatialCoverage":"Argentina","inLanguage":"es-AR"}</script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/style.css">
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8/hammer.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2.0.1/dist/chartjs-plugin-zoom.min.js"></script>
 </head>
-<body class="page-detalle" data-serie-id="rem-pib">
+<body class="page-reportes">
 
   <!-- Navbar -->
   <nav class="navbar">
@@ -39,7 +35,7 @@
       <div class="nav-links">
         <a href="/datos">Datos</a>
         <a href="/editor">Gráficos</a>
-        <a href="/reportes">Informes</a>
+        <a href="/reportes" style="color: var(--teal-dark); font-weight: 600;">Informes</a>
         <a href="/contacto">Contacto</a>
       </div>
       <div class="nav-actions"><a class="nav-cta" href="/laboratorio">Laboratorio</a></div>
@@ -56,14 +52,26 @@
     <a href="/laboratorio" class="nav-mobile-cta">Laboratorio</a>
   </nav>
 
-  <!-- Contenedor principal de la vista detallada -->
-  <main class="detalle-container" id="detalle-container">
-    <a href="/datos" class="btn-back" id="btn-back">← Volver atrás</a>
-    <div id="detalle-content">
-      <h1 class="detalle-titulo-static">Evolución del PIB (REM)</h1>
-      <p class="detalle-desc-static">Evolución esperada del PIB de Argentina según el REM del BCRA: proyecciones de crecimiento de los analistas, serie histórica.</p>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-shapes" aria-hidden="true"><span class="hs hs-line"></span><span class="hs hs-sol"></span><span class="hs hs-navy"></span><span class="hs hs-celeste"></span></div>
+    <div class="hero-inner">
+      <div class="hero-text">
+        <p class="hero-eyebrow">Informe semanal</p>
+        <h1>Informes de <em>MacroAr</em></h1>
+        <p class="hero-sub">El hecho macroeconómico más relevante de la semana, contrastado con los indicadores en tiempo real. Leelo acá o descargalo en PDF.</p>
+      </div>
     </div>
-  </main>
+  </section>
+
+  <!-- Listado de informes -->
+  <section class="reportes-section">
+    <div class="reportes-grid" id="reportes-grid">
+      <!-- LISTA_INFORMES:INICIO -->
+      <p class="reportes-vacio">Todavía no publicamos ningún informe acá — el próximo informe semanal va a aparecer en esta sección.</p>
+      <!-- LISTA_INFORMES:FIN -->
+    </div>
+  </section>
 
   <!-- Footer -->
   <footer id="fuentes">
@@ -72,6 +80,7 @@
       <p class="footer-desc">Visualización de datos macroeconómicos de Argentina.</p>
       <div class="footer-links">
         <a href="/laboratorio">Laboratorio</a>
+        <a href="/editor">Gráficos</a>
         <a href="/contacto">Contacto</a>
         <a href="https://www.bcra.gob.ar" target="_blank">BCRA</a>
         <a href="https://apis.datos.gob.ar/series" target="_blank">datos.gob.ar</a>
@@ -80,7 +89,5 @@
     </div>
   </footer>
 
-  <script src="/lib.js"></script>
-  <script src="/app.js"></script>
 </body>
 </html>

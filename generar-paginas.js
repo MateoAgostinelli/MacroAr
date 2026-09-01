@@ -77,6 +77,7 @@ function plantilla(serie) {
       <div class="nav-links">
         <a href="/datos">Datos</a>
         <a href="/editor">Gráficos</a>
+        <a href="/reportes">Informes</a>
         <a href="/contacto">Contacto</a>
       </div>
       <div class="nav-actions"><a class="nav-cta" href="/laboratorio">Laboratorio</a></div>
@@ -88,6 +89,7 @@ function plantilla(serie) {
   <nav class="nav-mobile" id="nav-mobile" aria-label="Menú mobile">
     <a href="/datos">Datos</a>
     <a href="/editor">Gráficos</a>
+    <a href="/reportes">Informes</a>
     <a href="/contacto">Contacto</a>
     <a href="/laboratorio" class="nav-mobile-cta">Laboratorio</a>
   </nav>
@@ -142,6 +144,7 @@ const urls = [
   { loc: `${BASE_URL}/datos`,       freq: 'daily',   prio: '0.8' },
   { loc: `${BASE_URL}/laboratorio`, freq: 'weekly',  prio: '0.7' },
   { loc: `${BASE_URL}/editor`, freq: 'weekly',  prio: '0.7' },
+  { loc: `${BASE_URL}/reportes`, freq: 'weekly',  prio: '0.7' },
   { loc: `${BASE_URL}/contacto`,    freq: 'monthly', prio: '0.5' },
   ...slugs.map(s => ({ loc: `${BASE_URL}/indicador/${s}`, freq: 'daily', prio: '0.7' })),
 ];
