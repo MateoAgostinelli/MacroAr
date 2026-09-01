@@ -1072,7 +1072,15 @@ function renderChart(serie, datos) {
         y: {
           ticks: {
             font: { size: 10 },
-            callback: v => v.toLocaleString('es-AR', { maximumFractionDigits: 0 }),
+            // Con rangos chicos (ej. variación % diaria, o cualquier serie acotada
+            // a un período corto) Chart.js elige un paso entre ticks menor a 1
+            // (0.5, 0.25...); redondear siempre a 0 decimales hacía que ticks
+            // distintos ("4.5" y "4") se mostraran con la misma etiqueta ("4").
+            callback: (v, i, ticks) => {
+              const paso = ticks.length > 1 ? Math.abs(ticks[1].value - ticks[0].value) : 0;
+              const decimales = paso > 0 && paso < 1 ? 2 : 0;
+              return v.toLocaleString('es-AR', { maximumFractionDigits: decimales });
+            },
           },
           grid:   { color: '#f1f5f9' },
           border: { display: false },
