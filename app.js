@@ -1065,7 +1065,10 @@ function renderChart(serie, datos) {
       },
       scales: {
         x: {
-          ticks:  { maxTicksLimit: 6, maxRotation: 0, font: { size: 10 } },
+          // Las tarjetas mini (home, "Indicadores destacados") son mucho más
+          // angostas que el gráfico de detalle; con el mismo límite de 6 ticks
+          // las fechas se superponen y quedan ilegibles.
+          ticks:  { maxTicksLimit: enDetalle ? 6 : 4, maxRotation: 0, font: { size: 10 } },
           grid:   { display: false },
           border: { display: false },
         },
