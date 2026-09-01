@@ -1472,6 +1472,33 @@ html, body { overflow-x: hidden; }
 }
 .reporte-descarga:hover { background: var(--teal-dark); }
 
+/* Cabecera "de consultoría" — la misma franja de colores y el branding que
+   lleva el PDF, para que la versión web se vea con la misma identidad. */
+.reporte-cabecera { margin: 1.25rem 0 0; }
+.reporte-franja { display: flex; width: 100%; height: 4px; border-radius: 3px 3px 0 0; overflow: hidden; }
+.reporte-franja span { flex: 1; }
+.reporte-franja span:nth-child(1) { background: var(--border); }
+.reporte-franja span:nth-child(2) { background: var(--teal); }
+.reporte-franja span:nth-child(3) { background: var(--sol); }
+.reporte-franja span:nth-child(4) { background: var(--teal-dark); }
+.reporte-franja span:nth-child(5) { background: var(--navy); }
+.reporte-franja span:nth-child(6) { background: var(--dark); }
+.reporte-cabecera-fila {
+  display: flex; justify-content: space-between; align-items: flex-end;
+  padding: 0.6rem 0 0.7rem; border-bottom: 1px solid var(--border);
+}
+.reporte-cabecera-cat {
+  font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 0.78rem;
+  letter-spacing: 1px; text-transform: uppercase; color: var(--ink);
+}
+.reporte-cabecera-logo { text-align: right; }
+.reporte-cabecera-logo-txt { font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 1rem; color: var(--ink); }
+.reporte-cabecera-logo-txt span { color: var(--teal-dark); }
+.reporte-cabecera-tagline {
+  display: block; font-size: 0.68rem; letter-spacing: 1.2px; text-transform: uppercase;
+  color: var(--muted); margin-top: 0.15rem;
+}
+
 .reporte-cuerpo h1 { font-size: 1.4rem; color: var(--navy); border-bottom: 2px solid var(--teal); padding-bottom: 0.4rem; margin: 2rem 0 1rem; }
 .reporte-cuerpo h1:first-child { margin-top: 0; }
 .reporte-cuerpo h2 { font-family: 'Poppins', sans-serif; font-size: 1.15rem; color: var(--ink); margin: 1.6rem 0 0.7rem; }

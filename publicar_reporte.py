@@ -140,6 +140,18 @@ def construir_pagina_html(titulo, meta_dict, slug, cuerpo_html):
 
   <main class="reporte-detalle">
     <a href="/reportes" class="btn-back" id="btn-back">← Volver a Informes</a>
+
+    <div class="reporte-cabecera">
+      <div class="reporte-franja"><span></span><span></span><span></span><span></span><span></span><span></span></div>
+      <div class="reporte-cabecera-fila">
+        <div class="reporte-cabecera-cat">Informe de consultoría</div>
+        <div class="reporte-cabecera-logo">
+          <span class="reporte-cabecera-logo-txt">Macro<span>Ar</span></span>
+          <span class="reporte-cabecera-tagline">Análisis macroeconómico</span>
+        </div>
+      </div>
+    </div>
+
     <h1 style="font-family:'Poppins',sans-serif; font-size:1.8rem; color:var(--navy); margin:1.25rem 0 0.5rem;">{titulo}</h1>
     <div class="reporte-meta-top">
       <span><strong>Fecha:</strong> {fecha}</span>
