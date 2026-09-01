@@ -73,8 +73,9 @@ function plantilla(serie) {
   <!-- Navbar -->
   <nav class="navbar">
     <div class="nav-inner">
-      <a href="/" class="nav-logo" aria-label="MacroAr — ir al inicio">Macro<span>Ar</span></a>
+      <span class="nav-logo">Macro<span>Ar</span></span>
       <div class="nav-links">
+        <a href="/">Inicio</a>
         <a href="/datos">Datos</a>
         <a href="/reportes">Informes</a>
         <a href="/contacto">Contacto</a>
@@ -86,6 +87,7 @@ function plantilla(serie) {
     </div>
   </nav>
   <nav class="nav-mobile" id="nav-mobile" aria-label="Menú mobile">
+    <a href="/">Inicio</a>
     <a href="/datos">Datos</a>
     <a href="/reportes">Informes</a>
     <a href="/contacto">Contacto</a>
