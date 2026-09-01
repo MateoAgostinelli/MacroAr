@@ -267,20 +267,10 @@
     </p>
   </section>
 
-  <!-- Detección de la pestaña inicial (antes de que corran laboratorio.js/editor.js,
-       para que el que va a quedar activo arranque con su canvas ya visible). -->
-  <script>
-    (function () {
-      var p = new URLSearchParams(location.hash.slice(1));
-      var inicial = p.has('s') ? 'graficos' : 'correlaciones';
-      window.__labTabActiva = inicial;
-      document.getElementById('tab-' + inicial).hidden = false;
-      document.getElementById('tab-' + (inicial === 'graficos' ? 'correlaciones' : 'graficos')).hidden = true;
-      document.querySelectorAll('.lab-tab').forEach(function (btn) {
-        btn.classList.toggle('active', btn.dataset.tab === inicial);
-      });
-    })();
-  </script>
+  <!-- Detección de la pestaña inicial y clicks de las pestañas (antes de que
+       corran laboratorio.js/editor.js, para que el que va a quedar activo
+       arranque con su canvas ya visible). -->
+  <script src="/lab-tabs.js"></script>
 
   <!-- Footer -->
   <footer id="fuentes">
@@ -302,24 +292,5 @@
   <script src="/app.js"></script>
   <script src="/laboratorio.js"></script>
   <script src="/editor.js"></script>
-  <script>
-    // Cambio de pestaña: solo alterna qué panel se ve y avisa a los gráficos
-    // que su contenedor cambió de tamaño (Chart.js no redibuja solo un canvas
-    // que estuvo oculto con display:none al momento de crearse).
-    document.querySelectorAll('.lab-tab').forEach(function (btn) {
-      btn.addEventListener('click', function () {
-        var tab = btn.dataset.tab;
-        window.__labTabActiva = tab;
-        document.querySelectorAll('.lab-tab').forEach(function (b) { b.classList.toggle('active', b === btn); });
-        document.getElementById('tab-correlaciones').hidden = (tab !== 'correlaciones');
-        document.getElementById('tab-graficos').hidden = (tab !== 'graficos');
-        window.dispatchEvent(new Event('resize'));
-        // Fuerza a que la pestaña recién activada actualice el link
-        // compartible con su propio estado (hasta ahora bloqueado por el
-        // guard de window.__labTabActiva mientras estaba inactiva).
-        window.dispatchEvent(new HashChangeEvent('hashchange'));
-      });
-    });
-  </script>
 </body>
 </html>
