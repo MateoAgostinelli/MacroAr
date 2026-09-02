@@ -1,5 +1,68 @@
 [
   {
+    "fecha": "2026-09-02",
+    "titulo": "Duras críticas de la UIA al Gobierno: \"Esta gente no sabe lo que es una fábrica\"",
+    "resumen": "El vicepresidente de la entidad, Guillermo Moretti, cuestionó el rumbo de las políticas de Javier Milei para el sector. Aseguró que el ministro Luis Caputo es \"un endeudador, un trader que no sabe lo que es un torno\".",
+    "link": "https://www.ambito.com/economia/el-vicepresidente-la-uia-duro-contra-el-gobierno-esta-gente-no-sabe-lo-que-es-una-fabrica-n6317619",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-02",
+    "titulo": "Salario mínimo: cómo serán los aumentos escalonados hasta abril de 2027, mes a mes",
+    "resumen": "El cronograma de actualizaciones mensuales fijado por el Gobierno se aplicará desde septiembre de 2026 de forma continua hasta alcanzar el techo acordado en 2027.",
+    "link": "https://www.ambito.com/economia/salario-minimo-como-seran-los-aumentos-escalonados-abril-2027-mes-mes-n6317568",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-02",
+    "titulo": "Tras su paso por el G20, Luis Caputo aseguró que ni EEUU, ni el FMI están preocupados por la economía argentina",
+    "resumen": "El ministro de Economía destacó su encuentro con Scott Bessent y afirmó que el Gobierno cumplirá las metas fiscales acordadas con el organismo.",
+    "link": "https://www.ambito.com/economia/tras-su-paso-el-g20-luis-caputo-aseguro-que-ni-eeuu-ni-el-fmi-estan-preocupados-la-argentina-n6317560",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-02",
+    "titulo": "Exportaciones de carne alcanzaron su máximo nivel en una década y ya generaron u$s3.464 millones en 2026",
+    "resumen": "El valor de los envíos de proteínas animales creció 35% interanual. La carne bovina concentró la mayor parte de las ventas, mientras que el complejo porcino registró el mayor salto porcentual.",
+    "link": "https://www.ambito.com/economia/exportaciones-carne-alcanzaron-su-maximo-nivel-una-decada-y-ya-generaron-us3464-millones-2026-n6317526",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-02",
+    "titulo": "Acuicultura: el Senasa establece nuevas reglas de bioseguridad para la producción comercial de peces",
+    "resumen": "El organismo aprobó condiciones mínimas y Buenas Prácticas Acuícolas para los establecimientos dedicados a la producción de peces para consumo. La norma fija requisitos de infraestructura, controles sanitarios, registros y protocolos ante enfermedades.",
+    "link": "https://www.ambito.com/economia/acuicultura-el-senasa-establece-nuevas-reglas-bioseguridad-la-produccion-comercial-peces-n6317485",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-02",
+    "titulo": "El Gobierno fijó un nuevo salario mínimo en septiembre: cuánto aumenta y cómo serán las subas escalonadas mes a mes hasta abril de 2027",
+    "resumen": "Tras el fracaso de la negociación entre empresarios y sindicatos, el Poder Ejecutivo estableció por resolución los nuevos valores del Salario Mínimo, Vital y Móvil. El piso será de $383.800 en septiembre y llegará a $437.000 en abril del próximo año.",
+    "link": "https://www.ambito.com/economia/el-gobierno-fijo-un-nuevo-salario-minimo-septiembre-cuanto-aumenta-y-como-seran-las-subas-escalonadas-mes-mes-abril-2027-n6317483",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-02",
+    "titulo": "Dólar vs tasas: ¿actividad como objetivo central o \"prueba y error\" hasta encontrar un equilibrio?",
+    "resumen": "Desde la semana pasada aparecieron tibias señales de un relajamiento en el \"apretón monetario\". En ese marco, en la city debaten si se trata de un viraje hacia una estrategia que le de más prioridad a la actividad económica y menos a la estabilidad cambiaria.",
+    "link": "https://www.ambito.com/economia/dolar-vs-tasas-actividad-como-objetivo-central-o-prueba-y-error-encontrar-un-equilibrio-dolar-y-tasas-n6317417",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-02",
+    "titulo": "EEUU: ¿cuáles son los bancos que más ganarían con el plan Scott Bessent-Kevin Warsh?",
+    "resumen": "Una iniciativa oficial sobre normas bancarias podría implicar un giro inesperado en el Tesoro de la mano de Kevin Warsh y Scott Bessent, con impacto en el mercado de deuda.",
+    "link": "https://www.ambito.com/economia/eeuu-cuales-son-los-bancos-que-mas-ganarian-el-plan-bessent-warsh-n6317461",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-02",
+    "titulo": "Anticipan que en agosto se redujo la mora de las familias",
+    "resumen": "Los números que circulan por la City muestran una leve mejora durante el mes pasado. Sin embargo, el nivel de incumplimiento continúa en máximos de los últimos años.",
+    "link": "https://www.ambito.com/economia/anticipan-que-agosto-se-redujo-la-mora-las-familias-n6317468",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-09-01",
     "titulo": "Comenzó a regir el nuevo aumento en el transporte: cuánto cuesta viajar en colectivo, tren y subte en el AMBA",
     "resumen": "Con el inicio del nuevo mes, aumentaron las tarifas del transporte público que circula por la Ciudad y el conurbano bonaerense. De cuánto es el boleto mínimo.",
@@ -74,6 +137,83 @@
     "titulo": "Fase II Milei-Caputo: por qué vender su empresa puede ser la jugada para reinventarse",
     "resumen": "¿Qué vale más, aferrarse al timón de un barco que hace agua, o vender el barco mientras todavía flota?",
     "link": "https://www.ambito.com/economia/fase-ii-milei-caputo-que-vender-su-empresa-puede-ser-la-jugada-reinventarse-n6316948",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-01",
+    "titulo": "¿Cuánto cuesta ir al Mundial 2030 y cómo ahorrar para asistir?",
+    "resumen": "Viajar a la próxima Copa puede costar miles de dólares entre las entradas, los vuelos y la estadía, así que te conviene empezar a planificar desde ahora.",
+    "link": "https://www.ambito.com/economia/cuanto-cuesta-ir-al-mundial-2030-y-como-ahorrar-asistir-n6317127",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-01",
+    "titulo": "Créditos hipotecarios en Mendoza: ¿cuánto cuesta comprar un departamento en 2026?",
+    "resumen": "La ubicación, antigüedad, características y estado son importantes para evaluar cuál es la mejor oportunidad.",
+    "link": "https://www.ambito.com/economia/creditos-hipotecarios-mendoza-cuanto-cuesta-comprar-un-departamento-2026-n6317143",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-01",
+    "titulo": "La recaudación de impuestos sumó dos meses sin caídas y alcanzó los $20,5 billones en agosto",
+    "resumen": "Los ingresos tributarios mostraron estabilidad en el octavo mes del año, en parte, debido a las postergaciones del vencimiento del Impuesto a las Ganancias. El IVA, en cambio, siguió mostrando una tendencia declinante.",
+    "link": "https://www.ambito.com/la-recaudacion-impuestos-sumo-dos-meses-caidas-y-alcanzo-los-205-billones-agosto-n6317383",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-01",
+    "titulo": "Buenos Aires será sede del X Foro PyMEs Italia–América Latina",
+    "resumen": "El encuentro internacional se realizará el 7 y 8 de septiembre y reunirá a más de 500 empresarios e industriales de Argentina e Italia para impulsar inversiones, cooperación y la integración de pymes a cadenas de valor estratégicas.",
+    "link": "https://www.ambito.com/economia/buenos-aires-sera-sede-del-x-foro-pymes-italiaamerica-latina-n6317381",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-01",
+    "titulo": "El primer ministro de Canadá le reclamó a EEUU seriedad para continuar las negociaciones comerciales",
+    "resumen": "Luego del abandono de las negociaciones, Trump criticó a Canadá y difundió una imagen generada por IA con gansos canadienses bajo la bandera de EEUU. Carney aseguró que EEUU debe dejar de lado las provocaciones y respeta la soberanía canadiense.",
+    "link": "https://www.ambito.com/economia/el-primer-ministro-canada-le-reclamo-eeuu-seriedad-continuar-las-negociaciones-comerciales-n6317275",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-01",
+    "titulo": "El Gobierno propuso un aumento salarial bimestral del 6% a docentes universitarios, pero fue rechazado",
+    "resumen": "La oferta contempla un 3% para septiembre y otro 3% para octubre. FEDUBA la consideró insuficiente y convocó a un paro de 24 horas para este miércoles.",
+    "link": "https://www.ambito.com/economia/el-gobierno-propuso-un-aumento-salarial-del-6-docentes-universitarios-n6317312",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-01",
+    "titulo": "Nueva venta masiva de bonos soberanos de EEUU: las últimas señales de la Fed complican la estrategia del Tesoro",
+    "resumen": "Además de las preocupaciones por el petróleo, el gasto fiscal y el riesgo inflacionario, el nuevo \"estilo\" del presidente de la Reserva Federal suma incertidumbre a los mercados de deuda estadounidense.",
+    "link": "https://www.ambito.com/economia/nueva-venta-masiva-bonos-soberanos-eeuu-las-ultimas-senales-la-fed-complican-la-estrategia-del-tesoro-n6317265",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-01",
+    "titulo": "Plazo fijo: cuánto gano si invierto $2.500.000 durante 60 días",
+    "resumen": "Con una tasa del 20,25% anual, una colocación de con ese monto durante dos meses permite conocer de antemano el interés estimado.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-gano-si-invierto-2500000-60-dias-n6317251",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-01",
+    "titulo": "Cómo eligen los argentinos un crédito: el costo financiero total lidera por encima de la cuota y la tasa",
+    "resumen": "El 62% de los argentinos prioriza pagar la menor cantidad de intereses al elegir un crédito, mientras que el valor de la cuota mensual queda en un segundo plano con apenas el 14%. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/como-eligen-los-argentinos-un-credito-el-costo-financiero-total-lidera-encima-la-cuota-y-la-tasa-n6317225",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-01",
+    "titulo": "Día de la Industria: la UIA hará su acto en el Gran Buenos Aires en un clima de tensión con el Gobierno",
+    "resumen": "El principal invitado del Ejecutivo será el jefe de Gabinete, Diego Santilli. Por el equipo económico, irá el secretario Pablo Lavigne. En el primer semestre la actividad industrial bajó 2,2%. Este año, prevén un saldo de 3.000 empresas industriales menos.",
+    "link": "https://www.ambito.com/economia/dia-la-industria-la-uia-hara-su-acto-el-gran-buenos-aires-un-clima-tension-el-gobierno-n6317172",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-01",
+    "titulo": "Cuenta DNI renovó sus promociones en septiembre 2026 y vuelve un viejo reintegro",
+    "resumen": "La billetera virtual del Banco Provincia actualizó sus beneficios para el nuevo mes con el regreso de una esperada promoción semanal.",
+    "link": "https://www.ambito.com/economia/cuenta-dni-renovo-sus-promociones-septiembre-2026-y-vuelve-un-viejo-reintegro-n6317190",
     "fuente": "ambito"
   },
   {
