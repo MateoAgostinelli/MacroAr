@@ -180,6 +180,8 @@ def construir_pagina_html(titulo, meta_dict, slug, cuerpo_html):
     </div>
   </footer>
 
+  <script src="/lib.js"></script>
+  <script src="/app.js"></script>
 </body>
 </html>
 """

@@ -1649,10 +1649,15 @@ function loadAll() {
   // editor.js); app.js solo aporta SERIES + obtenerDatosSerie.
   if (isLabPage || isConstructorPage) return;
 
-  _bluelyticsCache = null;
-
   const grid = document.getElementById('grid');
   const catContainer = document.getElementById('categories-container');
+
+  // Páginas como /contacto o /reportes cargan app.js solo para el dropdown
+  // de "Datos" del nav (construirNavDatos, más abajo); no tienen ningún
+  // contenedor de gráficos, así que no hay nada más que cargar acá.
+  if (!grid && !catContainer && !document.getElementById('hero-stats') && !document.getElementById('detalle-content')) return;
+
+  _bluelyticsCache = null;
 
   if (grid) grid.innerHTML = '';
   if (catContainer) catContainer.innerHTML = '';
