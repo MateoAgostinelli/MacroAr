@@ -995,6 +995,10 @@ footer {
   /* En mobile las formas diagonales taparían el título: las ocultamos */
   .hero-shapes { display: none; }
   .hero-text h1 { font-size: 2rem; }
+  /* Centrado: sin las formas diagonales de fondo, el texto quedaba pegado
+     al borde izquierdo con un vacío grande a la derecha. */
+  .hero-text { text-align: center; }
+  .hero-ctas { justify-content: center; }
 }
 
 /* ── Laboratorio ─────────────────────────────────────────── */
