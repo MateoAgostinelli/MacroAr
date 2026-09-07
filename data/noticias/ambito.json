@@ -1,50 +1,141 @@
 [
   {
+    "fecha": "2026-09-07",
+    "titulo": "Vuelven los créditos hipotecarios para monotributistas: requisitos y mejores alternativas",
+    "resumen": "Varios bancos ofrecen créditos para monotributistas y dan la opción de juntar facturas para demostrar mejores ingresos.",
+    "link": "https://www.ambito.com/economia/vuelven-los-creditos-hipotecarios-monotributistas-requisitos-y-mejores-alternativas-n6319330",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "La venta de nafta se hundió a su nivel más bajo desde 2023, mientras el impuesto al combustible subió 1.387%",
+    "resumen": "Las ventas retrocedieron a 5.667 millones de litros en lo que va del año. En CABA, el componente impositivo por litro escala a $411 sobre un precio final de $2.045. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/la-venta-nafta-se-hundio-su-nivel-mas-2023-mientras-el-impuesto-al-combustible-subio-1387-n6319409",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "Inocencia Fiscal II: se aproxima el nuevo vencimiento de Ganancias y apremian los plazos del Senado",
+    "resumen": "Los dólares siguen en el colchón. La cámara alta empieza a tratar en comisión los cambios aprobados en Diputados. Quedan dos semanas para presentar las declaraciones juradas de 2025.",
+    "link": "https://www.ambito.com/economia/inocencia-fiscal-ii-se-aproxima-el-nuevo-vencimiento-ganancias-y-apremian-los-plazos-del-senado-n6319279",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "Cuánto cuesta tramitar el DNI y el Pasaporte en Argentina en septiembre 2026",
+    "resumen": "Los aranceles varían según la gestión y la rapidez requerida, con alternativas que van desde la modalidad regular hasta opciones exprés.",
+    "link": "https://www.ambito.com/economia/cuanto-cuesta-tramitar-el-dni-y-el-pasaporte-argentina-septiembre-2026-n6319269",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "China inyecta u$s54.000 millones a los principales bancos y aseguradoras para impulsar el sector financiero",
+    "resumen": "A través del Ministerio de Hacienda, el gobierno chino lanzó un plan atípico de capitalización para ocho gigantes del sector. La medida busca reducir riesgos, dinamizar el consumo y alinear las entidades a las exigencias globales.",
+    "link": "https://www.ambito.com/economia/china-inyecta-us54000-millones-los-principales-bancos-y-aseguradoras-impulsar-el-sector-financiero-n6319294",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "Los tres consejos de Domingo Cavallo a Javier Milei para el dólar, las reservas y cómo reactivar la economía",
+    "resumen": "El exministro señaló que el rumbo económico del gobierno de Javier Milei es correcto, pero es vital combinar la lucha contra la inflación con la reactivación de la economía. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/los-tres-consejos-domingo-cavallo-javier-milei-el-dolar-las-reservas-y-como-reactivar-la-n6319245",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "La petrolera de Vaca Muerta que apuesta por Venezuela",
+    "resumen": "Con la adquisición del bloque Bare, GeoPark apuesta fuerte por uno de los grandes activos de la Faja del Orinoco. La firma, que también tiene presencia en la cuenca patagónica, proyecta multiplicar su producción hacia 2030 y vuelve a captar la atención del mercado. Cómo le fue...",
+    "link": "https://www.ambito.com/economia/la-petrolera-vaca-muerta-que-apuesta-venezuela-n6319172",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "Javier Milei pisa el acelerador y redobla la ortodoxia económica frente al desafío electoral del 2027",
+    "resumen": "El Presidente reafirma su decisión de no cambiar \"ni la política fiscal ni monetaria\" y asegura que mantendrá el rumbo sin concesiones electorales. Este lunes encabeza nueva reunión de Gabinete.",
+    "link": "https://www.ambito.com/economia/milei-pisa-el-acelerador-n6319191",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "Hay vida más allá de los bonos: la economía de EEUU no se come la curva y crea el triple de los empleos esperados",
+    "resumen": "La actividad crece, pero los mercados desconfían. La guerra en Irán, la deuda, la inflación y la presión de Donald Trump ponen a Kevin Warsh ante su primera gran batalla en la Fed.",
+    "link": "https://www.ambito.com/economia/hay-vida-mas-alla-los-bonos-la-eeuu-no-se-come-la-curva-y-crea-el-triple-los-empleos-esperados-n6319187",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-09-06",
-    "titulo": "Las ventas minoristas pyme cayeron 0,2% interanual en agosto y acumulan baja de 2,4% en lo que va del año",
-    "resumen": "<p id=\"p-1788702181043-92621\" class=\"ignore-parser\">El consumo volvió a mostrar así otro dato negativo. El menor poder adquisitivo, el aumento de las tarifas y el endeudamiento familiar profundizaron la cautela de los consumidores.</p>",
+    "titulo": "El consumo sigue sin repuntar: las ventas minoristas pyme cayeron en agosto y acumulan una baja del 2,4% en 2026",
+    "resumen": "El consumo volvió a mostrar otro dato negativo. El menor poder adquisitivo, el aumento de las tarifas y el endeudamiento familiar profundizaron la cautela de los consumidores.",
     "link": "https://www.ambito.com/economia/las-ventas-minoristas-pyme-cayeron-02-interanual-agosto-y-acumulan-baja-24-lo-que-va-del-ano-n6319046",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "Inflación de agosto: el mercado espera que perfore el 2%",
-    "resumen": "<p id=\"p-1788697327148-52686\" class=\"ignore-parser\">El mercado espera que el IPC de agosto marque uno de los registros más bajos del año. El REM proyectó 1,7% para el mes y un rango de entre 1,6% y 1,8% hasta febrero.</p>",
+    "resumen": "El mercado espera que el IPC de agosto marque uno de los registros más bajos del año. El REM proyectó 1,7% para el mes y un rango de entre 1,6% y 1,8% hasta febrero.",
     "link": "https://www.ambito.com/economia/inflacion-agosto-el-mercado-espera-que-perfore-el-2-n6319028",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "Créditos hipotecarios UVA: ¿cuánto cuesta la cuota para una propiedad de USD 75.000?",
-    "resumen": "<p id=\"p-1788440040218-6654\" class=\"ignore-parser\">Los nuevos préstamos permiten financiar hasta el total de un hogar, pero hay que calcular cuánto habría que pagar por mes y qué ingresos exige el sistema.</p>",
+    "resumen": "Los nuevos préstamos permiten financiar hasta el total de un hogar, pero hay que calcular cuánto habría que pagar por mes y qué ingresos exige el sistema.",
     "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-cuanto-cuesta-la-cuota-una-propiedad-usd-75000-n6318124",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "El calendario empezó a presionar",
-    "resumen": "<p id=\"p-1788650252898-71183\" class=\"ignore-parser\">La mejor estrategia para abordar los desafíos, antes que el calendario electoral monopolice la agenda, combina pragmatismo para lograr una ajustada ponderación entre los objetivos de estabilización y de recuperación del emple...",
+    "resumen": "La mejor estrategia para abordar los desafíos, antes que el calendario electoral monopolice la agenda, combina pragmatismo para lograr una ajustada ponderación entre los objetivos de estabilización y de recuperación del empleo y las remuneraciones.",
     "link": "https://www.ambito.com/economia/el-calendario-empezo-presionar-n6318998",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "Pablo Goldin: \"El BCRA está entrampado monetariamente, percibe el problema, pero no encuentra salida\"",
-    "resumen": "<p id=\"p-1788646470062-89621\" class=\"ignore-parser\">Para el director de MacroView, las restricciones del esquema monetario no permite la reactivación, elemento central de un programa económico “exitoso”. Advierte por la cantidad de pesos faltantes respecto de otros periodos de...",
+    "resumen": "Para el director de MacroView, las restricciones del esquema monetario no permite la reactivación, elemento central de un programa económico “exitoso”. Advierte por la cantidad de pesos faltantes respecto de otros periodos de reactivación.",
     "link": "https://www.ambito.com/economia/pablo-goldin-el-banco-central-esta-entrampado-monetariamente-percibe-el-problema-pero-no-encuentra-salida-n6318985",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-06",
+    "titulo": "En medio de la suba de la morosidad, Juan Carlos de Pablo la definió como \"una inversión\" para las billeteras",
+    "resumen": "El economista sostuvo que las plataformas identifican a los buenos pagadores y aseguró que el atraso forma parte de su modelo de negocio.",
+    "link": "https://www.ambito.com/economia/en-medio-la-suba-la-morosidad-juan-carlos-pablo-la-definio-como-una-inversion-las-billeteras-n6319125",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-06",
+    "titulo": "Créditos hipotecarios: el BCRA pone en marcha el fondeo de ANSES a bancos con una primera licitación por $200.000 millones",
+    "resumen": "El esquema contempla diez subastas por un total de $2 billones para financiar préstamos hipotecarios. Los bancos que accedan a los fondos deberán ofrecer créditos a una tasa máxima de UVA + 7,5%.",
+    "link": "https://www.ambito.com/economia/creditos-hipotecarios-el-bcra-pone-marcha-el-fondeo-anses-bancos-una-primera-licitacion-200000-millones-n6319109",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-06",
+    "titulo": "Chubut eximió del impuesto inmobiliario a productores ganaderos y prorrogó deudas de 2023 y 2024",
+    "resumen": "La medida regirá durante todo 2026 para establecimientos afectados exclusivamente a la actividad ganadera y ubicados fuera de los tejidos municipales. Los pagos ya realizados este año podrán computarse a cuenta de 2027 y ejercicios posteriores.",
+    "link": "https://www.ambito.com/economia/chubut-eximio-del-impuesto-inmobiliario-productores-ganaderos-y-prorrogo-deudas-2023-y-2024-n6319099",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-06",
+    "titulo": "¿Vale la pena la energía solar en casa? Costos, retorno de inversión y ahorro",
+    "resumen": "El tamaño del sistema depende del consumo mensual, el tipo de techo y los equipos eléctricos, por eso tenés que saber que mirar antes de avanzar con una instalación.",
+    "link": "https://www.ambito.com/economia/vale-la-pena-la-energia-solar-casa-costos-retorno-inversion-y-ahorro-energetico-n6318584",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-05",
     "titulo": "Continúa la reducción del déficit comercial con Brasil: en agosto cayó un 38% interanual",
-    "resumen": "<p id=\"p-1788644576987-21956\" class=\"ignore-parser\">La disminución de importaciones nacionales y la detención de la actividad en el rubro de autos y autopartes explica la cifra.</p>",
+    "resumen": "La disminución de importaciones nacionales y la detención de la actividad en el rubro de autos y autopartes explica la cifra.",
     "link": "https://www.ambito.com/economia/continua-la-reduccion-del-deficit-brasil-la-brecha-cayo-un-38-interanual-n6318982",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-05",
     "titulo": "Cómo sacar dinero en un cajero automático del exterior con una tarjeta argentina",
-    "resumen": "<p id=\"p-1788461525146-87456\" class=\"ignore-parser\">Al viajar al exterior, es posible retirar efectivo revisando previamente comisiones y límites, ya que el tipo de cuenta determinan los costos finales.</p>",
+    "resumen": "Al viajar al exterior, es posible retirar efectivo revisando previamente comisiones y límites, ya que el tipo de cuenta determinan los costos finales.",
     "link": "https://www.ambito.com/economia/como-sacar-dinero-un-cajero-automatico-del-exterior-una-tarjeta-argentina-n6318056",
     "fuente": "ambito"
   },
