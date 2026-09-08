@@ -1,5 +1,33 @@
 [
   {
+    "fecha": "2026-09-08",
+    "titulo": "Las exportaciones de Alemania retroceden por primera vez en cinco meses y frenan el optimismo",
+    "resumen": "El retroceso del 0,8% en julio superó las previsiones del mercado, arrastrado por la menor demanda de China y la zona euro. El mal dato reaviva las dudas sobre la solidez de la recuperación de la mayor economía del bloque europeo.",
+    "link": "https://www.ambito.com/economia/las-exportaciones-alemania-retroceden-primera-vez-cinco-meses-y-frenan-el-optimismo-n6319806",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-08",
+    "titulo": "La inflación de CABA desaceleró con fuerza en agosto y volvió a quebrar el piso del 2%",
+    "resumen": "La fuerte baja estuvo explicada por los precios estacionales que descendieron casi 3%. La inflación núcleo, sin embargo, se ubicó por encima del 2%.",
+    "link": "https://www.ambito.com/economia/la-inflacion-caba-desacelero-fuerza-agosto-y-volvio-quebrar-el-piso-del-2-n6319812",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-08",
+    "titulo": "Las exportaciones chinas se dispararon un 25% interanual en agosto, pese a las tensiones globales",
+    "resumen": "Presentó un superávit comercial de u$s119.100 millones, frente a los u$s112.500 millones de julio. La fuerte demanda de autos eléctricos y semiconductores apuntaló el comercio del gigante asiático en agosto, logrando amortiguar las fricciones con Washington y la UE.",
+    "link": "https://www.ambito.com/economia/las-exportaciones-chinas-se-dispararon-un-25-interanual-agosto-pese-las-tensiones-globales-n6319740",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-08",
+    "titulo": "Entran en vigor los nuevos aranceles de Canadá a EEUU en represalia por la medida de Donald Trump",
+    "resumen": "En medio de un mar de descalificaciones, los aranceles de hasta 50% afectan a unos u$s20.000 millones en importaciones provenientes de EEUU, en productos tales como el acero, productos lácteos, artículos electrónicos y pulpa de papel.",
+    "link": "https://www.ambito.com/economia/entran-vigor-los-nuevos-aranceles-canada-eeuu-represalia-la-medida-donald-trump-n6319691",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-09-07",
     "titulo": "Vuelven los créditos hipotecarios para monotributistas: requisitos y mejores alternativas",
     "resumen": "Varios bancos ofrecen créditos para monotributistas y dan la opción de juntar facturas para demostrar mejores ingresos.",
@@ -60,6 +88,55 @@
     "titulo": "Hay vida más allá de los bonos: la economía de EEUU no se come la curva y crea el triple de los empleos esperados",
     "resumen": "La actividad crece, pero los mercados desconfían. La guerra en Irán, la deuda, la inflación y la presión de Donald Trump ponen a Kevin Warsh ante su primera gran batalla en la Fed.",
     "link": "https://www.ambito.com/economia/hay-vida-mas-alla-los-bonos-la-eeuu-no-se-come-la-curva-y-crea-el-triple-los-empleos-esperados-n6319187",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "Industria: el porcentaje de empresas con atrasos en todos sus pagos alcanzó un récord y ya duplica al promedio histórico",
+    "resumen": "Para paliar la situación, más de la mitad de las firmas aumentaron su endeudamiento y/o tuvieron que afrontar mayores costos financieros. Preocupa la débil demanda interna, el aumento de costos y la competencia desleal.",
+    "link": "https://www.ambito.com/economia/industria-el-porcentaje-empresas-atrasos-todos-sus-pagos-alcanzo-un-record-y-ya-duplica-al-promedio-historico-n6319635",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "Plazo fijo: ¿qué banco ofrece las mejores tasas en septiembre?",
+    "resumen": "Entre las entidades tradicionales, la diferencia de rendimiento puede superar los $5.000 por cada millón colocado durante un mes.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-que-banco-ofrece-las-mejores-tasas-septiembre-n6319522",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "James Heckman, Nobel de Economía, optimista con el modelo de Javier Milei: \"Los planes de reforma y educación son impresionantes\"",
+    "resumen": "En diálogo con Ámbito, el profesor de la Universidad de Chicago equiparó a la Argentina de Milei con Gulliver y al peronismo con los liliputenses que atan al gigante. También respaldó la desregulación de la economía y destacó las posibilidades de crecimiento del país.",
+    "link": "https://www.ambito.com/economia/james-heckman-se-mostro-optimista-el-modelo-javier-milei-los-planes-reforma-y-educacion-son-impresionantes-n6319502",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "¿Cuánto cuesta sacar dólares de un cajero en el exterior?",
+    "resumen": "Las entidades aplican cargos muy distintos según la operación y el tipo de cuenta, por eso, antes de viajar conviene comparar las condiciones disponibles.",
+    "link": "https://www.ambito.com/economia/cuanto-cuesta-sacar-dolares-un-cajero-el-exterior-n6319497",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "Industria textil en crisis: la producción cayó 24% en el primer semestre y se perdieron casi 27.000 empleos desde 2023",
+    "resumen": "El deterioro productivo se da en un contexto de mayor ingreso de productos importados terminados, y una demanda deprimida por los bajos ingresos.",
+    "link": "https://www.ambito.com/economia/industria-textil-crisis-la-produccion-cayo-24-el-semestre-y-se-perdieron-casi-27000-empleos-2023-n6319542",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "El yen se apreció a niveles no vistos en siete meses en medio de rumores de una nueva intervención",
+    "resumen": "Esta nueva apreciación del yen ocurrió luego de que los rendimientos de los bonos soberanos japoneses tocaran su nivel más alto desde septiembre de 1996. Por qué es importante para la economía global.",
+    "link": "https://www.ambito.com/economia/el-yen-se-aprecio-niveles-no-vistos-siete-meses-medio-rumores-una-nueva-intervencion-n6319512",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-07",
+    "titulo": "Banco Nación lanzó nuevos créditos para comprar autos: qué tasa tienen y cuánto costarán las cuotas",
+    "resumen": "Los préstamos cubren hasta el 100% del valor del vehículo, con un máximo de $100 millones, y ofrecen cuotas indexadas por UVA con un adicional del 1% anual. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/banco-nacion-lanzo-nuevos-creditos-comprar-autos-que-tasa-tienen-y-cuanto-costaran-las-cuotas-n6319334",
     "fuente": "ambito"
   },
   {
