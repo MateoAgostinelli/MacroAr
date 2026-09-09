@@ -1,218 +1,309 @@
 [
   {
+    "fecha": "2026-09-09",
+    "titulo": "Salarios: cuánto necesita una familia para ser de clase media en CABA",
+    "resumen": "<p id=\"p-1788963241762-3587\" data-path-to-node=\"1,1,0\" class=\"ignore-parser\">Los datos oficiales de la Ciudad Autónoma de Buenos Aires brindaron los valores actualizados de los ingresos mínimos para cada estrato social. Los detalles, en la nota.</p> <p id=\"p-1788960641441-5422...",
+    "link": "https://www.ambito.com/economia/salarios-cuanto-necesita-una-familia-ser-clase-media-caba-n6320290",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "Scott Bessent desafía a los inversores que apuestan por una devaluación del yen: \"Ahora yo estoy al mando\"",
+    "resumen": "<p id=\"p-1788959803142-59524\" class=\"ignore-parser\">El secretario del Tesoro de EEUU aseguró que cuando hace pronósticos sobre el desempeño de la moneda japonesa, lo hace con información privilegiada. \"Pueden apostar contra mi si quieren\", presumió.</p>",
+    "link": "https://www.ambito.com/economia/scott-bessent-desafia-los-inversores-que-apuestan-una-devaluacion-del-yen-ahora-yo-estoy-al-mando-n6320272",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "Banco Central Europeo se alista para subir la tasa de interés al 2,5% ante repunte de inflación energética",
+    "resumen": "<p id=\"p-1788959064267-69585\" data-path-to-node=\"1,0\" class=\"ignore-parser\">El BCE se encamina a elevar la tasa al 2,5% impulsado por el alza energética, en una decisión que reabre el debate sobre la efectividad del ajuste frente a una inflación subyacente en desaceleración y ...",
+    "link": "https://www.ambito.com/economia/banco-central-europeo-se-alista-subir-la-tasa-interes-al-25-repunte-inflacion-energetica-n6320236",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "La inflación de China subió al 0,8% interanual en agosto y rompió la tendencia de desaceleración",
+    "resumen": "<p id=\"p-1788952318163-53221\" class=\"ignore-parser\">El IPC chino repuntó un 0,8% interanual en agosto y quebró tres meses de desaceleración, en una jornada donde la inflación mayorista también aceleró por encima de lo previsto hasta el 3,8%. Los detalles, en la nota. </p>",
+    "link": "https://www.ambito.com/economia/la-inflacion-china-subio-al-08-interanual-agosto-y-rompio-la-tendencia-desaceleracion-n6320184",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "Créditos hipotecarios: un banco baja la TNA al 7,5% y se alinea con el Gobierno",
+    "resumen": "<p id=\"p-1788885484209-92699\" class=\"ignore-parser\">La rebaja se suma a la estrategia del Gobierno por darle más fuerza al crédito hipotecario para la primera vivienda.</p>",
+    "link": "https://www.ambito.com/economia/creditos-hipotecarios-un-banco-baja-la-tna-al-75-y-se-alinea-el-gobierno-n6319919",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-09-08",
     "titulo": "Las exportaciones de Alemania retroceden por primera vez en cinco meses y frenan el optimismo",
-    "resumen": "El retroceso del 0,8% en julio superó las previsiones del mercado, arrastrado por la menor demanda de China y la zona euro. El mal dato reaviva las dudas sobre la solidez de la recuperación de la mayor economía del bloque europeo.",
+    "resumen": "<p id=\"p-1788874313542-66854\" data-path-to-node=\"10,0,1,1\" class=\"ignore-parser\">El retroceso del 0,8% en julio superó las previsiones del mercado, arrastrado por la menor demanda de China y la zona euro. El mal dato reaviva las dudas sobre la solidez de la recuperación de la ...",
     "link": "https://www.ambito.com/economia/las-exportaciones-alemania-retroceden-primera-vez-cinco-meses-y-frenan-el-optimismo-n6319806",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-08",
     "titulo": "La inflación de CABA desaceleró con fuerza en agosto y volvió a quebrar el piso del 2%",
-    "resumen": "La fuerte baja estuvo explicada por los precios estacionales que descendieron casi 3%. La inflación núcleo, sin embargo, se ubicó por encima del 2%.",
+    "resumen": "<p id=\"p-1788875377550-89438\" class=\"ignore-parser\">La fuerte baja estuvo explicada por los precios estacionales que descendieron casi 3%. La inflación núcleo, sin embargo, se ubicó por encima del 2%.</p>",
     "link": "https://www.ambito.com/economia/la-inflacion-caba-desacelero-fuerza-agosto-y-volvio-quebrar-el-piso-del-2-n6319812",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-08",
     "titulo": "Las exportaciones chinas se dispararon un 25% interanual en agosto, pese a las tensiones globales",
-    "resumen": "Presentó un superávit comercial de u$s119.100 millones, frente a los u$s112.500 millones de julio. La fuerte demanda de autos eléctricos y semiconductores apuntaló el comercio del gigante asiático en agosto, logrando amortiguar las fricciones con Washington y la UE.",
+    "resumen": "<p id=\"p-1788869639195-7496\" class=\"ignore-parser\">Presentó un superávit comercial de u$s119.100 millones, frente a los u$s112.500 millones de julio. La fuerte demanda de autos eléctricos y semiconductores apuntaló el comercio del gigante asiático en agosto, logrando amortigua...",
     "link": "https://www.ambito.com/economia/las-exportaciones-chinas-se-dispararon-un-25-interanual-agosto-pese-las-tensiones-globales-n6319740",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-08",
     "titulo": "Entran en vigor los nuevos aranceles de Canadá a EEUU en represalia por la medida de Donald Trump",
-    "resumen": "En medio de un mar de descalificaciones, los aranceles de hasta 50% afectan a unos u$s20.000 millones en importaciones provenientes de EEUU, en productos tales como el acero, productos lácteos, artículos electrónicos y pulpa de papel.",
+    "resumen": "<p id=\"p-1788863189629-16704\" class=\"ignore-parser\">En medio de un mar de descalificaciones, los aranceles de hasta 50% afectan a unos u$s20.000 millones en importaciones provenientes de EEUU, en productos tales como el acero, productos lácteos, artículos electrónicos y pulpa ...",
     "link": "https://www.ambito.com/economia/entran-vigor-los-nuevos-aranceles-canada-eeuu-represalia-la-medida-donald-trump-n6319691",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-08",
+    "titulo": "3 formas de alojarse en el exterior sin gastar en hoteles",
+    "resumen": "<p id=\"p-1788885157930-26028\" class=\"ignore-parser\">A través de acuerdos entre viajeros o tareas a cambio de la estadía, hay alternativas que pueden reducir una de las partes más caras del presupuesto.</p>",
+    "link": "https://www.ambito.com/economia/3-formas-alojarse-el-exterior-gastar-hoteles-n6319905",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-08",
+    "titulo": "Morosidad: con los altos intereses, los bancos compensaron sus pérdidas por cargos de incobrabilidad",
+    "resumen": "<p id=\"p-1788910353595-28113\" class=\"ignore-parser\">Frente a la elevada morosidad, los bancos están refinanciando las deudas y en el mercado esperan que haya un mayor racionamiento del crédito.</p>",
+    "link": "https://www.ambito.com/economia/morosidad-los-altos-intereses-los-bancos-compensaron-sus-perdidas-cargos-incobrabilidad-n6319979",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-08",
+    "titulo": "Créditos hipotecarios UVA 2026: qué bancos bajaron las tasas y cuáles son los nuevos requisitos",
+    "resumen": "<p id=\"p-1788872798479-24553\" class=\"ignore-parser\">El recorte de tasas abre nuevas opciones para vivienda única, aunque la relación cuota-ingreso y el cobro de haberes siguen siendo los requisitos clave.</p>",
+    "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-2026-que-bancos-bajaron-las-tasas-y-cuales-son-los-nuevos-requisitos-n6319856",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-08",
+    "titulo": "La industria sufrió en julio su mayor derrumbe en 16 meses y se acercó a mínimos de la era de Javier Milei",
+    "resumen": "<p id=\"p-1788894966491-94213\" class=\"ignore-parser\">Las series del INDEC retrocedieron a niveles de mediados de 2024, en un contexto de demanda deprimida, mayor competencia importadora y problemas financieros.</p>",
+    "link": "https://www.ambito.com/economia/la-industria-sufrio-su-mayor-caida-mensual-16-meses-n6319994",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-08",
+    "titulo": "Provincias: Luis Caputo volvió a abrir la billetera en septiembre y le da por primera vez ATN a La Pampa",
+    "resumen": "<p id=\"p-1788873705063-30331\" class=\"ignore-parser\">El Gobierno volvió a darle fondos a tres provincias este mes por $12.000 millones. En lo que va del año el ajuste a los estados subnacionales alcanza al 64%.</p>",
+    "link": "https://www.ambito.com/economia/provincias-luis-caputo-volvio-abrir-la-billetera-septiembre-y-le-da-primera-vez-atn-la-pampa-n6319801",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-08",
+    "titulo": "Precios de autos usados en septiembre 2026: ¿cuánto cuestan los modelos más buscados?",
+    "resumen": "<p id=\"p-1788810920411-47787\" class=\"ignore-parser\">Los modelos con mayor demanda ajustan sus números en la lista oficial de la Cámara del Comercio Automotor.</p>",
+    "link": "https://www.ambito.com/economia/precios-autos-usados-septiembre-2026-cuanto-cuestan-los-modelos-mas-buscados-n6319565",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-08",
+    "titulo": "Los salarios registrados cayeron casi el doble si se miden con el IPC que el Gobierno no quiso aplicar",
+    "resumen": "<p id=\"p-1788875264794-18959\" class=\"ignore-parser\">Si se utilizara la reponderación del Índice de Precios al Consumidor que el Gobierno descartó a principios de año, la caída salarial sería mayor a la que se mide con la fórmula actual.</p>",
+    "link": "https://www.ambito.com/economia/los-salarios-registrados-cayeron-casi-el-doble-si-se-miden-el-ipc-que-el-gobierno-no-quiso-aplicar-n6319910",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-08",
+    "titulo": "China activa medidas antidumping contra Japón y frena la importación de un insumo clave para chips",
+    "resumen": "<p id=\"p-1788883836439-49338\" data-path-to-node=\"0,1,1,0\" class=\"ignore-parser\">Pekín impuso recargos arancelarios de entre 80,8% y 99,2% a un insumo clave para la producción de microchips, escalando el conflicto económico con Tokio tras las recientes discrepancias en materia ...",
+    "link": "https://www.ambito.com/economia/china-activa-medidas-antidumping-contra-japon-y-frena-la-importacion-un-insumo-clave-chips-n6319877",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "Vuelven los créditos hipotecarios para monotributistas: requisitos y mejores alternativas",
-    "resumen": "Varios bancos ofrecen créditos para monotributistas y dan la opción de juntar facturas para demostrar mejores ingresos.",
+    "resumen": "<p id=\"p-1788791572903-26135\" data-path-to-node=\"0\" class=\"ignore-parser\">Varios bancos ofrecen créditos para monotributistas y dan la opción de juntar facturas para demostrar mejores ingresos.</p> <p id=\"p-1788789386848-22367\" class=\"ignore-parser\"></p>",
     "link": "https://www.ambito.com/economia/vuelven-los-creditos-hipotecarios-monotributistas-requisitos-y-mejores-alternativas-n6319330",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "La venta de nafta se hundió a su nivel más bajo desde 2023, mientras el impuesto al combustible subió 1.387%",
-    "resumen": "Las ventas retrocedieron a 5.667 millones de litros en lo que va del año. En CABA, el componente impositivo por litro escala a $411 sobre un precio final de $2.045. Los detalles, en la nota.",
+    "resumen": "<p id=\"p-1788791695452-57496\" class=\"ignore-parser\">Las ventas retrocedieron a 5.667 millones de litros en lo que va del año. En CABA, el componente impositivo por litro escala a $411 sobre un precio final de $2.045. Los detalles, en la nota. </p>",
     "link": "https://www.ambito.com/economia/la-venta-nafta-se-hundio-su-nivel-mas-2023-mientras-el-impuesto-al-combustible-subio-1387-n6319409",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "Inocencia Fiscal II: se aproxima el nuevo vencimiento de Ganancias y apremian los plazos del Senado",
-    "resumen": "Los dólares siguen en el colchón. La cámara alta empieza a tratar en comisión los cambios aprobados en Diputados. Quedan dos semanas para presentar las declaraciones juradas de 2025.",
+    "resumen": "<p id=\"p-1788784702149-53485\" class=\"ignore-parser\">Los dólares siguen en el colchón. La cámara alta empieza a tratar en comisión los cambios aprobados en Diputados. Quedan dos semanas para presentar las declaraciones juradas de 2025.</p>",
     "link": "https://www.ambito.com/economia/inocencia-fiscal-ii-se-aproxima-el-nuevo-vencimiento-ganancias-y-apremian-los-plazos-del-senado-n6319279",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "Cuánto cuesta tramitar el DNI y el Pasaporte en Argentina en septiembre 2026",
-    "resumen": "Los aranceles varían según la gestión y la rapidez requerida, con alternativas que van desde la modalidad regular hasta opciones exprés.",
+    "resumen": "<p id=\"p-1788783798528-73857\" class=\"ignore-parser\">Los aranceles varían según la gestión y la rapidez requerida, con alternativas que van desde la modalidad regular hasta opciones exprés.</p>",
     "link": "https://www.ambito.com/economia/cuanto-cuesta-tramitar-el-dni-y-el-pasaporte-argentina-septiembre-2026-n6319269",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "China inyecta u$s54.000 millones a los principales bancos y aseguradoras para impulsar el sector financiero",
-    "resumen": "A través del Ministerio de Hacienda, el gobierno chino lanzó un plan atípico de capitalización para ocho gigantes del sector. La medida busca reducir riesgos, dinamizar el consumo y alinear las entidades a las exigencias globales.",
+    "resumen": "<p id=\"p-1788784818113-80128\" class=\"ignore-parser\">A través del Ministerio de Hacienda, el gobierno chino lanzó un plan atípico de capitalización para ocho gigantes del sector. La medida busca reducir riesgos, dinamizar el consumo y alinear las entidades a las exigencias glob...",
     "link": "https://www.ambito.com/economia/china-inyecta-us54000-millones-los-principales-bancos-y-aseguradoras-impulsar-el-sector-financiero-n6319294",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "Los tres consejos de Domingo Cavallo a Javier Milei para el dólar, las reservas y cómo reactivar la economía",
-    "resumen": "El exministro señaló que el rumbo económico del gobierno de Javier Milei es correcto, pero es vital combinar la lucha contra la inflación con la reactivación de la economía. Los detalles, en la nota.",
+    "resumen": "<p id=\"p-1788779536456-10748\" class=\"ignore-parser\">El exministro señaló que el rumbo económico del gobierno de Javier Milei es correcto, pero es vital combinar la lucha contra la inflación con la reactivación de la economía. Los detalles, en la nota.</p> <p id=\"p-178878136322...",
     "link": "https://www.ambito.com/economia/los-tres-consejos-domingo-cavallo-javier-milei-el-dolar-las-reservas-y-como-reactivar-la-n6319245",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "La petrolera de Vaca Muerta que apuesta por Venezuela",
-    "resumen": "Con la adquisición del bloque Bare, GeoPark apuesta fuerte por uno de los grandes activos de la Faja del Orinoco. La firma, que también tiene presencia en la cuenca patagónica, proyecta multiplicar su producción hacia 2030 y vuelve a captar la atención del mercado. Cómo le fue...",
+    "resumen": "<p id=\"p-1788737119467-12215\" class=\"ignore-parser\">Con la adquisición del bloque Bare, GeoPark apuesta fuerte por uno de los grandes activos de la Faja del Orinoco. La firma, que también tiene presencia en la cuenca patagónica, proyecta multiplicar su producción hacia 2030 y ...",
     "link": "https://www.ambito.com/economia/la-petrolera-vaca-muerta-que-apuesta-venezuela-n6319172",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "Javier Milei pisa el acelerador y redobla la ortodoxia económica frente al desafío electoral del 2027",
-    "resumen": "El Presidente reafirma su decisión de no cambiar \"ni la política fiscal ni monetaria\" y asegura que mantendrá el rumbo sin concesiones electorales. Este lunes encabeza nueva reunión de Gabinete.",
+    "resumen": "<p id=\"p-1788744636968-5566\" class=\"ignore-parser\">El Presidente reafirma su decisión de no cambiar \"ni la política fiscal ni monetaria\" y asegura que mantendrá el rumbo sin concesiones electorales. Este lunes encabeza nueva reunión de Gabinete.</p>",
     "link": "https://www.ambito.com/economia/milei-pisa-el-acelerador-n6319191",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "Hay vida más allá de los bonos: la economía de EEUU no se come la curva y crea el triple de los empleos esperados",
-    "resumen": "La actividad crece, pero los mercados desconfían. La guerra en Irán, la deuda, la inflación y la presión de Donald Trump ponen a Kevin Warsh ante su primera gran batalla en la Fed.",
+    "resumen": "<p id=\"p-1788743379867-80642\" class=\"ignore-parser\">La actividad crece, pero los mercados desconfían. La guerra en Irán, la deuda, la inflación y la presión de Donald Trump ponen a Kevin Warsh ante su primera gran batalla en la Fed.</p>",
     "link": "https://www.ambito.com/economia/hay-vida-mas-alla-los-bonos-la-eeuu-no-se-come-la-curva-y-crea-el-triple-los-empleos-esperados-n6319187",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "Industria: el porcentaje de empresas con atrasos en todos sus pagos alcanzó un récord y ya duplica al promedio histórico",
-    "resumen": "Para paliar la situación, más de la mitad de las firmas aumentaron su endeudamiento y/o tuvieron que afrontar mayores costos financieros. Preocupa la débil demanda interna, el aumento de costos y la competencia desleal.",
+    "resumen": "<p id=\"p-1788823258776-63346\" class=\"ignore-parser\">Para paliar la situación, más de la mitad de las firmas aumentaron su endeudamiento y/o tuvieron que afrontar mayores costos financieros. Preocupa la débil demanda interna, el aumento de costos y la competencia desleal.</p>",
     "link": "https://www.ambito.com/economia/industria-el-porcentaje-empresas-atrasos-todos-sus-pagos-alcanzo-un-record-y-ya-duplica-al-promedio-historico-n6319635",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "Plazo fijo: ¿qué banco ofrece las mejores tasas en septiembre?",
-    "resumen": "Entre las entidades tradicionales, la diferencia de rendimiento puede superar los $5.000 por cada millón colocado durante un mes.",
+    "resumen": "<p id=\"p-1788806687850-82549\" class=\"ignore-parser\">Entre las entidades tradicionales, la diferencia de rendimiento puede superar los $5.000 por cada millón colocado durante un mes.</p>",
     "link": "https://www.ambito.com/economia/plazo-fijo-que-banco-ofrece-las-mejores-tasas-septiembre-n6319522",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "James Heckman, Nobel de Economía, optimista con el modelo de Javier Milei: \"Los planes de reforma y educación son impresionantes\"",
-    "resumen": "En diálogo con Ámbito, el profesor de la Universidad de Chicago equiparó a la Argentina de Milei con Gulliver y al peronismo con los liliputenses que atan al gigante. También respaldó la desregulación de la economía y destacó las posibilidades de crecimiento del país.",
+    "resumen": "<p id=\"p-1788822054004-795\" class=\"ignore-parser\">En diálogo con Ámbito, el profesor de la Universidad de Chicago equiparó a la Argentina de Milei con Gulliver y al peronismo con los liliputenses que atan al gigante. También respaldó la desregulación de la economía y destacó l...",
     "link": "https://www.ambito.com/economia/james-heckman-se-mostro-optimista-el-modelo-javier-milei-los-planes-reforma-y-educacion-son-impresionantes-n6319502",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "¿Cuánto cuesta sacar dólares de un cajero en el exterior?",
-    "resumen": "Las entidades aplican cargos muy distintos según la operación y el tipo de cuenta, por eso, antes de viajar conviene comparar las condiciones disponibles.",
+    "resumen": "<p id=\"p-1788802213633-65842\" class=\"ignore-parser\">Las entidades aplican cargos muy distintos según la operación y el tipo de cuenta, por eso, antes de viajar conviene comparar las condiciones disponibles.</p>",
     "link": "https://www.ambito.com/economia/cuanto-cuesta-sacar-dolares-un-cajero-el-exterior-n6319497",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "Industria textil en crisis: la producción cayó 24% en el primer semestre y se perdieron casi 27.000 empleos desde 2023",
-    "resumen": "El deterioro productivo se da en un contexto de mayor ingreso de productos importados terminados, y una demanda deprimida por los bajos ingresos.",
+    "resumen": "<p id=\"p-1788808048635-48003\" class=\"ignore-parser\">El deterioro productivo se da en un contexto de mayor ingreso de productos importados terminados, y una demanda deprimida por los bajos ingresos.</p>",
     "link": "https://www.ambito.com/economia/industria-textil-crisis-la-produccion-cayo-24-el-semestre-y-se-perdieron-casi-27000-empleos-2023-n6319542",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "El yen se apreció a niveles no vistos en siete meses en medio de rumores de una nueva intervención",
-    "resumen": "Esta nueva apreciación del yen ocurrió luego de que los rendimientos de los bonos soberanos japoneses tocaran su nivel más alto desde septiembre de 1996. Por qué es importante para la economía global.",
+    "resumen": "<p id=\"p-1788796754911-49358\" class=\"ignore-parser\">Esta nueva apreciación del yen ocurrió luego de que los rendimientos de los bonos soberanos japoneses tocaran su nivel más alto desde septiembre de 1996. Por qué es importante para la economía global.</p>",
     "link": "https://www.ambito.com/economia/el-yen-se-aprecio-niveles-no-vistos-siete-meses-medio-rumores-una-nueva-intervencion-n6319512",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-07",
     "titulo": "Banco Nación lanzó nuevos créditos para comprar autos: qué tasa tienen y cuánto costarán las cuotas",
-    "resumen": "Los préstamos cubren hasta el 100% del valor del vehículo, con un máximo de $100 millones, y ofrecen cuotas indexadas por UVA con un adicional del 1% anual. Los detalles, en la nota.",
+    "resumen": "<p id=\"p-1788788930974-79031\" class=\"ignore-parser\">Los préstamos cubren hasta el 100% del valor del vehículo, con un máximo de $100 millones, y ofrecen cuotas indexadas por UVA con un adicional del 1% anual. Los detalles, en la nota. </p>",
     "link": "https://www.ambito.com/economia/banco-nacion-lanzo-nuevos-creditos-comprar-autos-que-tasa-tienen-y-cuanto-costaran-las-cuotas-n6319334",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "El consumo sigue sin repuntar: las ventas minoristas pyme cayeron en agosto y acumulan una baja del 2,4% en 2026",
-    "resumen": "El consumo volvió a mostrar otro dato negativo. El menor poder adquisitivo, el aumento de las tarifas y el endeudamiento familiar profundizaron la cautela de los consumidores.",
+    "resumen": "<p id=\"p-1788702181043-92621\" class=\"ignore-parser\">El consumo volvió a mostrar otro dato negativo. El menor poder adquisitivo, el aumento de las tarifas y el endeudamiento familiar profundizaron la cautela de los consumidores.</p>",
     "link": "https://www.ambito.com/economia/las-ventas-minoristas-pyme-cayeron-02-interanual-agosto-y-acumulan-baja-24-lo-que-va-del-ano-n6319046",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "Inflación de agosto: el mercado espera que perfore el 2%",
-    "resumen": "El mercado espera que el IPC de agosto marque uno de los registros más bajos del año. El REM proyectó 1,7% para el mes y un rango de entre 1,6% y 1,8% hasta febrero.",
+    "resumen": "<p id=\"p-1788697327148-52686\" class=\"ignore-parser\">El mercado espera que el IPC de agosto marque uno de los registros más bajos del año. El REM proyectó 1,7% para el mes y un rango de entre 1,6% y 1,8% hasta febrero.</p>",
     "link": "https://www.ambito.com/economia/inflacion-agosto-el-mercado-espera-que-perfore-el-2-n6319028",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "Créditos hipotecarios UVA: ¿cuánto cuesta la cuota para una propiedad de USD 75.000?",
-    "resumen": "Los nuevos préstamos permiten financiar hasta el total de un hogar, pero hay que calcular cuánto habría que pagar por mes y qué ingresos exige el sistema.",
+    "resumen": "<p id=\"p-1788440040218-6654\" class=\"ignore-parser\">Los nuevos préstamos permiten financiar hasta el total de un hogar, pero hay que calcular cuánto habría que pagar por mes y qué ingresos exige el sistema.</p>",
     "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-cuanto-cuesta-la-cuota-una-propiedad-usd-75000-n6318124",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "El calendario empezó a presionar",
-    "resumen": "La mejor estrategia para abordar los desafíos, antes que el calendario electoral monopolice la agenda, combina pragmatismo para lograr una ajustada ponderación entre los objetivos de estabilización y de recuperación del empleo y las remuneraciones.",
+    "resumen": "<p id=\"p-1788650252898-71183\" class=\"ignore-parser\">La mejor estrategia para abordar los desafíos, antes que el calendario electoral monopolice la agenda, combina pragmatismo para lograr una ajustada ponderación entre los objetivos de estabilización y de recuperación del emple...",
     "link": "https://www.ambito.com/economia/el-calendario-empezo-presionar-n6318998",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "Pablo Goldin: \"El BCRA está entrampado monetariamente, percibe el problema, pero no encuentra salida\"",
-    "resumen": "Para el director de MacroView, las restricciones del esquema monetario no permite la reactivación, elemento central de un programa económico “exitoso”. Advierte por la cantidad de pesos faltantes respecto de otros periodos de reactivación.",
+    "resumen": "<p id=\"p-1788646470062-89621\" class=\"ignore-parser\">Para el director de MacroView, las restricciones del esquema monetario no permite la reactivación, elemento central de un programa económico “exitoso”. Advierte por la cantidad de pesos faltantes respecto de otros periodos de...",
     "link": "https://www.ambito.com/economia/pablo-goldin-el-banco-central-esta-entrampado-monetariamente-percibe-el-problema-pero-no-encuentra-salida-n6318985",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "En medio de la suba de la morosidad, Juan Carlos de Pablo la definió como \"una inversión\" para las billeteras",
-    "resumen": "El economista sostuvo que las plataformas identifican a los buenos pagadores y aseguró que el atraso forma parte de su modelo de negocio.",
+    "resumen": "<p id=\"p-1788725384083-1310\" class=\"ignore-parser\">El economista sostuvo que las plataformas identifican a los buenos pagadores y aseguró que el atraso forma parte de su modelo de negocio.</p>",
     "link": "https://www.ambito.com/economia/en-medio-la-suba-la-morosidad-juan-carlos-pablo-la-definio-como-una-inversion-las-billeteras-n6319125",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "Créditos hipotecarios: el BCRA pone en marcha el fondeo de ANSES a bancos con una primera licitación por $200.000 millones",
-    "resumen": "El esquema contempla diez subastas por un total de $2 billones para financiar préstamos hipotecarios. Los bancos que accedan a los fondos deberán ofrecer créditos a una tasa máxima de UVA + 7,5%.",
+    "resumen": "<p id=\"p-1788721009586-71999\" class=\"ignore-parser\">El esquema contempla diez subastas por un total de $2 billones para financiar préstamos hipotecarios. Los bancos que accedan a los fondos deberán ofrecer créditos a una tasa máxima de UVA + 7,5%.</p>",
     "link": "https://www.ambito.com/economia/creditos-hipotecarios-el-bcra-pone-marcha-el-fondeo-anses-bancos-una-primera-licitacion-200000-millones-n6319109",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "Chubut eximió del impuesto inmobiliario a productores ganaderos y prorrogó deudas de 2023 y 2024",
-    "resumen": "La medida regirá durante todo 2026 para establecimientos afectados exclusivamente a la actividad ganadera y ubicados fuera de los tejidos municipales. Los pagos ya realizados este año podrán computarse a cuenta de 2027 y ejercicios posteriores.",
+    "resumen": "<p id=\"p-1788717295704-86098\" class=\"ignore-parser\">La medida regirá durante todo 2026 para establecimientos afectados exclusivamente a la actividad ganadera y ubicados fuera de los tejidos municipales. Los pagos ya realizados este año podrán computarse a cuenta de 2027 y ejer...",
     "link": "https://www.ambito.com/economia/chubut-eximio-del-impuesto-inmobiliario-productores-ganaderos-y-prorrogo-deudas-2023-y-2024-n6319099",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-06",
     "titulo": "¿Vale la pena la energía solar en casa? Costos, retorno de inversión y ahorro",
-    "resumen": "El tamaño del sistema depende del consumo mensual, el tipo de techo y los equipos eléctricos, por eso tenés que saber que mirar antes de avanzar con una instalación.",
+    "resumen": "<p id=\"p-1788531926908-62161\" class=\"ignore-parser\">El tamaño del sistema depende del consumo mensual, el tipo de techo y los equipos eléctricos, por eso tenés que saber que mirar antes de avanzar con una instalación.</p>",
     "link": "https://www.ambito.com/economia/vale-la-pena-la-energia-solar-casa-costos-retorno-inversion-y-ahorro-energetico-n6318584",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-05",
     "titulo": "Continúa la reducción del déficit comercial con Brasil: en agosto cayó un 38% interanual",
-    "resumen": "La disminución de importaciones nacionales y la detención de la actividad en el rubro de autos y autopartes explica la cifra.",
+    "resumen": "<p id=\"p-1788644576987-21956\" class=\"ignore-parser\">La disminución de importaciones nacionales y la detención de la actividad en el rubro de autos y autopartes explica la cifra.</p>",
     "link": "https://www.ambito.com/economia/continua-la-reduccion-del-deficit-brasil-la-brecha-cayo-un-38-interanual-n6318982",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-05",
     "titulo": "Cómo sacar dinero en un cajero automático del exterior con una tarjeta argentina",
-    "resumen": "Al viajar al exterior, es posible retirar efectivo revisando previamente comisiones y límites, ya que el tipo de cuenta determinan los costos finales.",
+    "resumen": "<p id=\"p-1788461525146-87456\" class=\"ignore-parser\">Al viajar al exterior, es posible retirar efectivo revisando previamente comisiones y límites, ya que el tipo de cuenta determinan los costos finales.</p>",
     "link": "https://www.ambito.com/economia/como-sacar-dinero-un-cajero-automatico-del-exterior-una-tarjeta-argentina-n6318056",
     "fuente": "ambito"
   },
