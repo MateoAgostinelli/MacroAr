@@ -1,8 +1,64 @@
 [
   {
+    "fecha": "2026-09-10",
+    "titulo": "El Banco Central Europeo aumentó la tasa de interés al 2,5% ante la aceleración de los precios de la energía",
+    "resumen": "El organismo elevó sus tasas de referencia tras estimar que la inflación alcanzará el 3% este año y revisar al alza sus previsiones a mediano plazo por el conflicto en Medio Oriente. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/el-banco-central-europeo-aumento-la-tasa-interes-al-25-la-aceleracion-los-precios-la-energia-n6320723",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-10",
+    "titulo": "Inflación: en qué provincias llenar el changuito del supermercado ya cuesta más de $1 millón",
+    "resumen": "Un relevamiento provincial sobre la canasta representativa de la clase media expone la disparidad de precios en alimentos y su fuerte impacto en los salarios. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/inflacion-que-provincias-llenar-el-changuito-del-supermercado-ya-cuesta-mas-1-millon-n6320689",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-10",
+    "titulo": "ARCA sale a controlar mercadería de contrabando tras el reclamo de empresarios",
+    "resumen": "La mayor parte de los controles se llevan a cabo en comercios y locales de importadores. Sin documentación, se produce el secuestro. Se comenzó por bebidas alcohólicas.",
+    "link": "https://www.ambito.com/economia/arca-sale-controlar-mercaderia-contrabando-el-reclamo-empresarios-n6320656",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-10",
+    "titulo": "Revelan que un candidato a economista jefe del FMI fue apartado por críticas a los aranceles de Donald Trump",
+    "resumen": "Las críticas del economista portugués Ricardo Reis a medidas arancelarias y sus posibles consecuencias, lo habrían dejado fuera de la carrera. La llegada de la argentina Silvana Tenreyro, con un tono menos confrontativo a Donald Trump.",
+    "link": "https://www.ambito.com/economia/revelan-que-un-candidato-economista-jefe-del-fmi-fue-apartado-criticas-los-aranceles-donald-trump-n6320643",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-10",
+    "titulo": "El Senasa obliga a identificar con microchip a los equinos y refuerza los controles para el comercio internacional",
+    "resumen": "La medida comenzará a regir el 1 de marzo de 2027. El organismo también aprobó la Libreta Sanitaria Equina Digital y dispuso la digitalización del Pasaporte Equino.",
+    "link": "https://www.ambito.com/economia/el-senasa-obliga-identificar-microchip-los-equinos-y-refuerza-los-controles-el-comercio-internacional-n6320592",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-10",
+    "titulo": "Morosidad: crecen refinanciaciones, pero más de la mitad de los deudores son \"irrecuperables\", ¿cómo impactará en el crédito?",
+    "resumen": "El crecimiento en el ratio de irregularidad de los créditos a las familias tuvo un reciente freno, pero los analistas avizoran un camino largo de cara al anhelo de que el financiamiento a privados vuelva a transformarse en un motor de la economía.",
+    "link": "https://www.ambito.com/economia/morosidad-crecen-refinanciaciones-pero-mas-la-mitad-los-deudores-son-irrecuperables-como-impactara-el-credito-n6320431",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-10",
+    "titulo": "Créditos hipotecarios: ¿conviene comprar ahora o esperar a que sigan bajando las tasas?",
+    "resumen": "Los bancos muestran condiciones más competitivas, pero una mejora del financiamiento también podría empujar el valor de las propiedades.",
+    "link": "https://www.ambito.com/economia/creditos-hipotecarios-conviene-comprar-ahora-o-esperar-que-sigan-bajando-las-tasas-n6319973",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-10",
+    "titulo": "El INDEC da a conocer la inflación de agosto: el mercado prevé que perfore otra vez el 2%",
+    "resumen": "Las principales consultoras prevén que la inflación se ubique entre el 1,4% y el 1,9%, en línea con la desaceleración de CABA.",
+    "link": "https://www.ambito.com/economia/el-indec-da-conocer-la-inflacion-agosto-el-mercado-preve-que-perfore-otra-vez-el-2-n6320432",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-09-09",
     "titulo": "Salarios: cuánto necesita una familia para ser de clase media en CABA",
-    "resumen": "<p id=\"p-1788963241762-3587\" data-path-to-node=\"1,1,0\" class=\"ignore-parser\">Los datos oficiales de la Ciudad Autónoma de Buenos Aires brindaron los valores actualizados de los ingresos mínimos para cada estrato social. Los detalles, en la nota.</p> <p id=\"p-1788960641441-5422...",
+    "resumen": "Los datos oficiales de la Ciudad Autónoma de Buenos Aires brindaron los valores actualizados de los ingresos mínimos para cada estrato social. Los detalles, en la nota.",
     "link": "https://www.ambito.com/economia/salarios-cuanto-necesita-una-familia-ser-clase-media-caba-n6320290",
     "fuente": "ambito"
   },
@@ -32,6 +88,83 @@
     "titulo": "Créditos hipotecarios: un banco baja la TNA al 7,5% y se alinea con el Gobierno",
     "resumen": "<p id=\"p-1788885484209-92699\" class=\"ignore-parser\">La rebaja se suma a la estrategia del Gobierno por darle más fuerza al crédito hipotecario para la primera vivienda.</p>",
     "link": "https://www.ambito.com/economia/creditos-hipotecarios-un-banco-baja-la-tna-al-75-y-se-alinea-el-gobierno-n6319919",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "Demandan a Mercado Pago por el cobro abusivo de intereses",
+    "resumen": "Una asociación de consumidores inició una acción judicial contra la billetera, a partir del caso de dos usuarias. Según el cálculo realizado por la organización, las tasas aplicadas superan el 1.300% anual.",
+    "link": "https://www.ambito.com/economia/demandan-mercado-pago-el-cobro-abusivo-intereses-n6320566",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "Plazo fijo: qué banco paga más al invertir $500.000",
+    "resumen": "Las tasas para depósitos a 30 días varían entre entidades y pueden modificarse según el tiempo y las condiciones de contratación.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-que-banco-paga-mas-al-invertir-500000-n6320416",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "El destino europeo poco conocido donde podés ahorrar más de 20.000 dólares en 10 meses",
+    "resumen": "Empleos vinculados al turismo ofrecen una alternativa para jóvenes que buscan generar ingresos, reducir gastos y recorrer paisajes únicos.",
+    "link": "https://www.ambito.com/economia/el-destino-europeo-poco-conocido-donde-podes-ahorrar-mas-20000-dolares-10-meses-n6319800",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "Cuanto cuesta la polémica nueva camiseta alternativa de Racing Club",
+    "resumen": "Una elección de 1904 vuelve a escena 122 años después, con un guiño a una etapa clave de la historia académica.",
+    "link": "https://www.ambito.com/economia/cuanto-cuesta-la-polemica-nueva-camiseta-alternativa-racing-club-n6319782",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "Preocupación por la industria: el acumulado de 2026 ya está un 12% debajo del mismo período de 2023",
+    "resumen": "En los primeros siete meses del año, la industria acumula una contracción del -2,6% versus 2025 y se encuentra un 18,7% por debajo del máximo alcanzado en noviembre de 2017.",
+    "link": "https://www.ambito.com/economia/preocupacion-la-industria-el-acumulado-2026-ya-esta-un-12-debajo-del-mismo-periodo-2023-n6320319",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "La industria minera registró en julio su segunda caída mensual consecutiva y desaceleró su mejora anual",
+    "resumen": "En julio, el índice de producción industrial minero (IPI minero) subió 3,7% de forma interanual, pero fue el dato más bajo desde febrero.",
+    "link": "https://www.ambito.com/economia/el-ipi-minero-registro-la-segunda-caida-mensual-consecutiva-y-nivel-interanual-fue-la-mas-baja-5-meses-n6320444",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "Cae la actividad económica y crecen las dudas del mercado sobre cómo puede llegar el Gobierno al año electoral",
+    "resumen": "Los últimos datos sobre industria y construcción preocupan a los operadores. Algunos advierten que no va a haber UNA mejora para esos sectores. Las encuestas de opinión siguen dando mal a la LLA.",
+    "link": "https://www.ambito.com/economia/cae-la-actividad-economica-y-crecen-las-dudas-del-mercado-como-puede-llegar-el-gobierno-al-ano-electoral-n6320361",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "La UE otorga 115 millones de euros en ayuda a España por la crisis migratoria en Ceuta",
+    "resumen": "La partida busca reforzar la vigilancia fronteriza, financiar la acogida de menores no acompañados y facilitar retornos tras la llegada masiva registrada a fines de julio. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/la-ue-otorga-115-millones-euros-ayuda-espana-la-crisis-migratoria-ceuta-n6320392",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "Scott Bessent triplicó la recompra de bonos, pero no convenció al mercado y los rendimientos se disparan",
+    "resumen": "Si bien el Tesoro de EEUU anunció que recomprará u$s6.000 millones en deuda pública, los operadores del mercado parecen haberse sentido decepcionados por el monto y las tasas de los \"Treasuries\" volvieron a subir con fuerza.",
+    "link": "https://www.ambito.com/economia/scott-bessent-triplico-la-recompra-bonos-pero-no-convencio-al-mercado-y-los-rendimientos-se-disparan-n6320395",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "Frente a nueve economías, Argentina es el país más caro en el 70% de los bienes durables e indumentaria",
+    "resumen": "Autos, motos, electrónicos, ropa y calzado siguen más caros en Argentina que en los demás países relevados. Los detalles de la comparación en alimentos, bienes durables y servicios, en la nota.",
+    "link": "https://www.ambito.com/economia/frente-nueve-s-argentina-es-el-pais-mas-caro-el-70-los-bienes-durables-e-indumentaria-n6320365",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-09",
+    "titulo": "Santiago Bausili dio explicaciones sobre el oro del BCRA: \"Las auditorías no tuvieron observaciones\"",
+    "resumen": "El presidente del Banco Central habló en el Senado sobre los movimientos de las reservas de oro. Aseguró que las auditorías de 2023, 2024 y 2025 no objetaron inconsistencias.",
+    "link": "https://www.ambito.com/economia/santiago-bausili-dio-explicaciones-el-oro-del-bcra-las-auditorias-no-tuvieron-observaciones-n6320344",
     "fuente": "ambito"
   },
   {
