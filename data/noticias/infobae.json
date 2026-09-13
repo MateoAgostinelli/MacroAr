@@ -1,5 +1,89 @@
 [
   {
+    "fecha": "2026-09-13",
+    "titulo": "El Banco Central estima que aún faltan ingresar más de USD 4.400 millones de deuda de empresas que ayudarán a contener al dólar",
+    "resumen": "Su vicepresidente marcó que solo se liquidaron USD 15.800 millones de los USD 20.200 millones emitidos por empresas privadas. YPF sumó otra emisión por USD 1.200 millones. Es una oportunidad para que el BCRA aumente el ritmo de compras y acumulación de reservas",
+    "link": "https://www.infobae.com/economia/2026/09/13/el-banco-central-estima-que-aun-faltan-ingresar-mas-de-usd-4400-millones-de-deuda-de-empresas-que-ayudaran-a-contener-al-dolar/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-13",
+    "titulo": "El Gobierno privilegia la estabilidad del dólar y la baja de la inflación, pero la economía crecería menos de 2 por ciento",
+    "resumen": "El riesgo país se consolidó debajo de los 500 puntos  y los precios se desaceleran. Sin embargo, el consumo sigue sin repuntar y las proyecciones de actividad se revisan mes a mes a la baja. La aceptación de Milei se mantiene en 35 por ciento",
+    "link": "https://www.infobae.com/economia/2026/09/13/el-gobierno-privilegia-la-estabilidad-del-dolar-y-la-baja-de-la-inflacion-pero-la-economia-creceria-menos-de-2-por-ciento/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-13",
+    "titulo": "Clima de Negocios: piruetas para bancar el changuito y la aparición del “comprador derrotado”, en medio de un consumo masivo frenado",
+    "resumen": "La demanda cotidiana no muestra aún un repunte sostenido, pese a la mejora macroeconómica y la baja de la inflación. Los hogares priorizan el desembolso inmediato, el precio y las promociones en sus compras. La visión del CEO regional de la consultora NielsenIQ",
+    "link": "https://www.infobae.com/economia/2026/09/13/clima-de-negocios-piruetas-para-bancar-el-changuito-y-la-aparicion-del-comprador-derrotado-en-medio-de-un-consumo-masivo-frenado/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-13",
+    "titulo": "Tarjetas versus transferencias: los pagos “cuenta a cuenta” transforman el uso del dinero en la Argentina y en la región",
+    "resumen": "La expansión de las billeteras digitales cambia los hábitos de las personas y obliga a desarrollar nuevas prestaciones en las empresas financieras",
+    "link": "https://www.infobae.com/economia/2026/09/13/tarjetas-versus-transferencias-los-pagos-cuenta-a-cuenta-transforman-el-uso-del-dinero-en-la-argentina-y-en-la-region/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-13",
+    "titulo": "Radiografía del ajuste: cómo hizo Milei para reducir el gasto público en 14 puntos del PBI en tres años",
+    "resumen": "Un informe privado detalla en qué rubros se concentró el recorte y explica que buena parte no ocurrió de modo directo, sino vía menores transferencias a provincias, universidades y empresas públicas. El porcentaje de ajuste aumentó año a año",
+    "link": "https://www.infobae.com/economia/2026/09/13/radiografia-del-ajuste-como-hizo-milei-para-reducir-el-gasto-publico-en-14-puntos-del-pbi-en-tres-anos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-13",
+    "titulo": "En julio cayó el nivel de crédito total y la morosidad volvió a aumentar, aunque empezó a amesetarse",
+    "resumen": "El financiamiento a las personas se redujo 0,7% y la mora total alcanzó el 18% del crédito al cabo de 21  meses de aumentos consecutivos. Datos de deuda y morosidad por provincia. En cuáles pesa más el crédito no bancario",
+    "link": "https://www.infobae.com/economia/2026/09/13/en-julio-cayo-el-nivel-de-credito-total-y-la-morosidad-volvio-a-aumentar-aunque-empezo-a-amesetarse/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-13",
+    "titulo": "Ricardo Delgado, de Analytica: “La industria y la construcción no sólo generan empleo, generan territorialidad”",
+    "resumen": "El economista, con amplia experiencia como consultor y en la función pública, analiza las principales medidas del Gobierno y aporta su visión sobre el estado de las grandes variables macroeconómicas y también microeconómicas",
+    "link": "https://www.infobae.com/economia/2026/09/13/ricardo-delgado-de-analytica-la-industria-y-la-construccion-no-solo-generan-empleo-generan-territorialidad/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-13",
+    "titulo": "De la economía de la supervivencia a la economía de la productividad",
+    "resumen": "La curva de Kuznets y el cambio que puede transformar a la Argentina. La experiencia de apertura y reformas muestra que el traslado masivo de trabajadores desde la agricultura hacia la industria y los servicios sacó de la pobreza extrema a cerca de 800 millones de personas",
+    "link": "https://www.infobae.com/opinion/2026/09/13/de-la-economia-de-la-supervivencia-a-la-economia-de-la-productividad/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-13",
+    "titulo": "Salario mínimo garantizado: una mala idea",
+    "resumen": "La Secretaría de Trabajo sostiene que poner un límite ordena acuerdos entre sectores con productividades muy distintas y evita compromisos difíciles de cumplir para muchas pyme en una transición hacia una economía más estable",
+    "link": "https://www.infobae.com/opinion/2026/09/13/salario-minimo-garantizado-una-mala-idea/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-13",
+    "titulo": "Argentina ante la infraestructura del futuro: cuando el mundo necesita energía, minerales y talento",
+    "resumen": "El país puede captar parte del negocio global de los centros de datos mediante programación, inteligencia artificial, ciberseguridad y arquitectura cloud, aun cuando la infraestructura opere fuera del territorio nacional",
+    "link": "https://www.infobae.com/opinion/2026/09/13/argentina-ante-la-infraestructura-del-futuro-cuando-el-mundo-necesita-energia-minerales-y-talento/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-13",
+    "titulo": "“Inteligencia distorsionada”: la crítica de un premio Nobel de Economía en medio de la polémica por la carrera de la IA",
+    "resumen": "Daron Acemoglu, distinguido en 2024, con el máximo galardón de la disciplina, dijo que hay un problema de “alineación” de algoritmos y recurrió a la figura de un auto sin frenos ni volante. Ya había advertido sobre el debilitamiento del “esfuerzo cognitivo” y el riesgo de “col...",
+    "link": "https://www.infobae.com/economia/2026/09/12/inteligencia-distorsionada-la-critica-de-un-premio-nobel-de-economia-en-medio-de-la-polemica-por-la-carrera-de-la-ia/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-13",
+    "titulo": "Minería: la inversión extranjera se triplicó en menos de siete años y ya roza los 25.000 millones de dólares",
+    "resumen": "Las exportaciones también reflejan el crecimiento del sector, tras un repunte interanual del 74,8% en el primer semestre del 2026",
+    "link": "https://www.infobae.com/economia/2026/09/13/mineria-la-inversion-extranjera-se-triplico-en-menos-de-siete-anos-y-ya-roza-los-25000-millones-de-dolares/",
+    "fuente": "infobae"
+  },
+  {
     "fecha": "2026-09-12",
     "titulo": "Del phishing al temor por los datos críticos: expresidentes, expertos y funcionarios alertaron sobre los riesgos de los ataques con IA",
     "resumen": "Referentes internacionales analizaron el avance de herramientas de inteligencia artificial capaces de abaratar estafas y exponer infraestructuras estratégicas. Además, debatieron acerca de las medidas necesarias para reforzar la prevención, la coordinación y la soberanía tecno...",
@@ -63,6 +147,48 @@
     "fuente": "infobae"
   },
   {
+    "fecha": "2026-09-12",
+    "titulo": "La electrificación que no llega: estiman que en cinco años el 95% de los autos de Argentina seguirán siendo de combustión",
+    "resumen": "Según la asociación de concesionarios, los enchufables se multiplicarán 12 veces hasta 2031, pero el consumo de combustibles líquidos igual crecerá 14,5 por ciento",
+    "link": "https://www.infobae.com/economia/2026/09/11/la-electrificacion-que-no-llega-estiman-que-en-cinco-anos-el-95-de-los-autos-de-argentina-seguiran-siendo-de-combustion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-12",
+    "titulo": "Pese a tasas de interés levemente positivas, en agosto volvieron a caer los depósitos en pesos",
+    "resumen": "Lo hicieron en términos reales —descontada la inflación—, mientras que en dólares aumentaron 11,5% en lo que va de 2026 y 25,5% en los últimos doce meses",
+    "link": "https://www.infobae.com/economia/2026/09/12/pese-a-tasas-de-interes-levemente-positivas-en-agosto-volvieron-a-caer-los-depositos-en-pesos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-12",
+    "titulo": "Otro negocio a partir de Vaca Muerta: proyectan que la Argentina exportará USD 2.000 millones anuales de líquidos del gas",
+    "resumen": "En 2025 exportó por USD 700 millones, básicamente al mercado regional, pero ya empezó a hacerlo a la India, principal vector de expansión de demanda de Asia. En la próxima década el país podría ser el quinto exportador mundial en un mercado global de USD 380.000 millones",
+    "link": "https://www.infobae.com/economia/2026/09/12/otro-negocio-a-partir-de-vaca-muerta-proyectan-que-la-argentina-exportara-usd-2000-millones-anuales-de-liquidos-del-gas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-12",
+    "titulo": "Jubilaciones y deuda, los dos rubros que más se adelantaron en las partidas para este año antes del Presupuesto 2027",
+    "resumen": "Con casi 67%% del año transcurrido, la Administración Central muestra un superávit de caja superior al previsto y diferencias entre jurisdicciones que marcarán la discusión del próximo proyecto oficial que se presentará al Congreso el 15 de septiembre",
+    "link": "https://www.infobae.com/economia/2026/09/12/jubilaciones-y-deuda-los-dos-rubros-que-mas-se-adelantaron-en-las-partidas-para-este-ano-antes-del-presupuesto-2027/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-12",
+    "titulo": "Los datos que muestran por qué la mora crediticia no es un “riesgo sistémico”, pero sí un problema macroeconómico",
+    "resumen": "Aunque los próximos informes muestren una reducción de los atrasos en el pago de las cuotas, el efecto sobre el consumo y el nivel de actividad “recién empieza a verse”, será más perdurable y golpea la base electoral del Presidente, alerta un informe privado",
+    "link": "https://www.infobae.com/economia/2026/09/12/los-datos-que-muestran-por-que-la-mora-crediticia-no-es-un-riesgo-sistemico-pero-si-un-problema-macroeconomico/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-09-12",
+    "titulo": "¿Qué va a pasar con la nafta?: la escalada del precio global del petróleo pone en duda el alivio previsto para los surtidores locales",
+    "resumen": "El Brent superó los USD 100 el barril y acumula una suba del 30% desde agosto. El mecanismo que YPF usó para proteger los bolsillos de los consumidores ya no tiene margen, y la pregunta es cuánto tiempo más seguirán quietos los precios",
+    "link": "https://www.infobae.com/economia/2026/09/12/que-va-a-pasar-con-la-nafta-la-escalada-del-precio-global-del-petroleo-pone-en-duda-el-alivio-previsto-para-los-surtidores-locales/",
+    "fuente": "infobae"
+  },
+  {
     "fecha": "2026-09-11",
     "titulo": "El Gobierno anticipó al Financial Times una migración de 4 millones de personas desde Buenos Aires al interior",
     "resumen": "Federico Sturzenegger sostuvo en un extenso reporte del medio británico sobre la economía de Milei que la expansión del petróleo, el gas y la minería revertirá, en las próximas tres décadas, la histórica concentración poblacional del AMBA",
@@ -109,13 +235,6 @@
     "titulo": "Otra vez la disyuntiva desarrollo o medio ambiente",
     "resumen": "Un proyecto de ley en tratamiento establece sanciones de hasta 15 años de cárcel por daños ambientales derivados de negligencia",
     "link": "https://www.infobae.com/opinion/2026/09/11/otra-vez-la-disyuntiva-desarrollo-o-medio-ambiente/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-09-11",
-    "titulo": "La electrificación que no llega: estiman que en cinco años el 95% de los autos de Argentina seguirán siendo de combustión",
-    "resumen": "Según la asociación de concesionarios, los enchufables se multiplicarán 12 veces hasta 2031, pero el consumo de combustibles líquidos igual crecerá 14,5 por ciento",
-    "link": "https://www.infobae.com/economia/2026/09/11/la-electrificacion-que-no-llega-estiman-que-en-cinco-anos-el-95-de-los-autos-de-argentina-seguiran-siendo-de-combustion/",
     "fuente": "infobae"
   },
   {
