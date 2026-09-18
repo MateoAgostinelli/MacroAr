@@ -1,7 +1,49 @@
 [
   {
+    "fecha": "2026-09-18",
+    "titulo": "El Gobierno mantuvo el superávit fiscal en agosto y acumula 1,1% del PBI de saldo primario en 2026",
+    "resumen": "<p id=\"p-1789741075868-42401\" class=\"ignore-parser\">El Sector Público Nacional registró un superávit primario de $1,99 billones y un superávit financiero de $635.529 millones el mes pasado. Qué pasará con la meta pactada con el FMI.</p>",
+    "link": "https://www.ambito.com/el-gobierno-mantuvo-el-superavit-fiscal-agosto-y-acumula-11-del-pbi-saldo-primario-2026-n6323938",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "El Gobierno asegura que no habrá turbulencias cambiarias en 2027 e insiste en que el dólar no está atrasado",
+    "resumen": "<p id=\"p-1789740451659-98769\" data-path-to-node=\"1,0,1,0\" class=\"ignore-parser\">El secretario de Finanzas, Federico Furiase, garantizó estabilidad cambiaria para el año electoral, rechazó las advertencias sobre un atraso del dólar y aclaró que la pauta de $1.847,60 fijada en e...",
+    "link": "https://www.ambito.com/economia/el-gobierno-asegura-que-no-habra-turbulencias-cambiarias-2027-e-insiste-que-el-dolar-no-esta-atrasado-n6323921",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Crece el pluriempleo y ya 4 de cada 10 trabajadores buscan un complemento para sus ingresos",
+    "resumen": "<p id=\"p-1789733638327-56397\" data-path-to-node=\"1,0\" class=\"ignore-parser\">El estudio refleja una profunda transformación en los hábitos de ahorro, las decisiones de inversión y las preferencias laborales según la franja etaria, la región geográfica y el grado de familiaridad...",
+    "link": "https://www.ambito.com/economia/crece-el-pluriempleo-y-ya-4-cada-10-trabajadores-buscan-un-complemento-sus-ingresos-n6323854",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Créditos hipotecarios para docentes en Mendoza: habilitaron una herramienta para que accedan a la casa propia",
+    "resumen": "<p id=\"p-1789586084060-63252\" class=\"ignore-parser\">La nueva herramienta busca ayudar a docentes que hoy tienen dificultades para cumplir con los requisitos de un crédito.</p>",
+    "link": "https://www.ambito.com/economia/creditos-inmobiliarios-docentes-mendoza-habilitaron-una-herramienta-que-accedan-la-casa-propia-n6323189",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "El Banco de Japón subió la tasa a su nivel más alto desde 1995, pero no logró estabilizar al yen",
+    "resumen": "<p id=\"p-1789726243636-47186\" class=\"ignore-parser\">El ritmo acelerado de las subas de la autoridad monetaria nipona se produce tras un cambio en el panorama de la política monetaria de los principales bancos centrales.</p>",
+    "link": "https://www.ambito.com/economia/el-banco-japon-subio-la-tasa-su-nivel-mas-alto-1995-pero-no-logro-estabilizar-al-yen-n6323835",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Inocencia Fiscal II ya es ley: hasta cuándo se podrán sacar los dólares del colchón y qué cambia para los contribuyentes",
+    "resumen": "<p id=\"p-1789690431954-71170\" class=\"ignore-parser\">Los cambios a la primera versión fueron aprobados por el Senado. Contadores reclaman una prórroga para presentar la declaración jurada, cuyo vencimiento está previsto para el 22 de septiembre.</p> <p id=\"p-1789690430952-77353...",
+    "link": "https://www.ambito.com/economia/inocencia-fiscal-ii-ya-es-ley-cuando-se-podran-sacar-los-dolares-del-colchon-y-que-cambia-los-contribuyentes-n6323735",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-09-17",
-    "titulo": "Cuáles son las claves del proyecto Inocencia Fiscal II y qué impacto tendrán sobre los contribuyentes",
+    "titulo": "Cuáles son las claves del proyecto Inocencia Fiscal II y qué impacto tendrá sobre los contribuyentes",
     "resumen": "<p id=\"p-1784761309638-30531\" class=\"ignore-parser\">La iniciativa incorpora límites a las facultades de fiscalización, modifica los plazos para revisar declaraciones juradas y redefine el tratamiento de las discrepancias patrimoniales. Los puntos centrales del proyecto.</p>",
     "link": "https://www.ambito.com/economia/cuales-son-las-claves-del-proyecto-inocencia-fiscal-ii-y-que-impacto-tendran-los-contribuyentes-n6314926",
     "fuente": "ambito"
@@ -16,7 +58,7 @@
   {
     "fecha": "2026-09-17",
     "titulo": "Presupuesto 2027 y gasto tributario: cuáles son las nuevas exenciones y quiénes no pagarán impuestos",
-    "resumen": "<p id=\"p-1789645425378-29122\" class=\"ignore-parser\">Es el 3,67% del PBI del año entrante, que es una proporción similar a las de 2026. El principal régimen del Gobierno para atraer inversiones no tiene imputación todavía porque está en \"etapas iniciales\".</p> <p id=\"p-17896449...",
+    "resumen": "<p id=\"p-1789645425378-29122\" class=\"ignore-parser\">Es el 3,67% del PBI del año entrante, que es una proporción similar a la de 2026. El principal régimen del Gobierno para atraer inversiones no tiene imputación todavía porque está en \"etapas iniciales\".</p> <p id=\"p-178964494...",
     "link": "https://www.ambito.com/economia/presupuesto-2027-y-gasto-tributario-cuales-son-las-nuevas-exenciones-y-quienes-no-pagaran-impuestos-n6323345",
     "fuente": "ambito"
   },
@@ -74,6 +116,90 @@
     "titulo": "Diálogos de Wall Street: la Fed de Kevin Warsh subió las tasas, ¿comienza un ciclo alcista?",
     "resumen": "<p id=\"p-1789604531184-96242\" class=\"ignore-parser\">Créase o no, la Fed de Warsh aumentó las tasas. Lo hizo a propuesta del nuevo chairman y se votó por unanimidad. ¿Cómo sigue la película, Gordon Gekko?</p>",
     "link": "https://www.ambito.com/economia/dialogos-wall-street-la-fed-kevin-warsh-subio-las-tasas-comienza-un-ciclo-alcista-n6323268",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Agroindustriales celebraron la media sanción a la ley de Biocombustibles y proyectan inversiones por u$s1.000 millones",
+    "resumen": "<p id=\"p-1789696598015-72925\" class=\"ignore-parser\">El Consejo Agroindustrial y la Cámara de la Industria Aceitera destacaron los beneficios que generará en el sector. Auguran inversiones por u$s1.000 millones y un aumento en el empleo.</p> <p id=\"p-1789697860136-56404\" class=...",
+    "link": "https://www.ambito.com/economia/agroindustriales-celebraron-la-media-sancion-la-ley-biocombustibles-y-proyectan-inversiones-us1000-millones-n6323803",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Fondos FAL para indemnizaciones: la UIF simplificó los controles antilavado para acelerar su puesta en marcha",
+    "resumen": "<p id=\"p-1789688657282-71948\" class=\"ignore-parser\">La medida reduce las cargas de cumplimiento para los aportes destinados a los FAL, al considerar que presentan un riesgo menor. La excepción no alcanza al resto de las operaciones realizadas por las entidades del mercado de c...",
+    "link": "https://www.ambito.com/economia/fondos-fal-indemnizaciones-la-uif-simplifico-los-controles-antilavado-acelerar-su-puesta-marcha-n6323773",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "El PBI cayó 0,6% en el segundo trimestre, ante deterioro en el consumo y la inversión",
+    "resumen": "<p id=\"p-1789672167302-84989\" class=\"ignore-parser\">Como esperaba el mercado, el INDEC confirmó que la actividad económica se contrajo entre abril y junio. Las estimaciones de julio y agosto tampoco despiertan optimismo.</p>",
+    "link": "https://www.ambito.com/economia/el-pbi-cayo-06-el-segundo-trimestre-deterioro-el-consumo-y-la-inversion-n6323646",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Cuánto cuesta vivir en Vaca Muerta y cuáles son los salarios en la zona petrolera",
+    "resumen": "<p id=\"p-1789562323124-73385\" class=\"ignore-parser\">El desarrollo hidrocarburífero atrae trabajadores y capitales, pero también presiona sobre viviendas, servicios y precios cotidianos.</p>",
+    "link": "https://www.ambito.com/economia/cuanto-cuesta-vivir-vaca-muerta-y-cuales-son-los-salarios-la-zona-petrolera-n6322927",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "El desempleo subió a 7,9% en el segundo trimestre y volvió a niveles de la pandemia",
+    "resumen": "<p id=\"p-1789671249028-84272\" class=\"ignore-parser\">La tasa de desempleo pasó del 7,6% al 7,9% en el segundo trimestre y tocó su máximo nivel desde 2021. La informalidad creció del 43,2% al 45%, récord desde 2023 que inició la serie.</p>",
+    "link": "https://www.ambito.com/el-desempleo-subio-79-su-nivel-mas-alto-2021-y-la-informalidad-salto-45-n6323656",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "De \"Euphoria\" a empresaria millonaria: así construyó Sydney Sweeney su imperio",
+    "resumen": "<p id=\"p-1789523917094-60206\" class=\"ignore-parser\">La actriz convirtió el éxito frente a las cámaras en una fuente de ingresos que combina películas, publicidad, producción propia y nuevos negocios.</p>",
+    "link": "https://www.ambito.com/economia/de-euphoria-empresaria-millonaria-asi-construyo-sydney-sweeney-su-imperio-n6322833",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "El Banco de Japón se prepara para subir las tasas a su nivel más alto desde 1995",
+    "resumen": "<p id=\"p-1789658019301-31965\" class=\"ignore-parser\">Se prevé un aumento generalizado de 25 puntos básicos hasta el 1,25%. Además, el mercado ya está descontando otro aumento de 25 puntos básicos para finales de año, en un contexto de presión para el yen.</p>",
+    "link": "https://www.ambito.com/economia/el-banco-japon-se-prepara-subir-las-tasas-su-nivel-mas-alto-1993-n6323580",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "RIGI: estiman que el gasto tributario por los proyectos aprobados llega a u$s3.359 millones por año",
+    "resumen": "<p id=\"p-1789662426253-7956\" class=\"ignore-parser\">Un informe calculó el costo fiscal anual de los beneficios otorgados por el régimen de grandes inversiones. Según el trabajo, los 23 proyectos aprobados suman u$s49.766 millones de inversión y podrían generar 108.450 empleos d...",
+    "link": "https://www.ambito.com/economia/rigi-estiman-que-el-gasto-tributario-los-proyectos-aprobados-llega-us3359-millones-ano-n6323555",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Lula aumenta un 15% en la asistencia social con \"Bolsa Familia\", en antesala de la gran disputa electoral",
+    "resumen": "<p id=\"p-1789662137071-52886\" data-path-to-node=\"4,0,1,0\" class=\"ignore-parser\">El pago mínimo mensual de \"Bolsa Família\" escalará de 600 a 691 reales (unos u$s134,02). La medida busca reforzar el programa ante la cercana elección presidencial y el empate técnico del mandatari...",
+    "link": "https://www.ambito.com/economia/lula-aumenta-un-15-la-asistencia-social-bolsa-familia-antesala-la-gran-disputa-electoral-n6323554",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "10 formas sencillas de ahorrar dinero para tu próximo viaje",
+    "resumen": "<p id=\"p-1789502094473-16652\" class=\"ignore-parser\">Con algunos cambios antes de salir y tomando las decisiones correctas durante la estadía, se puede reducir los gastos mientras se vive una gran experiencia.</p>",
+    "link": "https://www.ambito.com/economia/10-formas-sencillas-ahorrar-dinero-tu-proximo-viaje-n6322728",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Trump escala la tensión comercial: amenazó con grandes aranceles contra Europa si Canadá se asocia a la UE",
+    "resumen": "<p id=\"p-1789656602333-80756\" class=\"ignore-parser\">Ursula von der Leyen propuso a Canadá ser el primer \"miembro asociado\" para profundizar cooperación estratégica. La iniciativa busca intensificar lazos ante crecientes tensiones comerciales de Canadá con Estados Unidos.</p>",
+    "link": "https://www.ambito.com/economia/trump-escala-la-tension-comercial-amenazo-grandes-aranceles-contra-europa-si-canada-se-asocia-la-ue-n6323514",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Plazo Fijo: qué bancos ofrecen las mejores de interés",
+    "resumen": "<p id=\"p-1789577691299-14986\" class=\"ignore-parser\">Los bancos ofrecen tasas de hasta 5% anual en dólares, aunque los rendimientos más altos exigen inmovilizar los fondos durante un año o más.</p>",
+    "link": "https://www.ambito.com/economia/plazo-fijo-que-bancos-ofrecen-las-mejores-interes-n6323100",
     "fuente": "ambito"
   },
   {
