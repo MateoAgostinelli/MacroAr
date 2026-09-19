@@ -1,44 +1,135 @@
 [
   {
+    "fecha": "2026-09-19",
+    "titulo": "¿Cuánto hay que pagar en la primera cuota para sacar un crédito hipotecario de u$s 150.000?",
+    "resumen": "La cuota cambia bastante según el banco elegido, el plazo y las condiciones que tenga cada cliente.",
+    "link": "https://www.ambito.com/economia/cuanto-hay-que-pagar-la-primera-cuota-sacar-un-credito-hipotecario-us-150000-n6323753",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-19",
+    "titulo": "Plazo fijo: cuánto rinde una inversión de $1.500.000 a 60 días",
+    "resumen": "Con las tasas vigentes en septiembre, se necesitan montos millonarios para alcanzar ganancias relevantes. Conocé los detalles.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-rinde-una-inversion-1500000-60-dias-n6323671",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-09-18",
     "titulo": "El Gobierno mantuvo el superávit fiscal en agosto y acumula 1,1% del PBI de saldo primario en 2026",
-    "resumen": "<p id=\"p-1789741075868-42401\" class=\"ignore-parser\">El Sector Público Nacional registró un superávit primario de $1,99 billones y un superávit financiero de $635.529 millones el mes pasado. Qué pasará con la meta pactada con el FMI.</p>",
+    "resumen": "El Sector Público Nacional registró un superávit primario de $1,99 billones y un superávit financiero de $635.529 millones el mes pasado. Qué pasará con la meta pactada con el FMI.",
     "link": "https://www.ambito.com/el-gobierno-mantuvo-el-superavit-fiscal-agosto-y-acumula-11-del-pbi-saldo-primario-2026-n6323938",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-18",
     "titulo": "El Gobierno asegura que no habrá turbulencias cambiarias en 2027 e insiste en que el dólar no está atrasado",
-    "resumen": "<p id=\"p-1789740451659-98769\" data-path-to-node=\"1,0,1,0\" class=\"ignore-parser\">El secretario de Finanzas, Federico Furiase, garantizó estabilidad cambiaria para el año electoral, rechazó las advertencias sobre un atraso del dólar y aclaró que la pauta de $1.847,60 fijada en e...",
+    "resumen": "El secretario de Finanzas, Federico Furiase, garantizó estabilidad cambiaria para el año electoral, rechazó las advertencias sobre un atraso del dólar y aclaró que la pauta de $1.847,60 fijada en el Presupuesto 2027 es solo un cálculo técnico.",
     "link": "https://www.ambito.com/economia/el-gobierno-asegura-que-no-habra-turbulencias-cambiarias-2027-e-insiste-que-el-dolar-no-esta-atrasado-n6323921",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-18",
     "titulo": "Crece el pluriempleo y ya 4 de cada 10 trabajadores buscan un complemento para sus ingresos",
-    "resumen": "<p id=\"p-1789733638327-56397\" data-path-to-node=\"1,0\" class=\"ignore-parser\">El estudio refleja una profunda transformación en los hábitos de ahorro, las decisiones de inversión y las preferencias laborales según la franja etaria, la región geográfica y el grado de familiaridad...",
+    "resumen": "El estudio refleja una profunda transformación en los hábitos de ahorro, las decisiones de inversión y las preferencias laborales según la franja etaria, la región geográfica y el grado de familiaridad con las herramientas digitales.",
     "link": "https://www.ambito.com/economia/crece-el-pluriempleo-y-ya-4-cada-10-trabajadores-buscan-un-complemento-sus-ingresos-n6323854",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-18",
     "titulo": "Créditos hipotecarios para docentes en Mendoza: habilitaron una herramienta para que accedan a la casa propia",
-    "resumen": "<p id=\"p-1789586084060-63252\" class=\"ignore-parser\">La nueva herramienta busca ayudar a docentes que hoy tienen dificultades para cumplir con los requisitos de un crédito.</p>",
+    "resumen": "La nueva herramienta busca ayudar a docentes que hoy tienen dificultades para cumplir con los requisitos de un crédito.",
     "link": "https://www.ambito.com/economia/creditos-inmobiliarios-docentes-mendoza-habilitaron-una-herramienta-que-accedan-la-casa-propia-n6323189",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-18",
-    "titulo": "El Banco de Japón subió la tasa a su nivel más alto desde 1995, pero no logró estabilizar al yen",
-    "resumen": "<p id=\"p-1789726243636-47186\" class=\"ignore-parser\">El ritmo acelerado de las subas de la autoridad monetaria nipona se produce tras un cambio en el panorama de la política monetaria de los principales bancos centrales.</p>",
+    "titulo": "El Banco de Japón subió la tasa a su nivel más alto en 31 años, pero las dudas sobre el yen persisten",
+    "resumen": "El ritmo acelerado de las subas busca contrarrestar el alza en los precios que produjo la guerra en Medio Oriente. Sin embargo, enfrenta disidencias internas y del gobierno de Sanae Takaichi.",
     "link": "https://www.ambito.com/economia/el-banco-japon-subio-la-tasa-su-nivel-mas-alto-1995-pero-no-logro-estabilizar-al-yen-n6323835",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-09-18",
     "titulo": "Inocencia Fiscal II ya es ley: hasta cuándo se podrán sacar los dólares del colchón y qué cambia para los contribuyentes",
-    "resumen": "<p id=\"p-1789690431954-71170\" class=\"ignore-parser\">Los cambios a la primera versión fueron aprobados por el Senado. Contadores reclaman una prórroga para presentar la declaración jurada, cuyo vencimiento está previsto para el 22 de septiembre.</p> <p id=\"p-1789690430952-77353...",
+    "resumen": "Los cambios a la primera versión fueron aprobados por el Senado. Contadores reclaman una prórroga para presentar la declaración jurada, cuyo vencimiento está previsto para el 22 de septiembre.",
     "link": "https://www.ambito.com/economia/inocencia-fiscal-ii-ya-es-ley-cuando-se-podran-sacar-los-dolares-del-colchon-y-que-cambia-los-contribuyentes-n6323735",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Los precios del comercio exterior ya superan a los de 2003-2012: ¿por qué la economía no aprovecha el \"viento de cola\"?",
+    "resumen": "Los términos de intercambio están en uno de sus mejores momentos de la historia argentina. Sin embargo, a diferencia de otros períodos, el crecimiento económico es acotado y concentrado, sin traslado a mejoras en empleo y salarios.",
+    "link": "https://www.ambito.com/economia/los-precios-del-comercio-exterior-ya-superan-los-2003-2012-por-que-la-no-aprovecha-el-viento-cola-n6324093",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Cómo recorrer Europa en tren con poco presupuesto",
+    "resumen": "Reservar con tiempo, combinar operadores y elegir horarios menos demandados puede reducir el costo total de un itinerario continental.",
+    "link": "https://www.ambito.com/economia/como-recorrer-europa-tren-poco-presupuesto-n6323874",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "El BCRA confirmó un nuevo récord de la mora en las familias durante julio, mientras crece refinanciamiento de deudas",
+    "resumen": "La morosidad de las familias alcanzó el 12,9% en julio, según el BCRA. En este contexto, bancos y fintech intensificaron sus planes de refinanciación, con especial foco en la mora temprana, que comprende atrasos de hasta 90 días.",
+    "link": "https://www.ambito.com/economia/el-bcra-confirmo-un-nuevo-record-la-mora-las-familias-julio-mientras-crece-refinanciamiento-deudas-n6323609",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "El superávit comercial se aceleró a u$s2.187 millones en agosto, apuntalado por los precios internacionales",
+    "resumen": "Las importaciones crecieron tanto en términos mensuales como interanuales, aunque fundamentalmente por las compras de energía y el aumento de precios. Los términos de intercambio de Argentina volvieron a mejorar.",
+    "link": "https://www.ambito.com/economia/el-superavit-comercial-se-acelero-us2187-millones-agosto-pese-repunte-las-importaciones-n6324111",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "¿A cuánto asciende la fortuna de Sally Field? El patrimonio de la legendaria actriz de Hollywood",
+    "resumen": "Tras seis décadas frente a las cámaras, la intérprete reunió ingresos millonarios gracias a series, películas, premios y operaciones inmobiliarias.",
+    "link": "https://www.ambito.com/economia/a-cuanto-asciende-la-fortuna-sally-field-el-patrimonio-la-legendaria-actriz-hollywood-n6323454",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "¿Cuánto cuesta una casa prefabricada de 2 dormitorios en Argentina en septiembre 2026?",
+    "resumen": "Las propuestas relevadas muestran diferencias según superficie, aislación, equipamiento y nivel de terminación elegido para cada proyecto.",
+    "link": "https://www.ambito.com/economia/cuanto-cuesta-una-casa-prefabricada-2-dormitorios-argentina-septiembre-2026-n6323359",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Cumbre Trump-Xi Jinping: aranceles, acuerdos millonarios y la geopolítica de la IA en una cita histórica en Washington",
+    "resumen": "En un encuentro de alto impacto marcado por la desaceleración china y la inflación estadounidense, los mandatarios buscan renovar la tregua comercial mientras Silicon Valley, las tensiones en Taiwán y el cerco a Irán marcan el pulso geopolítico.",
+    "link": "https://www.ambito.com/economia/cumbre-trump-xi-jinping-aranceles-acuerdos-millonarios-y-la-geopolitica-la-ia-una-cita-historica-washington-n6324044",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Recaudación: para alcanzar los números proyectados para 2026 las retenciones deberían subir 65%",
+    "resumen": "Se trata de estimaciones hechas por el IARAF en base a los propios números que propone el ministro Luis Caputo para el cierre de este año y la marcha del que viene.",
+    "link": "https://www.ambito.com/economia/recaudacion-alcanzar-los-numeros-proyectados-2026-las-retenciones-deberian-subir-65-n6323994",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Desempleo: las 10 ciudades más afectadas y dónde ya supera los dos dígitos",
+    "resumen": "Con 1,2 millones de personas en búsqueda activa de trabajo, el mapa del INDEC muestra los principales distritos y regiones del país golpeados por el desempleo. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/desempleo-las-10-ciudades-mas-afectadas-y-donde-ya-supera-los-dos-digitos-n6324004",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Las reservas netas tocaron su máximo nivel en cinco años y el mercado evalúa el poder de fuego del BCRA",
+    "resumen": "Las reservas netas alcanzaron su nivel más alto desde 2021 rozando los u$s7.000 millones, aunque la fuerte desaceleración en las compras del BCRA enciende luces amarillas en el mercado.",
+    "link": "https://www.ambito.com/economia/las-reservas-netas-tocaron-su-maximo-nivel-cinco-anos-y-el-mercado-evalua-el-poder-fuego-del-bcra-n6323515",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Plazo fijo en dólares: cuánto se gana y qué bancos ofrecen las mejores tasas en septiembre 2026",
+    "resumen": "El plazo fijo en dólares permite obtener intereses sobre los ahorros en moneda estadounidense, aunque las tasas varían según el banco y el período.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-se-gana-y-que-bancos-ofrecen-las-mejores-tasas-septiembre-2026-n6324066",
     "fuente": "ambito"
   },
   {
@@ -121,7 +212,7 @@
   {
     "fecha": "2026-09-17",
     "titulo": "Agroindustriales celebraron la media sanción a la ley de Biocombustibles y proyectan inversiones por u$s1.000 millones",
-    "resumen": "<p id=\"p-1789696598015-72925\" class=\"ignore-parser\">El Consejo Agroindustrial y la Cámara de la Industria Aceitera destacaron los beneficios que generará en el sector. Auguran inversiones por u$s1.000 millones y un aumento en el empleo.</p> <p id=\"p-1789697860136-56404\" class=...",
+    "resumen": "El Consejo Agroindustrial y la Cámara de la Industria Aceitera destacaron los beneficios que generará en el sector. Auguran inversiones por u$s1.000 millones y un aumento en el empleo.",
     "link": "https://www.ambito.com/economia/agroindustriales-celebraron-la-media-sancion-la-ley-biocombustibles-y-proyectan-inversiones-us1000-millones-n6323803",
     "fuente": "ambito"
   },
