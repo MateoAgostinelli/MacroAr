@@ -1,5 +1,75 @@
 [
   {
+    "fecha": "2026-09-22",
+    "titulo": "Se traba el acuerdo comercial con EEUU: el Gobierno busca renegociar los términos, pero Washington lo rechaza",
+    "resumen": "Delegados de la Casa Rosada intentan rediscutir los condiciones del acuerdo con Washington, porque desde el gobierno argentino no cuentan con los votos necesarios en el Congreso para ratificar el tratado comercial.",
+    "link": "https://www.ambito.com/se-traba-el-acuerdo-comercial-eeuu-el-gobierno-busca-renegociar-los-terminos-pero-washington-lo-rechaza-n6325195",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Menos pantallas y más salidas al aire libre: cuánto impactan los gastos típicos y ocasionales de la primavera",
+    "resumen": "El cambio de estación impulsa el gasto en actividades al aire libre, gastronomía y deporte, reduciendo el tiempo frente a las pantallas. El detalle de los cambios de consumo con el clima más agradable y las escapadas turísticas, en la nota.",
+    "link": "https://www.ambito.com/economia/menos-pantallas-y-mas-salidas-al-aire-libre-cuanto-impactan-los-gastos-tipicos-y-ocasionales-la-primavera-n6325141",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Dólar, inflación y actividad: qué proyectan las empresas para la economía en 2027",
+    "resumen": "Las compañías comenzaron a definir sus presupuestos para el próximo año y esperan un dólar por encima de la estimación oficial, mientras anticipan que continuará la desinflación.",
+    "link": "https://www.ambito.com/economia/dolar-inflacion-y-actividad-que-proyectan-las-empresas-la-2027-n6325139",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "El \"Súper Niño\" amenaza con disparar el precio de los alimentos y podría sumar 5 millones de pobres en América Latina",
+    "resumen": "Estimaciones de la Cepal y la ONU advierten que un evento climático histórico podría restar un 2% al PIB en América Latina, sumar a millones de personas a la pobreza y desatar severas crisis energéticas y de suministros a escala global.",
+    "link": "https://www.ambito.com/economia/el-super-nino-amenaza-disparar-el-precio-los-alimentos-y-podria-sumar-5-millones-pobres-america-latina-n6325085",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Javier Milei apuntó contra la política fiscal de Lula en Brasil y recordó la crisis de 2001 en Argentina",
+    "resumen": "El Presidente volvió a cuestionar el Gobierno de Lula Da Silva, en particular su política fiscal y compartió un gráfico que muestra un fuerte deterioro de las cuentas públicas.",
+    "link": "https://www.ambito.com/economia/javier-milei-apunto-contra-la-politica-fiscal-lula-brasil-y-recordo-la-crisis-2001-argentina-n6325110",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Los líderes de la UIA se reúnen con el secretario Pablo Lavigne: qué planteos llevará la entidad",
+    "resumen": "Los representantes de la industria serán recibidos esta mañana en el Palacio de Hacienda. En el Día de la Industria, Rappallini le pidió al Gobierno \"un puente\" para que el sector pueda atravesar el cambio de modelo.",
+    "link": "https://www.ambito.com/economia/los-lideres-la-uia-se-reunen-el-secretario-pablo-lavigne-que-planteos-llevara-la-entidad-n6325087",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "El Gobierno creó una mesa de trabajo para revisar las tasas aeronáuticas y cargos de la aviación comercial",
+    "resumen": "La medida busca que aerolíneas, la ANAC, EANA y las cámaras del sector elaboren, antes del 1° de diciembre, un documento de recomendaciones para dar más transparencia y previsibilidad a la definición de esos cargos.",
+    "link": "https://www.ambito.com/economia/el-gobierno-creo-una-mesa-trabajo-revisar-las-tasas-aeronauticas-y-cargos-la-aviacion-comercial-n6325072",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Impuestos: ARBA amplía su sistema digital y acelera los trámites para recuperar saldos a favor",
+    "resumen": "El organismo incluyó a las embarcaciones deportivas o de recreación en el sistema único de compensación para que puedan tramitarlo de manera totalmente online.",
+    "link": "https://www.ambito.com/economia/impuestos-arba-amplia-su-sistema-digital-y-acelera-los-tramites-recuperar-saldos-favor-n6325074",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "El INDEC aumenta las multas por falsear o no entregar información estadística: cuánto se deberá pagar",
+    "resumen": "La Resolución 133/2026 fijó un nuevo tope de las sanciones para quienes no entreguen en término, falseen u omitan datos para el Sistema Estadístico Nacional. El mínimo subió 16,55% respecto de marzo.",
+    "link": "https://www.ambito.com/economia/el-indec-aumenta-las-multas-falsear-o-no-entregar-informacion-estadistica-cuanto-se-debera-pagar-n6325071",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "CABA evalúa salir esta semana al mercado local: \"Estamos trabajando para emitir hasta u$s150 millones\"",
+    "resumen": "El ministro de Hacienda y Finanzas porteño, Gustavo Arengo, anticipó a Ámbito los planes de la administración porteña para buscar financiamiento para dos proyectos. De no mediar imponderables, el jueves sería la fecha elegida. Su mirada sobre la realidad económica local, el Pr...",
+    "link": "https://www.ambito.com/la-ciudad-evalua-salir-esta-semana-al-mercado-local-estamos-trabajando-emitir-us150-millones-n6325023",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-09-21",
     "titulo": "Morosidad récord: las deudas de casi 900.000 personas ya pasaron a manos de las agencias de cobranza",
     "resumen": "El incumplimiento de pagos de más de un año creció un 60% interanual. Cuáles fueron las provincias dónde más aumentó la morosidad el último año, y cómo se transformó el mapa nacional, atravesado por el endeudamiento.",
@@ -46,6 +116,48 @@
     "titulo": "La Fed de Warsh sube las tasas por primera vez, Donald Trump no pudo evitarlo y nadie espera que sea la última",
     "resumen": "La votación en el Comité de Mercado Abierto fue unánime. La inflación es muy elevada y la Fed se hizo cargo de su responsabilidad. La decisión que viene no está tomada y el jefe de la Reserva Federal ya no anticipa cuáles serán los próximos pasos. Cómo sigue la película.",
     "link": "https://www.ambito.com/economia/la-fed-warsh-sube-las-tasas-primera-vez-nadie-espera-que-sea-la-ultima-y-donald-trump-no-puede-evitarlo-n6324544",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-21",
+    "titulo": "Plazo fijo: por qué dejar $1.000.000 en tu banco puede hacerte perder $6.000 en un mes",
+    "resumen": "La diferencia entre las tasas bancarias puede superar los $6.000 por cada millón colocado durante 30 días.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-que-dejar-1000000-tu-banco-puede-hacerte-perder-6000-un-mes-n6324881",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-21",
+    "titulo": "El gasto en servicios públicos cayó 7,3% en septiembre: el menor consumo estacional compensó la suba de tarifas",
+    "resumen": "La merma en las temperaturas invernales se traduce en un menor consumo de gas y electricidad. En transporte se mantuvieron las subas.",
+    "link": "https://www.ambito.com/economia/el-gasto-servicios-publicos-cayo-73-septiembre-ya-que-el-menor-consumo-estacional-compenso-la-suba-tarifas-n6325027",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-21",
+    "titulo": "Becas internacionales de la Cancillería Argentina: convocatorias abiertas y destinos populares",
+    "resumen": "Hay opciones de cursos, posgrados e investigación en distintos países, con coberturas y requisitos que cambian según cada programa.",
+    "link": "https://www.ambito.com/economia/becas-internacionales-la-cancilleria-argentina-convocatorias-abiertas-y-destinos-populares-n6324863",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-21",
+    "titulo": "Empeoraron las expectativas de los industriales sobre la demanda: solo el 13,8% prevé una mejora para fin de año",
+    "resumen": "El débil consumo interno es lo que más preocupa en la industria manufacturera. Le siguen la competencia de las importaciones y la incertidumbre económica.",
+    "link": "https://www.ambito.com/economia/empeoraron-las-expectativas-los-industriales-la-demanda-solo-el-138-preve-una-mejora-fin-ano-n6324961",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-21",
+    "titulo": "¿Comprar con crédito hipotecario o alquilar en Argentina? Cómo funciona el simulador gratuito que define qué conviene hacer",
+    "resumen": "La cuenta cambia bastante cuando se suman los ahorros, los gastos de compra y la posibilidad de invertir ese dinero mientras se alquila.",
+    "link": "https://www.ambito.com/economia/comprar-credito-hipotecario-o-alquilar-argentina-como-funciona-el-simulador-gratuito-que-define-que-conviene-hacer-n6324769",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-21",
+    "titulo": "Argentina iguala a Brasil y busca ser el segundo mayor exportador mundial de maíz",
+    "resumen": "La expansión del consumo interno y del bioetanol en Brasil limita su saldo exportable y abre la puerta para que Argentina dispute el segundo puesto a nivel global. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/argentina-iguala-brasil-y-busca-ser-el-segundo-mayor-exportador-mundial-maiz-n6324876",
     "fuente": "ambito"
   },
   {
