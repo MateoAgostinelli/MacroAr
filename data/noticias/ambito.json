@@ -1,5 +1,61 @@
 [
   {
+    "fecha": "2026-09-23",
+    "titulo": "Las 3 claves de la baja de Impuesto a las Patentes en CABA",
+    "resumen": "El Gobierno porteño incluirá en el Presupuesto 2027 una reestructuración del tributo automotor con rebajas directas, congelamiento de cuotas y exenciones por antigüedad.",
+    "link": "https://www.ambito.com/economia/las-3-claves-la-baja-impuesto-las-patentes-caba-n6325699",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "CABA reduce el Impuesto a las Patentes en 2027 y amplía la exención: qué autos dejarán de pagar",
+    "resumen": "El 50% del parque automotor pagará menos y otro 10% quedará exento por antigüedad.",
+    "link": "https://www.ambito.com/economia/caba-reduce-el-impuesto-las-patentes-2027-y-amplia-la-exencion-que-autos-dejaran-pagar-n6325578",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "CABA anuncia una fuerte baja de Impuesto a las Patentes: cuánto pagarán los autos en 2027",
+    "resumen": "El Gobierno porteño anunció una histórica reducción de alícuotas que beneficiará a la clase media y ampliará la exención a vehículos con más de 20 años de antigüedad.",
+    "link": "https://www.ambito.com/economia/caba-anuncia-una-fuerte-baja-patentes-cuanto-pagaran-los-autos-2027-n6325575",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "La OCDE recortó su proyección de crecimiento para Argentina y advirtió sobre la economía global",
+    "resumen": "La economía a nivel global crecerá 2,9%, mostrando mayor resiliencia de lo esperado, mientras que la proyección de crecimiento del organismo para la Argentina se ajustó al 2,6% para este año. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/la-ocde-recorto-su-proyeccion-crecimiento-argentina-y-advirtio-la-global-n6325571",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "Nación busca traspasar a provincias y municipios las obras del Fondo Socio Urbano",
+    "resumen": "A través de un plan de acción, el Gobierno fijó cómo seguirán las obras en curso del FISU, el fideicomiso que había disuelto el año pasado y cuya liquidación fue frenada por la Justicia. Las jurisdicciones deberán evaluar si las financian por su cuenta, y en caso de incumplimi...",
+    "link": "https://www.ambito.com/economia/nacion-busca-traspasar-provincias-y-municipios-las-obras-del-fondo-socio-urbano-n6325555",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "ANSES aumenta jubilaciones, AUH y pensiones en octubre: cuánto suben y cuál será el haber mínimo",
+    "resumen": "La actualización sigue el último dato de inflación y alcanza a pensiones, PUAM, PBU y asignaciones familiares. Todavía falta que se oficialice el bono extraordinario para los jubilados.",
+    "link": "https://www.ambito.com/economia/anses-aumenta-jubilaciones-auh-y-pensiones-octubre-cuanto-suben-y-cual-sera-el-haber-minimo-n6325553",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "Inflación: advierten que dos tercios del ajuste de precios relativos ya se corrigió, ¿qué sigue caro y barato vs 2019?",
+    "resumen": "Mientras los servicios traccionaron al alza la inflación durante el gobierno actual, los precios de muchos bienes funcionaron como \"ancla\". Hacia adelante, se prevén nuevos ajustes en tarifas, mientras que el pronóstico para los bienes es más incierto.",
+    "link": "https://www.ambito.com/economia/inflacion-advierten-que-dos-tercios-del-ajuste-precios-relativos-ya-se-corrigio-que-sigue-caro-y-barato-vs-2019-n6325498",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "Diálogos de Wall Street: la Fed calmó a los mercados, pero Kevin Warsh todavía debe despejar varias dudas",
+    "resumen": "¿Qué pasó después de la primera suba de tasas de la Fed en tres años? ¿Por qué se cree que esto recién empieza? ¿La Fed se mostró independiente, pero la desconfianza en Warsh continúa? Gekko analiza lo que dejó el debut del nuevo chairman en los mercados.",
+    "link": "https://www.ambito.com/dialogos-wall-street-n6325501",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-09-22",
     "titulo": "Se traba el acuerdo comercial con EEUU: el Gobierno busca renegociar los términos, pero Washington lo rechaza",
     "resumen": "Delegados de la Casa Rosada intentan rediscutir los condiciones del acuerdo con Washington, porque desde el gobierno argentino no cuentan con los votos necesarios en el Congreso para ratificar el tratado comercial.",
@@ -67,6 +123,69 @@
     "titulo": "CABA evalúa salir esta semana al mercado local: \"Estamos trabajando para emitir hasta u$s150 millones\"",
     "resumen": "El ministro de Hacienda y Finanzas porteño, Gustavo Arengo, anticipó a Ámbito los planes de la administración porteña para buscar financiamiento para dos proyectos. De no mediar imponderables, el jueves sería la fecha elegida. Su mirada sobre la realidad económica local, el Pr...",
     "link": "https://www.ambito.com/la-ciudad-evalua-salir-esta-semana-al-mercado-local-estamos-trabajando-emitir-us150-millones-n6325023",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Argentina y EEUU firmarán acuerdo por más de u$s6.000 millones para el desarrollo de infraestructura y gas de Vaca Muerta",
+    "resumen": "El compromiso se rubricará en el marco del viaje de Javier Milei a la ONU. Los fondos se destinarán a sectores estratégicos y críticos. Argentina LNG será uno de los proyectos al que apuntarán las inversiones.",
+    "link": "https://www.ambito.com/economia/argentina-y-eeuu-firmaran-acuerdo-mas-us6000-millones-el-desarrollo-infraestructura-y-gas-vaca-muerta-n6325529",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "La UIA se fue de Economía con las manos vacías: empresarios hablan de una reunión \"decepcionante\"",
+    "resumen": "El encuentro se realizó este martes por la mañana en el Palacio de Hacienda y, según pudo averiguar Ámbito, dejó un saldo frustrante para los industriales. La UIA volvió a presentar su documento de 38 puntos, pero no obtuvo de los funcionarios ningún compromiso para avanzar co...",
+    "link": "https://www.ambito.com/economia/la-uia-se-fue-las-manos-vacias-empresarios-hablan-una-reunion-decepcionante-n6325492",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "La guerra de tasas en créditos hipotecarios UVA: ya son 12 los bancos que las bajaron al 7,5% o menos",
+    "resumen": "La baja del interés abrió nuevas diferencias entre las líneas disponibles, tanto en las cuotas como en los montos y las condiciones para acceder.",
+    "link": "https://www.ambito.com/economia/la-guerra-tasas-creditos-hipotecarios-uva-ya-son-12-los-bancos-que-las-bajaron-al-75-o-menos-n6325355",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Casi la mitad de los postulantes argentinos rechazó un empleo por exigir presencialidad",
+    "resumen": "Según un informe, el 48% de los postulantes descartó propuestas de empleo por falta de flexibilidad geográfica y horaria. La resistencia al esquema presencial choca con la presión de las empresas, en un mercado donde el modelo híbrido se consolida como la opción preferida.",
+    "link": "https://www.ambito.com/economia/casi-la-mitad-los-postulantes-argentinos-rechazo-un-empleo-exigir-presencialidad-n6325352",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Cumbre Donald Trump-Xi Jinping: el mercado no se ilusiona con la posibilidad de grandes acuerdos",
+    "resumen": "Los inversores estarán atentos a cualquier señal sobre la extensión de la tregua comercial y sus implicancias para los aranceles y las cadenas de suministro tecnológicos. Sin embargo, no esperan avances significativos en otras áreas.",
+    "link": "https://www.ambito.com/finanzas/cumbre-donald-trump-xi-jinping-el-mercado-no-se-ilusiona-la-posibilidad-grandes-acuerdos-n6325319",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Plazo fijo en dólares: cuánto rinde invertir u$s3.500 a 90 días en septiembre 2026",
+    "resumen": "Invertir u$s3.500 en un plazo fijo en dólares a 90 días permite obtener unos u$s16,40 de intereses según la tasa vigente.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-rinde-invertir-us3500-90-dias-septiembre-2026-n6325318",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "El truco para viajar en un crucero pagando $300 dólares menos",
+    "resumen": "La compañía británica lanzó una campaña con rebajas para nuevas reservas y salidas programadas hasta fines de 2027.",
+    "link": "https://www.ambito.com/economia/el-truco-viajar-un-crucero-pagando-300-dolares-menos-n6325052",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "El salario real registrado en el sector privado tuvo leve mejora en julio, pero sigue 4% debajo del pico de la era Milei",
+    "resumen": "Respecto de junio, los ingresos de los trabajadores repuntaron un 0,2%. Asimismo, los sueldos del Estado treparon 0,9%.",
+    "link": "https://www.ambito.com/economia/el-salario-real-registrado-el-sector-privado-tuvo-leve-mejora-julio-pero-sigue-4-debajo-del-pico-la-era-milei-n6325391",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Los mejores seguros de viaje en septiembre 2026: comparativa y análisis de cobertura",
+    "resumen": "Las mejores opciones según costo, asistencia médica, cancelaciones, equipaje y otros beneficios para elegir bien antes de salir.",
+    "link": "https://www.ambito.com/economia/los-mejores-seguros-viaje-septiembre-2026-comparativa-y-analisis-cobertura-n6325193",
     "fuente": "ambito"
   },
   {
