@@ -83,6 +83,7 @@ const SERIES = [
     categoria: 'Actividad Económica',
     fuente:    'indec',
     serieId:   '166.2_PPIB_0_0_3',
+    deflactorSerieId: '148.3_INIVELNAL_DICI_M_26', // IPC nivel (no %), para la lectura "Precios constantes (estimado)"
     unidad:    'Millones de $',
     color:     '#4f46e5',
     meses:     36,
@@ -1150,6 +1151,9 @@ function descargarPNG(serieId, titulo) {
 // ─── Controles de Gráfico ─────────────────────────────────────────────────────
 
 const rawDataStore = {};
+// Índice de precios (nivel, no %) usado para deflactar series como serie.deflactorSerieId
+// indique — ej. PBI a precios corrientes → precios constantes (estimado).
+const deflatorStore = {};
 
 function setupChartControls(serie, datos) {
   if (!isToolsPage && !isDetallePage) return; // Si no es herramientas ni detalle, salimos
@@ -1221,6 +1225,42 @@ function setupChartControls(serie, datos) {
     });
     lecturaGroup.firstChild.style.background = '#e2e8f0';
     lecturaGroup.firstChild.style.color = '#1e293b';
+  }
+
+  // 1.6 Precios: corrientes / constantes (estimado) — solo para series con
+  // deflactorSerieId configurado Y que el fetch del deflactor haya funcionado.
+  if (serie.deflactorSerieId && deflatorStore[serie.id]) {
+    let preciosWrap = document.getElementById(`precios-wrap-${serie.id}`);
+    if (!preciosWrap) {
+      preciosWrap = document.createElement('div');
+      preciosWrap.id = `precios-wrap-${serie.id}`;
+      preciosWrap.style.cssText = 'display:flex; align-items:center; gap:0.5rem;';
+      preciosWrap.innerHTML = `
+        <label style="font-weight:500; color:var(--navy);">Precios:</label>
+        <div class="btn-group" id="precios-group-${serie.id}"></div>
+      `;
+      aggGroup.parentElement.after(preciosWrap);
+    }
+    const preciosGroup = document.getElementById(`precios-group-${serie.id}`);
+    preciosGroup.innerHTML = '';
+    [['corrientes', 'Corrientes'], ['constantes', 'Constantes (estimado)']].forEach(([key, label], index) => {
+      const btn = document.createElement('button');
+      btn.textContent = label;
+      btn.dataset.precios = key;
+      Object.assign(btn.style, { background: 'transparent', border: '1px solid #e2e8f0', padding: '3px 8px', cursor: 'pointer', fontSize: '0.75rem' });
+      if (index === 0) btn.style.borderRadius = '6px 0 0 6px';
+      if (index === 1) btn.style.borderRadius = '0 6px 6px 0';
+      if (index > 0) btn.style.borderLeft = 'none';
+      btn.onclick = () => {
+        preciosGroup.querySelectorAll('button').forEach(b => { b.style.background = 'transparent'; b.style.color = 'inherit'; });
+        btn.style.background = '#e2e8f0';
+        btn.style.color = '#1e293b';
+        actualizarGrafico(serie.id);
+      };
+      preciosGroup.appendChild(btn);
+    });
+    preciosGroup.firstChild.style.background = '#e2e8f0';
+    preciosGroup.firstChild.style.color = '#1e293b';
   }
 
   // 2. Poblar inputs de fecha
@@ -1316,6 +1356,7 @@ function actualizarGrafico(serieId) {
 
   let processedData = rawData;
   let lectura = 'niveles';
+  let precios = 'corrientes';
 
   // Solo aplicar filtros si estamos en la vista de herramientas o detalle
   if (isToolsPage || isDetallePage) {
@@ -1332,6 +1373,12 @@ function actualizarGrafico(serieId) {
       lectura = lecturaBtn ? lecturaBtn.dataset.lectura : 'niveles';
       if (lectura === 'variacion') processedData = calcularVariacionPeriodo(processedData);
     }
+
+    if (serie.deflactorSerieId && deflatorStore[serieId] && lectura !== 'variacion') {
+      const preciosBtn = document.querySelector(`#precios-group-${serieId} button[style*="background: rgb(226, 232, 240)"]`);
+      precios = preciosBtn ? preciosBtn.dataset.precios : 'corrientes';
+      if (precios === 'constantes') processedData = deflactarSerie(processedData, deflatorStore[serieId]);
+    }
   }
 
   const serieRender = lectura === 'variacion' ? { ...serie, unidad: '%', tipo: 'bar' } : serie;
@@ -1340,7 +1387,7 @@ function actualizarGrafico(serieId) {
   const badge = document.getElementById(`badge-${serie.id}`);
   if (processedData.length > 0) {
     const ultimoValor = processedData[processedData.length - 1].valor;
-    const unidadBadge = lectura === 'variacion' ? '%' : serie.unidad;
+    const unidadBadge = lectura === 'variacion' ? '%' : (precios === 'constantes' ? `${serie.unidad} · precios constantes (estimado)` : serie.unidad);
     const signo = lectura === 'variacion' && ultimoValor > 0 ? '+' : '';
     badge.textContent = `${signo}${ultimoValor.toLocaleString('es-AR', { maximumFractionDigits: 2 })} ${unidadBadge}`;
   }
@@ -1349,6 +1396,34 @@ function actualizarGrafico(serieId) {
     const btnExport = document.getElementById(`btn-export-${serieId}`);
     if (btnExport) btnExport.onclick = () => exportarCSV(serie, processedData);
   }
+}
+
+// Deflacta una serie nominal a "precios constantes (estimado)" usando un
+// índice de precios de nivel (no %, ej. IPC INDEC base dic-2016). Rebasa al
+// último período del deflactor, así el valor más reciente coincide con el
+// nominal y los valores pasados quedan expresados "a precios de hoy".
+// Es una estimación propia (no un dato oficial de INDEC): el deflactor
+// correcto sería el implícito del PBI, no el IPC, así que puede diferir
+// un poco de la cifra real que eventualmente publique INDEC.
+function deflactarSerie(datos, deflatorRaw) {
+  if (!datos.length || !deflatorRaw || !deflatorRaw.length) return datos;
+
+  const deflatorEnFecha = (fecha) => {
+    const ym = fecha.slice(0, 7);
+    let candidato = null;
+    for (const d of deflatorRaw) {
+      if (d.fecha.slice(0, 7) <= ym) candidato = d; else break;
+    }
+    return candidato ? candidato.valor : null;
+  };
+
+  const deflatorUltimo = deflatorRaw[deflatorRaw.length - 1].valor;
+  return datos
+    .map(d => {
+      const def = deflatorEnFecha(d.fecha);
+      return def ? { fecha: d.fecha, valor: +(d.valor * (deflatorUltimo / def)).toFixed(2) } : null;
+    })
+    .filter(Boolean);
 }
 
 // Variación % de un período contra el anterior, sobre datos ya agregados
@@ -1611,6 +1686,18 @@ async function cargarSerie(serie) {
 
     // Guardar datos crudos para manipulación
     rawDataStore[serie.id] = datos;
+
+    // Serie con deflactor (ej. PBI): traemos el índice de precios en paralelo
+    // para poder ofrecer la lectura "Precios constantes (estimado)".
+    if (serie.deflactorSerieId && (isToolsPage || isDetallePage)) {
+      try {
+        deflatorStore[serie.id] = await fetchIndec(serie.deflactorSerieId, 120);
+      } catch {
+        // Si falla el deflactor, la lectura "Precios constantes" simplemente
+        // no se ofrece — el resto del gráfico (precios corrientes) sigue andando.
+        deflatorStore[serie.id] = null;
+      }
+    }
 
     // Actualizar elementos estáticos con el último dato disponible
     const ultimo = datos[datos.length - 1];
