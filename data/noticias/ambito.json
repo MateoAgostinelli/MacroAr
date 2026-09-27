@@ -1,5 +1,33 @@
 [
   {
+    "fecha": "2026-09-27",
+    "titulo": "Riesgo país en 600 puntos: qué está mirando el mercado y por qué preocupa al Gobierno",
+    "resumen": "El indicador volvió a niveles que no alcanzaba desde abril. Tasas de EEUU, reservas, deuda y elecciones, las claves para entender qué pasa.",
+    "link": "https://www.ambito.com/economia/riesgo-pais-600-puntos-que-esta-mirando-el-mercado-y-que-preocupa-al-gobierno-n6327149",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-27",
+    "titulo": "Plazo fijo: cuánto rinde invertir $7.000.000 a 30 días y qué tasa ofrece cada banco",
+    "resumen": "Las tasas de plazo fijo cambiaron en septiembre y llegan hasta el 23% anual. Cuánto se puede ganar con $7 millones según cada banco.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-rinde-invertir-7000000-30-dias-y-que-tasa-ofrece-cada-banco-n6326756",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-27",
+    "titulo": "Créditos hipotecarios UVA en 2026: ¿De cuánto es la cuota mensual, tras la baja de tasas de los bancos?",
+    "resumen": "Las entidades volvieron a competir con intereses desde 6,5% y plazos de hasta 30 años, pero el costo final cambia mucho entre propuestas.",
+    "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-2026-de-cuanto-es-la-cuota-mensual-la-baja-tasas-los-bancos-n6326384",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-27",
+    "titulo": "Los 90 días que inquietan al mercado: amenaza de recesión, elecciones en EEUU y un fin de año cargado de tensión",
+    "resumen": "Los inversores advierten por un posible deterioro de las condiciones financieras. Los detalles del paso de Axel Kicillof por Nueva York y la medida que analiza la CGT.",
+    "link": "https://www.ambito.com/economia/los-90-dias-que-inquietan-al-mercado-amenaza-recesion-elecciones-eeuu-y-un-fin-ano-cargado-tension-n6326985",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-09-26",
     "titulo": "Deuda récord, guerras e IA: por qué los mercados temen una \"tormenta perfecta\" y cómo podría afectar a la Argentina",
     "resumen": "El fuerte aumento del costo de financiamiento, el shock energético y la creciente emisión corporativa vuelven más frágil el escenario global. Especialistas analizan dónde se concentran los principales riesgos, qué activos podrían responder mejor y cuáles serían las consecuenci...",
@@ -9,7 +37,7 @@
   {
     "fecha": "2026-09-26",
     "titulo": "Ingresos Brutos: Catamarca elimina el impuesto a la industria y reaviva el debate fiscal con las provincias",
-    "resumen": "La medida anunciada por el gobernador Raúl Jalil apunta a aliviar la carga sobre las fábricas. En territorio bonaerense, los industriales pidieron excluir del tributo a pymes que facturen hasta $3.200 millones al año.",
+    "resumen": "sLa medida anunciada por el gobernador Raúl Jalil apunta a aliviar la carga sobre las fábricas. En territorio bonaerense, los industriales pidieron excluir del tributo a pymes que facturen hasta $3.200 millones al año.",
     "link": "https://www.ambito.com/economia/ingresos-brutos-catamarca-elimina-el-impuesto-la-industria-y-reaviva-el-debate-fiscal-las-provincias-n6326748",
     "fuente": "ambito"
   },
@@ -25,6 +53,34 @@
     "titulo": "Créditos hipotecarios para casas modulares: qué bancos financian hasta $185 millones y cuánto cuestan",
     "resumen": "Para quienes ya tienen un terreno, algunos bancos ofrecen líneas específicas para financiar la construcción de una vivienda.",
     "link": "https://www.ambito.com/economia/creditos-hipotecarios-casas-modulares-que-bancos-financian-185-millones-y-cuanto-cuestan-n6326265",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-26",
+    "titulo": "La colección de ropa de Lisandro \"Licha\" Martínez y Crunchyroll: catálogo, precios y dónde comprar",
+    "resumen": "El defensor argentino llevó su fanatismo por el animé a una colección con referencias a su carrera y a varias de las historias que lo marcaron.",
+    "link": "https://www.ambito.com/economia/la-coleccion-ropa-lisandro-licha-martinez-y-crunchyroll-catalogo-precios-y-donde-comprar-n6326497",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-26",
+    "titulo": "Desafío del modelo Milei: 8 de los 10 sectores de mayor crecimiento tienen índice negativo de empleo",
+    "resumen": "El agro lideró el crecimiento de la actividad en referencia al 2023 y también potenció el aumento de trabajadores. Caída en intermediación financiera, minería y turismo.",
+    "link": "https://www.ambito.com/economia/desafio-del-modelo-milei-ocho-los-diez-sectores-mayor-crecimiento-tienen-indice-negativo-empleo-n6327084",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-26",
+    "titulo": "Por qué 2026 es el año para viajar a Japón: tipo de cambio y precios en mínimos históricos",
+    "resumen": "La debilidad del yen permite que quienes llegan con dólares encuentren alojamiento, comida y transporte a tarifas excelentes.",
+    "link": "https://www.ambito.com/economia/por-que-2026-es-el-ano-viajar-japon-tipo-cambio-y-precios-minimos-historicos-n6326344",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-26",
+    "titulo": "Plazo fijo: cuánto rinden $1.000.000 a 90 días con esta herramienta",
+    "resumen": "Una colocación de tres meses permite calcular de antemano cuánto dinero se recupera al vencimiento. Conocé el resultado.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-rinden-1000000-90-dias-esta-herramienta-n6326797",
     "fuente": "ambito"
   },
   {
