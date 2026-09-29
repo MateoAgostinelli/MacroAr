@@ -1,5 +1,75 @@
 [
   {
+    "fecha": "2026-09-29",
+    "titulo": "China acelera medidas para impulsar la economía: créditos baratos y un histórico plan de subsidios hipotecarios",
+    "resumen": "Tras desacelerar su crecimiento al 4,3%, el régimen despliega rebajas de tasas selectivas para la industria y el agro, junto con una ayuda inédita a la compra de primera vivienda para contener la crisis inmobiliaria. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/china-acelera-medidas-impulsar-la-creditos-baratos-y-un-historico-plan-subsidios-hipotecarios-n6327965",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-29",
+    "titulo": "La moneda de Irán se derrumbó a un nuevo mínimo histórico mientras la guerra con EEUU impacta en su economía",
+    "resumen": "Récord histórico del dólar en Teherán, bloqueo naval al petróleo y negociaciones secretas por el estrecho de Ormuz: los ejes del estrangulamiento económico a Irán y la guerra de desgaste con EEUU antes de las elecciones de noviembre.",
+    "link": "https://www.ambito.com/economia/la-moneda-iran-se-derrumbo-un-nuevo-minimo-historico-mientras-la-guerra-eeuu-impacta-su-n6327934",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-29",
+    "titulo": "ARCA postergó una definición clave para habilitar el ingreso al plan de pago permanente",
+    "resumen": "El retraso del Congreso en aprobar Inocencia Fiscal II obligó al organismo recaudador a pasar para octubre la definición de los parámetros necesarios para poder obtener el beneficio.",
+    "link": "https://www.ambito.com/economia/arca-postergo-una-definicion-clave-habilitar-el-ingreso-al-plan-pago-permanente-n6327807",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-29",
+    "titulo": "Plazo fijo: cuánto genera una inversión de $5.000.000 a 90 días",
+    "resumen": "Con este monto inmovilizado durante tres meses, el rendimiento cambia según la entidad y el canal elegido. La mayoría de bancos paga más por home banking.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-genera-una-inversion-5000000-90-dias-n6327625",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-29",
+    "titulo": "Miguel Kiguel advirtió sobre el futuro del dólar: cómo impactan la intervención oficial y la continuidad del cepo",
+    "resumen": "El economista advirtió que la paz cambiaria se sostiene con \"intervención implícita\" y cepo. Reclamó un dólar más alto para acelerar la compra de reservas, hoy en u$s9.500 millones, y alertó que la suba del riesgo país responde al ruido político rumbo a 2027.",
+    "link": "https://www.ambito.com/economia/miguel-kiguel-advirtio-el-futuro-del-dolar-como-impactan-la-intervencion-oficial-y-la-continuidad-del-cepo-n6327849",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-29",
+    "titulo": "Las reservas del BCRA, bajo presión: los argentinos demandan más dólares que los que generan sectores clave",
+    "resumen": "La adquisición de divisas de los particulares se mantiene elevada mientras el Banco Central desacelera sus compras. Las reservas ya perforaron los u$s48.000 millones y acumulan ocho bajas consecutivas.",
+    "link": "https://www.ambito.com/economia/las-reservas-del-bcra-presion-los-argentinos-demandan-mas-dolares-que-los-que-generan-sectores-clave-n6327873",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-29",
+    "titulo": "Seguro de viaje gratuito para viajar a Centroamérica: cómo solicitarlo y qué cubre",
+    "resumen": "Un país lanzó una cobertura médica sin costo para quienes ingresen como turistas, con asistencia durante los primeros días de estadía.",
+    "link": "https://www.ambito.com/economia/seguro-viaje-gratuito-viajar-centroamerica-como-solicitarlo-y-que-cubre-n6327614",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-29",
+    "titulo": "Salarios de bancarios: cuánto cobrarán en octubre de 2026 tras el último acuerdo de la paritaria",
+    "resumen": "Los salarios del sector bancario continuará con el aumento que acompaña la inflación. Acumulan una importante mejora en lo que va del año.",
+    "link": "https://www.ambito.com/economia/salarios-bancarios-cuanto-cobraran-octubre-2026-el-ultimo-acuerdo-la-paritaria-n6327816",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-29",
+    "titulo": "Empleadas domésticas: cuánto cobrarán en octubre con el nuevo aumento",
+    "resumen": "El personal de casas particulares tendrá una suba del 1,7% en octubre y se incorporará al básico parte de la suma no remunerativa otorgada en agosto.",
+    "link": "https://www.ambito.com/economia/empleadas-domesticas-cuanto-cobraran-octubre-el-nuevo-aumento-n6327811",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-29",
+    "titulo": "Milei y un salvavidas a Eurnekian: los ADRs se hundieron en Wall Street pero Corporación América subió un 9%",
+    "resumen": "En una jornada negra para los activos argentinos, la compañía fundada por Eduardo Eurnekian fue la gran excepción: ganó cerca de u$s350 millones de valor bursátil luego de que el Gobierno extendiera la concesión de Aeropuertos Argentina. La decisión llega días después de que Á...",
+    "link": "https://www.ambito.com/economia/milei-y-un-salvavidas-eurnekian-los-adr-se-hundieron-wall-street-pero-corporacion-america-subio-un-9-n6327730",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-09-28",
     "titulo": "En agosto, los argentinos compraron más dólares que los que generaron cuatro sectores clave de la economía",
     "resumen": "Pese al superávit reportado por el BCRA, la demanda minorista de divisas volvió a absorber la mayor parte de los dólares generados por la economía real, evidenciando la persistencia de la cobertura en moneda extranjera. Los detalles, en la nota.",
@@ -81,6 +151,20 @@
     "titulo": "La economía puede ser el talón de Aquiles de Javier Milei",
     "resumen": "El deterioro social afecta a todos los candidatos. La menor actividad económica plantea dudas sobre la sustentabilidad fiscal. Aun creciendo al 2%, la mayoría de la gente no sentirá una mejora importante. El salario se recuperaría en lo que resta del año, pero igual caería con...",
     "link": "https://www.ambito.com/economia/la-puede-ser-el-talon-aquiles-javier-milei-n6327312",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-28",
+    "titulo": "El consumo de los hogares volvió a mostrar una contracción y cayó 1,1% en agosto",
+    "resumen": "El Indicador de Consumo de la CAC registró además una baja de 0,8% frente a julio en la serie desestacionalizada. Transporte y vehículos y recreación y cultura fueron los rubros que más retrocedieron.",
+    "link": "https://www.ambito.com/economia/el-consumo-los-hogares-volvio-mostrar-una-contraccion-y-cayo-11-agosto-n6327727",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-09-28",
+    "titulo": "Shein encendió las alarmas: su beneficio operativo se desplomó 50% en el primer semestre",
+    "resumen": "La compañía fundada en China registró una fuerte caída de su rentabilidad durante los primeros seis meses de 2026, pese a que sus ingresos crecieron 1% interanual. El grupo enfrenta mayores costos logísticos en EEUU y Europa.",
+    "link": "https://www.ambito.com/economia/shein-encendio-las-alarmas-su-beneficio-operativo-se-desplomo-50-el-primer-semestre-n6327535",
     "fuente": "ambito"
   },
   {
