@@ -1,5 +1,96 @@
 [
   {
+    "fecha": "2026-10-02",
+    "titulo": "Ciudadanía por inversión en Argentina: cuánto deberán aportar los extranjeros y quiénes podrán acceder",
+    "resumen": "El Gobierno presentó el programa que permitirá obtener la nacionalidad argentina a extranjeros que realicen determinados aportes económicos sin cumplir previamente con dos años de residencia. El esquema contempla una contribución de u$s350.000 al Tesoro Nacional o la suscripci...",
+    "link": "https://www.ambito.com/economia/ciudadania-inversion-argentina-cuanto-deberan-aportar-los-extranjeros-y-quienes-podran-acceder-n6329387",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "El mal dato de empleo en EEUU enfría la posibilidad de que la Fed vuelva a subir la tasa en octubre",
+    "resumen": "Las empresas estadounidenses crearon apenas un tercio de los empleados esperados por el mercado, mientras que la tasa de desempleo subió por primera vez desde febrero y el crecimiento de los salarios se desaceleró.",
+    "link": "https://www.ambito.com/economia/el-mal-dato-empleo-eeuu-enfria-la-posibilidad-que-la-fed-vuelva-subir-la-tasa-octubre-n6329388",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Blackrock en clave electoral: \"Argentina no tiene muchos riesgos geopolíticos, pero tiene muchos riesgos domésticos\"",
+    "resumen": "Pablo Goldberg es el argentino que define dónde invertir el dinero del fondo global en mercados emergentes. Adjudica \"superimportancia\" a los volantazos de Argentina por su pérdida de reputación global.",
+    "link": "https://www.ambito.com/economia/blackrock-clave-electoral-argentina-no-tiene-muchos-riesgos-geopoliticos-pero-tiene-muchos-riesgos-domesticos-n6329362",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "La canasta básica para un jubilado cuadriplica el haber mínimo",
+    "resumen": "El valor de la canasta aumentó un 38% en doce meses, por encima de la inflación general. El haber mínimo solo cubre el 24,2% del costo de vida, mientras que las PNC y PUAM cubren menos del 20%. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/la-canasta-basica-un-jubilado-cuadriplica-el-haber-minimo-n6329376",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Plazo fijo: cuánto gano si deposito $300.000 a 30 días durante octubre",
+    "resumen": "Invertir $300.000 a 30 días permite obtener una ganancia que depende de la tasa de cada banco. Cuánto se recibe al vencimiento.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-gano-si-deposito-300000-30-dias-octubre-n6329014",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Glencore anunció u$s4 mil millones de inversión para el Proyecto Agua Rica en Catamarca",
+    "resumen": "El Comité Evaluador de grandes inversiones aprobó el ingreso al RIGI de la compañía anglo-suiza. Gary Nagle, CEO de Glencore, estuvo presente en Argentina Week.",
+    "link": "https://www.ambito.com/economia/glencore-anuncio-us4-mil-millones-inversion-el-proyecto-agua-rica-catamarca-n6329296",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Industria textil profundiza su crisis: acumuló una caída del 22,6% en los primeros siete meses del año",
+    "resumen": "Con una contracción casi diez veces superior al promedio industrial, el sector textil profundizó su deterioro en 2026. La caída de la producción y la pérdida de empleo configuran un escenario crítico para la cadena. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/industria-textil-profundiza-su-crisis-acumulo-una-caida-del-226-los-primeros-siete-meses-del-ano-n6329306",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "En el último día de Argentina Week, Caputo anunció Programa de Ciudadanía por Inversión de Argentina",
+    "resumen": "Lo acompañó el jefe de Gabinete, Diego Santilli. Estuvieron presentes representantes de las agencias convocadas al Programa. El día finaliza con la premiación a Milei por parte del París Economic Forum.",
+    "link": "https://www.ambito.com/economia/en-el-ultimo-dia-argentina-week-caputo-anuncio-programa-ciudadania-inversion-argentina-n6329265",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "La inflación vuelve a encender las alarmas en la zona euro: saltó al 3,8% en septiembre, un máximo de 3 años",
+    "resumen": "El IPC de la zona euro se aceleró y marcó su nivel más alto en tres años. El repunte renueva la presión sobre el BCE antes de su reunión del 29 de octubre. Los detalles y el desglose por país, en la nota.",
+    "link": "https://www.ambito.com/economia/la-inflacion-vuelve-encender-las-alarmas-la-zona-euro-salto-al-38-septiembre-un-maximo-3-anos-n6329252",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Cómo pedir el crédito de $50 millones de Banco Provincia para remodelar o construir tu casa",
+    "resumen": "La línea está pensada para comprar materiales y permite financiar la obra sin recurrir a un préstamo hipotecario.",
+    "link": "https://www.ambito.com/economia/como-pedir-el-credito-50-millones-banco-provincia-remodelar-o-construir-tu-casa-n6328498",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Excluyen a los bancos que no son grandes empresas del régimen de Factura de Crédito Electrónica MiPyME",
+    "resumen": "La medida alcanza a 39 de las 73 entidades financieras que operan en el país. Responde a un pedido de asociaciones bancarias, luego de que ARCA las obligara a emitir comprobantes electrónicos.",
+    "link": "https://www.ambito.com/economia/excluyen-los-bancos-que-no-son-grandes-empresas-del-regimen-factura-credito-electronica-mipyme-n6329228",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Argentina y Uruguay establecieron una veda de merluza y fijaron los cupos de besugo y pez palo",
+    "resumen": "La prohibición rige hasta el 31 de diciembre en un sector de la Zona Común de Pesca para proteger a los ejemplares juveniles. Además, se definieron las capturas permitidas para el próximo año.",
+    "link": "https://www.ambito.com/economia/argentina-y-uruguay-establecieron-una-veda-merluza-y-fijaron-los-cupos-besugo-y-pez-palo-n6329227",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Nuevo RIGI: Pluspetrol invertirá u$s12.400 millones en Vaca Muerta",
+    "resumen": "La inclusión del proyecto permitirá acelerar el desarrollo de este yacimiento que contempla una inversión de u$s12.400 millones en un plazo de 25 años.",
+    "link": "https://www.ambito.com/economia/pluspetrol-anuncia-la-inversion-us-12400-millones-vaca-muerta-traves-del-rigi-n6329233",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-10-01",
     "titulo": "Octubre llega con aumentos en transporte, alquileres, prepagas y más: cuánto suben los servicios",
     "resumen": "<p id=\"p-1790600100677-29464\" class=\"ignore-parser\">El Estado y las empresas ya definieron los incrementos de tarifas y servicios clave para este mes. Los nuevos montos que entraron en vigencia este jueves 1 de octubre.</p>",
@@ -130,6 +221,55 @@
     "titulo": "Recaudación: el IVA completó en septiembre casi un año de bajas y profundizó señales de debilidad del consumo",
     "resumen": "<p id=\"p-1790805282892-37326\" class=\"ignore-parser\">Las provincias recibieron un 4% más de dinero por coparticipación que el año pasado gracias al pago del primer anticipo del Impuesto a las Ganancias de las empresas. Pero los impuestos vinculados al consumo interno siguieron ...",
     "link": "https://www.ambito.com/economia/recaudacion-el-iva-completo-septiembre-casi-un-ano-bajas-y-profundizo-senales-debilidad-del-consumo-n6328661",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Federico Sturzenegger destacó en París el crecimiento de las exportaciones y defendió el rumbo económico",
+    "resumen": "Ante inversores en la OCDE, el ministro expuso los pilares del programa oficial y señaló oportunidades en energía y minería. Sostuvo que las ventas externas avanzan cinco veces más rápido que el PBI.",
+    "link": "https://www.ambito.com/economia/federico-sturzenegger-destaco-paris-el-crecimiento-las-exportaciones-y-defendio-el-rumbo-economico-n6329206",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Autos usados: se transfirieron 170.373 vehículos en septiembre",
+    "resumen": "Las operaciones crecieron 9,3% frente a agosto, pero cayeron 0,6% interanual. Los vehículos livianos concentraron el 96% del mercado.",
+    "link": "https://www.ambito.com/economia/autos-usados-se-transfirieron-170373-vehiculos-septiembre-n6329177",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "¿Querés invertir pero no tenés experiencia? Conocé al plazo fijo",
+    "resumen": "Este depósito bancario permite conocer de antemano el interés que se cobra al vencimiento. Conocé qué ofrecen los bancos y qué hay que considerar.",
+    "link": "https://www.ambito.com/economia/queres-invertir-pero-no-tenes-experiencia-conoce-al-plazo-fijo-n6328528",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "La Libertad Avanza llevó su interna a IDEA: Milei pateó la reforma previsional para 2028 y Bullrich presentó su propuesta",
+    "resumen": "La informalidad laboral alcanzó el 45%. Casi la mitad de los empleados no tiene derechos laborales y no aporta al sistema previsional. Ante este vacío de recaudación, el Tesoro se hace cargo de casi el 60% de las jubilaciones. La agenda que impulsa el empresariado.",
+    "link": "https://www.ambito.com/economia/la-libertad-avanza-llevo-su-interna-idea-milei-pateo-la-reforma-previsional-2028-y-bullrich-presento-su-propuesta-n6329118",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Javier Milei y Emmanuel Macron mantuvieron una bilateral: los detalles y el encuentro posterior donde se habló del ajuste",
+    "resumen": "Ambos mandatarios se reunieron en el Palacio del Elíseo. Luego hubo un encuentro con empresarios y gobernadores. Se habló de cómo mantener el superávit en las cuentas públicas,",
+    "link": "https://www.ambito.com/economia/javier-milei-y-emmanuel-macron-mantuvieron-una-bilateral-los-detalles-y-el-encuentro-posterior-donde-se-hablo-del-ajuste-n6329115",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Dólar, riesgo país e inversiones: la mirada del CEO del Citi para la Argentina",
+    "resumen": "“El año que viene vamos a tener una economía en crecimiento y un tipo de cambio estable”, afirmó Federico Elewaut, director general del banco en Argentina, en diálogo con Ámbito en el marco del Coloquio de IDEA.",
+    "link": "https://www.ambito.com/economia/dolar-riesgo-pais-e-inversiones-la-mirada-del-ceo-del-citi-la-argentina-n6329070",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Inversiones, RIGI y elecciones 2027: por qué Mariana Camino cree que el cambio económico llegó para quedarse",
+    "resumen": "Transición, dinamismo, desafíos. La presidenta de la consultora se muestra optimista con el proceso económico actual. Aunque admite que hay dos velocidades. De todas maneras, es una cuestión de maduración del proceso para alcanzar que el crecimiento llegue a todos los sectores.",
+    "link": "https://www.ambito.com/economia/inversiones-rigi-y-elecciones-2027-que-mariana-camino-cree-que-el-cambio-economico-llego-quedarse-n6329042",
     "fuente": "ambito"
   },
   {

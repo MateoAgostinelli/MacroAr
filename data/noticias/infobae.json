@@ -1,5 +1,215 @@
 [
   {
+    "fecha": "2026-10-02",
+    "titulo": "Por primera vez en la historia, el consumo de pollo superó al de carne vacuna",
+    "resumen": "El cambio se dio en un contexto de precios elevados y menor oferta de cortes bovinos, que impulsó la sustitución por otras carnes",
+    "link": "https://www.infobae.com/economia/2026/10/01/por-primera-vez-en-la-historia-el-consumo-de-pollo-supero-al-de-carne-vacuna/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Argentina Week: el Gobierno asegura que se lleva de París acuerdos de inversión con empresas por unos USD 27.000 millones",
+    "resumen": "Así lo informó el embajador en Francia, Ian Sielecki. Anuncios de RIGI y otras promesas en la “Ciudad luz”, con eje central en energía y minería",
+    "link": "https://www.infobae.com/economia/2026/10/02/argentina-week-el-gobierno-asegura-que-se-lleva-de-paris-acuerdos-de-inversion-con-empresas-por-unos-usd-27000-millones/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Desde París, Milei auguró que la economía crecerá \"7 u 8 por ciento\" en caso de resultar reelecto",
+    "resumen": "Tras recibir el premio a “Economista más influyente” del Foro Económico de París, el presidente argentino aseguró que una eventual reelección reduciría el riesgo país y permitiría acelerar el crecimiento, mientras reivindicó las desregulaciones de Federico Sturzenegger ante qu...",
+    "link": "https://www.infobae.com/economia/2026/10/02/desde-paris-milei-auguro-que-la-economia-crecera-7-u-8-por-ciento-en-caso-de-resultar-reelecto/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Ante empresarios en el Coloquio de IDEA, la CGT consideró que “la representación sindical no debe limitarse sólo a los trabajadores formales”",
+    "resumen": "El cosecretario de la central obrera, Cristian Jerónimo, señaló que es necesario sumar a los informales, ya que el sector registrado es “cada vez más chico”. Además, el gremialista reconoció el superávit y la baja inflacionaria, pero advirtió que no alcanza si no hay un equili...",
+    "link": "https://www.infobae.com/economia/2026/10/02/ante-empresarios-en-el-coloquio-de-idea-la-cgt-considero-senalo-que-la-representacion-sindical-no-debe-limitarse-solo-a-los-trabajadores-formales/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Las potencias del G7 anunciaron la liberación de reservas estratégicas para controlar el precio del barril de petróleo",
+    "resumen": "El presidente Emmanuel Macron dijo que se volcarán al mercado global 100 millones de barriles de crudo y diésel en los meses venideros con el fin de contener el impacto inflacionario derivado de la inestabilidad geopolítica",
+    "link": "https://www.infobae.com/america/mundo/2026/10/02/las-potencias-del-g7-anunciaron-la-liberacion-de-reservas-estrategicas-y-baja-el-precio-del-barril-de-petroleo/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Las exportaciones agroindustriales a la Unión Europea crecieron 21% en el arranque del acuerdo con el Mercosur",
+    "resumen": "Pesca, carnes bovinas y cítricos lideraron el aumento, mientras otros complejos también marcaron máximos para el período",
+    "link": "https://www.infobae.com/economia/2026/10/02/las-exportaciones-agroindustriales-a-la-union-europea-crecieron-21-en-el-arranque-del-acuerdo-con-el-mercosur/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "El empleo que viene, según los empresarios de IDEA: el avance de la IA, el desafío de formar talentos y la informalidad",
+    "resumen": "Ejecutivos y economistas analizaron las transformaciones que atraviesa el mundo laboral, los cambios en las tareas y las oportunidades que abren sectores dinámicos",
+    "link": "https://www.infobae.com/economia/2026/10/02/el-empleo-que-viene-segun-los-empresarios-de-idea-el-avance-de-la-ia-el-desafio-de-formar-talentos-y-la-informalidad/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Mercados: suben las acciones y los bonos argentinos, con el empuje positivo de Wall Street",
+    "resumen": "Los índices de Nueva York avanzan a medida que los operadores reducen sus apuestas sobre un alza de tasas de la Fed tras un fallido dato de empleo en EEUU. El S6P Merval sube 0,4% y los bonos ganan 0,5%, con un riesgo país en los 650 puntos",
+    "link": "https://www.infobae.com/economia/2026/10/02/mercados-suben-las-acciones-y-los-bonos-argentinos-con-el-empuje-positivo-de-wall-street/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "El consumo de carne de cerdo llegó a 20 kilos por habitante y podría ser aún mayor: las razones del crecimiento",
+    "resumen": "El dirigente atribuyó la brecha a una política comercial más activa y señaló que el sector espera desde hace dos años la habilitación china para vender subproductos",
+    "link": "https://www.infobae.com/economia/2026/10/02/el-consumo-de-carne-de-cerdo-se-duplico-en-una-decada-hoy-se-habla-de-24-kilos-por-habitante/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Elecciones en Brasil: cómo pueden impactar los resultados en el comercio bilateral con la Argentina",
+    "resumen": "La evolución de la relación económica con el país vecino dependerá más de las decisiones que tome el próximo gobierno brasileño que de su signo político",
+    "link": "https://www.infobae.com/economia/2026/10/02/elecciones-en-brasil-como-pueden-impactar-los-resultados-en-el-comercio-bilateral-con-la-argentina/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Cuáles fueron los 10 autos 0 km más vendidos en septiembre en la Argentina y cuántos son importados",
+    "resumen": "El ranking sigue teniendo una composición variada con pickpus, autos compactos y SUV. Hay cinco modelos argentinos, cuatro brasileños y uno chino",
+    "link": "https://www.infobae.com/economia/2026/10/02/cuales-fueron-los-10-autos-0-km-mas-vendidos-en-septiembre-en-la-argentina-y-cuantos-son-importados/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este viernes 2 de octubre",
+    "resumen": "El billete al público es ofrecido a $1.545 para la venta en el Banco Nación. El blue se paga a $1.555. El BCRA compró ayer USD 93 millones en el mercado",
+    "link": "https://www.infobae.com/economia/2026/10/02/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-2-de-octubre/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Se aprobó otro RIGI para minería de cobre: Glencore invertirá USD 4.000 millones",
+    "resumen": "El yacimiento produciría un promedio de 200.000 toneladas de cobre destinadas íntegramente a mercados internacionales, mientras la empresa financiará los primeros dos años mediante aportes de capital y deuda propios",
+    "link": "https://www.infobae.com/economia/2026/10/02/se-aprobo-otro-rigi-para-mineria-de-cobre-glencore-invertira-usd-4000-millones/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "La canasta básica de gastos para un jubilado ya representa cuatro veces el haber mínimo",
+    "resumen": "Los adultos mayores requieren más de $2 millones mensuales para solventar sus necesidades básicas",
+    "link": "https://www.infobae.com/economia/2026/10/02/la-canasta-basica-de-gastos-para-un-jubilado-ya-representa-cuatro-veces-el-haber-minimo/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "El Gobierno lanzó en París un programa para que extranjeros puedan obtener ciudadanía y pasaporte mediante inversiones: cuánto cuesta",
+    "resumen": "La iniciativa, presentada por Luis Caputo y Diego Santilli durante un encuentro económico en Francia, habilitará trámites desde el cuarto trimestre de 2026 y destinará los recursos recaudados a reforzar la posición fiscal y financiera nacional",
+    "link": "https://www.infobae.com/economia/2026/10/02/el-gobierno-lanzo-en-paris-un-programa-para-que-extranjeros-puedan-obtener-ciudadania-y-pasaporte-mediante-inversiones-cuanto-cuesta/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "En los pasillos del Coloquio de IDEA: los empresarios debatieron sobre el futuro de uno de los sectores más golpeados",
+    "resumen": "Ejecutivos de grandes empresas coincidieron en que el Estado nacional no intervendrá para amortiguar el impacto del modelo sobre las pymes industriales, y que son las corporaciones las que deben tender puentes hacia los sectores más golpeados",
+    "link": "https://www.infobae.com/economia/2026/10/02/sin-la-intervencion-del-gobierno-los-empresarios-de-idea-debatieron-sobre-el-futuro-de-uno-de-los-sectores-mas-golpeados/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Marcelo Mindlin destacó el interés por Argentina en Francia: \" Yo prefiero invertir hoy y no esperar a mañana\"",
+    "resumen": "El presidente de Pampa Energía, que participó de la Argentina Week en París, afirmó que el país puede consolidarse como un exportador relevante de energía y planteó la necesidad de convertir esos recursos en más industria y empleo local",
+    "link": "https://www.infobae.com/economia/2026/10/02/marcelo-mindlin-destaco-el-interes-por-argentina-en-francia-yo-prefiero-invertir-hoy-no-esperar-a-manana/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Sigue la crisis en el sector textil: la actividad cayó 20% en lo que va del año y se aceleró la pérdida de empleos",
+    "resumen": "El sector opera con menos de la mitad de su capacidad instalada y concentra la mitad de los puestos industriales perdidos",
+    "link": "https://www.infobae.com/economia/2026/10/02/sigue-la-crisis-en-el-sector-textil-la-actividad-cayo-20-en-lo-que-va-del-ano-y-se-acelero-la-perdida-de-empleos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Salarios: el dato oficial que revela las fuertes diferencias entre el trabajo registrado y el informal",
+    "resumen": "Dos trabajadores, el mismo país y una diferencia que se repite año tras año en las estadísticas oficiales. El último dato del Indec deja en evidencia la desventaja de ingresos de la informalidad",
+    "link": "https://www.infobae.com/economia/2026/10/02/salarios-el-dato-oficial-que-revela-las-fuertes-diferencias-entre-el-trabajo-registrado-y-el-informal/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Cuánto debe ganar una familia en la Argentina para pertenecer al 10% más rico de la población",
+    "resumen": "Los hogares con mayores ingresos concentran un tercio de las ganancias totales, mientras que el decil más pobre se queda con apenas el 1,9% del total",
+    "link": "https://www.infobae.com/economia/2026/10/02/cuanto-debe-ganar-una-familia-en-la-argentina-para-pertenecer-al-10-mas-rico-de-la-poblacion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Qué días de noviembre no abrirán los bancos por la visita a la Argentina de León XIV",
+    "resumen": "La llegada del Papa alterará la actividad bancaria y el calendario de feriados en distintas jurisdicciones del país durante noviembre",
+    "link": "https://www.infobae.com/economia/2026/10/02/que-dias-de-noviembre-no-abriran-los-bancos-por-la-visita-a-la-argentina-de-leon-xiv/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Anuncio en Argentina Week París: el Gobierno le aprobó un RIGI por USD 12.400 millones a una petrolera argentina",
+    "resumen": "Pluspetrol hará cuatro plantas de procesamiento, ductos para evacuar la producción y más de 620 pozos horizontales en Neuquén. La empresa energética provincial también es parte del proyecto",
+    "link": "https://www.infobae.com/economia/2026/10/02/anuncio-en-argentina-week-paris-el-gobierno-le-aprobo-un-rigi-por-usd-12400-millones-a-una-petrolera-argentina/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "ANSES: cuándo cobro en octubre 2026 si mi DNI termina en 1",
+    "resumen": "El organismo previsional difundió el calendario de pagos, con fechas diferenciadas según la prestación y una actualización del 1,66 % en los haberes y las asignaciones",
+    "link": "https://www.infobae.com/economia/2026/10/02/anses-cuando-cobro-en-octubre-2026-si-mi-dni-termina-en-1/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Milei vuelve a correr el arco: ahora dijo en París que se viene “el mejor año de la historia”, pero para 2028",
+    "resumen": "El Gobierno apela a la paciencia del electorado para que apuesten por la reelección. Dijo que el momento de invertir en el país “es ahora” y reiteró que tienen una “bazuca” para desalentar cualquier atisbo de presión cambiaria",
+    "link": "https://www.infobae.com/economia/2026/10/02/milei-vuelve-a-correr-el-arco-ahora-dijo-en-paris-que-se-viene-el-mejor-ano-de-la-historia-pero-para-2028/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Los dólares que están en duda para 2027 y que están sacudiendo al riesgo país",
+    "resumen": "Con la suba de tasas y el freno en la colocaciones del Bonar 2029, calculan que al programa financiero de Caputo le faltan más USD 23.000 millones. Se aleja la opción de regresar a los mercados internacionales",
+    "link": "https://www.infobae.com/economia/2026/10/02/los-dolares-que-estan-en-duda-para-2027-y-que-estan-sacudiendo-al-riesgo-pais/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "La venta de autos usados repuntó en septiembre, pero el acumulado del año todavía está en rojo",
+    "resumen": "Las transferencias crecieron 9,3% frente a agosto, pero la suma de 9 meses se mantiene por debajo de 2025. Las pickups tienen tres de los primeros cuatro puestos del ranking, lo mismo que ocurre con los autos 0 km",
+    "link": "https://www.infobae.com/economia/2026/10/02/la-venta-de-autos-usados-repunto-en-septiembre-pero-el-acumulado-del-ano-todavia-esta-en-rojo/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Doble validación, límites de gasto y precancelación: qué propone el proyecto de la oposición para reducir la mora récord",
+    "resumen": "La iniciativa, que se tratará primero en Diputados, crea el botón de arrepentimiento y la portabilidad entre proveedores, entre otras medidas",
+    "link": "https://www.infobae.com/economia/2026/10/02/doble-validacion-limites-de-gasto-y-precancelacion-que-propone-el-proyecto-de-la-oposicion-para-reducir-la-mora-record/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Con Caputo y Santilli desde París, el Coloquio de IDEA cerrará con la mirada puesta en el empleo y la competitividad",
+    "resumen": "El ministro de Economía y el jefe de Gabinete participarán por video desde la capital francesa, donde están en la Argentina Week, mientras el CEO global de Visa y referentes sindicales completan la agenda del último día en Mar del Plata",
+    "link": "https://www.infobae.com/economia/2026/10/02/con-caputo-y-santilli-desde-paris-el-coloquio-de-idea-cerrara-con-la-mirada-puesta-en-el-empleo-y-la-competitividad/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "La Argentina no logró capitalizar el alivio de los mercados globales y el riesgo país tocó el mayor nivel del año",
+    "resumen": "Los bonos soberanos cayeron hasta 2%, las acciones retrocedieron y el dólar mayorista subió, en medio de las compras de divisas del Banco Central",
+    "link": "https://www.infobae.com/economia/2026/10/02/la-argentina-no-logro-capitalizar-el-alivio-de-los-mercados-globales-y-el-riesgo-pais-toco-el-mayor-nivel-del-ano/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "La desigualdad bajó en el segundo trimestre, pero el 10% más rico gana 13 veces más que el sector con menos recursos",
+    "resumen": "El indicador que mide la concentración de recursos retrocedió frente al inicio de 2026, aunque quedó por encima de la marca de un año atrás. Los hogares de la parte alta reunieron casi un tercio del ingreso total",
+    "link": "https://www.infobae.com/economia/2026/10/01/la-desigualdad-bajo-en-el-segundo-trimestre-pero-el-10-mas-rico-gana-13-veces-mas-que-el-sector-con-menos-recursos/",
+    "fuente": "infobae"
+  },
+  {
     "fecha": "2026-10-01",
     "titulo": "Vuelven las pickups nafteras a la Argentina: qué se sabe de los nuevos modelos que llegarán en 2027",
     "resumen": "Más allá de la llegada del híbrido, las dos nuevas versiones de Ford Ranger tendrán un motor turbo que carga nafta Súper y bajará el costo de uso.",
@@ -18,13 +228,6 @@
     "titulo": "El empleo en la construcción cayó 1,1% mensual en julio y se ubica un 11,5% por debajo del promedio histórico",
     "resumen": "El sector perdió cerca de 4.000 puestos formales en el mes y acumula una baja interanual del 1%, tras 15 meses consecutivos de crecimiento",
     "link": "https://www.infobae.com/economia/2026/10/01/el-empleo-en-la-construccion-cayo-11-mensual-en-julio-y-se-ubica-un-115-por-debajo-del-promedio-historico/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-10-01",
-    "titulo": "Por primera vez en la historia, el consumo de pollo superó al de carne vacuna",
-    "resumen": "El cambio se dio en un contexto de precios elevados y menor oferta de cortes bovinos, que impulsó la sustitución por otras carnes",
-    "link": "https://www.infobae.com/economia/2026/10/01/por-primera-vez-en-la-historia-el-consumo-de-pollo-supero-al-de-carne-vacuna/",
     "fuente": "infobae"
   },
   {
@@ -50,8 +253,8 @@
   },
   {
     "fecha": "2026-10-01",
-    "titulo": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este jueves 1 de octubre",
-    "resumen": "El billete al público es ofrecido a $1.545 para la venta en el Banco Nación. El blue se paga a $1.555. El BCRA compró menos de USD 500 millones en septiembre",
+    "titulo": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este jueves 1 de octubre",
+    "resumen": "El billete al público quedó ofrecido a $1.545 para la venta en el Banco Nación. El blue se pagó a $1.555. El BCRA compró USD 93 millones en el mercado",
     "link": "https://www.infobae.com/economia/2026/10/01/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-1-de-octubre/",
     "fuente": "infobae"
   },
@@ -78,8 +281,8 @@
   },
   {
     "fecha": "2026-10-01",
-    "titulo": "Mercados: los bonos argentinos comenzaron octubre hacia la baja y el riesgo país volvió a subir",
-    "resumen": "La suba de tasas de la deuda de EEUU trae preocupación y bajan los índices de Wall Street. El S&P Merval porteño cae 2,4% y los ADR restan hasta 5%. El riesgo país argentino sube a 635 puntos",
+    "titulo": "Mercados: el riesgo país volvió a su nivel más alto de 2026 mientras los bonos argentinos profundizaron la baja",
+    "resumen": "La suba de tasas de la deuda de EEUU impactó en los activos emergentes. El S&P Merval porteño cayó 2,2% y los ADR restaron hasta 5%. El riesgo país argentino subió a 636 puntos",
     "link": "https://www.infobae.com/economia/2026/10/01/mercados-los-bonos-argentinos-comenzaron-octubre-hacia-la-baja-y-el-riesgo-pais-volvio-a-subir/",
     "fuente": "infobae"
   },
@@ -256,6 +459,104 @@
     "titulo": "Argentina Week París arrancó con el círculo rojo a full, chicanas futboleras y la política que nunca deja de ser protagonista",
     "resumen": "El cóctel del lanzamiento del evento de dos días fue en la embajada argentina en París. Estuvo el ministro de economía francés. Javier y Karina Milei, ausentes con aviso",
     "link": "https://www.infobae.com/economia/2026/10/01/argentina-week-arranco-en-paris-con-el-circulo-rojo-a-full-chicanas-futboleras-y-la-politica-que-nunca-deja-de-ser-protagonista/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "El dólar cayó por tercer día consecutivo y el mercado operó un volumen récord en el año",
+    "resumen": "En la plaza mayorista se negociaron más de USD 1.000 millones y la divisa cedió a $1.517. La brecha con el techo de las bandas superó los $400 y es la más amplia en 17 meses. El dólar al público bajó a $1.540 en el Banco Nación",
+    "link": "https://www.infobae.com/economia/2026/09/30/el-dolar-cayo-por-tercer-dia-consecutivo-y-el-mercado-opero-un-volumen-record-en-el-ano/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Los empresarios y Argentina Week París: entre el potencial arrollador de la energía y las dudas que busca evaporar Milei",
+    "resumen": "El primer día de la jornada empresaria en Francia congregó a medio Gobierno, el círculo rojo y empresarios europeos. Anuncios y reuniones con inversores",
+    "link": "https://www.infobae.com/economia/2026/10/01/los-empresarios-y-argentina-week-paris-entre-el-potencial-arrollador-de-la-energia-y-las-dudas-que-busca-evaporar-milei/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Sturzenegger defendió el programa económico y ratificó el equilibrio fiscal en París: “Para el Presidente es innegociable”",
+    "resumen": "El ministro ubicó a las exportaciones como motor, con ventas externas que crecen cinco veces más que el PBI, y repasó ante la OCDE los cuatro pilares de la gestión",
+    "link": "https://www.infobae.com/economia/2026/10/01/sturzenegger-defendio-el-programa-economico-y-ratifico-el-equilibrio-fiscal-en-paris-para-el-presidente-es-innegociable/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "“El stock de talento se terminó”: la advertencia sobre la educación argentina y los seis cambios que piden los empresarios",
+    "resumen": "IDEA y Argentinos por la Educación presentaron una propuesta respaldada por más de 50 organizaciones. Aprendizajes básicos, información, autonomía escolar, carrera docente e inteligencia artificial están entre las prioridades",
+    "link": "https://www.infobae.com/economia/2026/10/01/el-stock-de-talento-se-termino-la-advertencia-sobre-la-educacion-argentina-y-los-seis-cambios-que-piden-los-empresarios/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Uno de los mayores fabricantes de cocinas del país traslada parte de su producción a una provincia del norte: los motivos",
+    "resumen": "Longvie reorganizará sus tres fábricas y concentrará en Catamarca las líneas de calefones y anafes, con el objetivo de bajar costos operativos, ganar capacidad y aprovechar el alivio tributario anunciado",
+    "link": "https://www.infobae.com/economia/2026/10/01/uno-de-los-mayores-fabricantes-de-cocinas-del-pais-traslada-parte-de-su-produccion-a-una-provincia-del-norte-los-motivos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "La recaudación tributaria creció por encima de la inflación en septiembre",
+    "resumen": "El ingreso de pagos postergados de meses anteriores de Ganancias e IVA, sumado a la mayor liquidación agroexportadora, determinaron un incremento de los ingresos administrados por ARCA del 33,5% interanual",
+    "link": "https://www.infobae.com/economia/2026/10/01/la-recaudacion-tributaria-crecio-por-encima-de-la-inflacion-en-septiembre/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Jornada financiera: las acciones argentinas cayeron hasta 5% en Wall Street y el riesgo país saltó a un máximo en diez meses",
+    "resumen": "La suba de tasas de los bonos de EEUU afectó a los títulos emergentes. El S&P Merval perdió 2,2% y los bonos cayeron 1,1% en promedio. El dólar subió a $1.545 en el Banco Nación y el BCRA compró USD 93 millones en el mercado",
+    "link": "https://www.infobae.com/economia/2026/10/01/jornada-financiera-las-acciones-argentinas-cayeron-hasta-5-en-wall-street-y-el-riesgo-pais-salto-a-un-maximo-en-diez-meses/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Dólar, actividad, incertidumbre política y reformas: de qué hablan los empresarios en los pasillos de IDEA",
+    "resumen": "En Mar del Plata, ejecutivos de distintos sectores analizan el escenario electoral de 2027, reclaman previsibilidad y advierten por el bajo crecimiento, la presión tributaria, la competencia china y un consumo todavía muy selectivo",
+    "link": "https://www.infobae.com/economia/2026/10/01/dolar-actividad-incertidumbre-politica-y-reformas-de-que-hablan-los-empresarios-en-los-pasillos-de-idea/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Javier Milei se reunió con Emmanuel Macron en el Palacio Elíseo: hablaron de superávit, ajuste y negocios",
+    "resumen": "El mandatario está en Francia donde encabeza el Argentina Week, el evento de inversiones que hoy tuvo su primera jornada en la sede de la OCDE",
+    "link": "https://www.infobae.com/economia/2026/10/01/milei-en-francia-el-presidente-llego-al-palacio-eliseo-y-comenzo-su-encuentro-con-emmanuel-macro/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Se aceleraron las ventas de motos 0 km: superaron las 80.000 patentamientos en septiembre",
+    "resumen": "La comercialización de motovehículos creció 35,1% interanual. Se vendieron 668.077 unidades en nueve meses, con una escala mensual que sigue por encima de la venta de autos 0 km",
+    "link": "https://www.infobae.com/economia/2026/10/01/se-aceleraron-las-ventas-de-motos-0-km-superaron-las-80000-patentamientos-en-septiembre/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Peso fuerte, la destrucción del BCRA y dolarización: las respuestas de Milei a una revista francesa",
+    "resumen": "En medio de su vista a París, el Presidente dio una entrevista al semanario francés Le Point en la que aseguró que no se puede revertir en 30 meses un “siglo de colectivismo”. Su lectura del crecimiento de pobreza y el manejo de los recursos naturales con el RIGI",
+    "link": "https://www.infobae.com/economia/2026/10/01/peso-fuerte-la-destruccion-del-bcra-y-dolarizacion-las-respuestas-de-milei-a-una-revista-francesa/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "El dólar rebotó y cortó una racha de tres caídas consecutivas",
+    "resumen": "La divisa subió a $1.524,50 y poco más de USD 400 millones de oferta en el mercado mayorista. Al público subió a $1.545 para la venta en el Banco Nación",
+    "link": "https://www.infobae.com/economia/2026/10/01/el-dolar-reboto-y-corto-una-racha-de-tres-caidas-consecutivas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Hernán Lacunza: \"Técnicamente estamos en recesión, el Gobierno lo niega y eso me desalienta\"",
+    "resumen": "El candidato presidencial del PRO almorzó en Mar del Plata con 25 empresarios en el marco del 62° Coloquio de IDEA y habló con Infobae sobre qué continuaría y qué cambiaría del modelo económico actual",
+    "link": "https://www.infobae.com/economia/2026/10/01/hernan-lacunza-tecnicamente-estamos-en-recesion-el-gobierno-lo-niega-y-eso-me-desalienta/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-01",
+    "titulo": "Aumentó el colectivo: cuáles son los tres precios diferentes que quedaron en la Ciudad y provincia de Buenos Aires",
+    "resumen": "Desde hoy el pasaje mínimo en la capital cuesta $920 y en el distrito bonaerense más de $1.300. La Secretaría de Transporte de Nación hace más de dos meses no ajusta el valor para ayudar a la desaceleración de la inflación",
+    "link": "https://www.infobae.com/economia/2026/10/01/aumento-el-colectivo-cuales-son-los-tres-precios-diferentes-que-quedaron-en-la-ciudad-y-provincia-de-buenos-aires/",
     "fuente": "infobae"
   },
   {
@@ -445,13 +746,6 @@
     "titulo": "La Argentina que viene: menos chicos, más longevidad y un cambio profundo en el consumo, según la visión de Guillermo Oliveto",
     "resumen": "En el Coloquio de IDEA, dijo que las transformaciones culturales, tecnológicas y sociales modifican hogares, relaciones y mercados. Por primera vez conviven siete generaciones y los mayores de 50 ganan peso económico a nivel mundial",
     "link": "https://www.infobae.com/economia/2026/09/30/la-argentina-que-viene-menos-chicos-mas-longevidad-y-un-cambio-profundo-en-el-consumo-segun-la-vision-de-guillermo-oliveto/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-09-30",
-    "titulo": "El dólar cayó por tercer día consecutivo y el mercado operó un volumen récord en el año",
-    "resumen": "En la plaza mayorista se negociaron más de USD 1.000 millones y la divisa cedió a $1.517. La brecha con el techo de las bandas superó los $400 y es la más amplia en 17 meses. El dólar al público bajó a $1.540 en el Banco Nación",
-    "link": "https://www.infobae.com/economia/2026/09/30/el-dolar-cayo-por-tercer-dia-consecutivo-y-el-mercado-opero-un-volumen-record-en-el-ano/",
     "fuente": "infobae"
   },
   {
