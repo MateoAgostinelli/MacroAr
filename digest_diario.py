@@ -216,16 +216,22 @@ def main():
 
     print(resumen)
 
+    # Mismo formato que los informes semanales (título, metadatos en negrita,
+    # "---", cuerpo), así se puede pasar a PDF con informes/render_pdf.py.
+    # Los datos usados van en un .json aparte para no ensuciar el PDF.
     SALIDA_DIR.mkdir(parents=True, exist_ok=True)
     ruta = SALIDA_DIR / f"{hoy.isoformat()}.md"
-    partes = [f"# Resumen macro — {hoy.strftime('%d/%m/%Y')}\n"]
+    partes = [f"# Resumen macro diario\n",
+              f"**Fecha:** {hoy.strftime('%d/%m/%Y')}"]
     if nota:
-        partes.append(f"**Mi lectura (antes de leer el resumen):** {nota}\n")
+        partes.append(f"**Mi lectura del día:** {nota}")
+    partes.append("\n---\n")
     partes.append(resumen + "\n")
-    partes.append("<details><summary>Datos usados</summary>\n\n```json\n"
-                  + json.dumps(foto, ensure_ascii=False, indent=1) + "\n```\n</details>\n")
     ruta.write_text("\n".join(partes), encoding="utf-8")
+    ruta.with_suffix(".datos.json").write_text(
+        json.dumps(foto, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"\nGuardado en {ruta.relative_to(Path(__file__).parent)}")
+    print(f"Para pasarlo a PDF: python informes/render_pdf.py {ruta.relative_to(Path(__file__).parent)}")
 
 
 if __name__ == "__main__":
