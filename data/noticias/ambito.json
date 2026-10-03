@@ -1,5 +1,40 @@
 [
   {
+    "fecha": "2026-10-03",
+    "titulo": "Cambio en la mesa de los argentinos: el pollo superó a la carne vacuna en consumo por primera vez",
+    "resumen": "La diferencia de precios, la menor disponibilidad y una demanda interna debilitada aceleraron la tendencia de sustitución. La misma también favoreció al cerdo, cuyo consumo llegó a un récord de 20,1 kilos por persona.",
+    "link": "https://www.ambito.com/economia/cambio-la-mesa-los-argentinos-el-pollo-supero-la-carne-vacuna-consumo-primera-vez-n6329686",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-03",
+    "titulo": "Créditos hipotecarios UVA: bajan las tasas y reducen los ingresos mínimos para acceder",
+    "resumen": "Con las nuevas condiciones, más familias vuelven a mirar qué ofrecen los bancos para financiar una vivienda.",
+    "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-bajan-las-tasas-y-reducen-los-ingresos-minimos-acceder-n6329018",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-03",
+    "titulo": "Plazo fijo en octubre: ¿qué banco otorga la tasa de interés más alta?",
+    "resumen": "Las entidades informan sus rendimientos al Banco Central y pueden modificar las condiciones durante el mes.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-octubre-que-banco-otorga-la-tasa-interes-mas-alta-n6329086",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-03",
+    "titulo": "El RIGI incorporó dos nuevos pesos pesados",
+    "resumen": "Un proyecto en Vaca Muerta y el otro en Zárate se anunciaron por inversiones cercanas a los u$s13.700 millones.",
+    "link": "https://www.ambito.com/economia/el-rigi-incorporo-dos-nuevos-pesos-pesados-n6329648",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-03",
+    "titulo": "La oferta de dólares no afloja pese al bajo tipo de cambio real y al adverso contexto global: qué hay detrás",
+    "resumen": "La tensión internacional y los débiles datos socioeconómicos a nivel local recalientan la demanda de cobertura. Sin embargo, el ingreso de divisas permite contener las presiones y evita sobresaltos en el frente externo.",
+    "link": "https://www.ambito.com/economia/la-oferta-dolares-no-afloja-pese-al-tipo-cambio-real-y-al-adverso-contexto-global-que-hay-detras-n6329464",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-10-02",
     "titulo": "Ciudadanía por inversión en Argentina: cuánto deberán aportar los extranjeros y quiénes podrán acceder",
     "resumen": "El Gobierno presentó el programa que permitirá obtener la nacionalidad argentina a extranjeros que realicen determinados aportes económicos sin cumplir previamente con dos años de residencia. El esquema contempla una contribución de u$s350.000 al Tesoro Nacional o la suscripci...",
@@ -88,6 +123,48 @@
     "titulo": "Nuevo RIGI: Pluspetrol invertirá u$s12.400 millones en Vaca Muerta",
     "resumen": "La inclusión del proyecto permitirá acelerar el desarrollo de este yacimiento que contempla una inversión de u$s12.400 millones en un plazo de 25 años.",
     "link": "https://www.ambito.com/economia/pluspetrol-anuncia-la-inversion-us-12400-millones-vaca-muerta-traves-del-rigi-n6329233",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Cristián Jerónimo, líder de la CGT: \"Empresarios y sindicatos nos debemos volver a construir puntos de encuentro\"",
+    "resumen": "Fue el único expositor del mundo sindical. Valoró el equilibrio macroeconómico, pero insistió con un equilibrio social para volverlo sostenible. También exigió al Gobierno que los convoque cuando quiera tomar decisiones que afecten el trabajo.",
+    "link": "https://www.ambito.com/economia/cristian-jeronimo-lider-la-cgt-empresarios-y-sindicatos-nos-debemos-volver-construir-puntos-encuentro-n6329600",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Recaudación: la caída de ingresos podría empezar a tocar un piso en los próximos meses",
+    "resumen": "Tanto el componente local del IVA como los ingresos de la Seguridad Social registraron leves datos positivos en septiembre.",
+    "link": "https://www.ambito.com/economia/recaudacion-la-caida-ingresos-podria-empezar-tocar-un-piso-los-proximos-meses-n6329554",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Plazo fijo: cuánto gano si invierto $3.000.000 a 60 días",
+    "resumen": "Octubre vuelve a mostrar diferencias en las tasas que ofrecen los principales bancos para esta herramienta. Conocé los detalles.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-gano-si-invierto-3000000-60-dias-n6329503",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "El G7 acuerda la liberación de 100 millones de barriles de reservas para frenar la suba de los combustibles",
+    "resumen": "En una acción coordinada por la AIE, las principales potencias volcarán stock estratégico de crudo y diésel durante cuatro meses para estabilizar el mercado internacional tras los bloqueos en el estrecho de Ormuz. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/el-g7-acuerda-la-liberacion-100-millones-barriles-reservas-frenar-la-suba-los-combustibles-n6329407",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Luis Caputo ligó la suba del riesgo país al \"temor de volver al infierno\"",
+    "resumen": "En el Coloquio de IDEA, Luis Caputo ratificó el rumbo económico, rechazó devaluar, justificó la suba del riesgo país por factores externos y electorales, y prometió seguir reduciendo la carga impositiva. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/luis-caputo-ligo-la-suba-del-riesgo-pais-al-temor-del-volver-al-infierno-n6329459",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-02",
+    "titulo": "Argentina Week: el embajador en Francia señaló que los anuncios de inversión alcanzaron los u$s27.000 millones",
+    "resumen": "Ian Sielecki celebró la totalidad de las inversiones que anunciaron en París. Asimismo, destacó la \"seriedad macroeconómica\" que llevó al financiamiento.",
+    "link": "https://www.ambito.com/economia/argentina-week-el-embajador-francia-senalo-que-los-anuncios-inversion-alcanzaron-los-us27000-millones-n6329440",
     "fuente": "ambito"
   },
   {
