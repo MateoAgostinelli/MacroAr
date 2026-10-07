@@ -1,5 +1,40 @@
 [
   {
+    "fecha": "2026-10-07",
+    "titulo": "Quiebra en el horizonte: Histórica firma textil al borde del abismo",
+    "resumen": "El plazo judicial para presentar ofertas por la textil Algodonera Avellaneda venció sin interesados dejando el proceso de salvataje totalmente desierto.",
+    "link": "https://urgente24.com/dinero/quiebra-el-horizonte-historica-firma-textil-al-borde-del-abismo-n634246",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-07",
+    "titulo": "Sabor amargo: La distribuidora no reincorporó a los despedidos por el 'efecto YPF'",
+    "resumen": "El Centro de Empleados de Comercio de Lomas de Zamora, Esteban Echeverría y Ezeiza denunció que la empresa mayorista de golosinas Potigian inclumplió la conciliación obligatoria y apuntó al \"efecto YPF\".",
+    "link": "https://urgente24.com/dinero/sabor-amargo-la-distribuidora-no-reincorporo-los-despedidos-el-efecto-ypf-n634248",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-07",
+    "titulo": "BCRA: especialistas proyectan dólar a $1.614 para diciembre y recesión técnica",
+    "resumen": "La actividad económica enfrentará un cierre de año más débil de lo previsto, con el PBI cayendo 1% en el tercer trimestre y una recesión técnica, según BCRA.",
+    "link": "https://urgente24.com/dinero/bcra-especialistas-proyectan-dolar-1614-diciembre-y-recesion-tecnica-n634241",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-07",
+    "titulo": "ARCA cambia todo: Nuevos topes para informar transferencias y saldos en billeteras virtuales",
+    "resumen": "La Agencia de Recaudación y Control Aduanero fijó los nuevos montos mínimos para reportar transferencias bancarias y saldos en billeteras virtuales este año.",
+    "link": "https://urgente24.com/dinero/economia/arca-cambia-todo-nuevos-topes-informar-transferencias-y-saldos-billeteras-virtuales-n634243",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-07",
+    "titulo": "Complicado: El delicado equilibrio de Celulosa Argentina",
+    "resumen": "Celulosa Argentina confirmó el pago de la mitad de agosto y advirtió que la situación es \"muy crítica\".",
+    "link": "https://urgente24.com/dinero/complicado-el-delicado-equilibrio-celulosa-argentina-n634221",
+    "fuente": "urgente24"
+  },
+  {
     "fecha": "2026-10-06",
     "titulo": "El Banco Mundial recorta proyecciones de crecimiento para Argentina",
     "resumen": "El Banco Mundial recortó sus previsiones de crecimiento para la Argentina en 2026 y 2027, aunque anticipa tres años consecutivos de expansión económica.",
@@ -32,6 +67,48 @@
     "titulo": "Crisis cárnica: Reconocido frigorífico ante una situación desesperante",
     "resumen": "El frigorífico Friar, ubicado en Reconquista, implementó un esquema de suspensiones temporales para evitar despidos masivos ante la caída de la faena.",
     "link": "https://urgente24.com/dinero/crisis-carnica-reconocido-frigorifico-una-situacion-desesperante-n634135",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-06",
+    "titulo": "El Banco Central quiere bajar el costo del crédito y prepara estos cambios",
+    "resumen": "El Banco Central prepara cambios para abaratar el financiamiento y abrir la competencia entre bancos, fintech y otros jugadores. Los detalles de las iniciativas.",
+    "link": "https://urgente24.com/dinero/el-banco-central-quiere-bajar-el-costo-del-credito-y-prepara-estos-cambios-n634206",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-06",
+    "titulo": "Del Litio de POSCO a la foto con gobernadores amigos",
+    "resumen": "Karina Milei y Diego Santilli, de notable acercamiento con Raúl Jalil (Catamarca) y Gustavo Sáenz (Salta), se mostraron optimistas en la planta de Litio que inauguró POSCO.",
+    "link": "https://urgente24.com/dinero/del-litio-posco-la-foto-gobernadores-amigos-n634200",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-06",
+    "titulo": "Jubilaciones en CABA: Un informe revela la drástica caída del poder de compra",
+    "resumen": "El 17% de los porteños tiene 65 años o más y afronta una pérdida de poder adquisitivo en las jubilaciones de entre 10% y 16%.",
+    "link": "https://urgente24.com/dinero/jubilaciones-caba-un-informe-revela-la-drastica-caida-del-poder-compra-n634197",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-06",
+    "titulo": "Inflación o desempleo: ¿Cuál es el principal problema que aflige a los argentinos?",
+    "resumen": "El desempleo y la inflación son dos problemas que sufren los argentinos desde hace años. Un estudio develó cuál es la mayor preocupación de la sociedad.",
+    "link": "https://urgente24.com/dinero/inflacion-o-desempleo-cual-es-el-principal-problema-que-aflige-los-argentinos-n634186",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-06",
+    "titulo": "Los \"econochantas\": El relato de Milei / Caputo, cada vez más expuesto",
+    "resumen": "Al igual que Javier Milei, Luis Caputo puso en duda datos oficiales, esos que antes -cuando eran positivos- celebraban. Economistas replican: \"econochantas\".",
+    "link": "https://urgente24.com/dinero/los-econochantas-el-relato-milei-caputo-cada-vez-mas-expuesto-n634179",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-06",
+    "titulo": "Se confirman 1.250 despidos de famosa empresa avícola",
+    "resumen": "La crisis de la empresa se agrava con 1.250 despidos confirmados tras fracasar la conciliación obligatoria, sumando presión a un concurso preventivo millonario.",
+    "link": "https://urgente24.com/dinero/se-confirman-1250-despidos-famosa-empresa-avicola-n634174",
     "fuente": "urgente24"
   },
   {
