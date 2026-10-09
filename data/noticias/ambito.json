@@ -1,5 +1,96 @@
 [
   {
+    "fecha": "2026-10-09",
+    "titulo": "Cómo viajar a Estados Unidos sin visa: el permiso de 40 dólares que reemplaza el visado",
+    "resumen": "Una autorización electrónica permite realizar estadías breves bajo ciertas condiciones. Quiénes pueden acceder, cuánto cuesta y qué documentos exige.",
+    "link": "https://www.ambito.com/economia/como-viajar-estados-unidos-visa-el-permiso-40-dolares-que-reemplaza-el-visado-n6331005",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-09",
+    "titulo": "Donald Trump crea un comité para investigar a una gobernadora de la Fed acusada de fraude",
+    "resumen": "Lisa Cook será investigada por el gobierno de EEUU por presunto fraude hipotecario no probado. El comité examinará si Cook realizó declaraciones falsas en relación con instrumentos hipotecarios, mientras la defensa cuestiona la legitimidad de la audiencia.",
+    "link": "https://www.ambito.com/economia/donald-trump-crea-un-comite-investigar-una-gobernadora-la-fed-acusada-fraude-n6332047",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-09",
+    "titulo": "La confianza del consumidor en EEUU cayó a su nivel más bajo en cinco meses",
+    "resumen": "El impacto inflacionario de la guerra en Medio Oriente se hizo sentir en la población estadounidense. El dato se conoce a solo un mes de las elecciones de medio término en EEUU.",
+    "link": "https://www.ambito.com/economia/la-confianza-del-consumidor-eeuu-cayo-su-nivel-mas-cinco-meses-n6332014",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-09",
+    "titulo": "BTS llega a La Plata: ¿cuánto cuesta hospedarse un fin de semana?",
+    "resumen": "La llegada del grupo surcoreano ya mueve el turismo y las reservas. Qué opciones aparecen para quienes viajen a la capital bonaerense.",
+    "link": "https://www.ambito.com/economia/bts-llega-la-plata-cuanto-cuesta-hospedarse-un-fin-semana-n6330992",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-09",
+    "titulo": "China y la UE llegan a un acuerdo sobre autos híbridos y tierras raras, tras dos días de negociaciones",
+    "resumen": "El acuerdo se da luego de dos jornadas de conversaciones en Pekín con el comisario de Comercio de la UE, Maros Sefcovic. Contempla rebaja de aranceles, comercio de vehículos híbridos, la creación de un \"canal verde\" para los envíos de tierras raras a Europa y la apertura de un...",
+    "link": "https://www.ambito.com/economia/china-y-la-ue-llegan-un-acuerdo-autos-hibridos-y-tierras-raras-dos-dias-negociaciones-n6331999",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-09",
+    "titulo": "Un gran banco suizo advierte que la caída del salario y el empleo resienten las chances electorales de Javier Milei",
+    "resumen": "Aunque el grupo financiero destacó que el Gobierno \"alejó al país de la hiperinflación mediante el ajuste fiscal y la desregulación\", pero advirtió que un giro en las demandas sociales pone el foco en la recuperación del poder adquisitivo.",
+    "link": "https://www.ambito.com/economia/un-gran-banco-suizo-advierte-que-la-caida-del-salario-y-el-empleo-resienten-las-chances-electorales-javier-milei-n6331922",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-09",
+    "titulo": "Industria en rojo: el conurbano perdió más de 25.000 empleos fabriles en dos años y solo tres provincias evitaron la caída",
+    "resumen": "Un relevamiento oficial reveló que el sector perdió más de 66.000 trabajadores entre 2024 y 2026. El Gran Buenos Aires encabezó el derrumbe al explicar casi el 40% de las bajas de todo el país.",
+    "link": "https://www.ambito.com/economia/industria-rojo-el-conurbano-perdio-mas-25000-empleos-fabriles-dos-anos-y-solo-tres-provincias-evitaron-la-caida-n6331924",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-09",
+    "titulo": "Rige la ley de Inocencia Fiscal II: qué cambia desde hoy",
+    "resumen": "La norma fue aprobada el pasado 17 de septiembre. Ahora, se eliminan los topes de ingresos y patrimonio para Ganancias simplificado, se limitan las revisiones del organismo recaudador y, además, se reducen multas formales para determinados contribuyentes.",
+    "link": "https://www.ambito.com/economia/rige-la-ley-inocencia-fiscal-ii-que-cambia-hoy-n6331905",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-09",
+    "titulo": "Promulgan la Inocencia Fiscal II: sin topes para el régimen simplificado de Ganancias y rebaja de multas",
+    "resumen": "La norma modifica la ley de Inocencia Fiscal y la de Procedimiento Tributario. Pone sobre ARCA la carga de probar las discrepancias, exige bancarizar las operaciones y reduce sanciones para pymes, personas humanas y empleadores rurales.",
+    "link": "https://www.ambito.com/economia/promulgan-la-inocencia-fiscal-ii-topes-el-regimen-simplificado-ganancias-y-rebaja-multas-n6331889",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-09",
+    "titulo": "Aprueban un nuevo cuadro tarifario para más de 30 aeropuertos del país",
+    "resumen": "La medida alcanza a las terminales del Grupo A, entre ellas Ezeiza, Aeroparque, Córdoba y Bariloche, y modifica la tasa de uso de aeroestación. Los nuevos valores regirán dentro de 60 días.",
+    "link": "https://www.ambito.com/economia/aprueban-un-nuevo-cuadro-tarifario-mas-30-aeropuertos-del-pais-n6331888",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-09",
+    "titulo": "Actividad económica en serrucho: tras el repunte de agosto, septiembre vuelve a mostrar señales mixtas",
+    "resumen": "La economía habría rebotado al menos 1% en agosto, aunque sin compensar la fuerte caída de julio. Para septiembre, los indicadores anticipan un leve avance, en un contexto de alta volatilidad y estancamiento de fondo.",
+    "link": "https://www.ambito.com/economia/actividad-economica-serrucho-el-repunte-agosto-septiembre-vuelve-mostrar-senales-mixtas-n6331625",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-09",
+    "titulo": "¿Cuándo conviene tomar un crédito UVA? La clave que define la cuota y no es la inflación",
+    "resumen": "Con más opciones disponibles, muchas familias vuelven a mirar estos préstamos como una alternativa para llegar a la casa propia.",
+    "link": "https://www.ambito.com/economia/cuando-conviene-tomar-un-credito-uva-la-clave-que-define-la-cuota-y-no-es-la-inflacion-n6331253",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-09",
+    "titulo": "CABA busca emitir un bono para cancelar deuda con proveedores ante la caída de la recaudación",
+    "resumen": "El jefe de Gobierno, Jorge Macri, envió un proyecto para pedir autorización a la Legislatura. La iniciativa contempla la emisión de títulos públicos por hasta $600.000 millones. Funcionarios del Ejecutivo explicaron su alcance y respondieron preguntas de la oposición.",
+    "link": "https://www.ambito.com/economia/caba-busca-emitir-un-bono-cancelar-deuda-proveedores-la-caida-la-recaudacion-n6331758",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-10-08",
     "titulo": "Tensión comercial: China rechaza solicitud de la UE de limitar la exportación de autos híbridos",
     "resumen": "La UE analiza una \"salvaguardia\" temporal ante la negativa china a limitar exportaciones al bloque. El conflicto comercial se agrava por el déficit de la UE, en un marco dónde potencias europeas analizan instrumentos de defensa comercial.",
@@ -95,6 +186,55 @@
     "titulo": "Mapa del crédito a empresas: el \"rollover\" apenas sostiene una demanda en pesos que no logra despegar",
     "resumen": "Hay unas 284.000 empresas endeudadas con bancos por $91 billones y el financiamiento muestra una fuerte concentración: el 70% está en manos de los 10 principales bancos del sistema. En paralelo, la morosidad empresaria volvió a crecer.",
     "link": "https://www.ambito.com/economia/mapa-del-credito-empresas-el-rollover-apenas-sostiene-una-demanda-pesos-que-no-logra-despegar-n6331211",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-08",
+    "titulo": "El Banco Nación aceleró el crédito y explicó más de un tercio del crecimiento del sistema",
+    "resumen": "La entidad expandió en $6,3 billones sus préstamos al sector privado y reforzó su peso en créditos a familias, empresas e hipotecarios.",
+    "link": "https://www.ambito.com/economia/el-banco-nacion-acelero-el-credito-y-explico-mas-un-tercio-del-crecimiento-del-sistema-n6331832",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-08",
+    "titulo": "Manual del plazo fijo: ¿qué es la TNA y por qué es tan importante para elegir el mejor rendimiento?",
+    "resumen": "La tasa nominal anual permite comparar cuánto paga cada entidad, aunque las ganancias finales dependen de varios factores, como el plazo y capital.",
+    "link": "https://www.ambito.com/economia/manual-del-plazo-fijo-que-es-la-tna-y-que-es-tan-importante-elegir-el-mejor-rendimiento-n6331716",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-08",
+    "titulo": "Tras reunirse con Milei, Alberto Ades propuso debatir el dólar, el crédito y la política monetaria",
+    "resumen": "Respaldó los avances fiscales e inflacionarios, pero alertó que compañías potencialmente viables podrían no sobrevivir a la transición. Planteó revisar las condiciones monetarias, cambiarias y crediticias.",
+    "link": "https://www.ambito.com/economia/tras-reunirse-milei-alberto-ades-propuso-debatir-el-dolar-el-credito-y-la-politica-monetaria-n6331805",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-08",
+    "titulo": "Una familia porteña necesitó casi $2,7 millones en septiembre para ser de clase media",
+    "resumen": "La canasta alimentaria total se aceleró 2,5% en septiembre para una familia porteña que posee una propiedad a su nombre. Necesitó ingresos por al menos $2.669.814,76.",
+    "link": "https://www.ambito.com/economia/una-familia-portena-necesito-casi-27-millones-septiembre-ser-clase-media-n6331797",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-08",
+    "titulo": "Precios para hacer crecer tu Instagram en 2026: planes, plataformas y consejos antes de contratar",
+    "resumen": "Las opciones van desde paquetes económicos hasta servicios con reposición y atención personalizada. Qué revisar antes de poner dinero en una cuenta.",
+    "link": "https://www.ambito.com/economia/precios-hacer-crecer-tu-instagram-2026-planes-plataformas-y-consejos-antes-contratar-n6331404",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-08",
+    "titulo": "Inflación de septiembre: tras la aceleración de CABA, el IPC podría subir por el aumento de alimentos y energía",
+    "resumen": "Los estacionales pegaron un salto en septiembre tras la deflación de agosto. Los alimentos, vivienda y salud encabezaron los avances.",
+    "link": "https://www.ambito.com/economia/inflacion-septiembre-la-aceleracion-caba-el-ipc-podria-subir-el-aumento-alimentos-y-energia-n6331696",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-08",
+    "titulo": "Pánico financiero en Francia: sus bonos se hunden por la suba del déficit y un posible triunfo de Marine Le Pen",
+    "resumen": "La deuda francesa experimenta un fuerte sell-off durante las últimas semanas, golpeada tanto por factores internacionales como por cuestiones estructurales de su economía. Tensión política de cara a las presidenciales de 2027 y protestas sociales.",
+    "link": "https://www.ambito.com/economia/panico-financiero-francia-sus-bonos-se-hunden-la-suba-del-deficit-y-un-posible-triunfo-marine-le-pen-n6331054",
     "fuente": "ambito"
   },
   {
