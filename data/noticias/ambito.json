@@ -1,393 +1,498 @@
 [
   {
+    "fecha": "2026-10-20",
+    "titulo": "Dólar: Alberto Ades explicó por qué la Argentina necesita un tipo de cambio más alto y qué puede pasar en 2027",
+    "resumen": "<p id=\"p-1792506183844-83758\" data-pm-slice=\"1 1 []\" class=\"ignore-parser\">El economista consideró que un peso más débil ayudaría a mejorar la competitividad de distintos sectores, aunque advirtió sobre los riesgos de una devaluación. Cuáles son las tres alternativas que plant...",
+    "link": "https://www.ambito.com/economia/dolar-alberto-ades-explico-que-la-argentina-necesita-un-tipo-cambio-mas-alto-y-que-puede-pasar-2027-n6335752",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "\"Este cultivo se ha perdido\": El Niño provoca una crisis mundial del azúcar",
+    "resumen": "<p id=\"p-1792467159743-91519\" class=\"ignore-parser\">Una cosecha de caña de azúcar dañada por El Niño en India, el segundo mayor productor del mundo, está perjudicando a consumidores y agricultores, además de socavar los objetivos de seguridad energética del país.</p> <p id=\"p-...",
+    "link": "https://www.ambito.com/economia/este-cultivo-se-ha-perdido-el-nino-provoca-una-crisis-mundial-del-azucar-n6335743",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "Postergación del FAL: la razón oculta que ayudará a Luis Caputo a evitar una mayor tensión financiera electoral",
+    "resumen": "<p id=\"p-1792494808817-54632\" class=\"ignore-parser\">La medida publicada en el Boletín Oficial se sustenta en argumentos técnicos, pero al aplicarla el Ministerio de Economía gana un mes más de recaudación de Seguridad Social en un año en que caen los ingresos tributarios y pat...",
+    "link": "https://www.ambito.com/economia/postergacion-del-fal-la-razon-oculta-que-ayudara-luis-caputo-evitar-una-mayor-tension-financiera-electoral-n6335628",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "China vuelve a aumentar sus importaciones de soja estadounidense por la tregua comercial",
+    "resumen": "<p id=\"p-1792501450272-45449\" class=\"ignore-parser\">Las importaciones de soja brasileña cayeron un 2,4% interanual en septiembre, en un marco dónde las compras globales del mayor importador del mundo de soja se desaceleraron en septiembre un 7,7% interanual. Los detalles, en l...",
+    "link": "https://www.ambito.com/economia/china-vuelve-aumentar-sus-importaciones-soja-estadounidense-la-tregua-comercial-n6335732",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "Cómo conseguir un crucero barato: 5 trucos de ahorro que las navieras no te cuentan",
+    "resumen": "<p id=\"p-1792430555501-38737\" class=\"ignore-parser\">Elegir bien la fecha, el camarote y el tipo de itinerario puede hacer que el costo final de unas vacaciones en el mar sea mucho más bajo.</p>",
+    "link": "https://www.ambito.com/economia/como-conseguir-un-crucero-barato-5-trucos-ahorro-que-las-navieras-no-te-cuentan-n6335431",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "Brasil volverá al top 10 de las economías más grandes del mundo: en qué puesto quedó, según el FMI",
+    "resumen": "<p id=\"p-1792498071891-37300\" class=\"ignore-parser\">El organismo proyecta que Brasil volverá al top 10 de economías mundiales para 2027, superando a Italia y Rusia, gracias a las agroexportaciones y mejoras tecnológicas. EEUU y China lideran el ranking de las mayores potencias...",
+    "link": "https://www.ambito.com/economia/brasil-volvera-al-top-10-las-s-mas-grandes-del-mundo-que-puesto-quedara-segun-el-fmi-n6335662",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "Plazo fijo: cuánto rinden $2.000.000 a 60 días",
+    "resumen": "<p id=\"p-1792436038867-45079\" class=\"ignore-parser\">La ganancia depende de la tasa y del canal elegido. Los porcentajes pueden cambiar según el plazo y las condiciones de cada entidad.</p>",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-rinden-2000000-60-dias-n6335471",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "ARBA postergó hasta el 12 de noviembre los vencimientos de los impuestos Rural, Complementario y Automotor",
+    "resumen": "<p id=\"p-1792488114013-36184\" class=\"ignore-parser\">Los contribuyentes bonaerenses podrán pagar sin recargos y con los beneficios vigentes. Las nuevas fechas ya están actualizadas en todos los medios de pago.</p>",
+    "link": "https://www.ambito.com/economia/arba-postergo-el-12-noviembre-los-vencimientos-los-impuestos-rural-complementario-y-automotor-n6335611",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "El Gobierno postergó hasta diciembre la puesta en marcha del FAL",
+    "resumen": "<p id=\"p-1792486624698-86628\" class=\"ignore-parser\">El régimen creado por la Ley de Modernización Laboral comenzará a regir el 1 de diciembre. Además, se extendió de seis a doce meses el período mínimo de aportes antes de poder usar los recursos.</p>",
+    "link": "https://www.ambito.com/economia/el-gobierno-postergo-diciembre-la-puesta-marcha-los-fal-n6335607",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "El Súper Niño pone a prueba al agro: prevén mejores rindes, pero las lluvias pueden demorar y encarecer la cosecha",
+    "resumen": "<p id=\"p-1792457582573-62930\" class=\"ignore-parser\">La llegada del fenómeno climático al Cono Sur deja un mapa heterogéneo: exceso de agua en el Litoral y humedad más ajustada en el oeste chaqueño. Cómo influyen los días nublados, la demanda brasileña de trigo y los costos log...",
+    "link": "https://www.ambito.com/economia/el-super-nino-pone-prueba-al-agro-preven-mejores-rindes-pero-las-lluvias-pueden-demorar-y-encarecer-la-cosecha-n6335325",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "Dubái, hub del comercio global: cómo opera la zona franca líder en el mundo que busca atraer a la carne argentina",
+    "resumen": "<p id=\"p-1792451360212-33372\" class=\"ignore-parser\">Este medio pudo conocer de primera mano el Dubai Multi Commodities Center (DMCC), que trabaja con 289 empresas latinoamericanas para facilitar el comercio exterior.</p>",
+    "link": "https://www.ambito.com/economia/dubai-hub-del-comercio-global-como-opera-la-principal-zona-franca-del-mundo-que-busca-atraer-la-carne-argentina-n6334804",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-10-19",
     "titulo": "Las exportaciones de las pymes alcanzaron su mayor valor en 13 años",
-    "resumen": "El ministro de Economía, Luis Caputo, festejó que las exportaciones récord tras un alza de 23% en los primeros nueve meses del año. Alcanzaron los u$s8.330 millones.",
+    "resumen": "<p id=\"p-1792425457317-76521\" class=\"ignore-parser\">El ministro de Economía, Luis Caputo, festejó que las exportaciones récord tras un alza de 23% en los primeros nueve meses del año. Alcanzaron los u$s8.330 millones.</p>",
     "link": "https://www.ambito.com/economia/las-exportaciones-las-pymes-alcanzaron-su-mayor-valor-13-anos-n6335392",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-19",
     "titulo": "La industria metalúrgica volvió a caer y tuvo el septiembre con más máquinas paradas desde 2016",
-    "resumen": "La actividad acumula una contracción del 5,3% en lo que va de 2026 y opera con apenas el 40,2% de su capacidad productiva. La debilidad de la demanda y la postergación de inversiones afectan al sector, mientras las empresas mantienen expectativas desfavorables para los próximo...",
+    "resumen": "<p id=\"p-1792413377047-88351\" data-pm-slice=\"1 1 []\" class=\"ignore-parser\">La actividad acumula una contracción del 5,3% en lo que va de 2026 y opera con apenas el 40,2% de su capacidad productiva. La debilidad de la demanda y la postergación de inversiones afectan al sector, ...",
     "link": "https://www.ambito.com/economia/la-industria-metalurgica-volvio-caer-y-tuvo-el-septiembre-mas-maquinas-paradas-2016-n6335225",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-19",
     "titulo": "La economía de China creció 4,5% en el tercer trimestre y superó las proyecciones del mercado",
-    "resumen": "Pese al repunte de las ventas minoristas (1,1%) y el impulso exportador de los vehículos eléctricos y la alta tecnología, la economía china enfrenta severos desequilibrios internos por la crisis inmobiliaria y el estancamiento del consumo.",
+    "resumen": "<p id=\"p-1792411704832-24189\" class=\"ignore-parser\">Pese al repunte de las ventas minoristas (1,1%) y el impulso exportador de los vehículos eléctricos y la alta tecnología, la economía china enfrenta severos desequilibrios internos por la crisis inmobiliaria y el estancamient...",
     "link": "https://www.ambito.com/economia/la-china-crecio-45-el-tercer-trimestre-y-supero-las-proyecciones-del-mercado-n6335189",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-19",
     "titulo": "Mercados: ahora preocupa el pedal de la IA, tras el berrinche de las tasas largas",
-    "resumen": "La moderación de las tasas largas en Estados Unidos coincide con una creciente preocupación por el financiamiento de la inteligencia artificial, el endeudamiento de las empresas tecnológicas y el impacto de la guerra sobre la inflación. Mientras los inversores recalibran sus e...",
+    "resumen": "<p id=\"p-1792365503464-75122\" class=\"ignore-parser\">La moderación de las tasas largas en Estados Unidos coincide con una creciente preocupación por el financiamiento de la inteligencia artificial, el endeudamiento de las empresas tecnológicas y el impacto de la guerra sobre la...",
     "link": "https://www.ambito.com/economia/mercados-ahora-preocupa-el-pedal-la-ia-el-berrinche-las-tasas-largas-n6335117",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-19",
+    "titulo": "Con la inyección de fondos de ANSES: cómo quedaron las tasas de los créditos hipotecarios UVA",
+    "resumen": "<p id=\"p-1792427184102-40821\" class=\"ignore-parser\">Después de varios meses de subas, algunos bancos empezaron a bajar sus tasas, aunque todavía hay diferencias importantes entre las ofertas.</p>",
+    "link": "https://www.ambito.com/economia/con-la-inyeccion-fondos-anses-como-quedaron-las-tasas-los-creditos-hipotecarios-uva-n6335403",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-19",
+    "titulo": "Retiros voluntarios: economistas prevén un ahorro acotado y reclaman una reforma del Estado",
+    "resumen": "<p id=\"p-1792427521321-85573\" class=\"ignore-parser\">El plan abarca a unos 37.000 empleados de Presidencia y los ministerios. Especialistas advierten que podría provocar la salida de personal calificado y debilitar la capacidad del Estado.</p>",
+    "link": "https://www.ambito.com/economia/retiros-voluntarios-economistas-preven-un-ahorro-acotado-y-reclaman-una-reforma-del-estado-n6335394",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-19",
+    "titulo": "El superávit comercial de septiembre fue el segundo más alto de 2026: las exportaciones superaron los u$s10.000 millones",
+    "resumen": "<p id=\"p-1792437682391-28091\" class=\"ignore-parser\">Las exportaciones treparon 21,6% interanual y 8,6% mensual. En paralelo, las importaciones tuvieron poco dinamismo, afectadas por la debilidad de la actividad y la elevada base de comparación.</p>",
+    "link": "https://www.ambito.com/economia/el-superavit-comercial-septiembre-rozo-los-us3000-millones-segundo-maximo-2026-n6335477",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-10-19",
+    "titulo": "Cifra récord: el costo de los intereses de la deuda de EEUU superó el u$s1 billón",
+    "resumen": "<p id=\"p-1792427786650-28573\" class=\"ignore-parser\">El rápido aumento de los costos de financiamiento genera preocupaciones en el mercado ante la posibilidad de que el endeudamiento norteamericano se acelere como una bola de nieve.</p>",
+    "link": "https://www.ambito.com/economia/cifra-record-el-costo-los-intereses-la-deuda-eeuu-supero-el-us1-billon-n6335424",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-18",
     "titulo": "La economía bajo presión: los salarios duran cada vez menos, cae el margen de ahorro y crece el endeudamiento",
-    "resumen": "Distintas encuestas muestran que los ingresos pierden capacidad para cubrir los gastos cotidianos, crece el recurso al crédito y la recuperación salarial gana prioridad frente a la estabilidad de precios. Los relevamientos también registran una evaluación negativa de la econom...",
+    "resumen": "<p id=\"p-1792329192142-98421\" class=\"ignore-parser\">Distintas encuestas muestran que los ingresos pierden capacidad para cubrir los gastos cotidianos, crece el recurso al crédito y la recuperación salarial gana prioridad frente a la estabilidad de precios. Los relevamientos ta...",
     "link": "https://www.ambito.com/economia/la-presion-los-salarios-duran-cada-vez-menos-cae-el-margen-ahorro-y-crece-el-endeudamiento-n6335007",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-18",
     "titulo": "Javier Milei elogia el empleo informal, pero los trabajadores cobran la mitad y pierden la obra social",
-    "resumen": "Los ingresos de los trabajadores informales no llegan ni al 50% de los registrados según el INDEC. Crece el porcentaje de personas sin acceso a cobertura de salud. Se multiplican las filas para conseguir empleo.",
+    "resumen": "<p id=\"p-1792265419000-25877\" class=\"ignore-parser\">Los ingresos de los trabajadores informales no llegan ni al 50% de los registrados según el INDEC. Crece el porcentaje de personas sin acceso a cobertura de salud. Se multiplican las filas para conseguir empleo.</p>",
     "link": "https://www.ambito.com/economia/javier-milei-elogia-el-empleo-informal-pero-los-trabajadores-cobran-la-mitad-y-pierden-la-obra-social-n6334935",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-18",
     "titulo": "ARBA lanza un plan para la regularización de deudas de los contribuyentes",
-    "resumen": "El organismo habilitará la cancelación de obligaciones pendientes antes de fin de año. Estar al día con los impuestos será un requisito indispensable para acceder a las bonificaciones previstas para 2027.",
+    "resumen": "<p id=\"p-1792261394548-46095\" class=\"ignore-parser\">El organismo habilitará la cancelación de obligaciones pendientes antes de fin de año. Estar al día con los impuestos será un requisito indispensable para acceder a las bonificaciones previstas para 2027.</p>",
     "link": "https://www.ambito.com/economia/arba-lanza-un-plan-la-regularizacion-deudas-los-contribuyentes-n6334927",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-18",
     "titulo": "Plazo fijo: cuánto rinden $1.000.000 a 60 días",
-    "resumen": "El Banco Central reúne las tasas informadas por las entidades financieras para comparar alternativas, aunque los porcentajes pueden variar según el plazo y el banco.",
+    "resumen": "<p id=\"p-1792181321280-92131\" class=\"ignore-parser\">El Banco Central reúne las tasas informadas por las entidades financieras para comparar alternativas, aunque los porcentajes pueden variar según el plazo y el banco.</p>",
     "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-rinden-1000000-60-dias-n6334757",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-18",
     "titulo": "El 72% de los menores de 40 años se queda sin plata antes del día 20 y seis de cada diez se endeudaron",
-    "resumen": "Un relevamiento reveló que solo el 3% de los menores de 40 años logra ahorrar. El 81,8% de los argentinos afirma que su salario pierde contra la inflación y el 67% pide algún tipo de intervención estatal frente a la morosidad.",
+    "resumen": "<p id=\"p-1792355863191-80357\" class=\"ignore-parser\">Un relevamiento reveló que solo el 3% de los menores de 40 años logra ahorrar. El 81,8% de los argentinos afirma que su salario pierde contra la inflación y el 67% pide algún tipo de intervención estatal frente a la morosidad...",
     "link": "https://www.ambito.com/economia/el-72-los-menores-40-anos-se-queda-plata-antes-del-dia-20-y-seis-cada-diez-se-endeudaron-n6335100",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-18",
     "titulo": "Martín Uribe: \"Muchos de los dólares que están en el Banco Central no le pertenecen al Gobierno”",
-    "resumen": "El economista argentino, radicado en EEUU y profesor de la Universidad de Columbia, sostiene que las corridas cambiarias tienen origen fiscal y no especulativo. Además, advierte que no todos los dólares que el Gobierno contabiliza como respaldo de cara a 2027 le pertenecen.",
+    "resumen": "<p id=\"p-1792335346204-88475\" class=\"ignore-parser\">El economista argentino, radicado en EEUU y profesor de la Universidad de Columbia, sostiene que las corridas cambiarias tienen origen fiscal y no especulativo. Además, advierte que no todos los dólares que el Gobierno contab...",
     "link": "https://www.ambito.com/economia/martin-uribe-muchos-los-dolares-que-estan-el-banco-central-no-le-pertenecen-al-gobierno-n6335014",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-18",
     "titulo": "Consumo en baja: las ventas por el Día de la Madre 2026 retrocedieron 1,4% interanual",
-    "resumen": "Los comercios minoristas pyme registraron una nueva caída interanual, pese a las promociones y la financiación. El ticket promedio alcanzó los $63.197 y 4 de los 6 rubros relevados terminaron en baja.",
+    "resumen": "<p id=\"p-1792346807388-76441\" class=\"ignore-parser\">Los comercios minoristas pyme registraron una nueva caída interanual, pese a las promociones y la financiación. El ticket promedio alcanzó los $63.197 y 4 de los 6 rubros relevados terminaron en baja.</p>",
     "link": "https://www.ambito.com/economia/consumo-baja-las-ventas-el-dia-la-madre-2026-retrocedieron-14-n6335071",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-18",
     "titulo": "Una prestigiosa consultora internacional ve riesgos para Javier Milei en 2027 y recorta su apuesta por activos argentinos",
-    "resumen": "La consultora advirtió que la pérdida de puestos de trabajo en sectores tradicionales todavía no encuentra compensación en nuevas inversiones. Recomienda tomar ganancias en activos argentinos ante los riesgos económicos y políticos de cara a las elecciones de 2027.",
+    "resumen": "<p id=\"p-1792344736691-44673\" class=\"ignore-parser\">La consultora advirtió que la pérdida de puestos de trabajo en sectores tradicionales todavía no encuentra compensación en nuevas inversiones. Recomienda tomar ganancias en activos argentinos ante los riesgos económicos y pol...",
     "link": "https://www.ambito.com/economia/una-prestigiosa-consultora-internacional-ve-riesgos-javier-milei-2027-y-recorta-su-apuesta-activos-argentinos-n6335066",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-18",
     "titulo": "El seguro de desempleo creció casi 30% por los despidos en industria, comercio y construcción",
-    "resumen": "Los datos oficiales muestran un aumento de las altas de la prestación en medio de la pérdida de puestos de trabajo formales. En septiembre, 127.613 personas cobraron la prestación, cuyo monto promedio quedó por debajo de la inflación interanual.",
+    "resumen": "<p id=\"p-1792344014845-9956\" class=\"ignore-parser\">Los datos oficiales muestran un aumento de las altas de la prestación en medio de la pérdida de puestos de trabajo formales. En septiembre, 127.613 personas cobraron la prestación, cuyo monto promedio quedó por debajo de la in...",
     "link": "https://www.ambito.com/economia/el-seguro-desempleo-crecio-casi-30-los-despidos-industria-comercio-y-construccion-n6335063",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-18",
     "titulo": "El futuro de Javier Milei, según Federico Sturzenegger: las reformas con las que busca cambiar la economía argentina",
-    "resumen": "El ministro de Desregulación destacó las reformas en energía, minería, agro, logística y mercados de capitales. Sostuvo que el legado del Presidente dependerá de que esos cambios se consoliden y permitan ampliar las exportaciones y la inversión.",
+    "resumen": "<p id=\"p-1792333506469-45425\" class=\"ignore-parser\">El ministro de Desregulación destacó las reformas en energía, minería, agro, logística y mercados de capitales. Sostuvo que el legado del Presidente dependerá de que esos cambios se consoliden y permitan ampliar las exportaci...",
     "link": "https://www.ambito.com/economia/el-futuro-javier-milei-segun-federico-sturzenegger-las-reformas-las-que-busca-cambiar-la-argentina-n6335024",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-17",
     "titulo": "¿Qué banco tiene la tasa más baja para créditos hipotecarios en octubre 2026?",
-    "resumen": "Encontrar una tasa baja es importante, pero también hay que ver si se cumplen los requisitos para acceder a las mejores condiciones.",
+    "resumen": "<p id=\"p-1792084557331-1153\" class=\"ignore-parser\">Encontrar una tasa baja es importante, pero también hay que ver si se cumplen los requisitos para acceder a las mejores condiciones.</p>",
     "link": "https://www.ambito.com/economia/que-banco-tiene-la-tasa-mas-baja-creditos-hipotecarios-octubre-2026-n6334271",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-17",
     "titulo": "Plazo fijo en dólares: cuánto rinden US$ 5.000 hoy y qué bancos pagan las mejores tasas",
-    "resumen": "Las entidades volvieron a mejorar algunas tasas en moneda extranjera, pero la diferencia en cuanto tiempo se inmoviliza el dinero puede ser amplia.",
+    "resumen": "<p id=\"p-1792095749984-66749\" class=\"ignore-parser\">Las entidades volvieron a mejorar algunas tasas en moneda extranjera, pero la diferencia en cuanto tiempo se inmoviliza el dinero puede ser amplia.</p>",
     "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-rinden-us-5000-hoy-y-que-bancos-pagan-las-mejores-tasas-n6334330",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-17",
     "titulo": "El superávit fiscal de septiembre obliga al Gobierno a forzar la motosierra para cumplir la meta del FMI",
-    "resumen": "Entre octubre y noviembre, el Ejecutivo tendría que lograr un saldo a favor muy consistente que le permita compensar el déficit esperado de diciembre. En 2025, el cierre del año fue negativo en $2,8 billones.",
+    "resumen": "<p id=\"p-1792180349585-13528\" class=\"ignore-parser\">Entre octubre y noviembre, el Ejecutivo tendría que lograr un saldo a favor muy consistente que le permita compensar el déficit esperado de diciembre. En 2025, el cierre del año fue negativo en $2,8 billones.</p> <p id=\"p-179...",
     "link": "https://www.ambito.com/economia/el-superavit-fiscal-septiembre-obliga-al-gobierno-forzar-la-motosierra-cumplir-la-meta-del-fmi-n6334755",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-17",
     "titulo": "Buenos Aires acordó un aumento del 6% para docentes y estatales en dos tramos",
-    "resumen": "La suba se distribuirá entre octubre y noviembre, con reapertura de las negociaciones en diciembre. Cuatro organizaciones de la educación aprobaron la propuesta, mientras la FEB todavía no expresó su respaldo.",
+    "resumen": "<p id=\"p-1792273864233-45997\" class=\"ignore-parser\">La suba se distribuirá entre octubre y noviembre, con reapertura de las negociaciones en diciembre. Cuatro organizaciones de la educación aprobaron la propuesta, mientras la FEB todavía no expresó su respaldo.</p>",
     "link": "https://www.ambito.com/economia/buenos-aires-acordo-un-aumento-del-6-docentes-y-estatales-dos-tramos-n6334962",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-17",
     "titulo": "Luis Caputo buscó llevar calma a los mercados: \"Argentina tiene un excedente de dólares\"",
-    "resumen": "El ministro destacó el fortalecimiento de las arcas del BCRA. Inconsistencias de las afirmaciones que realizó en el escenario internacional.",
+    "resumen": "<p id=\"p-1792277568744-85563\" class=\"ignore-parser\">El ministro destacó el fortalecimiento de las arcas del BCRA. Inconsistencias de las afirmaciones que realizó en el escenario internacional.</p>",
     "link": "https://www.ambito.com/economia/luis-caputo-busco-llevar-calma-los-mercados-argentina-tiene-un-excedente-dolares-n6334966",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-17",
     "titulo": "Reembolso o atención directa: las diferencias clave entre seguro y asistencia médica en viaje",
-    "resumen": "Antes de salir del país, conocer las condiciones de cada servicio puede ayudar a evitar gastos inesperados y complicaciones durante las vacaciones.",
+    "resumen": "<p id=\"p-1792067051828-99572\" data-pm-slice=\"1 1 []\" class=\"ignore-parser\">Antes de salir del país, conocer las condiciones de cada servicio puede ayudar a evitar gastos inesperados y complicaciones durante las vacaciones.</p> <p id=\"p-1792066973633-21790\" class=\"ignore-parser...",
     "link": "https://www.ambito.com/economia/reembolso-o-atencion-directa-las-diferencias-clave-seguro-y-asistencia-medica-viaje-n6334026",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "El G7 se comprometió a destinar u$s2.500 millones para países con riesgo de inseguridad alimentaria",
-    "resumen": "El dinero se destinará a la adquisición de fertilizantes para garantizar la seguridad alimentaria. La escalada bélica en Medio Oriente y la invasión rusa a Ucrania impactan la producción agrícola global.",
+    "resumen": "<p id=\"p-1792157699681-38176\" class=\"ignore-parser\">El dinero se destinará a la adquisición de fertilizantes para garantizar la seguridad alimentaria. La escalada bélica en Medio Oriente y la invasión rusa a Ucrania impactan la producción agrícola global.</p>",
     "link": "https://www.ambito.com/economia/el-g7-se-comprometio-destinar-us2500-millones-paises-riesgo-inseguridad-alimentaria-n6334562",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "El Banco Mundial apunta a quintuplicar la financiación para minerales críticos en los próximos cinco años",
-    "resumen": "El nuevo plan del organismo para metales y minerales incluye destinar u$s19.000 millones a la financiación de minerales críticos entre los ejercicios fiscales 2026 y 2030. La iniciativa responde a la presión de potencias como EEUU para asegurar recursos.",
+    "resumen": "<p id=\"p-1792155874067-71094\" class=\"ignore-parser\">El nuevo plan del organismo para metales y minerales incluye destinar u$s19.000 millones a la financiación de minerales críticos entre los ejercicios fiscales 2026 y 2030. La iniciativa responde a la presión de potencias como...",
     "link": "https://www.ambito.com/economia/el-banco-mundial-apunta-quintuplicar-la-financiacion-minerales-criticos-los-proximos-cinco-anos-n6334518",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "El FMI advirtió sobre la sostenibilidad de la deuda en Europa: \"No hacer nada ya no es opción\"",
-    "resumen": "El organismo alertó que la inacción no es viable ante la suba de la deuda y exigió reformas profundas y consolidación fiscal. Con proyecciones de crecimiento moderadas, advirtió que el ajuste del 2% pactado en la UE es insuficiente y que la deuda podría incrementarse.",
+    "resumen": "<p id=\"p-1792152186539-84394\" data-path-to-node=\"3,0\" class=\"ignore-parser\">El organismo alertó que la inacción no es viable ante la suba de la deuda y exigió reformas profundas y consolidación fiscal. Con proyecciones de crecimiento moderadas, advirtió que el ajuste del 2% pa...",
     "link": "https://www.ambito.com/economia/el-fmi-advirtio-la-sostenibilidad-la-deuda-europa-no-hacer-nada-ya-no-es-opcion-n6334454",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "Cuánto podés ganar si depositás $10 millones en un plazo fijo a 30 días con las nuevas tasas de octubre 2026",
-    "resumen": "Las tasas de los plazos fijos presentan diferencias entre bancos. Conocé cuánto rinden $10 millones en 30 días y qué entidades ofrecen mejores intereses.",
+    "resumen": "<p id=\"p-1792083310413-45205\" class=\"ignore-parser\">Las tasas de los plazos fijos presentan diferencias entre bancos. Conocé cuánto rinden $10 millones en 30 días y qué entidades ofrecen mejores intereses.</p> <p id=\"p-1792083259447-95161\" class=\"ignore-parser\"></p>",
     "link": "https://www.ambito.com/economia/cuanto-podes-ganar-si-depositas-10-millones-un-plazo-fijo-30-dias-las-nuevas-tasas-octubre-2026-n6334214",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "Fed: Kevin Warsh dio indicios de que no subirá la tasa en octubre y destacó el impacto de la IA sobre la economía",
-    "resumen": "El hermetismo del presidente del banco central norteamericano sobre posibles movimientos de las tasas fue interpretado por Wall Street como una señal de que no habrá cambios en la reunión que se realizará entre el 27 y 28 de este mes.",
+    "resumen": "<p id=\"p-1792150898921-52518\" class=\"ignore-parser\">El hermetismo del presidente del banco central norteamericano sobre posibles movimientos de las tasas fue interpretado por Wall Street como una señal de que no habrá cambios en la reunión que se realizará entre el 27 y 28 de ...",
     "link": "https://www.ambito.com/economia/fed-kevin-warsh-dio-indicios-que-no-subira-la-tasa-octubre-y-destaco-el-impacto-la-ia-la-n6334446",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "Productividad en retroceso: los argentinos trabajan más, pero producen un 6% menos por hora que hace 10 años",
-    "resumen": "Según el INDEC, la productividad por hora en Argentina cayó un 6% en diez años; pese al alza del 11% en horas trabajadas y del 14% en capital, la producción no creció.",
+    "resumen": "<p id=\"p-1792091048764-89515\" class=\"ignore-parser\">Según el INDEC, la productividad por hora en Argentina cayó un 6% en diez años; pese al alza del 11% en horas trabajadas y del 14% en capital, la producción no creció.</p>",
     "link": "https://www.ambito.com/economia/productividad-retroceso-los-argentinos-trabajan-mas-pero-producen-un-6-menos-hora-que-hace-10-anos-n6334147",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "Créditos UVA: ¿Oportunidad real para la casa propia o riesgo financiero?",
-    "resumen": "La vuelta del financiamiento hipotecario trajo la duda sobre las cuotas ajustadas por inflación, los codeudores y el verdadero riesgo de endeudarse a largo plazo.",
+    "resumen": "<p id=\"p-1791971123018-92497\" class=\"ignore-parser\">La vuelta del financiamiento hipotecario trajo la duda sobre las cuotas ajustadas por inflación, los codeudores y el verdadero riesgo de endeudarse a largo plazo.</p>",
     "link": "https://www.ambito.com/economia/creditos-uva-oportunidad-real-la-casa-propia-o-riesgo-financiero-n6333470",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "FMI: América Latina aprovecha el impulso global pero sigue lejos de converger con las economías desarrolladas",
-    "resumen": "El organismo proyecta que América Latina crecerá un 2,7% anual en promedio a mediano plazo y advierte que la región seguirá rezagada frente a las economías avanzadas. Para Argentina, estima una expansión del 2,1% en 2026 y del 3,5% en 2027.",
+    "resumen": "<p id=\"p-1792109356237-75619\" class=\"ignore-parser\">El organismo proyecta que América Latina crecerá un 2,7% anual en promedio a mediano plazo y advierte que la región seguirá rezagada frente a las economías avanzadas. Para Argentina, estima una expansión del 2,1% en 2026 y de...",
     "link": "https://www.ambito.com/economia/fmi-america-latina-aprovecha-el-impulso-global-pero-sigue-lejos-converger-las-s-desarrolladas-n6334397",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "Paritarias bancaria: acordaron una nueva actualización salarial del 1,7% para septiembre",
-    "resumen": "Los salarios del sector bancario continuará con el aumento que acompaña la inflación. Acumulan una importante mejora en lo que va del año.",
+    "resumen": "<p id=\"p-1792190411303-19050\" class=\"ignore-parser\">Los salarios del sector bancario continuará con el aumento que acompaña la inflación. Acumulan una importante mejora en lo que va del año.</p>",
     "link": "https://www.ambito.com/economia/paritarias-bancaria-acordaron-una-nueva-actualizacion-salarial-del-17-septiembre-n6334801",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "El petróleo Brent tocó los u$s110 por primera vez desde mayo ante el temor a una escalada bélica",
-    "resumen": "Los ataques a instalaciones energéticas y las dudas sobre un acuerdo para liberar diésel ruso impulsaron las cotizaciones. El crudo acumuló su segunda suba semanal consecutiva y aumentó la presión sobre Donald Trump para contener los combustibles.",
+    "resumen": "<p id=\"p-1792188106406-24101\" data-pm-slice=\"1 1 []\" class=\"ignore-parser\">Los ataques a instalaciones energéticas y las dudas sobre un acuerdo para liberar diésel ruso impulsaron las cotizaciones. El crudo acumuló su segunda suba semanal consecutiva y aumentó la presión sobre...",
     "link": "https://www.ambito.com/economia/el-petroleo-brent-toco-los-us110-primera-vez-mayo-el-temor-una-escalada-belica-n6334482",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "Las canastas de crianza treparon entre 2,2% y 2,4% en septiembre, impulsadas por el costo de las tareas de cuidado",
-    "resumen": "El costo de criar a un hijo volvió a subir por encima de la inflación general.",
+    "resumen": "<p id=\"p-1792177650605-29939\" class=\"ignore-parser\">El costo de criar a un hijo volvió a subir por encima de la inflación general.</p>",
     "link": "https://www.ambito.com/economia/las-canastas-crianza-treparon-22-y-24-septiembre-impulsadas-el-costo-las-tareas-cuidado-n6334731",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "La inflación mayorista saltó al 3,2% en septiembre tras una nueva escalada del petróleo",
-    "resumen": "Los precios del crudo sufrieron un fuerte avance de 15% en el noveno mes del año, fundamentalmente por los efectos de la guerra en Medio Oriente.",
+    "resumen": "<p id=\"p-1792178551771-28095\" class=\"ignore-parser\">Los precios del crudo sufrieron un fuerte avance de 15% en el noveno mes del año, fundamentalmente por los efectos de la guerra en Medio Oriente.</p>",
     "link": "https://www.ambito.com/la-inflacion-mayorista-quebro-el-3-septiembre-un-nuevo-fuerte-aumento-del-petroleo-n6334727",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "El Gobierno logró un superávit primario de $1,4 billones en septiembre y acumula 1,2% del PBI en 2026",
-    "resumen": "El Palacio de Hacienda anunció que en el noveno mes del año obtuvo un saldo financiero positivo de $977.173 millones después del pago de los intereses de la deuda. Con este resultado, se complica para el Gobierno alcanzar la meta con el FMI.",
+    "resumen": "<p id=\"p-1792167033898-32131\" class=\"ignore-parser\">El Palacio de Hacienda anunció que en el noveno mes del año obtuvo un saldo financiero positivo de $977.173 millones después del pago de los intereses de la deuda. Con este resultado, se complica para el Gobierno alcanzar la ...",
     "link": "https://www.ambito.com/el-gobierno-logro-octubre-un-superavit-primario-14-billones-y-acumula-12-del-pbi-2026-n6334632",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "Las millonarias pérdidas en los fondos de pensiones de Chile desatan duras críticas de los legisladores",
-    "resumen": "Las fallidas apuestas a las tasas de interés en EEUU generaron pérdidas por u$s7.700 millones y golpearon con fuerza al conservador Fondo E. Diputados exigen explicaciones a reguladores y anuncian investigación sobre la estrategia de inversión.",
+    "resumen": "<p id=\"p-1792168970765-69799\" data-path-to-node=\"3,0\" class=\"ignore-parser\">Las fallidas apuestas a las tasas de interés en EEUU generaron pérdidas por u$s7.700 millones y golpearon con fuerza al conservador Fondo E. Diputados exigen explicaciones a reguladores y anuncian inve...",
     "link": "https://www.ambito.com/economia/las-millonarias-perdidas-los-fondos-pensiones-chile-desatan-duras-criticas-los-legisladores-n6334653",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "La inversión en IA le mete presión a la inflación de EEUU y le suma competencia a los bonos del Tesoro",
-    "resumen": "La Reserva Federal, organismos internacionales y analistas coinciden que en los gastos a gran escala que están realizando las empresas tecnológicas son uno de los factores que están impulsando la inflación a nivel global, con especial énfasis en Estados Unidos.",
+    "resumen": "<p id=\"p-1792159592977-47483\" class=\"ignore-parser\">La Reserva Federal, organismos internacionales y analistas coinciden que en los gastos a gran escala que están realizando las empresas tecnológicas son uno de los factores que están impulsando la inflación a nivel global, con...",
     "link": "https://www.ambito.com/economia/la-inversion-ia-le-mete-presion-la-inflacion-eeuu-y-le-suma-competencia-los-bonos-del-tesoro-n6334631",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "Cuándo conviene viajar a Europa, Asia y la playa: el manual de temporada baja, según cada destino",
-    "resumen": "Elegir bien el mes puede reducir vuelos, hoteles y excursiones, pero cada región tiene su propio calendario de lluvias, frío y menor demanda turística.",
+    "resumen": "<p id=\"p-1791989775794-14559\" class=\"ignore-parser\">Elegir bien el mes puede reducir vuelos, hoteles y excursiones, pero cada región tiene su propio calendario de lluvias, frío y menor demanda turística.</p>",
     "link": "https://www.ambito.com/economia/cuando-conviene-viajar-europa-asia-y-la-playa-el-manual-temporada-baja-segun-cada-destino-n6333632",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "La inflación de la zona euro se aceleró al 0,6% mensual en septiembre, como preveía el mercado",
-    "resumen": "Los datos ratificaron un IPC del 0,6% mensual y 3,8% interanual en septiembre, alineados con las expectativas. Sin embargo, el FMI advirtió a las economías del bloque que deberán encarar reformas y consolidación fiscal para sostener la deuda.",
+    "resumen": "<p id=\"p-1792162806853-11308\" data-path-to-node=\"7,0\" class=\"ignore-parser\">Los datos ratificaron un IPC del 0,6% mensual y 3,8% interanual en septiembre, alineados con las expectativas. Sin embargo, el FMI advirtió a las economías del bloque que deberán encarar reformas y con...",
     "link": "https://www.ambito.com/economia/la-inflacion-la-zona-euro-se-acelero-al-06-mensual-septiembre-como-preveia-el-mercado-n6334592",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-16",
     "titulo": "Superávit fiscal: advierten que las privatizaciones ya hicieron su aporte y que se agotó la motosierra",
-    "resumen": "Una entidad cercana ideológicamente al Gobierno nacional plantea la necesidad de avanzar en una reforma del Estado para consolidar el frente fiscal.",
+    "resumen": "<p id=\"p-1792156870791-47892\" class=\"ignore-parser\">Una entidad cercana ideológicamente al Gobierno nacional plantea la necesidad de avanzar en una reforma del Estado para consolidar el frente fiscal.</p> <p id=\"p-1792156827311-92818\" class=\"ignore-parser\"></p>",
     "link": "https://www.ambito.com/economia/superavit-fiscal-advierten-que-las-privatizaciones-ya-hicieron-su-aporte-y-que-se-agoto-la-motosierra-n6334531",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "Aseguran que el Gobierno podría cumplir la ley de Financiamiento Universitario sin romper el equilibrio fiscal",
-    "resumen": "El proyecto de Presupuesto 2027 enviado por el Poder Ejecutivo Nacional contempla recursos sin asignación especifica, los cuáles podrían ser utilizados por el gobierno nacional para cumplir la ley de Financiamiento Universitario.",
+    "resumen": "<p id=\"p-1792071798700-45784\" class=\"ignore-parser\">El proyecto de Presupuesto 2027 enviado por el Poder Ejecutivo Nacional contempla recursos sin asignación especifica, los cuáles podrían ser utilizados por el gobierno nacional para cumplir la ley de Financiamiento Universita...",
     "link": "https://www.ambito.com/economia/aseguran-que-el-gobierno-podria-cumplir-la-ley-financiamiento-universitario-romper-el-equilibrio-fiscal-n6334115",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "La inflación mayorista de EEUU se disparó a su nivel más alto desde 2022 por la guerra en Medio Oriente",
-    "resumen": "Los precios al productor de EEUU subieron en septiembre al ritmo más rápido en más de cuatro años, a medida que el aumento de los costos de la energía se propagó por toda la economía estadounidense.",
+    "resumen": "<p id=\"p-1792071308093-37667\" class=\"ignore-parser\">Los precios al productor de EEUU subieron en septiembre al ritmo más rápido en más de cuatro años, a medida que el aumento de los costos de la energía se propagó por toda la economía estadounidense.</p>",
     "link": "https://www.ambito.com/economia/la-inflacion-mayorista-eeuu-se-disparo-su-nivel-mas-alto-2022-la-guerra-medio-oriente-n6334081",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "Luis Caputo, en cumbre del FMI: \"Argentina será una de las economías con mejor desempeño en los próximos años\"",
-    "resumen": "En el marco de las Reuniones Anuales del FMI y del Banco Mundial, el ministro de economía se mostró optimista respecto al futuro próximo, e indicó que los argentinos \"nunca van a votar para volver a un pasado de casi hiperinflación y de múltiples tipos de cambio\".",
+    "resumen": "<p id=\"p-1792067847695-44891\" class=\"ignore-parser\">En el marco de las Reuniones Anuales del FMI y del Banco Mundial, el ministro de economía se mostró optimista respecto al futuro próximo, e indicó que los argentinos \"nunca van a votar para volver a un pasado de casi hiperinf...",
     "link": "https://www.ambito.com/economia/luis-caputo-cumbre-del-fmi-argentina-sera-una-las-s-mejor-desempeno-los-proximos-anos-n6334061",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "El Gobierno lanza la primera ronda de negocios del RIGI para juntar a grandes empresas con proveedores locales",
-    "resumen": "El evento tendrá lugar en Rosario y contará con la participación de más de 1.800 proveedores de todo el país y 41 grandes empresas, según estimaciones oficiales.",
+    "resumen": "<p id=\"p-1792066186094-51229\" class=\"ignore-parser\">El evento tendrá lugar en Rosario y contará con la participación de más de 1.800 proveedores de todo el país y 41 grandes empresas, según estimaciones oficiales.</p>",
     "link": "https://www.ambito.com/economia/el-gobierno-lanza-la-primera-ronda-negocios-del-rigi-juntar-grandes-empresas-proveedores-locales-n6334036",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "ARCA perdió un juicio y no podrá cobrarle impuestos a una empresa por tardar 15 años en resolver un reclamo",
-    "resumen": "El fisco había determinado de oficio que una compañía había hecho mal su liquidación de Ganancias. El expediente se inició tarde y, luego, estuvo demorado ocho años en el Tribunal Fiscal.",
+    "resumen": "<p id=\"p-1792061381355-23415\" class=\"ignore-parser\">El fisco había determinado de oficio que una compañía había hecho mal su liquidación de Ganancias. El expediente se inició tarde y, luego, estuvo demorado ocho años en el Tribunal Fiscal.</p> <p id=\"p-1792061340128-7893\" clas...",
     "link": "https://www.ambito.com/economia/arca-perdio-un-juicio-y-no-podra-cobrarle-impuestos-una-empresa-tardar-15-anos-resolver-un-reclamo-n6333984",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "El FMI alertó por la desaceleración del crecimiento en Asia por IA, crisis energética y la suba de tasas",
-    "resumen": "El organismo estimó que el crecimiento regional se moderará respecto a las previsiones. Advirtió sobre los riesgos del conflicto en Medio Oriente, el endurecimiento de la Reserva Federal y la volatilidad en las acciones tecnológicas.",
+    "resumen": "<p id=\"p-1792063807691-63787\" class=\"ignore-parser\">El organismo estimó que el crecimiento regional se moderará respecto a las previsiones. Advirtió sobre los riesgos del conflicto en Medio Oriente, el endurecimiento de la Reserva Federal y la volatilidad en las acciones tecno...",
     "link": "https://www.ambito.com/economia/el-fmi-alerto-la-desaceleracion-del-crecimiento-asia-ia-crisis-energetica-y-la-suba-tasas-n6334023",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "Acuerdo comercial con EEUU: el Gobierno renegoció los términos y busca destrabar su aprobación",
-    "resumen": "Ambos países introdujeron cambios en el pacto firmado en febrero, luego de que la Corte Suprema estadounidense anulara los aranceles globales de Donald Trump.",
+    "resumen": "<p id=\"p-1792063843117-88138\" data-pm-slice=\"1 1 []\" class=\"ignore-parser\">Ambos países introdujeron cambios en el pacto firmado en febrero, luego de que la Corte Suprema estadounidense anulara los aranceles globales de Donald Trump.</p> <p id=\"p-1792063791429-53240\" class=\"ig...",
     "link": "https://www.ambito.com/economia/acuerdo-comercial-eeuu-el-gobierno-renegocio-los-terminos-y-busca-destrabar-su-aprobacion-n6333993",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "Qué mira el FMI del superávit fiscal que le presentó Luis Caputo y por qué las metas quedaron bajo revisión",
-    "resumen": "Kristalina Georgieva destacó las cuentas públicas de Argentina en un contexto de déficits elevados en buena parte del mundo. El organismo daría por cumplidos los objetivos del primer semestre, pese a que el resultado quedó por debajo de lo acordado.",
+    "resumen": "<p id=\"p-1791995937887-91963\" class=\"ignore-parser\">Kristalina Georgieva destacó las cuentas públicas de Argentina en un contexto de déficits elevados en buena parte del mundo. El organismo daría por cumplidos los objetivos del primer semestre, pese a que el resultado quedó po...",
     "link": "https://www.ambito.com/economia/que-mira-el-fmi-del-superavit-fiscal-que-le-presento-luis-caputo-y-que-las-metas-quedaron-revision-n6333705",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "Plazo fijo tradicional vs. plazo fijo UVA: como saber cuál me conviene más",
-    "resumen": "Si bien estas dos modalidades parten de la misma base, tienen condiciones diferentes que hay que comparar antes de invertir.",
+    "resumen": "<p id=\"p-1792087116320-83409\" class=\"ignore-parser\">Si bien estas dos modalidades parten de la misma base, tienen condiciones diferentes que hay que comparar antes de invertir.</p>",
     "link": "https://www.ambito.com/economia/plazo-fijo-tradicional-vs-plazo-fijo-uva-como-saber-cual-me-conviene-mas-n6334249",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "Industria: cuatro de cada diez máquinas continuaron paradas en agosto",
-    "resumen": "Los productos de metalmecánica excepto automotores tuvieron un parate más importante, en torno al 64,1%, debido a los menores niveles de producción de maquinaria agropecuaria y de aparatos de uso doméstico.",
+    "resumen": "<p id=\"p-1792091446967-19654\" class=\"ignore-parser\">Los productos de metalmecánica excepto automotores tuvieron un parate más importante, en torno al 64,1%, debido a los menores niveles de producción de maquinaria agropecuaria y de aparatos de uso doméstico.</p>",
     "link": "https://www.ambito.com/economia/industria-casi-cuatro-cada-diez-maquinas-estan-paradas-n6334279",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "El FMI reclama aportes de sus miembros para países de bajos ingresos y vulnerables",
-    "resumen": "La titular del organismo, Kristalina Georgieva, instó a las potencias a reponer los fondos fiduciarios para la reducción de la pobreza y la atención de catástrofes, alertando que el servicio de la deuda absorbe ya el 14% de los ingresos en las economías emergentes.",
+    "resumen": "<p id=\"p-1792087183641-24718\" data-path-to-node=\"2,0,1,0\" class=\"ignore-parser\">La titular del organismo, Kristalina Georgieva, instó a las potencias a reponer los fondos fiduciarios para la reducción de la pobreza y la atención de catástrofes, alertando que el servicio de la ...",
     "link": "https://www.ambito.com/economia/el-fmi-reclama-aportesde-sus-miembros-paises-bajos-ingresos-y-vulnerables-n6334246",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "Las empresas prevén aumentos salariales del 22% en 2027 y la inteligencia artificial ya empieza a cambiar las contrataciones",
-    "resumen": "El relevamiento de WTW mostró que el 56% de las compañías ya trabaja en el presupuesto salarial para el próximo año, con una proyección que se ubica en línea con la inflación esperada. Además, dos de cada tres empresas utilizan IA y el 38% anticipa que la tecnología impulsará ...",
+    "resumen": "<p id=\"p-1792087679091-52803\" class=\"ignore-parser\">El relevamiento de WTW mostró que el 56% de las compañías ya trabaja en el presupuesto salarial para el próximo año, con una proyección que se ubica en línea con la inflación esperada. Además, dos de cada tres empresas utiliz...",
     "link": "https://www.ambito.com/economia/las-empresas-preven-aumentos-salariales-del-22-2027-y-la-inteligencia-artificial-ya-empieza-cambiar-las-contrataciones-n6334248",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "Cómo evitar los 5 errores más frecuentes al contratar asistencia al viajero",
-    "resumen": "Antes de salir del país, conviene leer la letra chica, comparar prestaciones y conocer los límites del servicio para evitar gastos inesperados durante el viaje.",
+    "resumen": "<p id=\"p-1791983512020-47958\" class=\"ignore-parser\">Antes de salir del país, conviene leer la letra chica, comparar prestaciones y conocer los límites del servicio para evitar gastos inesperados durante el viaje.</p>",
     "link": "https://www.ambito.com/economia/como-evitar-los-5-errores-mas-frecuentes-al-contratar-asistencia-al-viajero-n6333553",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "El FMI pronostica que la India superará a Japón como la cuarta mayor economía del mundo en 2027",
-    "resumen": "Impulsado por un crecimiento estimado del 7% y un PBI que alcanzará los u$s4,52 billones, el gigante asiático sobrepasará a la economía japonesa, que caerá al sexto lugar arrastrada por el estancamiento y el envejecimiento demográfico.",
+    "resumen": "<p id=\"p-1792082995108-26011\" data-path-to-node=\"2,0,1,0\" class=\"ignore-parser\">Impulsado por un crecimiento estimado del 7% y un PBI que alcanzará los u$s4,52 billones, el gigante asiático sobrepasará a la economía japonesa, que caerá al sexto lugar arrastrada por el estancam...",
     "link": "https://www.ambito.com/economia/el-fmi-pronostica-que-la-india-superara-japon-como-la-cuarta-mayor-del-mundo-2027-n6334200",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "Los medicamentos volvieron a subir más que la inflación: aumentaron 2,4% en septiembre",
-    "resumen": "Mientras el IPC marcó un 1,9%, el rubro farmacéutico escaló un 2,4% en los mostradores. Desde el SAFyB cuestionaron la metodología del INDEC y advirtieron sobre el impacto de la desregulación en los precios. Los detalles, en la nota.",
+    "resumen": "<p id=\"p-1792079366076-40292\" data-path-to-node=\"2,0,1,0\" class=\"ignore-parser\">Mientras el IPC marcó un 1,9%, el rubro farmacéutico escaló un 2,4% en los mostradores. Desde el SAFyB cuestionaron la metodología del INDEC y advirtieron sobre el impacto de la desregulación en lo...",
     "link": "https://www.ambito.com/economia/los-medicamentos-volvieron-subir-mas-que-la-inflacion-aumentaron-24-septiembre-n6334154",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "La city proyecta una inflación promedio del 2% para los próximos meses y evalúa el impacto de El Niño",
-    "resumen": "Aunque el IPC núcleo volvió a desacelerarse en septiembre, las consultoras advierten que el proceso de desinflación pierde velocidad. Qué factores presionarán hacia el final de este año y principios de 2027.",
+    "resumen": "<p id=\"p-1791988475414-15415\" class=\"ignore-parser\">Aunque el IPC núcleo volvió a desacelerarse en septiembre, las consultoras advierten que el proceso de desinflación pierde velocidad. Qué factores presionarán hacia el final de este año y principios de 2027.</p>",
     "link": "https://www.ambito.com/economia/la-city-proyecta-una-inflacion-promedio-del-2-los-proximos-meses-y-evalua-el-impacto-el-nino-n6333619",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-15",
     "titulo": "Créditos hipotecario: los barrios porteños con mayor demanda de préstamos",
-    "resumen": "Con los préstamos otra vez disponibles, muchos compradores empiezan a mirar qué zonas de la Ciudad ofrecen precios más accesibles para llegar a su primera vivienda.",
+    "resumen": "<p id=\"p-1792014048227-50967\" class=\"ignore-parser\">Con los préstamos otra vez disponibles, muchos compradores empiezan a mirar qué zonas de la Ciudad ofrecen precios más accesibles para llegar a su primera vivienda.</p>",
     "link": "https://www.ambito.com/economia/creditos-hipotecario-los-barrios-portenos-mayor-demanda-prestamos-n6333943",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-14",
     "titulo": "Baja el consumo en los almacenes de barrio: crecen las compras pequeñas y las segundas marcas ganan terreno",
-    "resumen": "El vicepresidente de la Federación de Almaceneros, Fernando Savore, advirtió que los gastos fijos absorben una parte importante de los ingresos familiares y condicionan la compra de alimentos. Aunque la desaceleración de la inflación permitió una mayor estabilidad de precios, ...",
+    "resumen": "<p id=\"p-1791987880355-2795\" class=\"ignore-parser\">El vicepresidente de la Federación de Almaceneros, Fernando Savore, advirtió que los gastos fijos absorben una parte importante de los ingresos familiares y condicionan la compra de alimentos. Aunque la desaceleración de la in...",
     "link": "https://www.ambito.com/economia/baja-el-consumo-los-almacenes-barrio-crecen-las-compras-pequenas-y-las-segundas-marcas-ganan-terreno-n6333606",
     "fuente": "ambito"
   },
@@ -471,77 +576,77 @@
   {
     "fecha": "2026-10-14",
     "titulo": "El salto exportador de YPF: una política de Estado blindada ante los cambios de gobierno",
-    "resumen": "El presidente y CEO de YPF, Horacio Marín, participó del almuerzo del Consejo Interamericano de Comercio y Producción. Allí repasó los números de la compañía y volvió a ratificar el plan 4x4 que busca cuadruplicar el valor de la petrolera para 2030. Empresarios y ejecutivos se...",
+    "resumen": "<p id=\"p-1792018722023-52033\" class=\"ignore-parser\">El presidente y CEO de YPF, Horacio Marín, participó del almuerzo del Consejo Interamericano de Comercio y Producción. Allí repasó los números de la compañía y volvió a ratificar el plan 4x4 que busca cuadruplicar el valor de...",
     "link": "https://www.ambito.com/economia/el-salto-exportador-ypf-una-politica-estado-blindada-los-cambios-gobierno-n6333898",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-14",
     "titulo": "Nuevo crédito hipotecario del Banco Ciudad: montos de hasta $150 millones a 25 años con tasa subsidiada",
-    "resumen": "La propuesta está pensada para quienes buscan su primera vivienda en la Ciudad y también permite sumar ingresos cuando el sueldo propio no alcanza.",
+    "resumen": "<p id=\"p-1792002318233-45586\" data-pm-slice=\"1 1 []\" class=\"ignore-parser\">La propuesta está pensada para quienes buscan su primera vivienda en la Ciudad y también permite sumar ingresos cuando el sueldo propio no alcanza.</p> <p id=\"p-1792000788406-36162\" class=\"ignore-parser...",
     "link": "https://www.ambito.com/economia/nuevo-credito-hipotecario-del-banco-ciudad-montos-150-millones-25-anos-tasa-subsidiada-n6333763",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-14",
     "titulo": "Otra señal de alerta para la economía china: cae el crédito al consumo",
-    "resumen": "Los préstamos a corto plazo a los consumidores cayeron un 8,3% interanual en septiembre, la mayor baja registrada. La crisis inmobiliaria, la mayor cautela de los bancos y las nuevas restricciones a las agencias de cobranza profundizan las dificultades para reactivar el consum...",
+    "resumen": "<p id=\"p-1792017398698-82358\" class=\"ignore-parser\">Los préstamos a corto plazo a los consumidores cayeron un 8,3% interanual en septiembre, la mayor baja registrada. La crisis inmobiliaria, la mayor cautela de los bancos y las nuevas restricciones a las agencias de cobranza p...",
     "link": "https://www.ambito.com/economia/otra-senal-alerta-la-china-cae-el-credito-al-consumo-n6333896",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-14",
     "titulo": "La inflación en EEUU hace difícil que Trump convenza a los votantes sobre la solidez económica",
-    "resumen": "La inflación interanual trepó al 3,7% en septiembre, impulsada por el encarecimiento de la energía en medio de la guerra con Irán. Con los salarios reales estancados desde el regreso de Donald Trump a la Casa Blanca, el deterioro del poder adquisitivo amenaza con complicar al ...",
+    "resumen": "<p id=\"p-1792016316243-7274\" class=\"ignore-parser\">La inflación interanual trepó al 3,7% en septiembre, impulsada por el encarecimiento de la energía en medio de la guerra con Irán. Con los salarios reales estancados desde el regreso de Donald Trump a la Casa Blanca, el deteri...",
     "link": "https://www.ambito.com/economia/la-inflacion-eeuu-hace-dificil-que-trump-convenza-los-votantes-la-solidez-economica-n6333884",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-14",
     "titulo": "Plazo fijo vs. inflación: qué bancos rinden más y cuáles pierden, tras el dato del INDEC",
-    "resumen": "La inflación de septiembre fue del 1,9% y dejó en evidencia las diferencias entre las tasas de los bancos. Algunas entidades ofrecen rendimientos que superan el avance de los precios.",
+    "resumen": "<p id=\"p-1791995153980-99761\" class=\"ignore-parser\">La inflación de septiembre fue del 1,9% y dejó en evidencia las diferencias entre las tasas de los bancos. Algunas entidades ofrecen rendimientos que superan el avance de los precios.</p> <p id=\"p-1791995113212-28520\" class=\"...",
     "link": "https://www.ambito.com/economia/plazo-fijo-vs-inflacion-que-bancos-rinden-mas-y-cuales-pierden-el-dato-del-indec-n6333693",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-14",
     "titulo": "Organizaciones cuestionan el acuerdo con el FMI por su impacto social y ambiental",
-    "resumen": "Un informe presentado por cinco entidades analiza las consecuencias del plan económico en la producción y la estabilidad del país. Además, advierte sobre posibles incumplimientos de compromisos internacionales en materia de derechos humanos y acción climática.",
+    "resumen": "<p id=\"p-1792003043286-78426\" class=\"ignore-parser\">Un informe presentado por cinco entidades analiza las consecuencias del plan económico en la producción y la estabilidad del país. Además, advierte sobre posibles incumplimientos de compromisos internacionales en materia de d...",
     "link": "https://www.ambito.com/economia/organizaciones-cuestionan-el-acuerdo-el-fmi-su-impacto-social-y-ambiental-n6333767",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-14",
     "titulo": "Endeudamiento en empresas: en septiembre casi 2.000 firmas cayeron en mora y ya son 59.982 con dificultades de pago",
-    "resumen": "La mora en empresas subió 53% interanual en el noveno mes del año. Entre las personas físicas, 6,3 millones están en situación irregular de crédito, pero se observó una recuperación en la mora temprana.",
+    "resumen": "<p id=\"p-1792003910684-12661\" class=\"ignore-parser\">La mora en empresas subió 53% interanual en el noveno mes del año. Entre las personas físicas, 6,3 millones están en situación irregular de crédito, pero se observó una recuperación en la mora temprana.</p>",
     "link": "https://www.ambito.com/economia/endeudamiento-empresas-casi-2000-firmas-cayeron-mora-y-ya-son-casi-59982-dificultades-pago-n6333781",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-14",
     "titulo": "Qué cobrará ARCA por tus compras en el exterior: todo lo que tenés que saber antes de volver a la Argentina",
-    "resumen": "Antes de volver al país, hay que revisar qué productos están exentos, cuáles tienen franquicia y cómo se calcula el arancel si se supera el límite.",
+    "resumen": "<p id=\"p-1791967701230-96375\" style=\"text-align: left;\" class=\"ignore-parser\">Antes de volver al país, hay que revisar qué productos están exentos, cuáles tienen franquicia y cómo se calcula el arancel si se supera el límite.</p>",
     "link": "https://www.ambito.com/economia/que-cobrara-arca-tus-compras-el-exterior-todo-lo-que-tenes-que-saber-antes-volver-la-argentina-n6333460",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-14",
     "titulo": "Las exportaciones chinas en septiembre superan las expectativas, impulsadas por la demanda externa",
-    "resumen": "El impulso del sector externo (+36,3%) compensó el flojo consumo interno, alivió la presión sobre las metas del PBI y perfila un superávit récord hacia el billón de dólares, a pesar de las crecientes tensiones con Occidente.",
+    "resumen": "<p id=\"p-1791999243727-66880\" data-path-to-node=\"2,0\" class=\"ignore-parser\">El impulso del sector externo (+36,3%) compensó el flojo consumo interno, alivió la presión sobre las metas del PBI y perfila un superávit récord hacia el billón de dólares, a pesar de las crecientes t...",
     "link": "https://www.ambito.com/economia/las-exportaciones-chinas-septiembre-superan-las-expectativas-impulsadas-la-demanda-externa-n6333722",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-14",
     "titulo": "Luis Caputo aseguró a inversores que podría usar el swap con China si se complica el programa financiero",
-    "resumen": "A pesar de la renovación del swap con China, la falta de dólares y las dudas sobre el programa financiero 2027 mantienen la atención del mercado sobre la capacidad de Argentina para afrontar sus compromisos de deuda.",
+    "resumen": "<p id=\"p-1791992894934-41748\" class=\"ignore-parser\">A pesar de la renovación del swap con China, la falta de dólares y las dudas sobre el programa financiero 2027 mantienen la atención del mercado sobre la capacidad de Argentina para afrontar sus compromisos de deuda.</p>",
     "link": "https://www.ambito.com/economia/luis-caputo-aseguro-inversores-que-podria-usar-el-swap-china-si-se-complica-el-programa-financiero-n6333691",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-10-14",
     "titulo": "El gobierno francés admite que la suba de la tasa de sus bonos es una \"señal de alarma\"",
-    "resumen": "El gobierno planea un recorte de u$s60.500 millones y prevé cerrar 2026 con déficit del 5,4% del PBI. El proyecto de presupuesto 2027 enfrenta incertidumbre en la Asamblea por la falta de mayoría y tensiones sociales.",
+    "resumen": "<p id=\"p-1791992082502-53766\" class=\"ignore-parser\">El gobierno planea un recorte de u$s60.500 millones y prevé cerrar 2026 con déficit del 5,4% del PBI. El proyecto de presupuesto 2027 enfrenta incertidumbre en la Asamblea por la falta de mayoría y tensiones sociales.</p>",
     "link": "https://www.ambito.com/economia/el-gobierno-frances-admite-que-la-suba-la-tasa-sus-bonos-es-una-senal-alarma-n6333698",
     "fuente": "ambito"
   },
