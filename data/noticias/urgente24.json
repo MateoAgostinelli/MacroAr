@@ -1,5 +1,26 @@
 [
   {
+    "fecha": "2026-10-21",
+    "titulo": "\"Una pelotudez\" que cuesta caro: La crisis en Rosario desnuda el relato oficial",
+    "resumen": "Mientras Javier Milei niega que la gente no llegue a fin de mes, la persistente crisis socioeconómica sigue golpeando el bolsillo.",
+    "link": "https://urgente24.com/dinero/una-pelotudez-que-cuesta-caro-la-crisis-rosario-desnuda-el-relato-oficial-n635090",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-21",
+    "titulo": "Javier Milei lo respeta, pero él desprecia su política monetaria y habla de \"estafadores\"",
+    "resumen": "El economista Ricardo Arriazu es uno de los pocos que escucha y respeta Javier Milei, pero está siendo muy crítico con el gobierno libertario.",
+    "link": "https://urgente24.com/dinero/javier-milei-lo-respeta-pero-el-desprecia-su-politica-monetaria-y-habla-estafadores-n635095",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-21",
+    "titulo": "ANSES oficializa un aumento del 1,66% y un bono de hasta $70.000 para jubilados",
+    "resumen": "La ANSES realiza una nueva tanda de pagos de jubilaciones mínimas y asignaciones familiares. Tramo final del calendario.",
+    "link": "https://urgente24.com/dinero/anses-oficializa-un-aumento-del-166-y-un-bono-70000-jubilados-n635092",
+    "fuente": "urgente24"
+  },
+  {
     "fecha": "2026-10-20",
     "titulo": "Juicio por YPF: La jueza que condenó a la Argentina a pagar US$ 16.100 millones cerró el caso",
     "resumen": "La jueza Loretta Preska acató la decisión de la Cámara de Apelaciones, cerró formalmente el juicio por YPF, y dejó sin efecto la sentencia de los US$ 16.100 millones, que ahora esperan que restablezca la Corte Suprema de EE.UU.",
@@ -8,7 +29,7 @@
   },
   {
     "fecha": "2026-10-20",
-    "titulo": "El riesgo país superó los 700 puntos, el dólar blue está en máximo histórico y suben dudas electorales",
+    "titulo": "El riesgo país superó los 700 puntos, dólar blue en máximo histórico y suben dudas electorales",
     "resumen": "El riesgo país superó los 700 puntos básicos impulsado por la fuerte caída de los bonos soberanos en dólares y la creciente incertidumbre electoral.",
     "link": "https://urgente24.com/dinero/el-riesgo-pais-supero-los-700-puntos-el-dolar-blue-esta-maximo-historico-y-suben-dudas-electorales-n635021",
     "fuente": "urgente24"
@@ -32,6 +53,48 @@
     "titulo": "Nación Servicios bajo la lupa: Bancarios se plantan con respaldo de la CGT",
     "resumen": "El conflicto por los 22 despidos en Nación Servicios sumó un nuevo capítulo. La Asociación Bancaria Rosario logró la apertura de una instancia de negociación.",
     "link": "https://urgente24.com/dinero/nacion-servicios-la-lupa-bancarios-se-plantan-respaldo-la-cgt-n634997",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "ARCA cambia las reglas y ahora los monotributistas sociales deberán dejar el papel",
+    "resumen": "El cambio de ARCA no supone que los monotributistas sociales deban pagar un impuesto nuevo por emitir facturas electrónicas.",
+    "link": "https://urgente24.com/dinero/arca-cambia-las-reglas-y-ahora-los-monotributistas-sociales-deberan-dejar-el-papel-n635087",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "ARBA extendió el plazo para pagar la patente: Cómo evitar perder descuentos",
+    "resumen": "Los contribuyentes pueden consultar sus boletas, verificar deudas y efectuar los pagos desde el sitio oficial de ARBA.",
+    "link": "https://urgente24.com/dinero/arba-extendio-el-plazo-pagar-la-patente-como-evitar-perder-descuentos-n635081",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "Créditos hipotecarios: Caputo enfrenta una prueba clave con los fondos de ANSES",
+    "resumen": "El crédito hipotecario estimado era de $120.920.000, con un plazo de 25 años y una tasa supuesta de UVA más 7%.",
+    "link": "https://urgente24.com/dinero/creditos-hipotecarios-caputo-enfrenta-una-prueba-clave-los-fondos-anses-n635076",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "Gobierno anuncia compensaciones para colectivos del AMBA frente a amenazas de reducción de frecuencias",
+    "resumen": "La Secretaría de Transporte actualiza las compensaciones a colectivos del AMBA y negocia un esquema de pago en tres cuotas para las deudas de recaudación.",
+    "link": "https://urgente24.com/dinero/gobierno-anuncia-compensaciones-colectivos-del-amba-frente-amenazas-reduccion-frecuencias-n635049",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "Fin de una era: La crisis golpea a Electrolux y deja gran cantidad de operarios en la calle",
+    "resumen": "La multinacional sueca Electrolux anunció el cierre de su planta ubicada en Rosario y el abandono de la producción local de electrodomésticos.",
+    "link": "https://urgente24.com/dinero/fin-una-era-la-crisis-golpea-electrolux-y-deja-gran-cantidad-operarios-la-calle-n635032",
+    "fuente": "urgente24"
+  },
+  {
+    "fecha": "2026-10-20",
+    "titulo": "Famosa panadería busca comprador: 150 empleados en la calle",
+    "resumen": "Tras rechazar el pedido de quiebra, la Justicia busca interesados en una famosa cadena de panaderías.",
+    "link": "https://urgente24.com/dinero/famosa-panaderia-busca-comprador-150-empleados-la-calle-n635031",
     "fuente": "urgente24"
   },
   {
