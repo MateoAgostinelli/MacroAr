@@ -1,5 +1,152 @@
 [
   {
+    "fecha": "2026-10-23",
+    "titulo": "Industriales denuncian que un municipio bonaerense crea una “aduana interior” y pone en riesgo a las fábricas",
+    "resumen": "Dos entidades empresarias rechazaron la creación de un registro obligatorio para el transporte de cargas en Ramallo, que se suma a un polémico peaje de hasta $62.000 por apenas cinco kilómetros",
+    "link": "https://www.infobae.com/economia/2026/10/23/industriales-denuncian-que-un-municipio-bonaerense-cobra-un-peaje-ilegal-y-amenaza-con-clausurar-fabricas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "Bajan los bonos argentinos y el riesgo país sube a un nuevo máximo en el último año",
+    "resumen": "",
+    "link": "https://www.infobae.com/economia/2026/10/23/bajan-los-bonos-argentinos-y-el-riesgo-pais-sube-a-un-nuevo-maximo-en-el-ultimo-ano/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "Escándalo con Manaos: la Justicia confirmó el procesamiento del dueño de la marca de gaseosas por evasión fiscal",
+    "resumen": "La Cámara Federal de Apelaciones de San Martín ratificó el procesamiento y los embargos en la causa por presuntas irregularidades tributarias vinculadas al Impuesto a las Ganancias de 2020",
+    "link": "https://www.infobae.com/economia/2026/10/23/escandalo-con-manaos-la-justicia-confirmo-el-procesamiento-del-dueno-de-la-marca-de-gaseosas-por-evasion-fiscal/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "Alerta en las pymes industriales: la producción cayó casi 12%, se redujo el empleo y no hay señales de recuperación",
+    "resumen": "Un relevamiento del Observatorio PyME reveló un fuerte deterioro manufacturero durante el tercer trimestre. La confianza empresaria alcanzó su nivel más bajo desde 2023, mientras las expectativas para los próximos meses también empeoraron",
+    "link": "https://www.infobae.com/economia/2026/10/23/alerta-en-las-pymes-industriales-la-produccion-cayo-casi-12-se-redujo-el-empleo-y-no-hay-senales-de-recuperacion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "La asignación por hijo de los empleados en blanco vale casi la mitad que en 2016, según la UCA",
+    "resumen": "En una década, la asignación familiar por hijo perdió el 45% de su poder adquisitivo, mientras la AUH más la Prestación Alimentar aumentó su cobertura de las canastas básicas",
+    "link": "https://www.infobae.com/economia/2026/10/23/la-asignacion-por-hijo-de-los-empleados-formales-vale-casi-la-mitad-que-en-2016-segun-la-uca/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "El Gobierno reglamentó Inocencia Fiscal II: los cambios clave y los pasos administrativos que faltan",
+    "resumen": "El Decreto 1253/2026 elimina los topes de ingresos y patrimonio para adherir al régimen simplificado de Ganancias, redefine las discrepancias significativas y habilita rectificaciones para el período 2025, aunque aún quedan normas operativas pendientes",
+    "link": "https://www.infobae.com/economia/2026/10/23/el-gobierno-reglamento-inocencia-fiscal-ii-los-cambios-clave-y-los-pasos-administrativos-que-faltan/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "El BCRA dispuso cambios en las cuentas remuneradas de bancos y billeteras virtuales: qué deben informar a sus clientes",
+    "resumen": "Para facilitar las comparaciones, el Banco Central determinó la forma en que muestran la tasa de interés. El impacto de los fondos de inversión “money market”",
+    "link": "https://www.infobae.com/economia/2026/10/23/el-bcra-dispuso-cambios-en-las-cuentas-remuneradas-de-bancos-y-billeteras-virtuales-que-deben-informar-a-sus-clientes/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "De los recursos naturales al conocimiento: la oportunidad de una nueva Argentina productiva",
+    "resumen": "La tecnología y la inteligencia artificial están redefiniendo la competitividad de las economías. Para la Argentina, el desafío es integrar el software con el entramado productivo, agregar valor a sus recursos y desarrollar el talento necesario para transformar ese potencial e...",
+    "link": "https://www.infobae.com/opinion/2026/10/23/de-los-recursos-naturales-al-conocimiento-la-oportunidad-de-una-nueva-argentina-productiva/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "El Banco Ciudad lanzó nuevos créditos hipotecarios: quiénes pueden acceder y a qué tasa",
+    "resumen": "Se trata de créditos en UVA destinados específicamente a quienes ya son propietarios, pero buscan pasar a tener un inmueble más grande. Las condiciones de acceso",
+    "link": "https://www.infobae.com/economia/2026/10/23/el-banco-ciudad-lanzo-nuevos-creditos-hipotecarios-quienes-pueden-acceder-y-a-que-tasa/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "Radiografía del Financial Times: el plan económico de Milei está bajo presión",
+    "resumen": "El escenario plantea un desafío político para el Gobierno, que el año que viene buscará la reelección",
+    "link": "https://www.infobae.com/economia/2026/10/23/radiografia-del-financial-times-el-plan-economico-de-milei-esta-bajo-presion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "Con nombre que remite a superhéroes y ChatGPT a bordo, se lanzó el nuevo modelo de una dinastía de SUV clásicos",
+    "resumen": "La nueva propuesta de Stellantis es el Jeep Avenger, el modelo más pequeño de la marca en la región. Es el primer auto que la automotriz ofrece en la Argentina con tren motriz híbrido y el primero de la marca que no tiene 4x4",
+    "link": "https://www.infobae.com/economia/2026/10/23/con-nombre-que-remite-a-superheroes-y-chatgpt-a-bordo-se-lanzo-el-nuevo-modelo-de-una-dinastia-de-suv-clasicos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "La compraventa de inmuebles en CABA se recuperó en septiembre pero cayó la cantidad de hipotecas",
+    "resumen": "Se concretaron 6.612 escrituras, lo que supera en más de 500 operaciones al dato de agosto. La actividad se mantuvo por debajo del año pasado. Expectativa por el impacto de la inyección de fondos de la Anses",
+    "link": "https://www.infobae.com/economia/2026/10/23/la-compraventa-de-inmuebles-en-caba-se-recupero-en-septiembre-pero-cayo-la-cantidad-de-hipotecas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "Hizo una parodia sobre uno de los impuestos más cuestionados y se volvió viral",
+    "resumen": "Un empresario publicó un video en sus redes mostrando con humor cómo Ingresos Brutos se cobra en cada venta hasta llegar al consumidor final",
+    "link": "https://www.infobae.com/economia/2026/10/23/hizo-una-parodia-sobre-uno-de-los-impuestos-mas-cuestionados-y-se-volvio-viral/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "Juicio por YPF: la Argentina pidió una extensión del plazo para responder a los demandantes y tendrá tiempo hasta diciembre",
+    "resumen": "La fecha límite estaba fijada originalmente para los primeros días de noviembre, pero la Corte Suprema de Estados Unidos otorgó una prórroga hasta el 2 de diciembre",
+    "link": "https://www.infobae.com/economia/2026/10/23/juicio-por-ypf-la-argentina-pidio-una-extension-del-plazo-para-responder-a-los-demandantes-y-tendra-tiempo-hasta-diciembre/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "ANSES: quiénes cobran hoy, viernes 23 de octubre de 2026",
+    "resumen": "Los haberes de octubre incluyen una actualización del 1,66 % y un bono extraordinario de hasta $70.000 para jubilados y pensionados que cumplan con los requisitos",
+    "link": "https://www.infobae.com/economia/2026/10/23/anses-quienes-cobran-hoy-viernes-23-de-octubre-de-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "Se redobla el viento de frente y le agrega presión al programa financiero de Caputo para 2027",
+    "resumen": "Ayer fue el peor día para Wall Street desde junio y el petróleo subió a USD 113. Una consultora privada advirtió que el Gobierno deberá conseguir todavía USD 17.000 millones para el año que viene",
+    "link": "https://www.infobae.com/economia/2026/10/23/se-redobla-el-viento-de-frente-y-le-agrega-presion-al-programa-financiero-de-caputo-para-2027/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "Por qué Brasil pierde peso en la importación argentina de autopartes y cuál es el mercado que no para de crecer",
+    "resumen": "En sintonía con la lógica del mercado, Tailandia sube su nivel de exportaciones de partes a Argentina al mismo ritmo que crece la producción local de pickups. Es el segundo país y se mantiene por encima de China.",
+    "link": "https://www.infobae.com/economia/2026/10/23/por-que-brasil-pierde-peso-en-la-importacion-argentina-de-autopartes-y-cual-es-el-mercado-que-no-para-de-crecer/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "Boom de compras al exterior: las importaciones vía courier crecieron 59,5% en lo que va del año y ya superaron el total de 2025",
+    "resumen": "Entre enero y septiembre se hicieron compras por USD 960 millones. Qué productos se compran y qué empresas ganan terreno",
+    "link": "https://www.infobae.com/economia/2026/10/23/boom-de-compras-al-exterior-las-importaciones-via-courier-crecieron-595-en-lo-que-va-del-ano-y-ya-superaron-el-total-de-2025/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "Radiografía de Galperin, el argentino más rico: radicalización tuitera, apoyo a Milei y su rol como tecno magnate latino",
+    "resumen": "Se publicó la primera biografía no autorizada del fundador de Mercado Libre. Extractos sobre su relación con el poder y sus siempre polémicos posteos en redes sociales",
+    "link": "https://www.infobae.com/economia/2026/10/23/radiografia-de-galperin-el-argentino-mas-rico-radicalizacion-tuitera-apoyo-a-milei-y-su-rol-como-tecno-magnate-latino/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "PAMI ofrece insumos gratuitos para personas con diabetes: quiénes pueden acceder y cómo es el trámite",
+    "resumen": "La cobertura total incluye elementos para controlar la glucosa y aplicar insulina. El alta exige estudios de laboratorio, receta electrónica y la gestión del médico de cabecera",
+    "link": "https://www.infobae.com/economia/2026/10/23/pami-ofrece-insumos-gratuitos-para-personas-con-diabetes-quienes-pueden-acceder-y-como-es-el-tramite/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-23",
+    "titulo": "Renunció Daniel González, el funcionario clave que coordinaba las áreas de Energía y Minería",
+    "resumen": "El ex ejecutivo de YPF había llegado al Ministerio de Economía en agosto de 2024 de la mano de Luis Caputo para encargarse de la coordinación de los dos sectores de mayor crecimiento en los últimos años",
+    "link": "https://www.infobae.com/economia/2026/10/22/renuncio-daniel-gonzalez-el-funcionario-clave-que-coordinaba-las-areas-de-energia-y-mineria/",
+    "fuente": "infobae"
+  },
+  {
     "fecha": "2026-10-22",
     "titulo": "Arriazu volvió a criticar la forma en que acumula reservas el BCRA: “No debería comprar tanto a costa del crédito interno”",
     "resumen": "El especialista advirtió que la acumulación de reservas, sin un aumento de la demanda de pesos, afecta el financiamiento y la actividad económica. También identificó siete oportunidades de crecimiento para la Argentina y presentó sus proyecciones para los próximos años",
@@ -36,8 +183,8 @@
   },
   {
     "fecha": "2026-10-22",
-    "titulo": "El riesgo país argentino vuelve a superar los 700 puntos ante un complejo escenario externo",
-    "resumen": "Los índices de Wall Street caen más de 1% después de balances de empresas tecnológicas, mientras el petróleo sube 3% y acrecienta los temores por la inflación",
+    "titulo": "El riesgo país argentino volvió a superar los 700 puntos ante un complejo escenario externo",
+    "resumen": "Los índices de Wall Street cayeron hasta 2,6% después de balances de empresas tecnológicas, mientras el petróleo subió 3% y acrecentó los temores por la inflación",
     "link": "https://www.infobae.com/economia/2026/10/22/el-riesgo-pais-argentino-vuelve-a-superar-los-700-puntos-ante-un-complejo-escenario-externo/",
     "fuente": "infobae"
   },
@@ -130,6 +277,139 @@
     "titulo": "Hay señales positivas para la deuda argentina: por qué el mercado mira más allá del débil dato de actividad de agosto",
     "resumen": "La baja de las tasas en EEUU ofrece un contexto externo más favorable, mientras los analistas esperan una recuperación gradual de la economía en septiembre y octubre. Las dudas",
     "link": "https://www.infobae.com/economia/2026/10/22/hay-senales-positivas-para-la-deuda-argentina-por-que-el-mercado-mira-mas-alla-del-debil-dato-de-actividad-de-agosto/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Caputo se reunió con un hombre clave de Trump tras el anuncio de inversiones por USD 20.000 millones hasta 2027",
+    "resumen": "El encuentro con el subsecretario de Estado de EE.UU., Christopher Landau, abordó el financiamiento de proyectos estratégicos en la Argentina en el marco del Corredor Andes-Atlántico",
+    "link": "https://www.infobae.com/economia/2026/10/22/caputo-se-reunio-con-un-hombre-clave-de-trump-tras-el-anuncio-de-inversiones-por-usd-20000-millones-hasta-2027/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Privatización del Belgrano Cargas: el Gobierno está a un paso de posponer el proceso de licitación",
+    "resumen": "Ayer, Grupo México, la única empresa extranjera interesada, se bajó del esquema. Fuentes oficiales aseguraron que el conglomerado conocía las condiciones y que pidió cambiarlas sin éxito. Según fuentes oficiales, la postergación la pidieron otras empresas semanas atrás",
+    "link": "https://www.infobae.com/economia/2026/10/22/privatizacion-del-belgrano-cargas-el-gobierno-esta-a-un-paso-de-posponer-el-proceso-de-licitacion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "“No hay atajos”: el economista que invitó Milei a la reunión de Gabinete se metió en el debate sobre si la gente llega a fin de mes",
+    "resumen": "Alberto Ades atribuyó parte del malestar social actual al retiro de subsidios y transferencias que, según planteó, se financiaron durante años con deuda, emisión y pérdida de reservas",
+    "link": "https://www.infobae.com/economia/2026/10/22/no-hay-atajos-el-economista-que-invito-milei-a-la-reunion-de-gabinete-se-metio-en-el-debate-sobre-si-la-gente-llega-a-fin-de-mes/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Jornada financiera: las acciones argentinas cayeron hasta 6% en Wall Street y el riesgo país superó los 700 puntos",
+    "resumen": "El desplome de acciones tecnológicas en EEUU afectó en los activos argentinos. El MSCI Merval perdió 1,5% y los bonos Globales, un 0,5%. El dólar subió a $1.550 en el Banco Nación y el BCRA compró USD 61 millones en el mercado",
+    "link": "https://www.infobae.com/economia/2026/10/22/jornada-financiera-las-acciones-argentinas-cayeron-hasta-6-en-wall-street-y-el-riesgo-pais-supero-los-700-puntos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Las acciones argentinas caen a precios mínimos en un año por factores locales y externos",
+    "resumen": "La toma de ganancias de Wall Street y la suba de tasas de interés impacta en los activos, a la vez que los datos “macro” domésticos también se trasladan a las valuaciones",
+    "link": "https://www.infobae.com/economia/2026/10/22/las-acciones-argentinas-caen-a-precios-minimos-en-un-ano-por-factores-locales-y-externos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Consumo en baja: cayeron las ventas de supermercados y mayoristas en agosto y profundizaron su retroceso en el año",
+    "resumen": "Ambos canales de ventas mostraron una contracción en relación a julio y en la comparación interanual. Cuáles fueron los productos más afectados",
+    "link": "https://www.infobae.com/economia/2026/10/22/consumo-en-baja-cayeron-las-ventas-de-supermercados-y-mayoristas-en-agosto-y-profundizaron-su-retroceso-en-el-ano/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Es argentina, vive en uno de los destinos más buscados de Brasil y sorprendió al mostrar los precios del supermercado",
+    "resumen": "Una creadora de contenido exhibió el valor de bebidas, alimentos y frutas para una jornada de playa en el país vecino, mientras el alza del real eleva el presupuesto de los turistas argentinos",
+    "link": "https://www.infobae.com/economia/2026/10/22/es-argentina-vive-en-uno-de-los-destinos-mas-buscados-de-brasil-y-sorprendio-al-mostrar-los-precios-del-supermercado/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Mujeres líderes del mundo empresario, la política y la academia lanzaron una red para impulsar la equidad de género",
+    "resumen": "VEGA tiene el objetivo de promover la participación femenina en las decisiones vinculadas con la productividad, la democracia y la innovación",
+    "link": "https://www.infobae.com/economia/2026/10/22/mujeres-lideres-del-mundo-empresario-la-politica-y-la-academia-lanzaron-una-red-para-impulsar-la-equidad-de-genero/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Restringen la operación de Ezeiza por 18 días: qué pasará con los vuelos durante las obras y qué deben tener en cuenta los pasajeros",
+    "resumen": "El principal aeropuerto internacional del país funcionará con una sola pista reducida desde este domingo 25 de octubre hasta el 11 de noviembre. La mitad de las aerolíneas cancelaron sus vuelos; el resto ajustó frecuencias o sumó escalas técnicas",
+    "link": "https://www.infobae.com/economia/2026/10/22/restringen-la-operacion-del-ezeiza-por-18-dias-que-pasara-con-los-vuelos-durante-las-obras-y-que-deben-tener-en-cuenta-los-pasajeros/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "El dólar volvió a subir y anotó un nuevo máximo nominal",
+    "resumen": "La divisa mayorista cerró a $1.528, en la quinta suba seguida con leve alza. Al público avanzó a $1.550 para la venta en el Banco Nación, también un récord",
+    "link": "https://www.infobae.com/economia/2026/10/22/el-dolar-volvio-a-subir-y-anoto-un-nuevo-maximo-nominal/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Septiembre fue el segundo mejor mes del año en venta de autos 0 km con financiación",
+    "resumen": "Las operaciones destinadas a comprar vehículos nuevos tuvieron su primera suba interanual de 2026 y elevaron su participación a 52,3% dentro de las matriculaciones",
+    "link": "https://www.infobae.com/economia/2026/10/22/septiembre-fue-el-segundo-mejor-mes-del-ano-en-venta-de-autos-0-km-con-financiacion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Privatización de AySA: el Gobierno fijó para el 13 de noviembre la firma del contrato de venta",
+    "resumen": "Economía formalizó la adjudicación del 90% de las acciones al consorcio que ofertó USD 340,2 millones y ordenó informar la cuenta para el pago",
+    "link": "https://www.infobae.com/economia/2026/10/22/privatizacion-de-aysa-el-gobierno-fijo-para-el-13-de-noviembre-la-firma-del-contrato-de-venta/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "El secretario de Finanzas pronosticó calma en 2027: \"Hay poca munición para correr contra el dólar en el año electoral\"",
+    "resumen": "Federico Furiase afirmó que el programa financiero está cubierto sin acceso a los mercados internacionales y señaló que el swap con China y los depósitos en pesos del Tesoro funcionan como respaldo ante eventuales tensiones. También, que hay pocos pesos para una corrida",
+    "link": "https://www.infobae.com/economia/2026/10/22/el-secretario-de-finanzas-pronostico-calma-en-2027-hay-poca-municion-para-correr-contra-el-dolar-en-el-ano-electoral/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Por la suba del combustible en medio de la guerra, Aerolíneas Argentinas volvió a registrar pérdidas: sigue sin usar fondos del Estado",
+    "resumen": "La compañía registró un rojo en el primer semestre, equivalentes a USD 63 millones. Atribuye el resultado exclusivamente al encarecimiento de su insumo básico que generó conflicto en Medio Oriente",
+    "link": "https://www.infobae.com/economia/2026/10/22/la-suba-del-combustible-por-la-guerra-hizo-que-aerolineas-argentinas-vuelva-a-registrar-perdidas-sigue-sin-usar-fondos-del-estado/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "La CEPAL recortó la proyección de crecimiento de la economía argentina desde 3,3% a 1,9% para 2026",
+    "resumen": "Según el informe, el país quedaría debajo del promedio regional este año y mostraría una mejora moderada durante 2027. El FMI lanzó una proyección similar dos semanas atrás",
+    "link": "https://www.infobae.com/economia/2026/10/22/la-cepal-recorto-la-proyeccion-de-crecimiento-de-la-economia-argentina-desde-33-a-19-para-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "El consumo masivo volvió a caer en septiembre y acumula una baja del 2,7% en el año: los productos más afectados",
+    "resumen": "Las ventas retrocedieron en supermercados, autoservicios y mayoristas en comparación con el 2025. Señal favorable en la comparación mensual. El comercio electrónico mantuvo un fuerte crecimiento",
+    "link": "https://www.infobae.com/economia/2026/10/22/el-consumo-masivo-volvio-a-caer-en-septiembre-y-acumula-una-baja-del-27-en-el-ano-los-productos-mas-afectados/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "El gobierno de Venezuela afirmó tener 300.000 millones de barriles de petróleo pero los expertos lo dudan",
+    "resumen": "Durante mucho tiempo, políticos e inversionistas han promocionado esa cifra como una medida importante del potencial energético sin explotar",
+    "link": "https://www.infobae.com/venezuela/2026/10/22/el-gobierno-de-venezuela-afirmo-tener-300000-millones-de-barriles-de-petroleo-pero-los-expertos-lo-dudan/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Patricia Bullrich discutió la “bazooka de USD 75.000 millones” de Milei y dijo que es mejor dar certezas políticas",
+    "resumen": "La senadora de LLA planteó mostrar munición no alcanza para frenar una eventual corrida cambiaria y sostuvo que el verdadero escudo para 2027 es mostrar gobernabilidad. “Si destruís tus propias reservas, empobrecés al país”, advirtió",
+    "link": "https://www.infobae.com/economia/2026/10/22/patricia-bullrich-discutio-la-bazooka-de-usd-75000-millones-de-milei-y-dijo-que-es-mejor-dar-certezas-politicas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-22",
+    "titulo": "Cuál es el truco viral con IA para hacer que elijan tu curículum en una búsqueda laboral y por qué no funciona",
+    "resumen": "ChatGPT, Claude, Gemini multiplican versiones, mientras consultoras describen filtros basados en datos, coincidencias, revisión humana",
+    "link": "https://www.infobae.com/economia/2026/10/22/cual-es-el-truco-viral-con-ia-para-hacer-que-elijan-tu-curiculum-en-una-busqueda-laboral-y-por-que-no-funciona/",
     "fuente": "infobae"
   },
   {
