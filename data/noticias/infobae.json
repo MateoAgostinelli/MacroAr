@@ -1,5 +1,173 @@
 [
   {
+    "fecha": "2026-10-27",
+    "titulo": "Un gigante del agro cerró una planta en Campana: hay 110 trabajadores despedidos",
+    "resumen": "Bunge dejará de producir compuestos químicos clave utilizados como insumos para la fabricación de fertilizantes para el campo. Atribuyó la decisión a limitaciones de infraestructura y tecnología, cambios en el mercado y dificultades en el abastecimiento de insumos",
+    "link": "https://www.infobae.com/economia/2026/10/27/un-gigante-del-agro-cerro-una-planta-en-campana-hay-110-trabajadores-despedidos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Menos subsidios al gas y más a la electricidad: cuánto ahorrará el Gobierno con el nuevo régimen de Zona Fría",
+    "resumen": "Desde noviembre y hasta abril, en las zonas muy cálidas se aplicará la bonificación en la boleta de luz en bloques de consumo de hasta 500 kWh. Se calcula un gasto anual entre USD 71 y 95 millones. Cuánto buscaba ahorrar el Gobierno con los cambios",
+    "link": "https://www.infobae.com/economia/2026/10/27/menos-subsidios-al-gas-y-mas-a-la-electricidad-cuanto-ahorrara-el-gobierno-con-el-nuevo-regimen-de-zona-fria/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Paraguay busca cerrar antes de fin de año la negociación con Brasil por la energía de Itaipú",
+    "resumen": "Santiago Peña aseguró que el camino está \"bastante allanado\" tras la reelección de Lula y que ambos países tienen una agenda de integración pendiente que incluye la revisión del Anexo C del tratado de la represa binacional",
+    "link": "https://www.infobae.com/america/america-latina/2026/10/27/paraguay-busca-cerrar-antes-de-fin-de-ano-la-negociacion-con-brasil-por-la-energia-de-itaipu/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "La industria sigue sin repuntar: volvió a caer en septiembre y acumula nueve meses con un balance negativo",
+    "resumen": "Según estimaciones de la UIA, la producción manufacturera retrocedió 0,2% mensual y 3,4% interanual. La entidad fabril se prepara para su 32° Conferencia Industrial, que se realizará el 3 de noviembre con la participación de empresarios, gobernadores y funcionarios nacionales",
+    "link": "https://www.infobae.com/economia/2026/10/27/la-industria-sigue-sin-repuntar-volvio-a-caer-en-septiembre-y-acumula-nueve-meses-con-un-balance-negativo/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Suben los bonos argentinos en dólares y el riesgo país muestra una leve caída",
+    "resumen": "El S&P Merval sube un 1,4% y los ADR exhiben leves alzas tras asimilar el negativo del desplome de los activos brasileños el lunes. El indicador de JP Morgan cede a 758 puntos básicos",
+    "link": "https://www.infobae.com/economia/2026/10/27/suben-los-bonos-argentinos-en-dolares-y-el-riesgo-pais-muestra-una-leve-caida/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "\"El Gobierno debe entender que Vaca Muerta no puede recibir al conurbano bonaerense\", sentenció un ex gobernador de Neuquén",
+    "resumen": "Jorge Sapag advirtió que la solución a los problemas de la provincia de Buenos Aires no está en el petróleo ni en la minería sino “en potenciar la industria con una estrategia dedicada a las pymes”",
+    "link": "https://www.infobae.com/economia/2026/10/27/el-gobierno-debe-entender-que-vaca-muerta-no-puede-recibir-al-conurbano-bonaerense-sentencio-un-ex-gobernador-de-neuquen/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Stellantis frenó la producción en sus plantas y adelanta vacaciones por la caída de la demanda",
+    "resumen": "La automotriz ajustó su actividad en Buenos Aires y Córdoba ante la retracción de las ventas y el retroceso de las exportaciones",
+    "link": "https://www.infobae.com/economia/2026/10/27/stellantis-frena-la-produccion-en-sus-plantas-y-adelanta-vacaciones-por-la-caida-de-la-demanda/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Las acciones brasileñas rebotan tras el colapso post electoral y el real recupera terreno frente al dólar",
+    "resumen": "Las cotizaciones de las compañías más relevantes muestran subas en torno al 2% en Wall Street. El dólar cae 0,7%, a 5,34 reales",
+    "link": "https://www.infobae.com/economia/2026/10/27/las-acciones-brasilenas-rebotan-tras-el-colapso-post-electoral-y-el-real-recupera-terreno-frente-al-dolar/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "“Si se levanta la emergencia sanitaria, podrían ir a la quiebra unas 6.000 empresas”, advirtió el presidente de la Unión Argentina de Salud",
+    "resumen": "En Infobae en Vivo a las Nueve, Hugo Magonza describió las tensiones financieras que atraviesan los prestadores privados. Alertó que la caída de aportes y el aumento de los costos presionan sobre clínicas, obras sociales y prepagas",
+    "link": "https://www.infobae.com/salud/2026/10/27/si-se-levanta-la-emergencia-sanitaria-podrian-ir-a-la-quiebra-unas-6000-empresas-advirtio-el-presidente-de-la-union-argentina-de-salud/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Starlink y Telefónica se aliaron en Brasil para garantizar conexión a internet vía satélite",
+    "resumen": "El acuerdo permitirá llevar conectividad a hasta 50 millones de personas que residen en zonas sin cobertura, a través de la marca Vivo",
+    "link": "https://www.infobae.com/america/america-latina/2026/10/27/starlink-y-telefonica-se-aliaron-en-brasil-para-garantizar-conexion-a-internet-via-satelite/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "El petróleo oscila entre la complicada diplomacia de Medio Oriente con Irán y los ataques hutíes a Arabia Saudita",
+    "resumen": "Los precios revirtieron una baja inicial mientras los inversionistas esperaban el resultado de las conversaciones con Irán. Octubre fue el peor mes para el transporte marítimo en Ormuz",
+    "link": "https://www.infobae.com/america/mundo/2026/10/27/el-petroleo-oscila-entre-la-complicada-diplomacia-de-medio-oriente-con-iran-y-los-ataques-huties-a-arabia-saudita/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Efecto Lula: los dólares financieros se acercan a los $1.700 y la brecha cambiaria subió a 7,5 por ciento",
+    "resumen": "La reacción al resultado electoral en Brasil impulsó el riesgo país y golpeó a las acciones argentinas en Wall Street, mientras el contado con liquidación cerró en $1.681 por dólar",
+    "link": "https://www.infobae.com/economia/2026/10/27/efecto-lula-los-dolares-financieros-se-acercan-a-los-1700-y-la-brecha-cambiaria-subio-a-75-por-ciento/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "El Gobierno aprobó el ingreso al RIGI de un proyecto minero en Catamarca que prevé inversiones por USD 6.394 millones",
+    "resumen": "La iniciativa de la empresa suiza Glencore apunta a la producción de cobre, oro, plata y molibdeno. Se estima que generará 8.200 empleos",
+    "link": "https://www.infobae.com/economia/2026/10/27/el-gobierno-aprobo-el-ingreso-al-rigi-de-un-proyecto-minero-en-catamarca-que-preve-inversiones-por-usd-6394-millones/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "La magia de un presidente sin margen",
+    "resumen": "La inestabilidad institucional del principal socio regional puede dificultar nuevos acuerdos con terceros mercados, mientras la relación con Argentina quedará más en manos del sector privado que del público en adelante",
+    "link": "https://www.infobae.com/opinion/2026/10/27/la-magia-de-un-presidente-sin-margen/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "A cuánto llegará el índice de inflación de octubre según las consultoras privadas",
+    "resumen": "Para las consultoras, el aumento de los precios minoristas solo desaceleraría a 1,8%. La justificación del presidente sobre la lenta desaceleración del IPC",
+    "link": "https://www.infobae.com/economia/2026/10/27/a-cuanto-llegara-el-indice-de-inflacion-de-octubre-segun-las-consultoras-privadas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Cuánto costarán una cerveza, el alojamiento y la nafta para los turistas argentinos tras la devaluación del real brasileño",
+    "resumen": "La cotización del real en pesos cayó 7,38% tras la reelección de Lula. Cuánto bajan los gastos cotidianos en Brasil y qué rubros del viaje seguirán atados al dólar",
+    "link": "https://www.infobae.com/economia/2026/10/27/cuanto-costaran-una-cerveza-el-alojamiento-y-la-nafta-para-los-turistas-argentinos-tras-la-devaluacion-del-real-brasileno/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "ANSES: quiénes cobran hoy, martes 27 de octubre de 2026",
+    "resumen": "Los haberes de este mes incluyen una actualización del 1,66% y un bono extraordinario de hasta $70.000 para jubilados y pensionados que cumplan con los requisitos",
+    "link": "https://www.infobae.com/economia/2026/10/27/anses-quienes-cobran-hoy-martes-27-de-octubre-de-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "El Gobierno definió cómo se aplicarán el nuevo Régimen de Zona Fría: descuentos de 50% y 20% sobre el precio del gas",
+    "resumen": "La resolución publicada en el Boletín Oficial establece requisitos, montos y un padrón para otorgar reducciones en el componente energético de las facturas",
+    "link": "https://www.infobae.com/economia/2026/10/27/el-gobierno-definio-como-se-aplicaran-el-nuevo-regimen-de-zona-fria-descuentos-de-50-y-20-sobre-el-precio-del-gas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "El riesgo país subió a 765 puntos: cuánto afecta el programa financiero y qué otras alternativas hay",
+    "resumen": "Tras la victoria de Lula en Brasil, el indicador del JP Morgan subió 6,79% en la jornada. Para los analistas es cada vez más difícil que se retomen las colocaciones de los Bonares. Lo que implica usar el swap con China o que el Tesoro le compre más dólares al Banco Central",
+    "link": "https://www.infobae.com/economia/2026/10/27/el-riesgo-pais-subio-a-765-puntos-cuanto-afecta-el-programa-financiero-y-que-otras-alternativas-hay/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Por qué los mercados le dieron la espalda al triunfo de Lula y qué significa para la Argentina",
+    "resumen": "La sorpresa electoral desarmó las apuestas por un giro fiscal en Brasil: el real, la Bolsa y los bonos cayeron, mientras crece la presión sobre los activos y la competitividad cambiaria de la Argentina",
+    "link": "https://www.infobae.com/economia/2026/10/27/por-que-los-mercados-le-dieron-la-espalda-al-triunfo-de-lula-y-que-significa-para-la-argentina/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Los salarios se encarecen y las máquinas se abaratan: qué revela un informe sobre los costos de la industria argentina",
+    "resumen": "Un estudio del economista Nadín Argañaraz muestra que, desde 2023, la mano de obra aumentó 18% en relación con los precios industriales, mientras que el equipamiento productivo cayó 14%. La diferencia modifica los incentivos para invertir y producir",
+    "link": "https://www.infobae.com/economia/2026/10/27/los-salarios-se-encarecen-y-las-maquinas-se-abaratan-que-revela-un-informe-sobre-los-costos-de-la-industria-argentina/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "El riesgo electoral argentino creció más que el riesgo país",
+    "resumen": "El comportamiento del bono soberano que vence antes de las elecciones de 2027 y otro similar que vence en 2029, muestra que las dudas sobre la continuidad de las políticas todavía pesa mucho sobre la deuda argentina",
+    "link": "https://www.infobae.com/economia/2026/10/27/el-riesgo-electoral-argentino-crecio-mas-que-el-riesgo-pais/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "El “colchón” de dólares del Banco Central y qué pasó con una de las principales fuentes para la compra de reservas",
+    "resumen": "En la entidad calculan que aún restan liquidarse USD 4.500 millones de Obligaciones Negociables a octubre. En septiembre se aceleró la colocación de deuda corporativa y alcanzó el segundo nivel más alto desde 2015",
+    "link": "https://www.infobae.com/economia/2026/10/27/el-colchon-de-dolares-del-banco-central-y-que-paso-con-una-de-las-principales-fuentes-para-la-compra-de-reservas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Opciones para acelerar la recuperación económica",
+    "resumen": "El EMAE desestacionalizado revirtió parcialmente el retroceso de 2,8% registrado en julio, mientras la serie de tendencia-ciclo permaneció sin variación y completó cinco meses consecutivos de estancamiento, tras la corrección que hizo el Indec",
+    "link": "https://www.infobae.com/opinion/2026/10/27/opciones-para-acelerar-la-recuperacion-economica/",
+    "fuente": "infobae"
+  },
+  {
     "fecha": "2026-10-26",
     "titulo": "De los recursos naturales al conocimiento: la oportunidad de una nueva Argentina productiva",
     "resumen": "La tecnología y la inteligencia artificial están redefiniendo la competitividad de las economías. Para la Argentina, el desafío es integrar el software con el entramado productivo, agregar valor a sus recursos y desarrollar el talento necesario para transformar ese potencial e...",
@@ -22,7 +190,7 @@
   },
   {
     "fecha": "2026-10-26",
-    "titulo": "El Gobierno firmó con empresarios un acuerdo contra el contrabando: qué controles incluye y cómo funcionarán",
+    "titulo": "El Gobierno firmó con empresarios un acuerdo contra el contrabando: cómo controlarán las ventas por Mercado Libre",
     "resumen": "La iniciativa contempla herramientas tecnológicas, intercambio de información, fiscalización de plataformas digitales y coordinación con distintos organismos. Hubo acuerdos marco con distintas cámaras, incluidas la UIA, y otros específicos",
     "link": "https://www.infobae.com/economia/2026/10/26/el-gobierno-firma-con-empresarios-un-acuerdo-contra-el-contrabando-que-controles-incluye-y-como-funcionaran/",
     "fuente": "infobae"
@@ -36,22 +204,22 @@
   },
   {
     "fecha": "2026-10-26",
-    "titulo": "La Bolsa de San Pablo opera con fuertes bajas tras suspender las operaciones por una drástica caída en la apertura",
-    "resumen": "El sorpresivo resultado electoral impacta en los mercados. El índice Bovespa cae el 15% luego del triunfo de Lula en el balotaje. Las acciones brasileñas en Wall Street se hunden hasta 30%",
+    "titulo": "La Bolsa de San Pablo se desplomó 14%, la caída más amplia desde marzo de 2020",
+    "resumen": "El sorpresivo resultado electoral impactó en el índice Bovespa de la Bolsa de San Pablo, en las acciones brasileñas en Wall Street y en el real brasileño",
     "link": "https://www.infobae.com/economia/2026/10/26/la-bolsa-de-san-pablo-suspendio-sus-operaciones-tras-una-drastica-caida-de-las-acciones-lideres/",
     "fuente": "infobae"
   },
   {
     "fecha": "2026-10-26",
     "titulo": "El dólar se disparó en Brasil hasta 12% tras el triunfo de Lula en el balotaje",
-    "resumen": "La divisa de Brasil se debilitaron en las operaciones al contado a primera hora del lunes, para negociarse a 5,60 unidades por dólar estadounidense, después del sorpresivo resultado en la segunda vuelta",
+    "resumen": "La divisa de Brasil se debilitó desde el inicio de las operaciones de este lunes, para negociarse a 5,60 unidades por dólar estadounidense, después del sorpresivo resultado en la segunda vuelta. Al cierre operó a 5,41 reales",
     "link": "https://www.infobae.com/economia/2026/10/26/el-dolar-se-disparo-en-brasil-hasta-12-tras-el-triunfo-de-lula-en-el-balotaje/",
     "fuente": "infobae"
   },
   {
     "fecha": "2026-10-26",
-    "titulo": "Efecto Brasil: las acciones argentinas se desploman hasta 11% en Wall Street y suben el dólar y el riesgo país",
-    "resumen": "El índice MSCI Merval cae un 5,2%, mientras que Mercado Libre y los bancos encabezan las amplias pérdidas en el exterior. El riesgo país avanza a 745 puntos, máximo en un año. El dólar sube diez pesos, a $1.560, en el Banco Nación",
+    "titulo": "Efecto Brasil: el riesgo país de Argentina subió 8% y superó los 760 puntos",
+    "resumen": "El índice MSCI Merval cayó un 3%, mientras que Mercado Libre y los bancos encabezaron las amplias pérdidas en el exterior. El riesgo país avanzó a 765 puntos, máximo en un año. El dólar subió diez pesos, a $1.560, en el Banco Nación",
     "link": "https://www.infobae.com/economia/2026/10/26/efecto-brasil-las-acciones-argentinas-se-desploman-hasta-12-en-wall-street-y-suben-el-dolar-y-el-riesgo-pais/",
     "fuente": "infobae"
   },
@@ -165,6 +333,55 @@
     "titulo": "Súper Niño: la generación hidroeléctrica creció casi un tercio y el costo de la energía se desplomó 43% en un mes",
     "resumen": "La crecida récord del Paraná disparó la producción en las represas y hundió el “precio spot” en el mercado mayorista de electricidad a su nivel más bajo desde abril",
     "link": "https://www.infobae.com/economia/2026/10/26/super-nino-la-generacion-hidroelectrica-crecio-casi-un-tercio-y-el-costo-de-la-energia-se-desplomo-43-en-un-mes/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "El dólar avanzó a precios récord en todas las franjas del mercado de cambios",
+    "resumen": "La divisa mayorista subió a $1.541, en la séptima sesión en alza, con influencia de la devaluación del real brasileño. Al público cerró a $1.560 en el Banco Nación",
+    "link": "https://www.infobae.com/economia/2026/10/26/el-dolar-avanzo-a-precios-record-en-todas-las-franjas-del-mercado-de-cambios-por-la-suba-del-real-brasileno/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "El riesgo país de Argentina: por qué es un círculo vicioso entre financiamiento y crecimiento",
+    "resumen": "Fundación Capital vinculó el deterioro con la caída del 1,7% interanual de la actividad en agosto y las dudas sobre el cumplimiento del programa financiero",
+    "link": "https://www.infobae.com/economia/2026/10/26/el-riesgo-pais-de-argentina-por-que-es-un-circulo-vicioso-entre-financiamiento-y-crecimiento/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Dólar, riesgo país y acciones: uno por uno, cuáles fueron los efectos del ballotage de Brasil en el mercado financiero argentino",
+    "resumen": "Detrás de la drástica caída de la bolsa brasileña y la devaluación del real, las acciones y los bonos argentinos exhibieron amplias bajas y el riesgo país subió al máximo en un año",
+    "link": "https://www.infobae.com/economia/2026/10/26/dolar-riesgo-pais-y-acciones-uno-por-uno-cuales-fueron-los-efectos-del-ballotage-de-brasil-en-el-mercado-financiero-argentino/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "El BCRA decidió no comprar reservas hoy ante la tensión cambiaria generada tras las elecciones en Brasil",
+    "resumen": "La autoridad monetaria interrumpió una racha de 19 ruedas con compras netas, mientras el dólar mayorista cerró en $1.540 y las reservas quedaron en USD 50.481 millones. Es apenas la quinta vez en el año que la entidad no suma divisas a sus arcas",
+    "link": "https://www.infobae.com/economia/2026/10/26/el-bcra-decidio-no-comprar-reservas-hoy-ante-la-tension-cambiaria-generada-tras-las-elecciones-en-brasil/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "El gas de Vaca Muerta ya abastece a la Patagonia: se inauguró una obra de USD 40 millones que se licitó en 2017 y estuvo parada cuatro años",
+    "resumen": "La repotenciación del Sistema Cordillerano-Patagónico conectó a 25 localidades de Chubut, Río Negro y Neuquén con el Gasoducto General San Martín. Ciudades como Bariloche, Esquel y San Martín de los Andes podrán sumar 12.500 nuevos usuarios tras años sin poder habilitar conexi...",
+    "link": "https://www.infobae.com/economia/2026/10/26/el-gas-de-vaca-muerta-ya-abastece-a-la-patagonia-se-inauguro-una-obra-de-usd-40-millones-que-se-licito-en-2017-y-estuvo-parada-cuatro-anos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Cuál es la empresa argentina más golpeada por la victoria de Lula en Brasil",
+    "resumen": "El cambio de escenario político en Brasil repercutió en los mercados y arrastró a los ADR argentinos que cotizan en Nueva York",
+    "link": "https://www.infobae.com/economia/2026/10/26/cual-es-la-empresa-argentina-mas-golpeada-por-la-victoria-de-lula-en-brasil/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Los colegios privados bonaerenses subirán hasta 3% en noviembre y diciembre",
+    "resumen": "El sector advirtió que las actualizaciones no alcanzan para cubrir los mayores costos salariales",
+    "link": "https://www.infobae.com/economia/2026/10/26/los-colegios-privados-bonaerenses-subiran-hasta-3-en-noviembre-y-diciembre/",
     "fuente": "infobae"
   },
   {
