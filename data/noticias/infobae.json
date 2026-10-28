@@ -1,5 +1,194 @@
 [
   {
+    "fecha": "2026-10-28",
+    "titulo": "El consejo de Warren Buffett para los pequeños inversores que sirve en cualquier situación de los mercados",
+    "resumen": "Para el magnate de Berkshire Hathaway existe una máxima que debe seguirse siempre, ya que se mantuvo pese a las sucesivas modas de la plaza financiera",
+    "link": "https://www.infobae.com/economia/2026/10/28/el-consejo-de-warren-buffett-para-los-pequenos-inversores-que-sirve-en-cualquier-situacion-de-los-mercados/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Día del Bancario 2026: de cuánto sera el bono extra que recibirán y cuándo se cobra",
+    "resumen": "Tras el último acuerdo paritario, el adicional para los trabajadores del sector fue fijado y deberá abonarse en los primeros días del mes próximo",
+    "link": "https://www.infobae.com/economia/2026/10/28/dia-del-bancario-2026-de-cuanto-sera-el-bono-extra-que-recibiran-y-cuando-se-cobra/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Llega el Cyber Monday: 8 de cada 10 consumidores afirman que usarán la IA para encontrar descuentos y ofertas",
+    "resumen": "Un estudio de Google relevó los hábitos de compra y los factores que definirán las decisiones de los consumidores",
+    "link": "https://www.infobae.com/economia/2026/10/28/llega-el-cyber-monday-8-de-cada-10-consumidores-afirman-que-usaran-la-ia-para-encontrar-descuentos-y-ofertas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Cuáles son los cinco días seguidos de noviembre en los que no abrirán los bancos",
+    "resumen": "La visita a la Argentina del Papa León XIV y la celebración del Día del Bancario dejarán varias jornadas con las sucursales cerradas de las entidades financieras",
+    "link": "https://www.infobae.com/economia/2026/10/28/cuales-son-los-cinco-dias-seguidos-de-noviembre-en-los-que-no-abriran-los-bancos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Brasil prorrogó un mes la subvención del diésel por la guerra en Medio Oriente",
+    "resumen": "El Ejecutivo de Lula da Silva busca amortiguar la volatilidad de los precios internacionales. Aseguró que la extensión no afectará las cuentas públicas",
+    "link": "https://www.infobae.com/america/america-latina/2026/10/28/brasil-prorrogo-un-mes-la-subvencion-del-diesel-por-la-guerra-en-medio-oriente/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Cuánto vale un Patacón: piden hasta USD 350 por ejemplares de la cuasimoneda bonaerense que marcó la crisis de 2001",
+    "resumen": "Las publicaciones de casas especializadas y plataformas de comercio electrónico muestran una amplia brecha de precios, que varía según la denominación, la serie, el estado de conservación y las fallas de impresión",
+    "link": "https://www.infobae.com/economia/2026/10/28/cuanto-vale-un-patacon-piden-hasta-usd-350-por-ejemplares-de-la-cuasimoneda-bonaerense-que-marco-la-crisis-de-2001/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Tras más de dos décadas de actividad, cierra una marca argentina de zapatos de tango que llegó a exportar a EEUU y Japón",
+    "resumen": "La firma Comme il Faut supo construir una clientela local e internacional y llegó a vender unos 15.000 pares al año. Pero la caída de la demanda y los altos costos locales volvieron inviable la continuidad",
+    "link": "https://www.infobae.com/economia/2026/10/28/tras-mas-de-dos-decadas-de-actividad-cierra-una-marca-argentina-de-zapatos-de-tango-que-llego-a-exportar-a-eeuu-y-japon/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Vacaciones en Brasil: cuánto cuestan los alimentos y bebidas en los supermercados tras la devaluación del real",
+    "resumen": "Un relevamiento de productos básicos muestra diferencias de precios de hasta el 52,5% frente a la Argentina. La caída de la moneda del país vecino también redujo el presupuesto necesario para realizar compras durante la próxima temporada turística",
+    "link": "https://www.infobae.com/economia/2026/10/28/vacaciones-en-brasil-cuanto-cuestan-los-alimentos-y-bebidas-en-los-supermercados-tras-la-devaluacion-del-real/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Para el economista Daniel Artana “hay algún espacio para ser menos prudente en la política monetaria”",
+    "resumen": "El economista consideró que hay algunas cuestiones que se pueden corregir en el esquema económico, en un contexto de caída de la actividad",
+    "link": "https://www.infobae.com/economia/2026/10/28/para-el-economista-daniel-artana-hay-algun-espacio-para-ser-menos-prudente-en-la-politica-monetaria/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Más tareas preventivas ante los posibles efectos de El Niño",
+    "resumen": "La compañía Vía Navegable Argentina movilizó dragas desde Asia y Europa ante el aumento de los caudales del Paraná y los riesgos para la navegación.",
+    "link": "https://www.infobae.com/economia/2026/10/28/mas-tareas-preventivas-ante-los-posibles-efectos-de-el-nino/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Suben los bonos argentinos y cae el riesgo país, pero las acciones siguen atadas al efecto Brasil",
+    "resumen": "Los bonos Globales ascienden 0,5% y el indicador de J Morgan alcanza los 735 puntos. El MSCI Merval cae 0,8%, arrastrado por el descenso de 2% de la Bolsa de San Pablo",
+    "link": "https://www.infobae.com/economia/2026/10/28/suben-los-bonos-argentinos-y-cae-el-riesgo-pais-pero-las-acciones-siguen-atadas-al-efecto-brasil/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Donald Trump exhibió un petrolero en Texas con el primer crudo procedente de Venezuela",
+    "resumen": "El mandatario aprovechó su gira de campaña por Corpus Christi y Lubbock para respaldar al candidato republicano Ken Paxton y anunciar la derogación de las regulaciones sobre metano de la era Biden",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/28/donald-trump-exhibio-un-petrolero-en-texas-con-el-primer-crudo-procedente-de-venezuela/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "La IA ya no es el futuro: es el nuevo empleado invisible de las empresas",
+    "resumen": "Los agentes integrados con sistemas internos pueden gestionar consultas, ventas y postulaciones, al tiempo que centralizan intercambios en WhatsApp, correo electrónico y CRM con registro de cada interacción para facilitar decisiones basadas en datos diarios",
+    "link": "https://www.infobae.com/opinion/2026/10/28/la-ia-ya-no-es-el-futuro-es-el-nuevo-empleado-invisible-de-las-empresas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Infraestructura y eficiencia: el cuello de botella del sector energético",
+    "resumen": "La planificación energética deberá contemplar estos cambios para sostener la confiabilidad del suministro y acompañar el desarrollo productivo",
+    "link": "https://www.infobae.com/opinion/2026/10/28/infraestructura-y-eficiencia-el-cuello-de-botella-del-sector-energetico/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Qué requisitos exigen los bancos para otorgar un préstamo hipotecario de USD 100.000",
+    "resumen": "Las entidades financian entre el 65% y el 80% de la tasación y exigen que la primera cuota no supere, en general, el 25% del ingreso",
+    "link": "https://www.infobae.com/economia/2026/10/28/que-requisitos-exigen-los-bancos-para-otorgar-un-prestamo-hipotecario-de-usd-100000/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Cavallo cuestionó al Gobierno y su intervención sobre el dólar: “Manejan el tipo de cambio como lo hacía Moreno”",
+    "resumen": "El ex ministro de Economía criticó las restricciones cambiarias para las empresas y reclamó una liberalización integral. Dijo que Milei tiene “una confusión conceptual muy grande”",
+    "link": "https://www.infobae.com/economia/2026/10/28/cavallo-cuestiono-al-gobierno-y-su-intervencion-sobre-el-dolar-manejan-el-tipo-de-cambio-como-lo-hacia-moreno/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "La Reserva Federal de Estados Unidos decidirá hoy el rumbo de la tasa de interés: cómo afecta a la Argentina",
+    "resumen": "La Fed anunciará su decisión a las 15 de la Argentina. Los analistas esperan que mantenga la tasa en el rango de 3,75% a 4%, pero el mercado descuenta una suba en diciembre",
+    "link": "https://www.infobae.com/economia/2026/10/28/la-reserva-federal-de-estados-unidos-decidira-hoy-el-rumbo-de-la-tasa-de-interes-como-afecta-a-la-argentina/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Bajaron los dólares financieros y el riesgo país, pero la cotización de los bonos despierta incertidumbre rumbo a 2027",
+    "resumen": "Gracias a una jornada más tranquila en Brasil, los indicadores financieros mejoraron pero aún muestran dudas sobre la continuidad de políticas que no se condicen con lo que sugieren las encuestas",
+    "link": "https://www.infobae.com/economia/2026/10/28/bajaron-los-dolares-financieros-y-el-riesgo-pais-pero-los-bonos-todavia-marcan-solo-un-50-de-chances-de-reeleccion-de-milei/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "ANSES: quiénes cobran hoy, miércoles 28 de octubre de 2026",
+    "resumen": "Continúan los pagos a jubilados que superan el haber mínimo y a titulares de la prestación por desempleo, de acuerdo con la terminación del DNI",
+    "link": "https://www.infobae.com/economia/2026/10/28/anses-quienes-cobran-hoy-miercoles-28-de-octubre-de-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Oficializaron los nuevos cuadros tarifarios de gas con los descuentos por Zonas Frías",
+    "resumen": "La bonificación del 50% seguirá vigente en Patagones, pero los hogares de otros distritos bonaerenses deberán reunir condiciones de ingresos, ubicación e inscripción para obtener el descuento adicional del 20%",
+    "link": "https://www.infobae.com/economia/2026/10/28/oficializaron-los-nuevos-cuadros-tarifarios-de-gas-con-los-descuentos-por-zonas-frias/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "El Gobierno aumentó las jubilaciones y asignaciones: de cuánto será la mínima en noviembre",
+    "resumen": "La actualización mensual llevará la prestación mínima a $ 444.158,46. La medida alcanza a jubilados, pensionados, titulares de la PUAM y beneficiarios de asignaciones familiares",
+    "link": "https://www.infobae.com/economia/2026/10/28/el-gobierno-aumento-las-jubilaciones-y-asignaciones-de-cuanto-sera-la-minima-en-noviembre/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Según estimaciones privadas, la economía tuvo un  leve crecimiento en septiembre y la Argentina entró en recesión técnica",
+    "resumen": "Las consultoras Equilibra y Orlando J. Ferreres estimaron una mejora mensual desestacionalizada, insuficiente para compensar el retroceso previo. El tercer trimestre habría cerrado en baja frente al segundo",
+    "link": "https://www.infobae.com/economia/2026/10/28/segun-estimaciones-privadas-la-economia-tuvo-un-leve-crecimiento-en-septiembre-y-la-argentina-entro-en-recesion-tecnica/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Economía enfrenta hoy vencimientos por $10 billones: qué estrategia espera el mercado sobre tasas y plazos",
+    "resumen": "Para afrontar los pagos de hoy, el Tesoro cuenta con $8 billones. Los analistas consideran que Economía va a hacer un rollover de al menos el 100% y que no va a liberar pesos al mercado. Cómo condiciona la rueda REPO del Banco Central",
+    "link": "https://www.infobae.com/economia/2026/10/28/economia-enfrenta-hoy-vencimientos-por-10-billones-que-estrategia-espera-el-mercado-sobre-tasas-y-plazos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Los barrios populares se expandieron 57 km2 en la última década y juntos ya son más grandes que ciudades como Rosario",
+    "resumen": "Un relevamiento muestra que más de la mitad de la superficie está en el Área Metropolitana de Buenos Aires. La Patagonia y el Noroeste fueron las regiones donde más crecieron en términos relativos",
+    "link": "https://www.infobae.com/economia/2026/10/28/los-barrios-populares-se-expandieron-57-km2-en-la-ultima-decada-y-juntos-ya-son-mas-grandes-que-ciudades-como-rosario/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "El Gobierno debe afrontar un pago de USD 800 millones al FMI y analiza dos caminos: usar dólares propios o comprarlos al BCRA",
+    "resumen": "El lunes el equipo económico tiene que afrontar un nuevo pago con el organismo internacionales en concepto de intereses, para los analistas hay dos opciones y una suma presión a la compra de reservas del Banco Central. El desembolso pendiente",
+    "link": "https://www.infobae.com/economia/2026/10/28/el-gobierno-debe-afrontar-un-pago-de-usd-800-millones-al-fmi-y-analiza-dos-caminos-usar-dolares-propios-o-comprarlos-al-bcra/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Argentina Fintech Forum reunirá a más de 5.000 participantes para debatir la digitalización financiera",
+    "resumen": "La novena edición, organizada por la Cámara Argentina Fintech, se celebrará el próximo jueves con 127 expositores, 23 paneles y actividades programadas durante TecWeek Buenos Aires",
+    "link": "https://www.infobae.com/economia/2026/10/28/argentina-fintech-forum-reunira-a-mas-de-5000-participantes-para-debatir-la-digitalizacion-financiera/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Bajó el riesgo país y el dólar se estabilizó pero sigue el viento de frente: vuelven a subir las tasas en EEUU",
+    "resumen": "Una licitación de deuda del Tesoro argentino deberá renovar $10,8 billones, mientras Brasil enfrenta su propio frente fiscal y las exportaciones argentinas apuntan a superar los USD 100.000 millones en 2026",
+    "link": "https://www.infobae.com/economia/2026/10/28/bajo-el-riesgo-pais-y-el-dolar-se-estabilizo-pero-sigue-el-viento-de-frente-vuelven-a-subir-las-tasas-en-eeuu/",
+    "fuente": "infobae"
+  },
+  {
     "fecha": "2026-10-27",
     "titulo": "Un gigante del agro cerró una planta en Campana: hay 110 trabajadores despedidos",
     "resumen": "Bunge dejará de producir compuestos químicos clave utilizados como insumos para la fabricación de fertilizantes para el campo. Atribuyó la decisión a limitaciones de infraestructura y tecnología, cambios en el mercado y dificultades en el abastecimiento de insumos",
@@ -29,8 +218,8 @@
   },
   {
     "fecha": "2026-10-27",
-    "titulo": "Suben los bonos argentinos en dólares y el riesgo país muestra una leve caída",
-    "resumen": "El S&P Merval sube un 1,4% y los ADR exhiben leves alzas tras asimilar el negativo del desplome de los activos brasileños el lunes. El indicador de JP Morgan cede a 758 puntos básicos",
+    "titulo": "Subieron los bonos argentinos y bajó el riesgo país, pero las acciones cerraron con pérdidas",
+    "resumen": "El S&P Merval cedió un 2,4% y siguió asimilando el efecto negativo del desplome de los activos brasileños. El indicador de JP Morgan bajó a 753 puntos básicos",
     "link": "https://www.infobae.com/economia/2026/10/27/suben-los-bonos-argentinos-en-dolares-y-el-riesgo-pais-muestra-una-leve-caida/",
     "fuente": "infobae"
   },
@@ -50,8 +239,8 @@
   },
   {
     "fecha": "2026-10-27",
-    "titulo": "Las acciones brasileñas rebotan tras el colapso post electoral y el real recupera terreno frente al dólar",
-    "resumen": "Las cotizaciones de las compañías más relevantes muestran subas en torno al 2% en Wall Street. El dólar cae 0,7%, a 5,34 reales",
+    "titulo": "Las acciones brasileñas retomaron las pérdidas y el real recuperó terreno frente al dólar",
+    "resumen": "Las cotizaciones de las compañías más relevantes mostraron leves caídas en Wall Street. El índice Bovespa cedió 0,4%. El dólar cayó 1,1%, a 5,35 reales",
     "link": "https://www.infobae.com/economia/2026/10/27/las-acciones-brasilenas-rebotan-tras-el-colapso-post-electoral-y-el-real-recupera-terreno-frente-al-dolar/",
     "fuente": "infobae"
   },
@@ -165,6 +354,76 @@
     "titulo": "Opciones para acelerar la recuperación económica",
     "resumen": "El EMAE desestacionalizado revirtió parcialmente el retroceso de 2,8% registrado en julio, mientras la serie de tendencia-ciclo permaneció sin variación y completó cinco meses consecutivos de estancamiento, tras la corrección que hizo el Indec",
     "link": "https://www.infobae.com/opinion/2026/10/27/opciones-para-acelerar-la-recuperacion-economica/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Una tradicional marca de trajes de baño argentina entró en concurso preventivo",
+    "resumen": "Planeta Agua SA, dueña de la marca Class Life, declaró deudas por $1.581,6 millones. Qué pasará si no llega a un acuerdo con sus acreedores",
+    "link": "https://www.infobae.com/economia/2026/10/27/una-tradicional-marca-de-trajes-de-bano-argentina-entro-en-consurso-preventivo/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "El staff del FMI aprobó la tercera revisión del acuerdo con la Argentina y allanó el camino para un desembolso de USD 900 millones",
+    "resumen": "El organismo y el Gobierno alcanzaron un acuerdo técnico por la tercera revisión del programa. Si el Directorio Ejecutivo lo convalida, el país podrá acceder al financiamiento programado",
+    "link": "https://www.infobae.com/economia/2026/10/27/el-staff-del-fmi-aprobo-la-tercera-revision-del-acuerdo-con-la-argentina-y-allano-el-camino-para-un-desembolso-de-usd-900-millones/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Efecto Brasil: se recuperaron los bonos argentinos y cedió el riesgo país, pero las acciones continuaron en baja",
+    "resumen": "Los títulos públicos Globales subieron 1% en promedio y el indicador de JP Morgan bajó a 753 puntos. Los ADR argentinos tuvieron mayoría de bajas, igual que sus pares brasileños. Por segundo día el BCRA no compró dólares en el mercado",
+    "link": "https://www.infobae.com/economia/2026/10/27/efecto-brasil-se-recuperaron-los-bonos-argentinos-y-cedio-el-riesgo-pais-pero-las-acciones-continuaron-en-baja/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "El dólar bajó y cortó una racha de siete sesiones consecutiva de avances",
+    "resumen": "La divisa mayorista cedió a $1.538, a pesar del recorte en el volumen de operaciones. Al público permaneció a $1.560 para la venta en el Banco Nación",
+    "link": "https://www.infobae.com/economia/2026/10/27/el-dolar-bajo-y-corto-una-racha-de-siete-sesiones-consecutiva-de-avances/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Por primera vez en el año, el BCRA no compró divisas por dos ruedas consecutivas",
+    "resumen": "La autoridad monetaria volvió a mantenerse al margen del mercado de cambios, en una rueda en la que el dólar mayorista bajó a $1.538 y las reservas subieron a USD 50.580 millones. Ayer ya había interrumpido las compras ante la volatilidad cambiaria posterior al balotaje de Brasil",
+    "link": "https://www.infobae.com/economia/2026/10/27/por-primera-vez-en-el-ano-el-bcra-no-compro-divisas-por-dos-ruedas-consecutivas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Empleadas domésticas: cuánto cobran en noviembre tras un nuevo aumento",
+    "resumen": "El personal de casas particulares recibirá una suba del 1,6% en noviembre y otra igual en diciembre de 2026. Las escalas por hora varían según la categoría, la modalidad de retiro y los adicionales",
+    "link": "https://www.infobae.com/economia/2026/10/27/empleadas-domesticas-cuanto-cobran-en-noviembre-tras-un-nuevo-aumento/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Un magnate argentino vendió su sexto unicornio por más de USD 1.380 millones: la emotiva historia que inspiró el negocio",
+    "resumen": "Se trata de Martín Varsavsky, quien desarrolla sus negocios en EEUU y España, aunque en los últimos meses comenzó con inversiones y proyectos en el país. Es muy cercano a Javier Milei y sus ideas. El posteo de su esposa Nin",
+    "link": "https://www.infobae.com/economia/2026/10/27/un-magnate-argentino-vendio-su-sexto-unicornio-por-mas-de-usd-1380-millones-la-emotiva-historia-que-inspiro-el-negocio/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Canasta Halloween: cuánto cuestan los disfraces, las calabazas para niños y la decoración",
+    "resumen": "Los precios se mantienen estables respecto de 2025 y hay opciones para armar un disfraz infantil por menos de $8.000",
+    "link": "https://www.infobae.com/economia/2026/10/27/canasta-halloween-cuanto-cuestan-los-disfraces-las-calabazas-para-ninos-y-la-decoracion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Cuánto se gana en la Argentina según el tipo de trabajo: las diferencias entre asalariados y cuentapropistas",
+    "resumen": "La brecha de ingresos entre las distintas modalidades de empleo se profundiza en un mercado laboral cada vez más atravesado por la informalidad",
+    "link": "https://www.infobae.com/economia/2026/10/27/cuanto-se-gana-en-la-argentina-segun-el-tipo-de-trabajo-las-diferencias-entre-asalariados-y-cuentapropistas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "La empresa de IA creadora de Claude definió su salida a cotización en Wall Street y espera marcar un hito histórico",
+    "resumen": "Anthropic presentó a las autoridades de EEUU el prospecto de oferta pública inicial, con la que proyecta alcanzar una valoración de mercado de USD 2 billones que podría eclipsar a reciente lanzamiento de SpaceX",
+    "link": "https://www.infobae.com/economia/2026/10/27/la-empresa-de-ia-creadora-de-claude-definio-su-salida-a-cotizacion-en-wall-street-y-espera-marcar-un-hito-historico/",
     "fuente": "infobae"
   },
   {
