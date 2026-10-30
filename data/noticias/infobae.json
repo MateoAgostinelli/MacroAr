@@ -1,16 +1,219 @@
 [
   {
-    "fecha": "2026-10-29",
-    "titulo": "Suben las acciones y los bonos argentinos pese a la tendencia negativa de Wall Street",
-    "resumen": "Los balances de compañías tecnológicas llevaron a rápidas tomas de ganancias y el índice Nasdaq cae un 1,4%. El MSCI Merval asciende 0,1% y los bonos Globales rebotan un 0,6%. El riesgo país baja a 747 puntos básicos",
-    "link": "https://www.infobae.com/economia/2026/10/29/suben-las-acciones-y-los-bonos-argentinos-pese-a-la-tendencia-negativa-de-wall-street/",
+    "fecha": "2026-10-30",
+    "titulo": "Ronda RIGI: la UIA pidió trabajar para que toda la cadena de valor sea competitiva",
+    "resumen": "El presidente de la central fabril, Martín Rappallini, instó a promover una mayor articulación entre los sectores energético, minero y manufacturero",
+    "link": "https://www.infobae.com/economia/2026/10/29/ronda-rigi-la-uia-advirtio-que-las-grandes-inversiones-no-alcanzan-y-pidio-fortalecer-a-los-proveedores-locales/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Radiografía de Galperin, el argentino más rico: radicalización tuitera, apoyo a Milei y su rol como tecno magnate latino",
+    "resumen": "Se publicó la primera biografía no autorizada del fundador de Mercado Libre. Extractos sobre su relación con el poder y sus siempre polémicos posteos en redes sociales",
+    "link": "https://www.infobae.com/economia/2026/10/23/radiografia-de-galperin-el-argentino-mas-rico-radicalizacion-tuitera-apoyo-a-milei-y-su-rol-como-tecno-magnate-latino/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "La venta de Supermercados DIA entra en la recta final: quién es el principal candidato para quedarse con la cadena",
+    "resumen": "Las negociaciones podrían definirse en los próximos días. Según fuentes del mercado, la operación podría cerrarse en torno a los USD 100 millones. Coincide con una fecha regulatoria clave que el sector sigue con atención",
+    "link": "https://www.infobae.com/economia/2026/10/30/la-venta-de-supermercados-dia-entra-en-la-recta-final-quien-es-el-principal-candidato-para-quedarse-con-la-cadena/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Binance en la Argentina: qué impacto local ven los expertos y qué recomiendan a los usuarios de la plataforma hackeada",
+    "resumen": "Referentes del mundo cripto analizaron las repercusiones del mayor hackeo de la historia del ecosistema blockchain",
+    "link": "https://www.infobae.com/economia/2026/10/30/binance-en-la-argentina-que-impacto-local-ven-los-expertos-y-que-recomiendan-a-los-usuarios-de-la-plataforma-hackeada/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Habló el CEO de Binance tras el hackeo millonario: \"Sus activos están seguros\"",
+    "resumen": "Richard Teng aseguró que la compañía cubrirá con fondos propios las pérdidas por el robo de USD 6.300 millones y prometió restablecer los retiros antes del domingo",
+    "link": "https://www.infobae.com/economia/2026/10/30/hablo-el-ceo-de-binance-tras-el-hackeo-millonario-sus-activos-estan-seguros/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "La inflación en Italia subió al 5,4% en octubre y el PBI no creció en el tercer trimestre",
+    "resumen": "El encarecimiento de la energía, que superó el 31% interanual, impulsó el alza de precios en la península",
+    "link": "https://www.infobae.com/america/mundo/2026/10/30/la-inflacion-en-italia-subio-al-54-en-octubre-y-el-pbi-no-crecio-en-el-tercer-trimestre/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Las acciones tecnológicas vuelven a caer en Wall Street y arrastran a la baja a los activos de la Argentina",
+    "resumen": "Los indicadores de Nueva York ceden hasta 2,7% ante la ola de ventas de acciones tecnológicas. El MSCI Merval cae por quinta sesión seguida. El riesgo país argentino sube a 756 puntos",
+    "link": "https://www.infobae.com/economia/2026/10/30/las-acciones-tecnologicas-vuelven-a-caer-en-wall-street-y-arrastran-a-la-baja-a-los-activos-de-la-argentina/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "“A veces es muy difícil pensar en invertir” en la Argentina, aseguró una empresaria industrial",
+    "resumen": "Marysol Rodríguez, gerenta de Sinteplast, hizo referencia a las dificultades que suele atravesar la industria y las dudas que surgen a la hora de hacer inversiones",
+    "link": "https://www.infobae.com/economia/2026/10/30/a-veces-es-muy-dificil-pensar-en-invertir-en-la-argentina-aseguro-una-empresaria-industrial/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Fuertes bajas en Wall Street por las dudas sobre la inversión en inteligencia artificial: Intel se desploma más del 25%",
+    "resumen": "Las acciones tecnológicas lideran las pérdidas en los mercados estadounidenses, con el Nasdaq hundiéndose más de un 2% tras resultados negativos en empresas del sector",
+    "link": "https://www.infobae.com/america/mundo/2026/10/30/fuertes-bajas-en-wall-street-por-las-dudas-sobre-la-inversion-en-inteligencia-artificial-intel-se-desploma-mas-del-25/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "La otra cara del boom minero: las provincias que buscan quedarse con una parte del negocio sin tener grandes yacimientos",
+    "resumen": "Los mandatarios de Córdoba, Corrientes y Entre Ríos propusieron medidas para mejorar la competitividad e integrar a sus industrias al desarrollo de la minería",
+    "link": "https://www.infobae.com/economia/2026/10/30/la-otra-cara-del-boom-minero-las-provincias-que-buscan-quedarse-con-una-parte-del-negocio-sin-tener-grandes-yacimientos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Binance creó un fondo de más de USD 6.300 millones para cubrir las pérdidas del hackeo histórico",
+    "resumen": "La plataforma afirmó ante medios especializados que ya cuenta con criptomonedas equivalentes a cinco mil millones de dólares y adquiere el resto con recursos propios para reponer los saldos de clientes",
+    "link": "https://www.infobae.com/economia/2026/10/30/binance-creo-un-fondo-de-mas-de-usd-6300-millones-para-cubrir-las-perdidas-del-hackeo-historico/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Milei contratará una empresa para controlar las obras de las represas de Santa Cruz",
+    "resumen": "La Secretaría de Obras Públicas autorizó una licitación por más de $ 39.624 millones para fiscalizar aspectos técnicos, ambientales, contractuales y administrativos de los proyectos hidroeléctricos.",
+    "link": "https://www.infobae.com/economia/2026/10/30/milei-contratara-una-empresa-para-controlar-las-obras-de-las-represas-de-santa-cruz/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Binance admitió que recibió \"un ataque complejo\" y aseguró que los fondos de los clientes están a salvo",
+    "resumen": "La principal plataforma cripto del mundo informó que el hackeo tuvo más puntos de quiebre de su seguridad de los estimados inicialmente",
+    "link": "https://www.infobae.com/tecno/2026/10/30/binance-admitio-que-recibio-un-ataque-complejo-y-aseguro-que-los-fondos-de-los-clientes-estan-a-salvo/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "ARCA anunció nuevas prórrogas para Ganancias y planes de pago: cuáles son los nuevos plazos",
+    "resumen": "El organismo recaudador fijó el 16 de noviembre como fecha límite para las declaraciones juradas del ejercicio fiscal 2025. Además, extendió hasta el 30 de diciembre la adhesión a regímenes especiales",
+    "link": "https://www.infobae.com/economia/2026/10/30/arca-anuncio-nuevas-prorrogas-para-ganancias-y-planes-de-pago-cuales-son-los-nuevos-plazos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Aumentan la luz y gas: cuánto van a subir las tarifas en noviembre",
+    "resumen": "Las facturas de Edenor, Edesur, Metrogas y Naturgy reflejarán nuevos valores desde el domingo. No obstante, el Gobierno decidió postergar los aumentos en combustibles previstos para este mes",
+    "link": "https://www.infobae.com/economia/2026/10/30/aumentos-de-luz-y-gas-oficializaron-las-subas-de-las-tarifas-para-el-mes-de-noviembre/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Sospechan que el hackeo a Binance provino de piratas informáticos de Corea del Norte",
+    "resumen": "Firmas de ciberseguridad aseguraron que el grupo TraderTraitor, de origen norcoreano, concretó la maniobra que involucró USD 6.000 millones en solamente 20 minutos",
+    "link": "https://www.infobae.com/economia/2026/10/30/sospechan-que-el-hackeo-a-binance-provino-de-piratas-informaticos-de-corea-del-norte/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Petrobras anunció el tercer hallazgo de crudo en una polémica área marina frente a la Amazonía",
+    "resumen": "Se trata del tercer segmento con presencia de hidrocarburos identificado en la misma perforación, tras los anunciados en agosto y a comienzos de octubre",
+    "link": "https://www.infobae.com/america/america-latina/2026/10/30/petrobras-anuncio-el-tercer-hallazgo-de-crudo-en-una-polemica-area-marina-frente-a-la-amazonia/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Vaca Muerta: la euforia y los límites de la ejecución",
+    "resumen": "La discusión entró en una nueva etapa. La pregunta ya no es solamente cuánto petróleo y gas puede producir la Argentina, sino qué capacidad tiene para transportarlos, procesarlos y venderlos al mundo de manera competitiva",
+    "link": "https://www.infobae.com/opinion/2026/10/30/vaca-muerta-la-euforia-y-los-limites-de-la-ejecucion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "ANSES: quiénes cobran hoy, viernes 30 de octubre de 2026",
+    "resumen": "Continúan los pagos del décimo mes con una actualización del 1,66% en todos los haberes y prestaciones del organismo previsional",
+    "link": "https://www.infobae.com/economia/2026/10/30/anses-quienes-cobran-hoy-viernes-30-de-octubre-de-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "El mercado de criptomonedas cayó tras el informe de Binance sobre el hackeo a la plataforma: bitcoin y BNB se deprecian",
+    "resumen": "La moneda digital creada por Satoshi Nakamoto retrocedió hasta los USD 76.355 a última hora del jueves. La investigación preliminar de la empresa indicó que el atacante pudo obtener acceso a un contenedor de servicio mediante una laptop comprometida de un ingeniero de desarrollo",
+    "link": "https://www.infobae.com/economia/2026/10/30/el-mercado-de-criptomonedas-cayo-tras-el-informe-de-binance-sobre-el-hackeo-a-la-plataforma-el-bitcoin-y-bnb-se-deprecian/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "El hackeo a Binance, valuado en más de USD 6.000 millones, quedó entre los mayores robos de criptomonedas de la historia",
+    "resumen": "Seis ataques, desde Mt. Gox hasta Bybit, revelaron que las fallas no son accidentales ni aisladas, sino estructurales: afectan protocolos, credenciales y mecanismos de custodia en todo el ecosistema",
+    "link": "https://www.infobae.com/economia/2026/10/30/el-hackeo-a-binance-valuado-en-mas-de-usd-6000-millones-quedo-entre-los-mayores-robos-de-criptomonedas-de-la-historia/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Qué se sabe sobre el hackeo a Binance y cuándo se habilitaría el retiro de fondos",
+    "resumen": "Mientras la plataforma evalúa los “múltiples factores” detrás del incidente, ratificó que los fondos de los usuarios están seguros. El ataque provocó una baja de casi el 4% en la cotización de bitcoin",
+    "link": "https://www.infobae.com/economia/2026/10/30/que-se-sabe-sobre-el-hackeo-a-binance-y-cuando-se-habilitaria-el-retiro-de-fondos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "El Banco Central celebró que el dólar subió solo 1% pese al shock de Brasil y volvió a negar atraso cambiario",
+    "resumen": "Santiago Bausili afirmó que la cotización local resistió el efecto regional provocado por el triunfo de Lula Da Silva y sostuvo que Argentina mantiene una dinámica cambiaria propia, comparable con Uruguay",
+    "link": "https://www.infobae.com/economia/2026/10/30/el-banco-central-celebro-que-el-dolar-subio-solo-1-pese-al-shock-de-brasil-y-volvio-a-negar-atraso-cambiario/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Cuántas onzas hay, dónde están y la estrategia “zero cost collar”: 20 frases de Santiago Bausili sobre el polémico oro del BCRA",
+    "resumen": "El presidente de la autoridad monetaria  dio detalles sobre las onzas troy que tiene el organismo señaló que los saldos de esta gestión fueron revisados por auditores internos, PwC y la Auditoría General de la Nación",
+    "link": "https://www.infobae.com/economia/2026/10/30/cuantas-onzas-hay-donde-estan-y-la-estrategia-zero-cost-collar-20-frases-de-santiago-bausili-sobre-el-polemico-oro-del-bcra/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "La consultora que más sigue la City porteña alertó por el esquema cambiario: la contradicción entre el dólar bajo y el riesgo país alto",
+    "resumen": "Los analistas plantearon que esa combinación difícilmente pueda sostenerse a mediano plazo, con el mercado de deuda cerrado y vencimientos por USD 4.500 millones en enero",
+    "link": "https://www.infobae.com/economia/2026/10/30/la-consultora-que-mas-sigue-la-city-portena-alerto-por-el-esquema-cambiario-la-contradiccion-entre-el-dolar-bajo-y-el-riesgo-pais-alto/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "El impacto del contrabando: el 60% de las empresas están afectadas y las pérdidas fiscales suman USD 2.300 millones al año",
+    "resumen": "El contrabando representa el 5% del PBI y seis de cada diez empresas industriales lo sufren. Esta semana el Estado firmó acuerdos con Mercado Libre y la UIA, entre otras cámaras empresarias para detectar y frenar el comercio ilegal",
+    "link": "https://www.infobae.com/economia/2026/10/30/el-impacto-del-contrabando-el-60-de-las-empresas-estan-afectadas-y-las-perdidas-fiscales-suman-usd-2300-millones-al-ano/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Los bonos revivieron y bajó el riesgo país en medio de otra caída del real, una crisis cripto por un hackeo y el balance de una bigtech",
+    "resumen": "La búsqueda de refugio en deuda estadounidense, tras las pérdidas tecnológicas y el ataque informático, favoreció a los títulos locales, mientras los nuevos AO28 y AO29 avanzaron hasta 0,8%",
+    "link": "https://www.infobae.com/economia/2026/10/30/los-bonos-revivieron-y-bajo-el-riesgo-pais-en-medio-de-otra-caida-del-real-una-crisis-cripto-por-un-hackeo-y-el-balance-de-una-bigtech/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Oficializaron la renuncia de Daniel González como secretario de Coordinación de Energía y Minería",
+    "resumen": "El ahora ex funcionario había anunciado su salida el 22 de octubre, luego de más de dos años en la gestión libertaria",
+    "link": "https://www.infobae.com/economia/2026/10/30/oficializaron-la-renuncia-de-daniel-gonzalez-como-secretario-de-coordinacion-de-energia-y-mineria/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Binance investiga un hackeo que podría superar los USD 6.000 millones: retiros suspendidos y fuerte caída del bitcoin",
+    "resumen": "El mayor exchange de criptomonedas del mundo afirmó que los fondos de los usuarios están seguros y que cubrirán las pérdidas con los fondos de la compañía. Tether y Circle congelaron más de USD 3.000 millones",
+    "link": "https://www.infobae.com/economia/2026/10/30/binance-investiga-posible-hackeo-de-mas-de-usd-5000-millones-bloqueos-retiros-suspendidos-y-fuerte-caida-del-precio-de-bitcoin/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Daniel González, a días de renunciar a su cargo en el Gobierno: “El RIGI no puede  solucionar todos los problemas de los argentinos”",
+    "resumen": "El ex secretario de Coordinación de Energía y Minería de Economía cerró la primera ronda de negocios del programa e hizo un balance de su paso por la administración pública",
+    "link": "https://www.infobae.com/economia/2026/10/30/daniel-gonzalez-a-dias-de-renunciar-a-su-cargo-en-el-gobierno-el-rigi-no-puede-solucionar-todos-los-problemas-de-los-argentinos/",
     "fuente": "infobae"
   },
   {
     "fecha": "2026-10-29",
-    "titulo": "Ronda RIGI: la UIA advirtió que las grandes inversiones no alcanzan y pidió fortalecer a los proveedores locales",
-    "resumen": "El presidente de la central fabril, Martín Rappallini, instó a promover una mayor articulación entre los sectores energético, minero y manufacturero",
-    "link": "https://www.infobae.com/economia/2026/10/29/ronda-rigi-la-uia-advirtio-que-las-grandes-inversiones-no-alcanzan-y-pidio-fortalecer-a-los-proveedores-locales/",
+    "titulo": "Subieron los bonos argentinos pese a la tendencia negativa de Wall Street y Brasil",
+    "resumen": "Los balances de compañías tecnológicas llevaron a rápidas tomas de ganancias y el índice Nasdaq cayó un 1,4%. El MSCI Merval revirtió las subas de la mañana y cedió 1%. El riesgo país bajó a 741 puntos básicos",
+    "link": "https://www.infobae.com/economia/2026/10/29/suben-las-acciones-y-los-bonos-argentinos-pese-a-la-tendencia-negativa-de-wall-street/",
     "fuente": "infobae"
   },
   {
@@ -200,6 +403,83 @@
     "titulo": "El riesgo país quedó al borde de su máximo del año y las acciones argentinas cayeron por tercera rueda seguida",
     "resumen": "La tendencia negativa de la Bolsa brasileña contagió a los activos domésticos. El MSCI Merval cedió 1,2%, los bonos cayeron 1,3% en promedio y el indicador de JP Morgan escaló a los 763 puntos. El dólar siguió a $1.560 en el Banco Nación y el BCRA no intervino en el mercado",
     "link": "https://www.infobae.com/economia/2026/10/29/el-riesgo-pais-quedo-al-borde-de-su-maximo-del-ano-y-las-acciones-argentinas-cayeron-por-tercera-rueda-seguida/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Colectivos: el Gobierno le va a dar más subsidios a las empresas para no aumentar el boleto a nivel nacional",
+    "resumen": "La Secretaría de Transporte incrementará el gasto público y hará giro mayores para no presionar a la inflación. A diferencia, el próximo domingo aumentará el pasaje en las líneas de la Ciudad un 3,9% y de la provincia de Buenos Aires un 5,02%",
+    "link": "https://www.infobae.com/economia/2026/10/29/colectivos-el-gobierno-le-va-a-dar-mas-subsidios-a-las-empresas-para-no-aumentar-el-boleto-a-nivel-nacional/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Leve alivio para el bolsillo de los argentinos: bajó la mora de las familias mientras crece la refinanciación",
+    "resumen": "Un informe privado señala que la tasa de morosidad de los hogares bajó en todas las grandes entidades. En paralelo, el crédito sigue sin crecer y las refinanciaciones continúan en aumento",
+    "link": "https://www.infobae.com/economia/2026/10/29/leve-alivio-para-el-bolsillo-de-los-argentinos-bajo-la-mora-de-las-familias-mientras-crece-la-refinanciacion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Jornada financiera: subieron los bonos argentinos y cayó el riesgo país, pero las acciones cedieron por cuarto día seguido",
+    "resumen": "Las bajas de Wall Street y la Bolsa de San Pablo dieron marco a una caída de 1% para el MSCI Merval. Los bonos Globales rebotaron 0,7% y el indicador de JP Morgan bajó a 741 puntos. El BCRA compró dólares después de tres ruedas sin intervención",
+    "link": "https://www.infobae.com/economia/2026/10/29/jornada-financiera-subieron-los-bonos-argentinos-y-cayo-el-riesgo-pais-pero-las-acciones-cedieron-por-cuarto-dia-seguido/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "El presidente del BCRA explicó como podría usar los swap con China y EEUU en 2027 y volvió a hablar del oro: “No tenemos nada en Inglaterra”",
+    "resumen": "Santiago Bausili habló de un eventual uso de los instrumentos ante tensiones cambiarias en el año electoral. Dio detalles sobre dónde está el oro y aseguró que para la cobertura de esas tenencias se usó a su ex empleados, el Deutsche Bank, pero que eso no representa ningún con...",
+    "link": "https://www.infobae.com/economia/2026/10/29/el-presidente-del-bcra-explico-como-podria-usar-los-swap-con-china-y-eeuu-y-volvio-a-hablar-del-oro-no-tenemos-nada-en-inglaterra/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "El dólar bajó en el mercado local, mientras que en Brasil volvió a subir frente al real",
+    "resumen": "La divisa mayorista cedió a $1.539, mientras que al público se mantuvo a $1.560 en el Banco Nación. En el país vecino subió 1,3%, a 5,41 reales",
+    "link": "https://www.infobae.com/economia/2026/10/29/el-dolar-bajo-en-el-mercado-local-mientras-que-en-brasil-volvio-a-subir-frente-al-real/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Mercado Pago, a un paso de convertirse en banco: el BCRA dio aprobación técnica a la licencia pedida por la empresa de Marcos Galperin",
+    "resumen": "El trámite fue aprobado por la Superintendencia de Entidades Financieras. El trámite final requerirá el OK del Directorio del Banco Central",
+    "link": "https://www.infobae.com/economia/2026/10/29/mercado-pago-a-un-paso-de-convertirse-en-banco-el-bcra-dio-aprobacion-tecnica-a-la-licencia-pedida-por-la-empresa-de-marcos-galperin/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Hernán Lacunza planteó la necesidad de corregir el rumbo del Gobierno: \"Tengo miedo de que termine mal\"",
+    "resumen": "El exministro de Hacienda y precandidato a presidente cuestionó la falta de crecimiento y empleo, pidió levantar los controles cambiarios y reclamó reconstruir capacidades estatales en salud, educación e infraestructura",
+    "link": "https://www.infobae.com/economia/2026/10/29/hernan-lacunza-planteo-la-necesidad-de-corregir-el-rumbo-del-gobierno-tengo-miedo-de-que-termine-mal/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "El BCRA anticipa presiones sobre la inflación en el último trimestre: cuáles son los tres rubros que pueden empujar los precios",
+    "resumen": "El informe trimestral advierte que factores estacionales y tarifarios pueden frenar de forma transitoria la baja de precios. Aun así, prevé que la desinflación continúe y que la actividad repunte en el cierre de 2026",
+    "link": "https://www.infobae.com/economia/2026/10/29/el-bcra-anticipa-presiones-sobre-la-inflacion-en-el-ultimo-trimestre-cuales-son-los-tres-rubros-que-pueden-empujar-los-precios/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "El CEO de YPF le anticipó a inversores de Wall Srtreet que se van a llevar una “sorpresa” en 2027",
+    "resumen": "El CEO de la petrolera estatal presentó resultados récord del tercer trimestre y prometió revelar en abril los objetivos de producción del año que viene, pero adelantó que superarán las expectativas",
+    "link": "https://www.infobae.com/economia/2026/10/29/el-cep-de-ypf-le-anticipo-a-inversores-de-wall-srtreet-que-se-van-a-llevar-una-sorpresa-en-2027/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Martín Redrado: \"En 2027 vamos a tener tensión con el dólar y hay que estar preparados\"",
+    "resumen": "El ex presidente del Banco Central minimizó el riesgo político y puso el foco en que todavía hay muchos pesos en la economía para alimentar una corrida en el pico de la demanda previa a las elecciones",
+    "link": "https://www.infobae.com/economia/2026/10/29/martin-redrado-en-2027-vamos-a-tener-tension-con-el-dolar-y-hay-que-estar-preparados/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Polémica por el oro del BCRA: la entidad respondió a las críticas de la AGN y defendió lo que considera una ganancia “inédita”",
+    "resumen": "El informe trimestral de política monetaria expuso la defensa técnica de las coberturas con derivados, cuestionadas por la Auditoría General de la Nación, y sostuvo que la estrategia permitió capturar cerca del 70% de la suba del metal en 2025",
+    "link": "https://www.infobae.com/economia/2026/10/29/polemica-por-el-oro-del-bcra-la-entidad-respondio-a-las-criticas-de-la-agn-y-defendio-lo-que-considera-una-ganancia-inedita/",
     "fuente": "infobae"
   },
   {
@@ -1292,13 +1572,6 @@
     "titulo": "Boom de compras al exterior: las importaciones vía courier crecieron 59,5% en lo que va del año y ya superaron el total de 2025",
     "resumen": "Entre enero y septiembre se hicieron compras por USD 960 millones. Qué productos se compran y qué empresas ganan terreno",
     "link": "https://www.infobae.com/economia/2026/10/23/boom-de-compras-al-exterior-las-importaciones-via-courier-crecieron-595-en-lo-que-va-del-ano-y-ya-superaron-el-total-de-2025/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-10-23",
-    "titulo": "Radiografía de Galperin, el argentino más rico: radicalización tuitera, apoyo a Milei y su rol como tecno magnate latino",
-    "resumen": "Se publicó la primera biografía no autorizada del fundador de Mercado Libre. Extractos sobre su relación con el poder y sus siempre polémicos posteos en redes sociales",
-    "link": "https://www.infobae.com/economia/2026/10/23/radiografia-de-galperin-el-argentino-mas-rico-radicalizacion-tuitera-apoyo-a-milei-y-su-rol-como-tecno-magnate-latino/",
     "fuente": "infobae"
   },
   {
