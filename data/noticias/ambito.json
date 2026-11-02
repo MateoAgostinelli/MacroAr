@@ -1,22 +1,113 @@
 [
   {
+    "fecha": "2026-11-02",
+    "titulo": "La inflación se consolidó por debajo del 2% en octubre, aunque advierten presiones por el lado de la vivienda",
+    "resumen": "Las consultoras estimaron una inflación de octubre similar al nivel de septiembre, presionada por estacionales y transporte, mientras la núcleo cedió. Aseguran que la tregua en tarifas influyó en el número.",
+    "link": "https://www.ambito.com/economia/la-inflacion-se-consolido-debajo-del-2-octubre-aunque-advierten-presiones-el-lado-la-vivienda-n6340511",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "EEUU llega a las elecciones con una economía dual: crece la actividad, pero también el costo de vida",
+    "resumen": "El aumento de la inflación a causa de los aranceles y la guerra en Medio Oriente fueron un duro golpe para los hogares norteamericanos. A eso se le agrega el debate por las inversiones masivas en inteligencia artificial y su impacto en la economía norteamericana.",
+    "link": "https://www.ambito.com/economia/eeuu-llega-las-elecciones-una-dual-crece-la-actividad-pero-tambien-el-costo-vida-n6340573",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "La inflación dejó de ser una de las principales preocupaciones de los argentinos: qué problemas encabezan el ranking",
+    "resumen": "Un reporte muestra que los reclamos de la sociedad que llevaron al presidente a la Casa Rosada ya no son los mismos. Desde el Ministerio de Economía se dice que no hay que cambiar \"ni un centímetro\".",
+    "link": "https://www.ambito.com/economia/la-inflacion-dejo-ser-una-las-principales-preocupaciones-los-argentinos-que-problemas-encabezan-el-ranking-n6340517",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "Cuánto cuesta el libro de León XIV, \"La fuerza del Evangelio\" y dónde comprarlo",
+    "resumen": "La obra reúne textos del pontífice y organiza su mirada pastoral alrededor de diez conceptos vinculados con la fe cristiana y la vida cotidiana.",
+    "link": "https://www.ambito.com/economia/cuanto-cuesta-el-libro-leon-xiv-la-fuerza-del-evangelio-y-donde-comprarlo-n6325182",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "El superávit energético se duplicó en septiembre y junto con el agro ayudan al Gobierno a \"blindar\" el dólar",
+    "resumen": "El crecimiento de las exportaciones, las emisiones de deuda corporativa y las perspectivas para Vaca Muerta fortalecen la oferta de divisas y contribuyen a moderar la presión sobre el dólar.",
+    "link": "https://www.ambito.com/economia/el-superavit-energetico-se-duplico-septiembre-y-junto-el-agro-ayudan-al-gobierno-blindar-el-dolar-n6340463",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "La UIA realiza su conferencia anual con una industria en rojo: presencia de Luis Caputo y foco en los impuestos",
+    "resumen": "La cámara industrial realizará su evento más importante del año este martes. Allí confluirán empresarios, gobernadores, funcionarios y especialistas. La competitividad, el desarrollo productivo y el impacto de la inteligencia artificial serán los ejes de la jornada.",
+    "link": "https://www.ambito.com/economia/la-uia-realiza-su-conferencia-anual-una-industria-rojo-presencia-luis-caputo-y-foco-los-impuestos-n6340448",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "EEUU y Canadá se acercan a un acuerdo para poner fin a la guerra de aranceles",
+    "resumen": "Tras la ruptura de las negociaciones en agosto, ambos líderes reanudaron el diálogo para eliminar las barreras comerciales. El encarecimiento de insumos clave afectó la logística interna en EEUU y pasó factura en la campaña electoral republicana en estados fronterizos.",
+    "link": "https://www.ambito.com/economia/eeuu-y-canada-se-acercan-un-acuerdo-poner-fin-la-guerra-aranceles-n6340408",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "Colectivos: ARBA reglamentó la exención del Impuesto Automotor para vehículos del transporte público provincial",
+    "resumen": "Las empresas de colectivos de jurisdicción provincial no tendrán que tramitar el beneficio ante ARBA: el Ministerio de Transporte bonaerense informará cada mes qué unidades prestan el servicio y la Agencia aplicará la exención de oficio.",
+    "link": "https://www.ambito.com/economia/arba-reglamento-la-exencion-del-impuesto-automotor-vehiculos-del-transporte-publico-provincial-n6340383",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "El RENATRE aumentó 5% la prestación por desempleo rural: cuáles son los nuevos montos",
+    "resumen": "La actualización alcanza a los beneficiarios del Sistema Integral de Prestaciones por Desempleo. El incremento rige desde el 1 de noviembre.",
+    "link": "https://www.ambito.com/economia/el-renatre-aumento-5-la-prestacion-desempleo-rural-cuales-son-los-nuevos-montos-n6340377",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "Transporte: el Gobierno actualizó los subsidios a los colectivos del AMBA y pagará $38.840 millones a las empresas",
+    "resumen": "La resolución fija las compensaciones para las líneas nacionales del AMBA entre octubre y enero, e incorpora por primera vez en el cálculo las inversiones para migrar a colectivos a GNC y eléctricos.",
+    "link": "https://www.ambito.com/economia/transporte-el-gobierno-actualizo-los-subsidios-los-colectivos-del-amba-y-pagara-38840-millones-las-empresas-n6340381",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "La Fed no tiene prisa, los mercados volvieron a trabajar para ella",
+    "resumen": "A pesar de la inflación elevada y el crecimiento económico, la Fed decidió no modificar las tasas de interés, sorprendiendo a algunos analistas.",
+    "link": "https://www.ambito.com/economia/la-fed-no-tiene-prisa-los-mercados-volvieron-trabajar-ella-n6340339",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "Banco Nación mantiene la máxima calificación crediticia del mercado",
+    "resumen": "FIX SCR confirmó la nota AAA(arg) de largo plazo y resaltó la fortaleza financiera, la capitalización, la liquidez y el liderazgo sistémico de la entidad.",
+    "link": "https://www.ambito.com/economia/banco-nacion-mantiene-la-maxima-calificacion-crediticia-del-mercado-n6339948",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "La caída de la industria: baja demanda interna y sueldos en dólares altos",
+    "resumen": "La actividad industrial registró en septiembre una baja del 2,8% respecto al mismo período de 2025. La baja demanda interna como el principal freno a la producción. Para el año en curso, proyecciones privadas estiman el cierre de 3.300 industrias y la pérdida de 105.000 puesto...",
+    "link": "https://www.ambito.com/economia/la-caida-la-industria-baja-demanda-interna-y-sueldos-dolares-altos-n6340338",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-11-01",
     "titulo": "Cuánto cuesta la pelota del Superclásico Boca vs River y dónde comprar la Argentum Gambeta Derbi",
-    "resumen": "<p id=\"p-1793277903009-39613\" class=\"ignore-parser\">Referencias históricas, acabado texturado y sellado térmico distinguen al balón reservado para algunos encuentros del torneo local.</p>",
+    "resumen": "Referencias históricas, acabado texturado y sellado térmico distinguen al balón reservado para algunos encuentros del torneo local.",
     "link": "https://www.ambito.com/economia/cuanto-cuesta-la-pelota-del-superclasico-boca-vs-river-y-donde-comprar-la-argentum-gambeta-derbi-n6339225",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-01",
     "titulo": "Salarios: cuánto cobrarán los empleados de Comercio en noviembre de 2026",
-    "resumen": "<p id=\"p-1793134216602-69870\" class=\"ignore-parser\">Los trabajadores recibirán una suba del 1,9% y la segunda cuota del bono extraordinario. También continuará el pago de los $120.000 acordados en la negociación anterior.</p>",
+    "resumen": "Los trabajadores recibirán una suba del 1,9% y la segunda cuota del bono extraordinario. También continuará el pago de los $120.000 acordados en la negociación anterior.",
     "link": "https://www.ambito.com/economia/cuanto-cobraran-los-empleados-comercio-noviembre-2026-n6338567",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-01",
     "titulo": "Salarios: cuánto cobrarán los empleados de la construcción en noviembre de 2026",
-    "resumen": "<p id=\"p-1790718206487-98331\" class=\"ignore-parser\">Los trabajadores del sector recibirán una suba del 1,7% sobre los básicos de octubre. Cómo quedan los valores por categoría y qué establece la paritaria de UOCRA.</p> <p id=\"p-1790718056661-70293\" class=\"ignore-parser\"></p>",
+    "resumen": "Los trabajadores del sector recibirán una suba del 1,7% sobre los básicos de octubre. Cómo quedan los valores por categoría y qué establece la paritaria de UOCRA.",
     "link": "https://www.ambito.com/economia/cuanto-cobraran-los-empleados-la-construccion-noviembre-2026-n6338551",
     "fuente": "ambito"
   },
@@ -53,6 +144,34 @@
     "titulo": "Dólar, embargos y recesión: Luis Caputo va a la UIA con muchos problemas y pocas herramientas",
     "resumen": "<p id=\"p-1793467780457-76142\" class=\"ignore-parser\">Pese a la recesión y el alza del riesgo país, el Ministero de Economía anticipa que no tomará medidas. El dólar vuelve a la agenda empresaria.</p>",
     "link": "https://www.ambito.com/economia/dolar-embargos-y-recesion-luis-caputo-va-la-uia-muchos-problemas-y-pocas-herramientas-n6340082",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-01",
+    "titulo": "Las exportaciones de carne crecieron casi 37% en lo que va de 2026 por la mejora en los precios",
+    "resumen": "Según un informe del Consorcio ABC, las ventas externas de carne bovina crecieron un 36,9% en valor durante los primeros nueve meses del año, mientras que los volúmenes aumentaron apenas 5,3%. Sin embargo, en septiembre los envíos retrocedieron frente a agosto y China concentr...",
+    "link": "https://www.ambito.com/economia/las-exportaciones-carne-crecieron-casi-37-lo-que-va-2026-la-mejora-los-precios-n6340272",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-01",
+    "titulo": "Dormir como los reyes: cómo es por dentro el exclusivo hotel oculto en el Palacio de Versalles",
+    "resumen": "Una experiencia permite pasar la noche dentro de la histórica finca francesa y recorrer espacios que quedan vacíos cuando se van los turistas.",
+    "link": "https://www.ambito.com/economia/dormir-como-los-reyes-como-es-dentro-el-exclusivo-hotel-oculto-el-palacio-versalles-n6339775",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-01",
+    "titulo": "Salarios de noviembre, uno a uno: qué gremios reciben aumentos y quiénes cobran bonos de más de $2 millones",
+    "resumen": "Con aumentos que en su mayoría oscilan entre el 1,6% y el 1,9%, las paritarias de noviembre vuelven a quedar bajo presión por la inflación. En línea con la dinámica que viene ocurriendo los meses anteriores, los gremios apuestan a bonos y sumas extraordinarias para compensar l...",
+    "link": "https://www.ambito.com/economia/salarios-noviembre-uno-uno-que-gremios-reciben-aumentos-y-quienes-cobran-bonos-mas-2-millones-n6340247",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-01",
+    "titulo": "Plazo fijo en dólares: cuánto debés depositar para ganar u$s100",
+    "resumen": "El Banco Nación ofrece diferentes rendimientos según el plazo y el canal elegido para inmovilizar los ahorros en moneda estadounidense.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-debes-depositar-ganar-us100-n6339766",
     "fuente": "ambito"
   },
   {
