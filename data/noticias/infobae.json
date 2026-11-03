@@ -1,7 +1,245 @@
 [
   {
+    "fecha": "2026-11-03",
+    "titulo": "Jubilaciones y AUH de ANSES: de cuánto serán en noviembre 2026",
+    "resumen": "La actualización se calculará con la inflación informada por el INDEC, mientras que la entidad ya confirmó el día de los pagos",
+    "link": "https://www.infobae.com/economia/2026/11/02/jubilaciones-y-auh-de-anses-de-cuanto-seran-en-noviembre-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "La advertencia de la UIA al Gobierno: la estabilización no alcanza y las empresas no pueden esperar las reformas",
+    "resumen": "En su discurso de cierre de la 32° Conferencia Industrial, el presidente de la entidad, Martín Rappallini reconoció los avances macroeconómicos, pero reclamó medidas urgentes para sostener la producción y el empleo",
+    "link": "https://www.infobae.com/economia/2026/11/03/la-advertencia-de-la-uia-al-gobierno-la-estabilizacion-no-alcanza-y-las-empresas-no-pueden-esperar-las-reformas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "El Gobierno defendió su agenda desreguladora en España: “Modernizar, simplificar o digitalizar algo inútil es inútil”",
+    "resumen": "El secretario Alejandro Cacace, segundo de Federico Sturzenegger, habló en la Conferencia Internacional de Banca 2026 de Santander. Destacó que la estrategia local combina cambios regulatorios con estabilización fiscal, monetaria y financiera",
+    "link": "https://www.infobae.com/economia/2026/11/03/el-gobierno-defendio-su-agenda-desreguladora-en-espana-modernizar-simplificar-o-digitalizar-algo-inutil-es-inutil/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Una entrevista de trabajo falsa, meses de preparación y el rol de Corea del Norte: Binance reveló cómo fue hackeada",
+    "resumen": "La investigación preliminar de la empresa sobre el robo de USD 6.300 millones de criptoactivos de la semana pasada indicó que hubo acciones de “ingeniería social” para engañar a sus empleados y acceder a los sistemas de la plataforma",
+    "link": "https://www.infobae.com/economia/2026/11/03/una-entrevista-de-trabajo-falsa-meses-de-preparacion-y-el-rol-de-corea-del-norte-binance-revelo-como-fue-hackeada/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "A la espera de las elecciones en EEUU, sube el riesgo país argentino y se aleja de los 800 puntos",
+    "resumen": "Wall Street opera sin tendencia definida y el precio del crudo sube menos de 1%. El MSCI Merval cae 0,9% y los bonos en dólares restan 0,2% en promedio",
+    "link": "https://www.infobae.com/economia/2026/11/03/caen-las-acciones-argentinas-y-el-riesgo-pais-sigue-por-encima-de-los-800-puntos-a-la-espera-de-las-elecciones-en-eeuu/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Cómo cambiarán los peajes en Argentina desde el 1° de enero próximo",
+    "resumen": "Las estaciones están migrando sus modos de pago a sistemas automáticos. Ya no habrá cobro manual, pero existen varios métodos digitales y el sistema TelePASE que es de cobertura nacional.",
+    "link": "https://www.infobae.com/economia/2026/11/03/como-cambiaran-los-peajes-en-argentina-desde-el-1-de-enero-proximo/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Cómo es el primer fondo que permite invertir en todas las acciones del índice Merval con una única inversión",
+    "resumen": "El instrumento es emitido replica el índice de renta variable de las acciones líderes de la Bolsa de Comercio de Buenos Aires",
+    "link": "https://www.infobae.com/economia/2026/11/03/como-es-el-primer-fondo-que-permite-invertir-en-todas-las-acciones-del-indice-merval-con-una-unica-inversion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Carlos Maslatón: “Vivimos en una mentira financiera permanente por culpa de Caputo y Milei”",
+    "resumen": "Carlos Maslatón cuestionó el programa económico de Javier Milei, anticipó una depreciación del peso y estimó que la corrección económica se extenderá hasta noviembre de 2027",
+    "link": "https://www.infobae.com/economia/2026/11/03/carlos-maslaton-vivimos-en-una-mentira-financiera-permanente-por-culpa-de-caputo-y-milei/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "El petróleo revierte su alza tras el anuncio de Trump de que dejará de pagar a Israel",
+    "resumen": "El Brent y el WTI suben más de 1 dólar y revierten parte de la fuerte caída del lunes. Un alto funcionario iraní dijo que las partes están “lejos” de un pacto",
+    "link": "https://www.infobae.com/america/mundo/2026/11/03/el-petroleo-sube-tras-el-ataque-de-eeuu-a-la-isla-de-qeshm-y-las-dudas-sobre-un-acuerdo-para-terminar-la-guerra/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Escándalo en Paraguay: la intervención del Ueno Bank congeló depósitos del Instituto de Previsión Social y el Ministerio de Economía",
+    "resumen": "Son los dos máximos clientes de la entidad financiera que dirigía el actual presidente del Banco Central, quien ahora debe conducir la investigación, presentó su renuncia, pero dijo que de todos modos seguirá en el cargo",
+    "link": "https://www.infobae.com/america/america-latina/2026/11/03/escandalo-en-paraguay-por-la-intervencion-al-ueno-bank-la-entidad-que-digiria-el-actual-presidente-del-banco-central/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "La Unión Industrial Argentina celebra su 32° Conferencia Industrial",
+    "resumen": "La UIA organiza hoy su encuentro anual en el Golden Center porteño con la presencia del ministro de Economía Luis Caputo, del jefe de Gabinete Diego Santilli y de cinco gobernadores",
+    "link": "https://www.infobae.com/economia/2026/11/03/la-union-industrial-argentina-celebra-su-32-conferencia-industrial/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Una marca argentina de calzado premium pidió el concurso preventivo por deudas millonarias",
+    "resumen": "La firma Se Ve S.A., propietaria de Clara Barceló Shoes, tiene abierto un proceso judicial para reestructurar sus deudas. El BCRA registró obligaciones financieras por $415,9 millones en septiembre, el 93% de esa cifra está en mora",
+    "link": "https://www.infobae.com/economia/2026/11/03/una-marca-argentina-de-calzado-premium-pidio-el-concurso-preventivo-por-deudas-millonarias/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Crece la venta de vehículos híbridos y eléctricos puros: cuánto representa del total del mercado automotor",
+    "resumen": "En octubre se volvió a reflejar una constante suba de los vehículos que combinan combustión y electricidad por cuarto mes consecutivo. Lo impulsa la importación sin pagar aranceles, pero hay un interés por la tecnología",
+    "link": "https://www.infobae.com/economia/2026/11/03/crece-la-venta-de-vehiculos-hibridos-y-electricos-puros-cuanto-representa-del-total-del-mercado-automotor/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "El Reino Unido y la Unión Europea alcanzaron un borrador de acuerdo para eliminar la burocracia del Brexit",
+    "resumen": "El pacto, de 200 páginas, busca suprimir certificados sanitarios, tasas de inspección y controles aduaneros en el comercio de alimentos entre ambas partes",
+    "link": "https://www.infobae.com/america/mundo/2026/11/03/el-reino-unido-y-la-union-europea-alcanzaron-un-borrador-de-acuerdo-para-eliminar-la-burocracia-del-brexit/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Delcy Rodríguez recibió al ministro de Economía de Portugal y 37 entidades de distintos sectores del país europeo",
+    "resumen": "La reunión se dio en el marco del fortalecimiento y el diálogo político bilateral y como parte de un “nuevo ciclo de cooperación económica” para “ampliar las capacidades productivas, el intercambio comercial”",
+    "link": "https://www.infobae.com/venezuela/2026/11/03/delcy-rodriguez-recibio-al-ministro-de-economia-de-portugal-y-37-entidades-de-distintos-sectores-del-pais-europeo/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Para el economista Fernando Marull, la suba del riesgo país refleja que bajaron las chances de reelección de Milei",
+    "resumen": "El analista trazó un panorama sobre la estrategia del gobierno de cara a las elecciones, con estabilidad sin crecimiento, medidas acotadas y un mercado que ya descuenta un escenario competitivo pero incierto",
+    "link": "https://www.infobae.com/economia/2026/11/03/para-el-economista-fernando-marull-la-suba-del-riesgo-pais-refleja-que-bajaron-las-chances-de-reeleccion-de-milei/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "De cuánto es la PUAM de ANSES en noviembre 2026",
+    "resumen": "El haber se actualiza con el incremento del 1,93% que rige para todas las prestaciones previsionales del organismo este mes",
+    "link": "https://www.infobae.com/economia/2026/11/03/de-cuanto-es-la-puam-de-anses-en-noviembre-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Economía anunció la suspensión de embargos de ARCA para pymes y otras tres medidas para impulsar la actividad",
+    "resumen": "El paquete incluye la suspensión de embargos de ARCA hasta mayo de 2027, más facilidades para regularizar deudas, compensar saldos a favor y financiar a la industria automotriz.",
+    "link": "https://www.infobae.com/economia/2026/11/03/economia-anuncio-la-suspension-de-embargos-de-arca-para-pymes-y-otras-tres-medidas-para-impulsar-la-actividad/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "La fabricante de maquinaria agrícola Metalfor pidió su concurso preventivo tras meses de crisis financiera y despidos",
+    "resumen": "La empresa con sede en Marcos Juárez, que meses atrás había recibido un préstamo de USD 50 millones del banco de desarrollo de Estados Unidos, busca ordenar sus deudas y garantizar la continuidad operativa",
+    "link": "https://www.infobae.com/economia/2026/11/03/la-fabricante-de-maquinaria-agricola-metalfor-pidio-su-concurso-preventivo-tras-meses-de-crisis-financiera-y-despidos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Kristalina Georgieva destacó a la Argentina como ejemplo de disciplina fiscal: “Hay que cortarle la cabeza al populismo”",
+    "resumen": "La titular del Fondo Monetario sostuvo, durante una conferencia financiera en Madrid, que el país está sentando las bases para el crecimiento y la estabilidad macroeconómica y financiera. Habló de IA y la economía global junto a Ana Botín, presidente de Santander",
+    "link": "https://www.infobae.com/economia/2026/11/03/kristalina-georgieva-destaco-a-la-argentina-como-ejemplo-de-disciplina-fiscal-lo-estan-haciendo-muy-bien/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Caputo respondió a los pedidos para inyectar pesos y reactivar el crédito en 2027: “Los bancos no prestan por incertidumbre”",
+    "resumen": "El ministro de Economía defendió la política monetaria ante la UIA, atribuyó la menor expansión del financiamiento a la mora y las dudas sobre el rumbo económico, y rechazó la idea de inyectar pesos para reactivar",
+    "link": "https://www.infobae.com/economia/2026/11/03/caputo-respondio-a-los-pedidos-para-inyectar-pesos-y-reactivar-el-credito-en-2027-los-bancos-no-prestan-por-incertidumbre/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "La UIA reúne a Caputo y los gobernadores en el mayor evento industrial, mientras la actividad acumula nueve meses de baja",
+    "resumen": "La entidad fabril organiza hoy su encuentro anual en el Golden Center porteño, mientras la actividad acumula nueve meses de baja. El sector reclama que la energía y la minería derramen sobre la manufactura local",
+    "link": "https://www.infobae.com/economia/2026/11/03/la-uia-reune-a-caputo-y-los-gobernadores-en-el-mayor-evento-industrial-mientras-la-actividad-acumula-nueve-meses-de-baja/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Cuánto cobrarán por hora las empleadas doméstica tras el aumento en noviembre 2026",
+    "resumen": "El personal de casas particulares recibirá una suba del 1,6 % este mes y otra igual en diciembre. Las escalas cambian según la categoría, el retiro y los adicionales",
+    "link": "https://www.infobae.com/economia/2026/11/03/cuanto-cobraran-por-hora-las-empleadas-domestica-tras-el-aumento-en-noviembre-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Inocencia Fiscal II y cambios que impactan: Impuesto a las Ganancias y reducción de multas",
+    "resumen": "Las disposiciones publicadas en octubre permiten que los contribuyentes se adhieran al sistema sin límites de $1.000 millones de facturación ni de $10.000 millones de bienes declarados, según la reforma normativa",
+    "link": "https://www.infobae.com/opinion/2026/11/03/inocencia-fiscal-ii-y-cambios-que-impactan-impuesto-a-las-ganancias-y-reduccion-de-multas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Mariana Camino, CEO de Abeceb, advirtió sobre el riesgo de esperar para invertir: “Puede ser caro para una empresa”",
+    "resumen": "A dos días del 16° Foro ABECEB, la economista analizó las oportunidades y riesgos que afronta la Argentina, las perspectivas económicas para 2027 y el impacto del escenario electoral",
+    "link": "https://www.infobae.com/economia/2026/11/03/mariana-camino-ceo-de-abeceb-advirtio-sobre-el-riesgo-de-esperar-para-invertir-puede-ser-caro-para-una-empresa/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Nueva banda cambiaria: hasta qué precio puede subir el dólar en noviembre sin que intervenga el BCRA",
+    "resumen": "Tras conocerse el 1,93% de inflación en septiembre, el Banco Central ajustó los topes a partir de este mes. El margen que separa a la cotización actual del máximo fijado",
+    "link": "https://www.infobae.com/economia/2026/11/03/nueva-banda-cambiaria-hasta-que-precio-puede-subir-el-dolar-en-noviembre-sin-que-intervenga-el-bcra/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Calendario de ANSES: cuándo cobran jubilados, beneficiarios de AUH y planes sociales en noviembre 2026",
+    "resumen": "Los haberes y las prestaciones aumentarán 1,93% en el décimo mes del año. El cronograma oficial detalla las fechas de cobro y los nuevos importes correspondientes a cada prestación",
+    "link": "https://www.infobae.com/economia/2026/11/03/calendario-de-anses-cuando-cobran-jubilados-beneficiarios-de-auh-y-planes-sociales-en-noviembre-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Cuánto cobrarán los cajeros de supermercado en noviembre 2026",
+    "resumen": "La escala de Comercio suma una suba mensual y el segundo pago excepcional, mientras presentismo, antigüedad y manejo de caja pueden modificar la liquidación final",
+    "link": "https://www.infobae.com/economia/2026/11/03/cuanto-cobraran-los-cajeros-de-supermercado-en-noviembre-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Por la suba del riesgo país las acciones de un sector clave acumulan caídas de hasta 46% y cotizan en mínimos del año",
+    "resumen": "Las valuaciones reflejan que los papeles de los bancos locales se muestran atractivos para posicionarse a largo plazo. La sorpresiva elección en Brasil y la incertidumbre política local juegan en contra de una recuperación",
+    "link": "https://www.infobae.com/economia/2026/11/03/por-la-suba-del-riesgo-pais-las-acciones-de-un-sector-clave-acumulan-caidas-de-hasta-46-y-cotizan-en-minimos-del-ano/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Se lanzó la venta de la única pickup compacta argentina: cómo es, cuánto cuesta y qué versiones tiene",
+    "resumen": "Renault Niagara llega a los concesionarios con alternativas 4x2 y 4x4, una caja de más de 650 kilos de capacidad de carga. Se vende por plan de ahorro o financiación a tasa 0%, con precios que arrancan por encima de los $45.000.000",
+    "link": "https://www.infobae.com/economia/2026/11/03/se-lanzo-la-venta-de-la-unica-pickup-compacta-argentina-como-es-cuanto-cuesta-y-que-versiones-tiene/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Paritarias con tope: qué impacto pueden tener sobre la recuperación de la actividad y la desaceleración de la inflación",
+    "resumen": "El Gobierno festejó que los salarios le ganaron a la inflación en agosto, pero el cierre de los acuerdos hasta fin de año son poco optimistas. La visión de los analistas respecto a como impacta en las dos variables que necesita el oficialismo que mejoren",
+    "link": "https://www.infobae.com/economia/2026/11/03/paritarias-con-tope-que-impacto-pueden-tener-sobre-la-recuperacion-de-la-actividad-y-la-desaceleracion-de-la-inflacion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Mercados volátiles: los tres factores que impulsaron el riesgo país y sacudieron a los activos argentinos",
+    "resumen": "La incertidumbre por las elecciones en Estados Unidos, las señales políticas de Brasil y la debilidad de Wall Street presionaron sobre bonos, acciones y dólar",
+    "link": "https://www.infobae.com/economia/2026/11/03/mercados-volatiles-los-tres-factores-que-impulsaron-el-riesgo-pais-y-sacudieron-a-los-activos-argentinos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "El error de creer que la macroeconomía está ordenada y solo falta arreglar la micro",
+    "resumen": "La escuela austríaca enseña que los agregados dependen de decisiones individuales, por lo que equilibrar las cuentas del Estado resulta estéril si persisten fuertes presiones impositivas y regulaciones que asfixian el desarrollo del sector productivo",
+    "link": "https://www.infobae.com/opinion/2026/11/03/el-error-de-creer-que-la-macroeconomia-esta-ordenada-y-solo-falta-arreglar-la-micro/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "El riesgo país tocó su nivel más alto en un año: cuáles son las razones detrás de la nueva baja de la deuda argentina",
+    "resumen": "",
+    "link": "https://www.infobae.com/economia/2026/11/02/el-riesgo-pais-toco-su-nivel-mas-alto-en-un-ano-cuales-son-las-razones-detras-de-la-nueva-baja-de-los-activos-argentinos/",
+    "fuente": "infobae"
+  },
+  {
     "fecha": "2026-11-02",
-    "titulo": "Sube Wall Street ante la fuerte baja del petróleo, pero caen los activos argentinos y sube el riesgo país",
+    "titulo": "Los activos argentinos profundizaron las bajas y el riesgo país volvió a superar los 800 puntos básicos",
     "resumen": "Los índices de Nueva York progresan  hasta 0,8%, mientras que el barril de crudo Brent descuenta 8%. Los bonos argentinos perdieron las subas de la mañana y caen 0,7%. El MSCI Merval cede 2,4%",
     "link": "https://www.infobae.com/economia/2026/11/02/sube-wall-street-ante-la-fuerte-baja-del-petroleo-y-cede-el-riesgo-pais-argentino/",
     "fuente": "infobae"
@@ -39,13 +277,6 @@
     "titulo": "Oro del BCRA: el abogado Gregorio Dalbón llevó al regulador del mercado de EEUU el caso por operaciones con reservas del metal",
     "resumen": "El letrado presentó un reporte para que el organismo estadounidense evalúe posibles pagos indebidos y fallas de control en operaciones que, según la AGN, generaron pérdidas por USD 1.023 millones",
     "link": "https://www.infobae.com/economia/2026/11/02/oro-del-bcra-el-abogado-gregorio-dalbon-llevo-al-regulador-del-mercado-de-eeuu-el-caso-por-operaciones-con-reservas-del-metal/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-11-02",
-    "titulo": "Jubilaciones y AUH de ANSES: de cuánto serán en noviembre 2026",
-    "resumen": "La actualización se calculará con la inflación informada por el INDEC, mientras que la entidad ya confirmó el día de los pagos",
-    "link": "https://www.infobae.com/economia/2026/11/02/jubilaciones-y-auh-de-anses-de-cuanto-seran-en-noviembre-2026/",
     "fuente": "infobae"
   },
   {
@@ -186,6 +417,34 @@
     "titulo": "Qué esperan las consultoras privadas para el dato de inflación de octubre",
     "resumen": "Las consultoras ahora estiman que el Índice de Precios al Consumidor (IPC) podría ubicarse en torno al 2% por la suba de alimentos. El Banco Central anticipó presiones sobre el indicador en el cuarto trimestre del año por la carne y los combustibles",
     "link": "https://www.infobae.com/economia/2026/11/02/que-esperan-las-consultoras-privadas-para-el-dato-de-inflacion-de-octubre/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "Las acciones argentinas cayeron por sexta rueda seguida, el riesgo país superó los 800 puntos y el BCRA no compró reservas",
+    "resumen": "Wall Street operó sin tendencia, mientras que el petróleo bajó un 8%. El MSCI Merval cedió 3,2%, los ADR descontaron hasta 7% y los bonos perdieron un 1,2% en promedio. El dólar subió a un récord de $1.565 en el Banco Nación y el BCRA no intervino en el mercado",
+    "link": "https://www.infobae.com/economia/2026/11/02/las-acciones-argentinas-cayeron-por-sexta-rueda-seguida-el-riesgo-pais-supero-los-800-puntos-y-el-bcra-no-compro-reservas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "La recaudación tributaria creció por segundo mes consecutivo por encima de la inflación en octubre",
+    "resumen": "Es un fenómeno que no ocurría desde 2022. Los factores que contribuyeron a que ARCA alcanzara en el décimo mes de 2026 ingresos por $21,6 billones",
+    "link": "https://www.infobae.com/economia/2026/11/02/la-recaudacion-tributaria-crecio-por-segundo-mes-consecutivo-por-encima-de-la-inflacion-en-octubre/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "Perfumes árabes, celulares y juguetes: los productos donde más avanza el contrabando y su millonario costo fiscal",
+    "resumen": "La actualización de un informe de MAP LATAM, presentada este lunes estimó pérdidas fiscales por casi USD 3.000 millones anuales y más de 11.000 empleos formales que no se generan. El estudio analizó 15 sectores de la economía",
+    "link": "https://www.infobae.com/economia/2026/11/02/perfumes-arabes-celulares-y-juguetes-los-productos-donde-mas-avanza-el-contrabando-y-su-millonario-costo-fiscal/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "Conflicto en Medio Oriente: la nafta argentina subió casi al ritmo de Europa y más de cinco veces por encima de Brasil",
+    "resumen": "Pese al mecanismo de amortiguación que aplicó YPF, los combustibles en la Argentina aumentaron más que en el resto de América Latina, mientras la demanda de nafta acumula una baja del 2,4% en lo que va del año",
+    "link": "https://www.infobae.com/economia/2026/11/02/conflicto-en-medio-oriente-la-nafta-argentina-subio-casi-al-ritmo-de-europa-y-mas-de-cinco-veces-por-encima-de-brasil/",
     "fuente": "infobae"
   },
   {
