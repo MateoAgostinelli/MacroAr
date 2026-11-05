@@ -1,9 +1,79 @@
 [
   {
-    "fecha": "2026-11-04",
+    "fecha": "2026-11-05",
     "titulo": "Cuánto cuesta el libro de León XIV, \"La fuerza del Evangelio\" y dónde comprarlo",
     "resumen": "La obra reúne textos del pontífice y organiza su mirada pastoral alrededor de diez conceptos vinculados con la fe cristiana y la vida cotidiana.",
     "link": "https://www.ambito.com/economia/cuanto-cuesta-el-libro-leon-xiv-la-fuerza-del-evangelio-y-donde-comprarlo-n6325182",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "REM de octubre: los gurúes de la city actualizan sus pronósticos para el dólar, la inflación y el PBI",
+    "resumen": "El Banco Central dará a conocer esta tarde el Relevamiento de Expectativas de Mercado con las proyecciones de más de 40 consultoras y entidades financieras. Tras convalidar meses atrás un escenario de leve contracción y traspiés en la actividad, el mercado recalibra sus expect...",
+    "link": "https://www.ambito.com/economia/rem-octubre-los-gurues-la-city-actualizan-sus-pronosticos-el-dolar-la-inflacion-y-el-pbi-n6341932",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Vladimir Werning, vice del BCRA: \"La rentabilidad de los sectores exportadores tiene un efecto derrame fuertísimo\"",
+    "resumen": "Pese a que en los próximos días se confirmaría la recesión técnica, el funcionario aseguró que la dinámica del comercio exterior genera un beneficio sistémico para la economía argentina.",
+    "link": "https://www.ambito.com/economia/vladimir-werning-vice-del-bcra-la-rentabilidad-los-sectores-exportadores-tiene-un-efecto-derrame-fuertisimo-n6341886",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Donald Trump avanza contra la Fed: se fijó una audiencia para intentar apartar a Lisa Cook en diciembre",
+    "resumen": "La audiencia para desplazarla está prevista para el 14 de diciembre, mientras la gobernadora de la Reserva Federal niega de plano las acusaciones. Ningún presidente ha destituido jamás a un miembro del banco central de EEUU.",
+    "link": "https://www.ambito.com/economia/donald-trump-avanza-contra-la-fed-se-fijo-una-audiencia-intentar-apartar-lisa-cook-diciembre-n6341908",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Gustavo Puccini, ministro de producción de Santa Fe: \"El RIGI no llegará a las pymes si las provincias no acercan las puntas\"",
+    "resumen": "En diálogo con Ámbito, el funcionario aseguró que la provincia tiene \"fierros, cerebro, innovación y capacidad de gestión\" para insertarse en los mega proyectos del RIGI. Destacó convenios estratégicos con San Juan y Neuquén.",
+    "link": "https://www.ambito.com/economia/gustavo-puccini-ministro-produccion-santa-fe-el-rigi-no-llegara-las-pymes-si-las-provincias-no-acercan-las-puntas-n6341682",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "China exige una baja de aranceles a EEUU para destrabar la compra de productos agrícolas",
+    "resumen": "Pekín supedita el paquete de importaciones por u$s17.000 millones a una reducción tarifaria mutua. Crecen las dudas sobre el cumplimiento de las metas anuales fijadas con Washington. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/china-exige-una-baja-aranceles-eeuu-destrabar-la-compra-productos-agricolas-n6341802",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Plazo fijo en dólares: cuánto debés depositar para ganar u$d200",
+    "resumen": "Las entidades muestran rendimientos dispares y el capital requerido cambia según la propuesta, el canal elegido y el horizonte de colocación.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-debes-depositar-ganar-ud200-n6341374",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "ARCA prorrogó hasta junio de 2027 la moratoria para pymes, monotributistas y entidades sin fines de lucro",
+    "resumen": "Las deudas vencidas hasta el 31 de octubre podrán incluirse en el régimen especial, cuyo plazo de adhesión se extiende hasta el 30 de junio de 2027. El sistema estará habilitado desde el 16 de noviembre.",
+    "link": "https://www.ambito.com/economia/arca-prorrogo-junio-2027-la-moratoria-pymes-monotributistas-y-entidades-fines-lucro-n6341753",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Advierten que el poder de fuego del FMI quedó rezagado",
+    "resumen": "El papel del Fondo apunta a prevenir crisis e ir al salvataje de miembros. Hoy su capacidad luce lejana frente a la dimensión de la economía global y del tamaño que ha alcanzado la deuda mundial.",
+    "link": "https://www.ambito.com/economia/advierten-que-el-poder-fuego-del-fmi-quedo-rezagado-n6341691",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "¿Puede EEUU volver a rescatar a la Argentina? Dudas tras la ola azul y cuestionamientos por no salir antes al mercado",
+    "resumen": "El triunfo demócrata deja a Donald Trump con menos margen para repetir el rescate de 2025. Sin acceso al mercado y con vencimientos por delante, el Gobierno apuesta a su plan financiero, pero los bancos piden acelerar la compra de reservas.",
+    "link": "https://www.ambito.com/economia/puede-eeuu-volver-rescatar-la-argentina-dudas-la-ola-azul-y-cuestionamientos-no-salir-antes-al-mercado-n6341673",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Diálogos de Wall Street: buena reacción de los mercados tras la barrida demócrata en el Congreso",
+    "resumen": "¿Qué lecciones deja la barrida demócrata en el Congreso? ¿Por qué los mercados reaccionaron de forma tan positiva, Gekko? ¿Qué nos espera hacia delante? ¿Se enciende la luz verde para retomar el rally?",
+    "link": "https://www.ambito.com/economia/dialogos-wall-street-buena-reaccion-los-mercados-la-barrida-democrata-el-congreso-n6341710",
     "fuente": "ambito"
   },
   {
@@ -67,6 +137,41 @@
     "titulo": "Grandes empresas, pymes y RIGI: ¿existe un vínculo virtuoso con proveedores locales?",
     "resumen": "El Gobierno asegura que el 82% de las compras del RIGI son a proveedores nacionales. Sin embargo, los últimos datos no parecen reflejar este \"derrame\" y entre las pymes prima la sensación de abandono por parte del Ejecutivo.",
     "link": "https://www.ambito.com/economia/grandes-empresas-pymes-y-rigi-existe-un-vinculo-virtuoso-proveedores-locales-n6341130",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "Crisis de cobertura médica: los afiliados a obras sociales y prepagas caen a su nivel más bajo desde 2016",
+    "resumen": "La cantidad de personas con cobertura cayó a la par de que las prepagas subieron cerca de 500% entre diciembre de 2023 y septiembre de 2026. Más de 1,2 millones de personas pasaron a depender exclusivamente del sistema público.",
+    "link": "https://www.ambito.com/economia/crisis-cobertura-medica-los-afiliados-obras-sociales-y-prepagas-caen-su-nivel-mas-2016-n6341593",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "La producción automotriz no levanta: cayó 14,4% anual en octubre y acumuló una baja del 15,5% en el año",
+    "resumen": "Las terminales fabricaron 40.426 vehículos y encadenaron siete meses de retrocesos interanuales. También bajaron las exportaciones y las ventas a concesionarios. ADEFA reclamó mejoras de competitividad y mayor acceso a mercados externos.",
+    "link": "https://www.ambito.com/economia/la-produccion-automotriz-no-levanta-cayo-144-anual-octubre-y-acumulo-una-baja-del-155-el-ano-n6341693",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "Plazo fijo: cuánto debés invertir para ganar $500.000 en 30 días",
+    "resumen": "Las tasas cambian de un banco a otro y elegir dónde dejar los ahorros puede hacer una diferencia importante en la ganancia.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-debes-invertir-ganar-500000-30-dias-n6341534",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "Empleados de Comercio: el Gobierno homologó el aumento del 5,7% y el bono de $50.000",
+    "resumen": "Trabajo ratificó el acuerdo para octubre-diciembre y las nuevas escalas. También se mantiene la suma de $120.000 pactada en la negociación anterior.",
+    "link": "https://www.ambito.com/economia/empleados-comercio-el-gobierno-homologo-el-aumento-del-57-y-el-bono-50000-n6341611",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "Los precios del comercio exterior mejoraron 4,2% en el tercer trimestre y aportaron u$s1.019 millones",
+    "resumen": "La mejora en los términos de intercambio respondió a que los precios de las exportaciones subieron más que los de las importaciones. En cuanto a las cantidades, resaltó un derrumbe en las importaciones por débil actividad y alta base de comparación.",
+    "link": "https://www.ambito.com/economia/los-precios-del-comercio-exterior-mejoraron-42-el-tercer-trimestre-y-aportaron-us1019-millones-n6341598",
     "fuente": "ambito"
   },
   {

@@ -1,15 +1,232 @@
 [
   {
+    "fecha": "2026-11-05",
+    "titulo": "Se vendió Supermercados Día: la cadena española pasa a manos del grupo liderado por Francisco De Narváez, dueño de Changomás",
+    "resumen": "GDN se impuso frente a otros interesados y acordó la adquisición de la compañía, con más de 900 sucursales en la Argentina. El monto de la operación asciende a USD 53,8 millones",
+    "link": "https://www.infobae.com/economia/2026/11/05/se-vendio-supermercados-dia-la-cadena-espanola-pasa-a-manos-del-grupo-liderado-por-francisco-de-narvaez-dueno-de-changomas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Ante el desplome de Wall Street y el salto del riesgo país, en el Gobierno dicen que es momento de ser más ortodoxos que nunca",
+    "resumen": "El derrumbe tecnológico en Nueva York arrastró papeles locales y elevó el indicador de deuda soberana. En el oficialismo vincularon el movimiento financiero con factores externos y se planteó el equilibrio fiscal como escudo",
+    "link": "https://www.infobae.com/economia/2026/11/05/ante-el-desplome-de-wall-street-y-el-salto-del-riesgo-pais-en-el-gonbierno-dicen-que-es-momento-de-ser-mas-ortodoxos-que-nunca/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Impacto financiero por el colapso del Ueno Bank: saltó el riesgo país de Paraguay y el guaraní se devaluó 8%",
+    "resumen": "El Banco Central paraguayo suspendió a la institución, mientras que la oposición pidió el juicio político del presidente de la república, Santiago Peña",
+    "link": "https://www.infobae.com/economia/2026/11/05/impacto-financiero-por-el-colapso-del-ueno-bank-salto-el-riesgo-pais-de-paraguay-y-el-guarani-se-devaluo-8/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Santiago Peña renunció a la Presidencia de Paraguay por el escándalo del Ueno Bank",
+    "resumen": "La Cámara de Diputados aprobó por unanimidad avanzar con el juicio político contra el ahora ex mandatario. Esta tarde el Senado sesionará para definir si acepta la renuncia o si debate el “impeachment” tras el cierre del banco en el que casi tres millones de ahorristas tienen ...",
+    "link": "https://www.infobae.com/america/america-latina/2026/11/05/santiago-pena-renuncio-a-la-presidencia-de-paraguay-por-el-escandalo-del-ueno-bank/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "“Esperaba un crecimiento más alto”: el Gobierno reconoció una recuperación más débil pero minimizó una posible recesión",
+    "resumen": "El viceministro de Economía, José Luis Daza, respondió además al planteo sobre el condicionamiento del apoyo de Estados Unidos a la Argentina y descartó que el control demócrata del Congreso afecte el vínculo: “El interés trasciende totalmente al partido político que está”",
+    "link": "https://www.infobae.com/economia/2026/11/05/esperaba-un-crecimiento-mas-alto-el-gobierno-reconocio-una-recuperacion-mas-debil-pero-minimizo-una-posible-recesion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Por qué el Gobierno demora la licitación del cupo 2027 para importar autos híbridos y eléctricos sin arancel",
+    "resumen": "Desde hace varias semanas está decidido cómo se asignarán, pero el Gobierno no abre la licitación. La incidencia de la caída de ventas, los precios subsidiados y la sobreoferta",
+    "link": "https://www.infobae.com/economia/2026/11/05/por-que-el-gobierno-demora-la-licitacion-del-cupo-2027-para-importar-autos-hibridos-y-electricos-sin-arancel/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "El Banco Nación bajó las tasas de los préstamos para comprar autos 0 km y usados: cómo queda la cuota",
+    "resumen": "La entidad anunció cambios en el plan para financiar la adquisición de vehículos. Se trata de un préstamo personal, por lo que no tiene los gastos que requiere la tramitación de una prenda",
+    "link": "https://www.infobae.com/economia/2026/11/05/el-banco-nacion-bajo-las-tasas-de-los-prestamos-para-comprar-autos-0-km-y-usados-como-queda-la-cuota/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Daniel Schteingart presentó su nuevo libro: cómo está la Argentina y qué futuro le espera al país",
+    "resumen": "En “No somos un país de mierda (todavía)”, el sociólogo analiza la evolución de la Argentina, sus principales problemas y fortalezas, y plantea cómo las miradas extremas sobre la realidad condicionan las decisiones políticas y el rumbo del país",
+    "link": "https://www.infobae.com/economia/2026/11/05/daniel-schteingart-presento-su-nuevo-libro-como-esta-la-argentina-y-que-futuro-le-espera-al-pais/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "El riesgo país de la Argentina sigue subiendo y rompe la barrera de los 900 puntos básicos",
+    "resumen": "Con el trasfondo de una sesión muy negativa de Wall Street, los bonos en dólares de Argentina caen otro 1% y el MSCI Merval pierde 1,1%. El índice de JP Morgan trepa a 918 unidades",
+    "link": "https://www.infobae.com/economia/2026/11/05/el-riesgo-pais-de-la-argentina-sigue-subiendo-y-rompe-la-barrera-de-los-900-puntos-basicos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Se derrumba 4% el índice tecnológico de Wall Street por la fuerte caída de acciones vinculadas a la IA",
+    "resumen": "El Nasdaq quedó cerca de confirmar una corrección, mientras las acciones de semiconductores y centros de datos concentraron las pérdidas tras el repunte postelectoral",
+    "link": "https://www.infobae.com/economia/2026/11/05/se-derrumba-5-el-indice-tecnologico-de-wall-street-por-la-fuerte-caida-de-acciones-vinculadas-a-la-ia/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "ANSES: cuándo cobro en noviembre 2026 si mi DNI termina en 4",
+    "resumen": "Los haberes y las prestaciones subirán 1,93% este mes. El cronograma oficial fija las fechas según el último dígito del documento y detalla los nuevos montos para jubilaciones, AUH, asignaciones familiares y más beneficios",
+    "link": "https://www.infobae.com/economia/2026/11/05/anses-cuando-cobro-en-noviembre-2026-si-mi-dni-termina-en-4/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "El caso Ueno Bank: por qué cayó y cuál es su impacto sobre la economía de Paraguay",
+    "resumen": "El 60% de la población adulta del país tiene cuenta en la entidad. De una simple app, pasó a ser un actor central del sistema financiero. Las acusaciones de la Justicia por operaciones indebidas con empresas vinculadas",
+    "link": "https://www.infobae.com/economia/2026/11/05/el-caso-ueno-bank-por-que-cayo-y-cual-es-su-impacto-sobre-la-economia-de-paraguay/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "La principal cámara de EEUU anticipó que la derrota de Trump limitará una posible asistencia financiera a la Argentina",
+    "resumen": "Gary Litman, vicepresidente de la US Chamber of Commerce, advirtió en el 16° Foro de Abeceb que con un Congreso dividido en Washington tendrá menor capacidad para asistir a economías en crisis, una advertencia que cobró nueva dimensión tras la victoria demócrata en las eleccio...",
+    "link": "https://www.infobae.com/economia/2026/11/05/la-principal-camara-de-eeuu-anticipo-que-la-derrota-de-trump-limitara-una-posible-asistencia-financiera-a-la-argentina/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "El colapso de Ueno Bank de Paraguay golpea en Argentina: tiene 900 empleados en Buenos Aires, no pagó sueldos y hay suspensiones",
+    "resumen": "Trabajadores de una empresa que provee servicios tecnológicos al grupo empresario aseguran que parte del personal recibió suspensiones por 30 días y que no se acreditaron los salarios que debían pagarse hoy",
+    "link": "https://www.infobae.com/economia/2026/11/05/el-colapso-de-ueno-bank-de-paraguay-golpea-en-argentina-tiene-900-empleados-en-buenos-aires-no-pago-sueldos-y-hay-suspensiones/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "La IA deja obsoletas tareas y a las estructuras de las empresas",
+    "resumen": "El cambio tecnológico permite ejecutar tareas con menos recursos, pero los resultados dependen de modificar flujos de trabajo, responsabilidades y circuitos de decisión",
+    "link": "https://www.infobae.com/opinion/2026/11/05/la-ia-deja-obsoletas-tareas-y-a-las-estructuras-de-las-empresas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "El número dos del BCRA defendió la velocidad diferente a la que crecen los sectores exportadores: “Tienen un derrame fuertísimo”",
+    "resumen": "Vladimir Werning sostuvo que las tasas de fondeo son negativas en términos reales y aseguró que el financiamiento por el mercado de capitales ya alcanza USD 35.000 millones. También defendió la estabilidad externa y el aporte exportador",
+    "link": "https://www.infobae.com/economia/2026/11/05/el-numero-dos-del-bcra-defendio-la-velocidad-diferente-a-la-que-crecen-los-sectores-exportadores-tienen-un-derrame-fuertisimo/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Escándalo del Ueno Bank: el expresidente Horacio Cartes dijo que su partido apoyará el juicio político a Santiago Peña",
+    "resumen": "El líder de la bancada oficialista de Paraguay acompañará el pedido de destitución del mandatario y define con el vicepresidente Pedro Alliana cómo será la sucesión tras la intervención del banco y el congelamiento de los fondos de millones de ahorristas",
+    "link": "https://www.infobae.com/america/america-latina/2026/11/05/escandalo-del-ueno-bank-el-expresidente-horacio-cartes-dijo-que-su-partido-apoyara-el-juicio-politico-a-santiago-pena/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Aumentaron las multas en la provincia de Buenos Aires: cuánto cuesta cada infracción a partir de noviembre 2026",
+    "resumen": "La Unidad Fija subió a $ 2.340 para el último bimestre de 2026. Las sanciones por exceso de velocidad, alcoholemia y falta de VTV pueden superar los $ 2 millones",
+    "link": "https://www.infobae.com/economia/2026/11/05/aumentaron-las-multas-en-la-provincia-de-buenos-aires-cuanto-cuesta-cada-infraccion-a-partir-de-noviembre-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Instituciones paraguayas pidieron calma ante los rumores de nuevas intervenciones financieras",
+    "resumen": "La Asociación de Bancos del Paraguay, el Banco Central y legisladores salieron a contener el pánico bancario desatado tras la resolución de Ueno Bank, que dejó a casi 3 millones de ahorristas sin acceso a sus depósitos",
+    "link": "https://www.infobae.com/america/america-latina/2026/11/05/instituciones-paraguayas-pidieron-calma-ante-los-rumores-de-nuevas-intervenciones-financieras/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "La Fiscalía de Paraguay pidió prisión preventiva para el fundador del intervenido Ueno Bank",
+    "resumen": "Miguel Vásquez, mayor accionista de la entidad clausurada por el Banco Central, compareció junto a otros siete directivos ante el Ministerio Público",
+    "link": "https://www.infobae.com/america/america-latina/2026/11/05/la-fiscalia-de-paraguay-pidio-prision-preventiva-para-el-fundador-del-intervenido-ueno-bank/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Un foro empresarial reúne a figuras del Gobierno, líderes globales y expresidentes para debatir el nuevo orden económico",
+    "resumen": "El 16° Foro ABECEB se realiza hoy en el Faena Art Center con una agenda que va de la geopolítica a la inteligencia artificial, con Daniel Hadad, Mauricio Macri y Federico Sturzenegger entre los oradores",
+    "link": "https://www.infobae.com/economia/2026/11/05/un-foro-empresarial-reune-a-figuras-del-gobierno-lideres-globales-y-expresidentes-para-debatir-el-nuevo-orden-economico/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "La incertidumbre política aleja a los inversores de los activos argentinos y el riesgo país alcanzó un nuevo máximo anual",
+    "resumen": "Los bonos soberanos no pudieron acoplarse al rally global de los mercados. A las dudas que generó la elección de Brasil ahora se suma la incertidumbre por el futuro respaldo de Estados Unidos al Gobierno en materia cambiaria",
+    "link": "https://www.infobae.com/economia/2026/11/05/la-incertidumbre-politica-aleja-a-los-inversores-de-los-activos-argentinos-y-el-riesgo-pais-alcanzo-un-nuevo-maximo-anual/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Reactivar sin hacer un “plan platita”: qué medidas anunció el Gobierno para impulsar la economía y sostener el superávit",
+    "resumen": "Desde agosto, el ministro de Economía, Luis Caputo, encabezó una serie de anuncios para impulsar el nivel de actividad. Las nuevas iniciativas en las que trabaja el Banco Central y la Comisión Nacional de Valores respecto al crédito",
+    "link": "https://www.infobae.com/economia/2026/11/05/reactivar-sin-hacer-un-plan-platita-que-medidas-anuncio-el-gobierno-para-impulsar-la-economia-y-sostener-el-superavit/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Envían falsos mails con el logo de ARCA para pedir plata y robar datos: cómo detectar los fraudes",
+    "resumen": "Los ciberdelincuentes envían mensajes apócrifos sobre supuestas deudas y trámites inventados. El organismo aclaró por qué canales jamás se comunica y qué es lo único que notifica por fuera del Domicilio Fiscal Electrónico",
+    "link": "https://www.infobae.com/economia/2026/11/05/envian-falsos-mails-con-el-logo-de-arca-para-pedir-plata-y-robar-datos-como-detectar-los-fraudes/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Día del Bancario: qué pasará con los bancos este viernes 6 de noviembre",
+    "resumen": "El calendario financiero tendrá varios días sin actividad en sucursales por la combinación de la jornada sectorial, el fin de semana y los feriados de noviembre",
+    "link": "https://www.infobae.com/economia/2026/11/05/dia-del-bancario-que-pasara-con-los-bancos-este-viernes-6-de-noviembre/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "ANSES: cuándo cobro en noviembre 2026 si mi DNI termina en 3",
+    "resumen": "Los haberes, pensiones y asignaciones de ANSES aumentarán 1,93% en noviembre. El calendario de pagos establece las fechas de cobro según la terminación del DNI e incluye los nuevos montos de jubilaciones, AUH y otras prestaciones.",
+    "link": "https://www.infobae.com/economia/2026/11/05/anses-cuando-cobro-en-noviembre-2026-si-mi-dni-termina-en-3/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "El Gobierno repartió menos del 20% de los fondos de emergencia a las provincias mientras negocia eliminar un impuesto clave",
+    "resumen": "En los primeros diez meses del año se recaudaron más de $1 billón y apenas se distribuyeron $197.000 millones, aunque por encima del mismo período de 2024 y 2025. Cuáles fueron los distritos más beneficiados",
+    "link": "https://www.infobae.com/economia/2026/11/05/el-gobierno-repartio-menos-del-20-de-los-fondos-de-emergencia-a-las-provincias-mientras-negocia-eliminar-un-impuesto-clave/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Las claves de la economía que viene, según el mayor banco europeo: cuatro megatendencias y los riesgos que podría enfrentar Argentina",
+    "resumen": "Los economistas del banco Santander destacaron el equilibrio fiscal, la baja de la inflación y la recomposición de reservas. Prevén que el agro, la energía y la minería dupliquen sus ventas externas hacia 2030",
+    "link": "https://www.infobae.com/economia/2026/11/05/las-claves-de-la-economia-que-viene-segun-el-mayor-banco-europeo-cuatro-megatendencias-y-los-riesgos-que-podria-enfrentar-argentina/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Empeoró el déficit de servicios básicos: más de la mitad de los argentinos no accede a agua corriente, gas natural o cloacas",
+    "resumen": "Según el Indec, la falta de conexión a las redes de gas, agua y cloacas afecta a miles de hogares en todo el país y golpea con más fuerza a los sectores de menores ingresos",
+    "link": "https://www.infobae.com/economia/2026/11/05/empeoro-el-deficit-de-servicios-basicos-mas-de-la-mitad-de-los-argentinos-no-accede-a-agua-corriente-gas-natural-o-cloacas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "La paradoja de los 0 km: por qué los tres vehículos más vendidos cuestan en promedio más de $66 millones",
+    "resumen": "Las ventas de octubre confirmaron que los vehículos más accesibles son los que más padecen el freno de la demanda. Un plan del Gobierno con financiación a largo plazo busca reactivar ese segmento que no creció con la tasa 0%",
+    "link": "https://www.infobae.com/economia/2026/11/05/la-paradoja-de-los-0-km-por-que-los-tres-vehiculos-mas-vendidos-cuestan-en-promedio-mas-de-66-millones/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "El “efecto Lula” condiciona a los activos argentinos: por qué el mercado mira con cautela las elecciones de 2027",
+    "resumen": "La reacción global tras la victoria demócrata favoreció a varios mercados, pero los bonos y las acciones locales quedaron bajo presión por las dudas sobre la continuidad del rumbo económico después de los próximos comicios presidenciales",
+    "link": "https://www.infobae.com/economia/2026/11/05/el-efecto-lula-condiciona-a-los-activos-argentinos-por-que-el-mercado-mira-con-cautela-las-elecciones-de-2027/",
+    "fuente": "infobae"
+  },
+  {
     "fecha": "2026-11-04",
     "titulo": "A contramano de la suba de Wall Street tras la derrota de Trump, el riesgo país argentino subió a un nuevo máximo en un año",
-    "resumen": "Los índices de Wall Street suben más de 2% después de las elecciones legislativas en EEUU. Los bonos argentinos operan dispares y el indicador de JP Morgan avanza a 841 puntos",
+    "resumen": "Los índices de Wall Street subieron hasta 3% después de las elecciones legislativas en EEUU. Los bonos argentinos cerraron con una pérdida de 1,1% en promedio y el indicador de JP Morgan avanzó a 852 puntos",
     "link": "https://www.infobae.com/economia/2026/11/04/suben-los-bonos-argentinos-y-cede-el-riesgo-pais-por-la-tendencia-positiva-de-las-bolsas-internacionales/",
     "fuente": "infobae"
   },
   {
     "fecha": "2026-11-04",
-    "titulo": "Optimismo en los mercados internacionales tras las derrota de Trump: suben las acciones y el petróleo cae 9%",
-    "resumen": "El Dow Jones de Wall Street sube 1.500 puntos, mientas que el S&P 500 y el Nasdaq registran ganancias de 2% tras la victoria demócrata en el Congreso de EEUU. El barril Brent retrocede debajo de USD 100 y suben los bonos del Tesoro",
+    "titulo": "Optimismo en los mercados internacionales tras las derrota de Trump: subieron las acciones y el petróleo cayó 8%",
+    "resumen": "El Dow Jones de Wall Street subió 3% o 1.500 puntos, mientas que el S&P 500 y el Nasdaq también registraron ganancias tras la victoria demócrata en el Congreso de EEUU. El barril Brent retrocedió debajo de USD 100 y subieron los bonos del Tesoro",
     "link": "https://www.infobae.com/economia/2026/11/04/optimismo-en-los-mercados-internacionales-tras-las-derrota-de-trump-suben-las-acciones-y-cae-el-petroleo/",
     "fuente": "infobae"
   },
@@ -92,7 +309,7 @@
   },
   {
     "fecha": "2026-11-04",
-    "titulo": "Caen las acciones vinculadas a la IA y las empresas de Musk después del revés electoral que sufrieron los data centers",
+    "titulo": "Cayeron las acciones vinculadas a la IA y las empresas de Musk después del revés electoral que sufrieron los data centers",
     "resumen": "Un analista pronosticó que la victoria demócrata y su control de ambas cámaras del Congreso demorarán la construcción de un millar de centros de datos. SpaceX retrocedió 7% en Wall Street y Tesla perdió 5%",
     "link": "https://www.infobae.com/economia/2026/11/04/caen-las-acciones-vinculadas-a-la-ia-y-las-empresas-de-musk-despues-del-reves-electoral-que-sufrieron-los-data-centers/",
     "fuente": "infobae"
@@ -235,6 +452,69 @@
     "titulo": "Tras la suba del riesgo país, el Gobierno mueve fichas para reactivar la economía y el consumo",
     "resumen": "Los bonos soberanos cayeron y el indicador alcanzó los 831 puntos básicos. Caputo anunció alivios para las pymes, créditos y subsidios para apuntalar la actividad",
     "link": "https://www.infobae.com/economia/2026/11/04/tras-la-suba-del-riesgo-pais-el-gobierno-mueve-fichas-para-reactivar-la-economia-y-el-consumo/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "Mercado Libre superó los USD 10.000 millones de ingresos en el tercer trimestre pero la acción cae más de 6%",
+    "resumen": "Según el informe de resultados, las ventas en la plataforma crecieron 33% interanual y la cartera de crédito de Mercado Pago llegó a USD 17.900 millones",
+    "link": "https://www.infobae.com/economia/2026/11/04/mercado-libre-supero-los-usd-10000-millones-de-ingresos-en-el-tercer-trimestre-pero-la-accion-cae-mas-de-6/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "El Gobierno anunció un nuevo Argentina Week para 2027 en Estados Unidos: cuándo será y a qué sectores apuntará",
+    "resumen": "La cita será en Nueva York y buscará atraer capitales para energía, minería, agroindustria, infraestructura, biotecnología y proyectos vinculados con la inteligencia artificial",
+    "link": "https://www.infobae.com/economia/2026/11/04/el-gobierno-anuncio-un-nuevo-argentina-week-para-2027-en-estados-unidos-cuando-sera-y-a-que-sectores-apuntara/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "Se frenó el repunte de la actividad automotriz: la producción y las exportaciones volvieron a caer en octubre",
+    "resumen": "Luego de las subas registradas en septiembre, la fabricación y las exportaciones retrocedieron en la comparación mensual. Sin embargo, las ventas al exterior acumulan un alza levemente positiva tras 10 meses",
+    "link": "https://www.infobae.com/economia/2026/11/04/se-freno-el-repunte-de-la-actividad-automotriz-la-produccion-y-las-exportaciones-volvieron-a-caer-en-octubre/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "Qué piensan los empresarios industriales de los anuncios de Caputo y qué le reclaman al Gobierno",
+    "resumen": "En Infobae al Regreso, el presidente de la UIA Martín Rappallini destacó las medidas para las PyMEs y reclamó una baja de impuestos, más crédito y mejores condiciones para competir",
+    "link": "https://www.infobae.com/economia/2026/11/04/que-piensan-los-empresarios-industriales-de-los-anuncios-de-caputo-y-que-le-reclaman-al-gobierno/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "Tras dos días sin sumar divisas, el Banco Central volvió a comprar dólares",
+    "resumen": "La autoridad monetaria adquirió USD 9 millones luego de un comienzo de noviembre sin compras oficiales. Las reservas internacionales se acercaron a USD 50.500 millones",
+    "link": "https://www.infobae.com/economia/2026/11/04/tras-dos-dias-sin-sumar-divisas-el-banco-central-volvio-a-comprar-dolares/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "El riesgo país superó los 850 puntos, el dólar cayó y las acciones argentinas se hundieron hasta 8% en Wall Street",
+    "resumen": "Los índices bursátiles estadounidenses escalaron hasta 3% luego del triunfo demócrata en las elecciones de EEUU. El petróleo se desplomó 8% y arrastró a las acciones energéticas. El dólar mayorista retrocedió y el BCRA compró USD 9 millones en el mercado",
+    "link": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "Crisis en una reconocida fábrica de tractores: los trabajadores tomaron las plantas y exigen el pago de sueldos",
+    "resumen": "Operarios de Córdoba y de La Banda, en Santiago del Estero, paralizaron la producción tras meses de incumplimientos salariales; la empresa acumula $1.028 millones en cheques rechazados",
+    "link": "https://www.infobae.com/economia/2026/11/04/crisis-en-una-reconocida-fabrica-de-tractores-los-trabajadores-tomaron-las-plantas-y-exigen-el-pago-de-sueldos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "Elecciones en EEUU: cómo cambia el escenario económico y financiero para la Argentina con el triunfo demócrata",
+    "resumen": "El gobierno de Trump afrontará los próximos dos años con el Congreso en manos de la oposición demócrata. El nuevo contexto influye en el desempeño de las acciones y bonos domésticos",
+    "link": "https://www.infobae.com/economia/2026/11/04/elecciones-en-eeuu-como-cambia-el-escenario-economico-y-financiero-para-la-argentina-con-el-triunfo-democrata/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-04",
+    "titulo": "El magnate que protagoniza un escándalo financiero en EEUU vende su equipo de Fórmula 1: cuál es su conexión con la Argentina",
+    "resumen": "Mark Walter es investigado por el Departamento de Justicia por ocultar USD 20.000 millones en sus aseguradoras. Dos financistas argentinos con historia en Wall Street aparecen en el expediente federal",
+    "link": "https://www.infobae.com/economia/2026/11/04/el-magnate-que-protagoniza-un-escandalo-financiero-en-eeuu-vende-su-equipo-de-formula-1-cual-es-su-conexion-con-la-argentina/",
     "fuente": "infobae"
   },
   {
