@@ -1,58 +1,114 @@
 [
   {
+    "fecha": "2026-11-07",
+    "titulo": "Cuánto cuesta el libro de León XIV, \"La fuerza del Evangelio\" y dónde comprarlo",
+    "resumen": "La obra reúne textos del pontífice y organiza su mirada pastoral alrededor de diez conceptos vinculados con la fe cristiana y la vida cotidiana.",
+    "link": "https://www.ambito.com/economia/cuanto-cuesta-el-libro-leon-xiv-la-fuerza-del-evangelio-y-donde-comprarlo-n6325182",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-07",
+    "titulo": "La visita del papa León XIV generará un impacto económico superior a los u$s88 millones en Buenos Aires",
+    "resumen": "La Ciudad espera recibir más de 1,24 millones de visitantes entre el 6 y el 10 de noviembre, entre turistas nacionales e internacionales y excursionistas. Habrá actividades culturales, visitas guiadas y recorridos por templos porteños.",
+    "link": "https://www.ambito.com/economia/la-visita-del-papa-leon-xiv-generara-un-impacto-economico-superior-los-us88-millones-buenos-aires-n6342210",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-07",
+    "titulo": "Plazo fijo: cuánto se gana al colocar $1.000.000 durante un mes",
+    "resumen": "Las entidades ofrecen distintos rendimientos según la modalidad elegida, por lo que hay que comparar las tasas para tomar la mejor decisión.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-se-gana-al-colocar-1000000-un-mes-n6341898",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-07",
+    "titulo": "Motosierra: Luis Caputo profundizó el ajuste y recortó casi 10% el gasto público en octubre",
+    "resumen": "En febrero, el recorte había alcanzado el 14%. La caída de octubre fue la segunda más pronunciada del año, con las provincias y las universidades entre las principales afectadas por el ajuste del gasto público.",
+    "link": "https://www.ambito.com/economia/motosierra-luis-caputo-profundizo-el-ajuste-y-recorto-casi-10-el-gasto-publico-octubre-n6342474",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-11-06",
     "titulo": "Los precios globales de los alimentos bajaron en octubre, pero aún son 6% más altos que en 2025",
-    "resumen": "<p id=\"p-1793976658939-32801\" dir=\"ltr\" data-path-to-node=\"4,0\" class=\"ignore-parser\">El índice general de la FAO cedió a 133,9 puntos en octubre empujado por el repliegue de los granos tras la cosecha en EEUU y la distensión en el mar Negro. Sin embargo, el encarecimiento int...",
+    "resumen": "El índice general de la FAO cedió a 133,9 puntos en octubre empujado por el repliegue de los granos tras la cosecha en EEUU y la distensión en el mar Negro. Sin embargo, el encarecimiento interanual persiste sostenido por el impacto de las lluvias en Brasil.",
     "link": "https://www.ambito.com/economia/los-precios-globales-los-alimentos-bajaron-octubre-pero-aun-son-6-mas-altos-que-2025-n6342389",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-06",
     "titulo": "El desempleo bajó en EEUU y el mercado refuerza la expectativa de una suba de tasas de la Fed en diciembre",
-    "resumen": "<p id=\"p-1793972176591-64853\" class=\"ignore-parser\">La cantidad de puestos de trabajo creados en octubre casi triplicó lo estimado por los analistas del mercado. Además, también se revisó al alza la cifra del mes anterior.</p>",
+    "resumen": "La cantidad de puestos de trabajo creados en octubre casi triplicó lo estimado por los analistas del mercado. Además, también se revisó al alza la cifra del mes anterior.",
     "link": "https://www.ambito.com/economia/el-desempleo-eeuu-y-el-mercado-refuerza-la-expectativa-una-suba-tasas-la-fed-diciembre-n6342374",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-06",
     "titulo": "La inflación en CABA se aceleró al 1,9% en octubre impulsada por vivienda, alimentos y precios estacionales",
-    "resumen": "<p id=\"p-1793971842218-72567\" class=\"ignore-parser\">El índice de precios de la Ciudad acumula un alza de 26,1% en lo que va del año. Vivienda, alimentos y salud traccionaron el indicador, que sirve de como termómetro para el dato oficial que difundirá el INDEC la próxima seman...",
+    "resumen": "El índice de precios de la Ciudad acumula un alza de 26,1% en lo que va del año. Vivienda, alimentos y salud traccionaron el indicador, que sirve de como termómetro para el dato oficial que difundirá el INDEC la próxima semana.",
     "link": "https://www.ambito.com/economia/la-inflacion-caba-se-acelero-al-19-octubre-impulsada-vivienda-alimentos-y-precios-estacionales-n6342364",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-06",
     "titulo": "Tesla dejará de producir su Cybertruck y se enfocará en taxis robots",
-    "resumen": "<p id=\"p-1793970048694-57277\" dir=\"ltr\" data-path-to-node=\"3,0\" class=\"ignore-parser\">Con ventas un 48% a la baja en EEUU y el rechazo regulatorio en Europa por su diseño anguloso, la planta en Texas reasignará su capacidad para acelerar el \"Cybercab\" y la transición hacia la ...",
+    "resumen": "Con ventas un 48% a la baja en EEUU y el rechazo regulatorio en Europa por su diseño anguloso, la planta en Texas reasignará su capacidad para acelerar el \"Cybercab\" y la transición hacia la inteligencia artificial y los robotaxis.",
     "link": "https://www.ambito.com/economia/tesla-dejara-producir-su-cybertruck-y-se-enfocara-taxis-robots-n6342344",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-06",
     "titulo": "Bancos cerrados en Argentina por 5 días y operativos en los cajeros y terminales de depósitos: límites de extracciones y guardias de recarga",
-    "resumen": "<p id=\"p-1793968846567-59903\" class=\"ignore-parser\">Las sucursales financieras suspendieron la atención en ventanillas desde el viernes 6 hasta el martes 10 de noviembre inclusive.</p>",
+    "resumen": "Las sucursales financieras suspendieron la atención en ventanillas desde el viernes 6 hasta el martes 10 de noviembre inclusive.",
     "link": "https://www.ambito.com/economia/bancos-cerrados-argentina-5-dias-y-operativos-los-cajeros-y-terminales-depositos-limites-extracciones-y-guardias-recarga-n6342337",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-06",
     "titulo": "Plazo fijo: cuánto obtenés al invertir $200.000 durante 30 días",
-    "resumen": "<p id=\"p-1793796072516-37595\" class=\"ignore-parser\">Las entidades financieras exhiben diferencias según la operatoria y el vínculo comercial; el canal elegido también incide en el cálculo.</p>",
+    "resumen": "Las entidades financieras exhiben diferencias según la operatoria y el vínculo comercial; el canal elegido también incide en el cálculo.",
     "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-obtenes-al-invertir-200000-30-dias-n6341363",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-06",
     "titulo": "Lo que se dice en las mesas: el incomprensible adelantamiento de la carrera electoral ya afecta decisiones de inversión",
-    "resumen": "<p id=\"p-1793932607877-58659\" class=\"ignore-parser\">La incertidumbre global, las turbulencias financieras y el adelantamiento de la disputa electoral argentina reconfiguran las carteras y las decisiones de inversión. Mientras los activos locales ya operan en modo electoral, el...",
+    "resumen": "La incertidumbre global, las turbulencias financieras y el adelantamiento de la disputa electoral argentina reconfiguran las carteras y las decisiones de inversión. Mientras los activos locales ya operan en modo electoral, el mercado cambiario todavía resiste.",
     "link": "https://www.ambito.com/economia/lo-que-se-dice-las-mesas-el-incomprensible-adelantamiento-la-carrera-electoral-ya-afecta-decisiones-inversion-n6342231",
     "fuente": "ambito"
   },
   {
-    "fecha": "2026-11-05",
-    "titulo": "Cuánto cuesta el libro de León XIV, \"La fuerza del Evangelio\" y dónde comprarlo",
-    "resumen": "La obra reúne textos del pontífice y organiza su mirada pastoral alrededor de diez conceptos vinculados con la fe cristiana y la vida cotidiana.",
-    "link": "https://www.ambito.com/economia/cuanto-cuesta-el-libro-leon-xiv-la-fuerza-del-evangelio-y-donde-comprarlo-n6325182",
+    "fecha": "2026-11-06",
+    "titulo": "Motos vs. autos: Argentina ya tiene una relación de patentamientos propia de países de bajos ingresos",
+    "resumen": "Un informe de Analytica mostró que en octubre se patentaron 177 motos por cada 100 autos, un nuevo récord de la serie iniciada en 2007. Remarcaron que ningún país de ingresos altos exhibe este comportamiento.",
+    "link": "https://www.ambito.com/economia/motos-vs-autos-argentina-ya-tiene-una-relacion-patentamientos-propia-paises-bajos-ingresos-n6342655",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-06",
+    "titulo": "La pobreza alcanzó el 45,4% con ponderadores actualizados y afectó a 21,1 millones de argentinos",
+    "resumen": "Con esta medición, habría 6 millones de pobres más que con la medición del INDEC y el indicador se ubicaría por encima del que dejó Mauricio Macri en la Argentina al cierre de su gestión.",
+    "link": "https://www.ambito.com/economia/la-pobreza-alcanzo-el-454-ponderadores-actualizados-y-afecto-211-millones-argentinos-n6342519",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-06",
+    "titulo": "La inflación en los países de la OCDE saltó al 4,5% en septiembre por repunte de la energía",
+    "resumen": "El índice general trepó dos décimas frente a agosto empujado por el salto de la energía en 31 economías del bloque, mientras que en la zona euro escaló al 3,8% y Eurostat prevé un 4% para octubre. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/la-inflacion-los-paises-la-ocde-salto-al-45-septiembre-repunte-la-energia-n6342478",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-06",
+    "titulo": "La industria cayó 3,2% en el tercer trimestre y anotó una nueva baja interanual",
+    "resumen": "El sector apenas mejoró 0,7% mensual, luego de haber repuntado 2,3% en agosto. Por ende, no logró recuperar el derrumbe del 5,4% que había tenido en julio.",
+    "link": "https://www.ambito.com/economia/la-industria-cerro-el-tercer-trimestre-rojo-y-anoto-una-nueva-baja-interanual-n6342537",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-06",
+    "titulo": "La construcción saltó casi 8% mensual en septiembre, el mayor avance desde mediados de 2024",
+    "resumen": "Marcó un avance de 7,8% mensual, en la serie desestacionalizada, y una mejora del 5,1% interanual. El dato de septiembre llegó después del avance de 1% en agosto. En julio, la actividad había retrocedido 3,8% mensual y en agosto había logrado una mejora del 1%.",
+    "link": "https://www.ambito.com/economia/construccion-formato-serrucho-reboto-casi-8-mensual-y-marco-una-suba-mayor-5-interanual-n6342533",
     "fuente": "ambito"
   },
   {
@@ -127,36 +183,29 @@
   },
   {
     "fecha": "2026-11-05",
-    "titulo": "La visita del papa León XIV generará un impacto económico superior a los u$s88 millones en Buenos Aires",
-    "resumen": "<p id=\"p-1793927355406-16842\" data-pm-slice=\"1 1 []\" class=\"ignore-parser\">La Ciudad espera recibir más de 1,24 millones de visitantes entre el 6 y el 10 de noviembre, entre turistas nacionales e internacionales y excursionistas. Habrá actividades culturales, visitas guiadas y...",
-    "link": "https://www.ambito.com/economia/la-visita-del-papa-leon-xiv-generara-un-impacto-economico-superior-los-us88-millones-buenos-aires-n6342210",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-11-05",
     "titulo": "Federico Sturzenegger defendió el rumbo económico, pero admitió que la inversión demora en despegar",
-    "resumen": "<p id=\"p-1793925800305-23220\" class=\"ignore-parser\">El ministro atribuyó la demora a las dificultades de acceso al crédito y comparó el proceso argentino con las transformaciones de las economías asiáticas.</p> <p id=\"p-1793925137534-45516\" class=\"ignore-parser\"></p>",
+    "resumen": "El ministro atribuyó la demora a las dificultades de acceso al crédito y comparó el proceso argentino con las transformaciones de las economías asiáticas.",
     "link": "https://www.ambito.com/economia/federico-sturzenegger-defendio-el-rumbo-economico-pero-admitio-que-la-inversion-demora-despegar-n6342209",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-05",
     "titulo": "Advertencia de la Cámara de Comercio de EEUU: \"La posibilidad de rescatar a la Argentina se reduce con un gobierno dividido\"",
-    "resumen": "<p id=\"p-1793904925889-93302\" class=\"ignore-parser\">En el Foro de ABECEB, Gary Litman, vicepresidente senior de Iniciativas Globales de la entidad, fue escéptico respecto de la posibilidad de que en 2027 haya un nuevo salvataje financiero para el gobierno de Javier Milei.</p>",
+    "resumen": "En el Foro de ABECEB, Gary Litman, vicepresidente senior de Iniciativas Globales de la entidad, fue escéptico respecto de la posibilidad de que en 2027 haya un nuevo salvataje financiero para el gobierno de Javier Milei.",
     "link": "https://www.ambito.com/economia/advertencia-la-camara-comercio-eeuu-la-posibilidad-rescatar-la-argentina-se-reduce-un-gobierno-dividido-n6342094",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-05",
     "titulo": "Plazo fijo UVA: ¿cómo funciona y es preferible al tradicional?",
-    "resumen": "<p id=\"p-1793886954124-45329\" class=\"ignore-parser\">El rendimiento no es lo único que importa al invertir los ahorros. También hay que tener en cuenta cuánto tiempo se puede dejar la plata en el banco.</p>",
+    "resumen": "El rendimiento no es lo único que importa al invertir los ahorros. También hay que tener en cuenta cuánto tiempo se puede dejar la plata en el banco.",
     "link": "https://www.ambito.com/economia/plazo-fijo-uva-como-funciona-y-es-preferible-al-tradicional-n6341892",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-05",
     "titulo": "AmCham advirtió que un cambio de gobierno en EEUU podría restarle prioridad al vínculo con la Argentina",
-    "resumen": "<p id=\"p-1793903439527-45154\" class=\"ignore-parser\">La cámara empresaria analizó el nuevo escenario tras las legislativas y pidió consolidar la relación bilateral para que no dependa de afinidades políticas.</p>",
+    "resumen": "La cámara empresaria analizó el nuevo escenario tras las legislativas y pidió consolidar la relación bilateral para que no dependa de afinidades políticas.",
     "link": "https://www.ambito.com/economia/amcham-advirtio-que-un-cambio-gobierno-eeuu-podria-restarle-prioridad-al-vinculo-la-argentina-n6342069",
     "fuente": "ambito"
   },
