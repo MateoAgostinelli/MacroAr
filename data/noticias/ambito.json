@@ -1,9 +1,23 @@
 [
   {
-    "fecha": "2026-11-08",
+    "fecha": "2026-11-09",
     "titulo": "Cuánto cuesta el libro de León XIV, \"La fuerza del Evangelio\" y dónde comprarlo",
     "resumen": "La obra reúne textos del pontífice y organiza su mirada pastoral alrededor de diez conceptos vinculados con la fe cristiana y la vida cotidiana.",
     "link": "https://www.ambito.com/economia/cuanto-cuesta-el-libro-leon-xiv-la-fuerza-del-evangelio-y-donde-comprarlo-n6325182",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "Las expectativas de desempleo en Estados Unidos subieron a niveles 2020, reveló la Fed",
+    "resumen": "Los estadounidenses mostraron que las preocupaciones por las perspectivas del mercado laboral crecieron, según una encuesta publicada el lunes por el Banco de la Reserva Federal de Nueva York.",
+    "link": "https://www.ambito.com/economia/las-expectativas-desempleo-estados-unidos-subieron-niveles-2020-revelo-la-fed-n6343271",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "Luego que la ola azul tapara a Donald Trump, Wall Street retoma su programación habitual",
+    "resumen": "En una semana brutal, a Donald Trump lo tapó una gran ola azul y a Wall Street, un tsunami de números en rojo. ¿Y la economía? Sin problemas.",
+    "link": "https://www.ambito.com/economia/luego-que-la-ola-azul-tapara-donald-trump-wall-street-retoma-su-programacion-habitual-n6343007",
     "fuente": "ambito"
   },
   {
@@ -46,6 +60,20 @@
     "titulo": "Martín Polo: “Lo peor que le podría pasar a la Argentina en 2027 es acudir a la ayuda de EEUU”",
     "resumen": "El economista analizó el castigo de los inversores ante una actividad estancada, una inflación que no cede y la incertidumbre global tras el revés electoral de Donald Trump. Además, evaluó la disparada del riesgo país, la estabilidad del dólar y el papel de las reservas del Ba...",
     "link": "https://www.ambito.com/economia/martin-polo-lo-peor-que-le-podria-pasar-la-argentina-2027-es-acudir-la-ayuda-eeuu-n6342805",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-08",
+    "titulo": "Estiman que la pobreza subió en el tercer trimestre y ya afecta a 16,2 millones de argentinos",
+    "resumen": "Se trata de un aumento de casi 3,4 millones más que en 2025 y se proyecta que, si continúa con el mismo ritmo de aumento, puede superar el nivel de la pandemia al cierre de 2027. Los datos se conocen en la previa de la visita del papa León XIV a la Argentina.",
+    "link": "https://www.ambito.com/economia/estiman-que-la-pobreza-subio-el-tercer-trimestre-y-ya-afecta-162-millones-argentinos-n6342928",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-08",
+    "titulo": "Tras la derrota de Trump, EEUU ratificó su apoyo a Milei, pero crecen las dudas sobre la asistencia financiera en 2027",
+    "resumen": "El embajador Peter Lamelas aseguró que el compromiso de Washington con la Argentina sigue firme pese al triunfo demócrata en las elecciones legislativas. Sin embargo, AmCham advirtió que el nuevo escenario político podría condicionar el respaldo financiero, incluido el apoyo a...",
+    "link": "https://www.ambito.com/economia/tras-la-derrota-trump-eeuu-ratifico-su-apoyo-milei-pero-crecen-las-dudas-la-asistencia-financiera-2027-n6342951",
     "fuente": "ambito"
   },
   {
@@ -7606,48 +7634,6 @@
     "titulo": "Vaca Muerta eleva su propio techo",
     "resumen": "La producción de petróleo alcanzó en mayo su nivel más alto de la historia, impulsada por el shale neuquino, que ya explica la mayor parte de la oferta local.",
     "link": "https://www.ambito.com/economia/vaca-muerta-eleva-su-propio-techo-n6297823",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-11",
-    "titulo": "Envejecimiento poblacional: desmienten un mito sobre su impacto en la economía",
-    "resumen": "A pesar de la caída de la natalidad en los últimos 70 años, se registró un aumento en el PBI por cápita. Apuntan al efecto de la tecnología.",
-    "link": "https://www.ambito.com/economia/envejecimiento-poblacional-desmienten-un-mito-su-impacto-la-n6298525",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-11",
-    "titulo": "Biromes y dulce de leche: qué sectores productivos omitió Javier Milei en su defensa a las importaciones",
-    "resumen": "En su última entrevista, el Presidente de la Nación planteó que \"no tenemos muchas más cosas\" en la producción industrial.",
-    "link": "https://www.ambito.com/economia/biromes-y-dulce-leche-que-sectores-productivos-omitio-javier-milei-su-defensa-las-importaciones-n6298479",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-11",
-    "titulo": "Entre la baja de la inflación y la suba del dólar, ¿qué va a pasar con los precios?",
-    "resumen": "El efecto internacional continúa siendo un imprevisto para la gestión económica, que aguarda por resultados positivos del IPC de junio.",
-    "link": "https://www.ambito.com/economia/entre-la-baja-la-inflacion-y-la-suba-del-dolar-que-va-pasar-los-precios-n6298468",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-11",
-    "titulo": "La industria pone el foco sobre la crisis de las pymes: \"La estabilidad sola no alcanza para generar empleo\"",
-    "resumen": "El economista Diego Coatz, alertó por un escenario de debilidad en el consumo. En esa línea, recalcó que el crecimiento actual se concentra en sectores extractivos mientras la economía real \"está caída\".",
-    "link": "https://www.ambito.com/economia/la-industria-pone-el-foco-la-crisis-las-pymes-la-estabilidad-sola-no-alcanza-generar-empleo-n6298412",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-11",
-    "titulo": "Plazo fijo: cuánto se gana al depositar $1.250.000 durante 30 días",
-    "resumen": "Conocé que método ofrece mejor rendimiento y cómo una misma suma de dinero puede generar ganancias diferentes según la modalidad del trámite.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-se-gana-al-depositar-1250000-30-dias-n6297637",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-11",
-    "titulo": "Guido Rangugni, especialista en presupuesto: \"El Gobierno tiene todas las herramientas para contener el gasto sin apelar al shutdown\"",
-    "resumen": "El presidente de ASAP opinó sobre el anuncio del presidente Javier Milei sobre \"cierre del estado\" al estilo americano. En qué casos se aplica y qué diferencias hay con las leyes argentinas.",
-    "link": "https://www.ambito.com/economia/guido-rangugni-especialista-presupuesto-el-gobierno-tiene-todas-las-herramientas-contener-el-gasto-apelar-al-shutdown-n6298013",
     "fuente": "ambito"
   }
 ]
