@@ -1,9 +1,30 @@
 [
   {
-    "fecha": "2026-11-09",
+    "fecha": "2026-11-10",
     "titulo": "Cuánto cuesta el libro de León XIV, \"La fuerza del Evangelio\" y dónde comprarlo",
     "resumen": "La obra reúne textos del pontífice y organiza su mirada pastoral alrededor de diez conceptos vinculados con la fe cristiana y la vida cotidiana.",
     "link": "https://www.ambito.com/economia/cuanto-cuesta-el-libro-leon-xiv-la-fuerza-del-evangelio-y-donde-comprarlo-n6325182",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "La inflación en EEUU fue mayor a la esperada en octubre y presiona a las tasas de la Fed",
+    "resumen": "El nuevo dato del IPC robustece las expectativas de que el banco central norteamericano volverá a subir las tasas en diciembre. El mercado prevé un alza de 25 puntos básicos el mes que viene.",
+    "link": "https://www.ambito.com/economia/la-inflacion-eeuu-subio-mas-lo-previsto-octubre-y-presiona-las-tasas-la-fed-n6343564",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "Empresarios muestran sintonía con el papa León XIV y declaran su compromiso con la creación de empleo",
+    "resumen": "Afirman que el desarrollo del sector privado cobra sentido solo si sirve para mejorar la calidad del vida de la gente. La UIA dijo que el desarrollo debe estar al servicio de las personas.",
+    "link": "https://www.ambito.com/economia/empresarios-muestran-sintonia-el-papa-leon-xiv-y-declaran-su-compromiso-la-creacion-empleo-n6343428",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "Tarifas de luz: la Provincia convocó a una audiencia pública para definir los cuadros tarifarios",
+    "resumen": "Será el 16 de diciembre, en forma virtual, en el marco de la Revisión Tarifaria Integral de la electricidad. Participarán EDELAP, EDEN, EDEA, EDES y las cooperativas eléctricas.",
+    "link": "https://www.ambito.com/economia/tarifas-luz-la-provincia-convoco-una-audiencia-publica-definir-los-cuadros-tarifarios-n6343418",
     "fuente": "ambito"
   },
   {
@@ -7606,34 +7627,6 @@
     "titulo": "Wall Street no cree en otra guerra y sigue subiendo: las tasas de interés apuestan al boom de la IA",
     "resumen": "Los mercados financieros minimizan la escalada geopolítica en Medio Oriente, mientras los rendimientos de los bonos reflejan expectativas de mayor crecimiento impulsado por la revolución tecnológica.",
     "link": "https://www.ambito.com/economia/wall-street-no-cree-otra-guerra-y-sigue-subiendo-las-tasas-interes-apuestan-al-boom-la-ia-n6298670",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-12",
-    "titulo": "La balanza energética logró un superávit récord en el primer semestre y Vaca Muerta impulsa el salto exportador",
-    "resumen": "Entre enero y junio, el saldo positivo del sector superó los US$6.987 millones, el mayor registrado para un primer semestre.",
-    "link": "https://www.ambito.com/economia/la-balanza-energetica-logro-un-superavit-record-el-primer-semestre-y-vaca-muerta-impulsa-el-salto-exportador-n6298634",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-12",
-    "titulo": "Plazo fijo: cuánto debés invertir para obtener una ganancia de $75.000 en 30 días",
-    "resumen": "El método de ahorro que predomina entre las alternativas bancarias por su previsibilidad a la hora de obtener el dinero.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-debes-invertir-obtener-una-ganancia-75000-30-dias-n6297655",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-12",
-    "titulo": "La paradoja del crédito: mejora la macro, pero crece la morosidad",
-    "resumen": "La desaceleración de la inflación y la estabilidad cambiaria no alcanzan para revertir el deterioro en la capacidad de pago. Bancos y fintech siguen de cerca la evolución de la mora.",
-    "link": "https://www.ambito.com/economia/la-paradoja-del-credito-mejora-la-macro-pero-crece-la-morosidad-n6298576",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-12",
-    "titulo": "Vaca Muerta eleva su propio techo",
-    "resumen": "La producción de petróleo alcanzó en mayo su nivel más alto de la historia, impulsada por el shale neuquino, que ya explica la mayor parte de la oferta local.",
-    "link": "https://www.ambito.com/economia/vaca-muerta-eleva-su-propio-techo-n6297823",
     "fuente": "ambito"
   }
 ]

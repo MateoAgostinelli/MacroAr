@@ -1,16 +1,37 @@
 [
   {
-    "fecha": "2026-11-09",
+    "fecha": "2026-11-10",
     "titulo": "La venta de facturas en panaderías cayó 80%",
     "resumen": "La de pan acumula un retraso del 55 por ciento en los últimos dos años",
     "link": "https://www.pagina12.com.ar/2026/11/09/la-venta-de-facturas-en-panaderias-cayo-80/",
     "fuente": "pagina12"
   },
   {
-    "fecha": "2026-11-09",
+    "fecha": "2026-11-10",
     "titulo": "La inflación, en torno al 2%",
     "resumen": "Este jueves se dará a conocer el dato del Indec",
     "link": "https://www.pagina12.com.ar/2026/11/09/la-inflacion-en-torno-al-2/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "El FAL es un agujero en la sostenibilidad previsional",
+    "resumen": "Un subsidio para que las empresas puedan despedir más fácilmente",
+    "link": "https://www.pagina12.com.ar/2026/11/06/el-fal-es-un-agujero-en-la-sostenibilidad-previsional/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "¿El Papa León, el Círculo Rojo y el ajuste de Milei son lo mismo?",
+    "resumen": "La burguesía nacional aplaude y pide paz social y acuerdos, en medio de un plan político que avalan",
+    "link": "https://www.pagina12.com.ar/2026/11/09/el-papa-leon-el-circulo-rojo-y-el-ajuste-de-milei-son-lo-mismo/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "Sigue la incertidumbre financiera",
+    "resumen": "Las dudas sobre la disponibilidad de dólares se mantienen",
+    "link": "https://www.pagina12.com.ar/2026/11/09/sigue-la-incertidumbre-financiera/",
     "fuente": "pagina12"
   },
   {
@@ -60,13 +81,6 @@
     "titulo": "La caída de Ueno Bank se siente en Argentina: más de 900 trabajadores quedaron en la calle",
     "resumen": "\"Nos dejaron sin nada\"",
     "link": "https://www.pagina12.com.ar/2026/11/05/la-caida-de-ueno-bank-se-siente-en-argentina-mas-de-900-trabajadores-quedaron-en-la-calle/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-11-06",
-    "titulo": "El FAL es un agujero en la sostenibilidad previsional",
-    "resumen": "Un subsidio para que las empresas puedan despedir más fácilmente",
-    "link": "https://www.pagina12.com.ar/2026/11/06/el-fal-es-un-agujero-en-la-sostenibilidad-previsional/",
     "fuente": "pagina12"
   },
   {
