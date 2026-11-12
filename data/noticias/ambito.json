@@ -1,5 +1,54 @@
 [
   {
+    "fecha": "2026-11-12",
+    "titulo": "La economía de Reino Unido creció 0,7% en el tercer trimestre por el impulso de la inteligencia artificial",
+    "resumen": "La fortaleza del sector de servicios, especialmente la programación informática ligada a la IA, impulsó el desarrollo. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/la-reino-unido-crecio-07-el-tercer-trimestre-el-impulso-la-inteligencia-artificial-n6344515",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "El FMI destacó que se están mitigando los riesgos de refinanciación",
+    "resumen": "La vocera del Fondo Monetario Internacional, Julie Kozack, volvió a destacar el programa económico. Respecto a la suba del Riesgo País afirmó que parte de la volatilidad reciente en los mercados ponen de relieve el valor de seguir construyendo la resiliencia económica de Argen...",
+    "link": "https://www.ambito.com/economia/el-fmi-destaco-que-se-estan-mitigando-los-riesgos-refinanciacion-n6344495",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Plazo fijo en dólares: cuánto gano al invertir u$d 3.000",
+    "resumen": "Antes de invertir los dólares, vale la pena comparar cuánto paga cada banco y qué ganancia se puede conseguir.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-gano-al-invertir-ud-3000-n6344288",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Aguinaldo 2026: quiénes cobran en diciembre, cuándo se deposita y cómo se calcula",
+    "resumen": "Los trabajadores en relación de dependencia percibirán la segunda cuota del Sueldo Anual Complementario antes de las fiestas.",
+    "link": "https://www.ambito.com/economia/aguinaldo-2026-quienes-cobran-diciembre-cuando-se-deposita-y-como-se-calcula-n6344447",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "China le reclamó a EEUU acelerar la aplicación del acuerdo de baja de aranceles por u$s60.000 millones",
+    "resumen": "El Ministerio de Comercio en Beijing subrayó que ambos países mantienen una \"estrecha comunicación\", pero remarcó que la pronta entrada en vigor del pacto es indispensable para mejorar el intercambio agrícola bilateral.",
+    "link": "https://www.ambito.com/economia/china-le-reclamo-eeuu-acelerar-la-aplicacion-del-acuerdo-baja-aranceles-us60000-millones-n6344368",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Efecto Ueno Bank: Fitch puso en vigilancia negativa la deuda de Paraguay",
+    "resumen": "La calificadora advirtió sobre el posible contagio de la quiebra bancaria en las finanzas públicas y el crecimiento económico. Aunque descartó un riesgo sistémico inmediato, señaló que el manejo de la crisis pondrá a prueba las instituciones del país.",
+    "link": "https://www.ambito.com/economia/efecto-ueno-bank-fitch-puso-vigilancia-negativa-la-deuda-paraguay-n6344333",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Inocencia Fiscal: ARCA reglamentó la rebaja del 50% en las multas para pymes",
+    "resumen": "El organismo avanzó en la implementación de otro de los aspectos de la norma sancionada en septiembre por el Congreso. Se podrá pedir hasta el 18 de diciembre. Alcanza a sanciones que están en litigio administrativo o en instancia judicial.",
+    "link": "https://www.ambito.com/economia/inocencia-fiscal-arca-reglamento-la-rebaja-del-50-las-multas-pymes-n6344308",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-11-11",
     "titulo": "La visita del papa León XIV oxigenó al turismo: movilizó una multitud y el impacto económico superó los u$s88 millones en CABA",
     "resumen": "La ocupación hotelera de la Ciudad de Buenos Aires estuvo al 75%, mientras que Luján se estima que superó el 90% y Córdoba al 60%, aunque en la capital de la provincia muchos establecimientos estuvieron al 100%, especialmente los de alta gama.",
@@ -32,6 +81,27 @@
     "titulo": "Diálogos de Wall Street: acechan nubarrones en el mercado, y truenos en la Fed por tasas e inflación",
     "resumen": "Wall Street no está libre de nubarrones todavía. Y sigue sumando percances. ¿Cuánto puede complicar una inflación persistente, que en octubre fue más alta que lo esperado? ¿Hay ruidos dentro de la Fed, Gekko? ¿Se alista una suba de tasas de medio punto en diciembre?",
     "link": "https://www.ambito.com/economia/dialogos-wall-street-acechan-nubarrones-el-mercado-y-truenos-la-fed-tasas-e-inflacion-n6343753",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-11",
+    "titulo": "Plazo fijo UVA: lo que tenés que saber antes de invertir y los riesgos que tiene",
+    "resumen": "Antes de poner los ahorros en el banco, conviene conocer bien las condiciones para evitar sorpresas al momento de recuperar el dinero.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-uva-lo-que-tenes-que-saber-antes-invertir-y-los-riesgos-que-tiene-n6344085",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-11",
+    "titulo": "La construcción repunta de la mano de la obra pública, pero el m2 en dólares continúa caro y retrae la inversión privada",
+    "resumen": "Mientras la construcción privada cae mes a mes, la obra pública muestra señales de recuperación de la mano del mantenimiento vial. El asfalto mostró un repunte durante los últimos meses y podría ganar mayor dinamismo en el próximo año con las elecciones.",
+    "link": "https://www.ambito.com/economia/la-construccion-repunta-la-mano-la-obra-publica-pero-el-m2-dolares-continua-caro-y-retrae-la-inversion-privada-n6344195",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-11",
+    "titulo": "La inflación de octubre sería similar a la de septiembre y ya acumularía seis meses estancada en un mismo nivel",
+    "resumen": "Las estimaciones privadas ubican la suba de precios entre 1,8% y 2%. Los analistas advierten límites para retomar el sendero de desinflación.",
+    "link": "https://www.ambito.com/economia/la-inflacion-octubre-seria-similar-la-septiembre-y-ya-acumularia-seis-meses-estancada-un-mismo-nivel-n6343939",
     "fuente": "ambito"
   },
   {
