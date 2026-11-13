@@ -1,5 +1,40 @@
 [
   {
+    "fecha": "2026-11-13",
+    "titulo": "Motosierra: el Gobierno retira el subsidio fijo del 30% a los colectivos a gas y del 50% a los eléctricos",
+    "resumen": "El impacto fiscal de la medida es casi nulo, pero se inscribe en una reformulación general de las tarifas de referencia y los costos por kilómetro llevado a cabo por la Secretaría de Transporte para todas las líneas del AMBA que dependen de la Nación. La Secretaría de Transpor...",
+    "link": "https://www.ambito.com/economia/motosierra-el-gobierno-retira-el-subsidio-fijo-del-30-los-colectivos-gas-y-del-50-los-electricos-n6344954",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-13",
+    "titulo": "La inflación mayorista se desaceleró en EEUU, pero el mercado todavía espera dos subas de tasas al hilo",
+    "resumen": "Si bien el dato de octubre implica una mejora respecto a la suba de 1,4% que se registró en septiembre, las expectativas del mercado todavía descuentan una suba de tasas por parte de la Fed en diciembre y le asignan altas probabilidades a otro incremento en enero.",
+    "link": "https://www.ambito.com/economia/la-inflacion-mayorista-se-desacelero-eeuu-pero-el-mercado-todavia-espera-dos-subas-tasas-al-hilo-n6344923",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-13",
+    "titulo": "Mapa del empleo privado: 21 provincias en rojo y solo 3 sumaron trabajadores en la era Milei",
+    "resumen": "Con el total del país 4,3% por debajo del nivel de noviembre de 2023, solo tres provincias lograron superarlo, de acuerdo con un informe. La provincia de Buenos Aires explica la mayor parte de la pérdida, con 108.208 puestos menos.",
+    "link": "https://www.ambito.com/economia/mapa-del-empleo-privado-21-provincias-rojo-y-solo-3-sumaron-trabajadores-la-era-milei-n6344879",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-13",
+    "titulo": "El \"enfriamiento\" y los dólares del colchón: el \"gurú del blue\" advirtió sobre la recesión técnica",
+    "resumen": "El analista Salvador Di Stéfano, uno de los gurúes más escuchados de la City, hizo hincapié en la retracción del mercado y el consumo estancado. Además, vinculó la \"mentalidad defensiva\" del argentino con la falta de inversión productiva.",
+    "link": "https://www.ambito.com/economia/el-enfriamiento-y-los-dolares-del-colchon-el-guru-del-blue-advirtio-la-recesion-tecnica-n6344837",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-13",
+    "titulo": "Lo que se dice en las mesas: el mercado empieza a ver el 2027 como un escenario a todo o nada",
+    "resumen": "La discusión sobre si Washington apoyará o no a Javier Milei como lo hizo en 2025 sigue abierta. luego del revés electoral de Donald Trump,",
+    "link": "https://www.ambito.com/economia/lo-que-se-dice-las-mesas-se-afirma-la-idea-que-el-2027-es-un-escenario-todo-o-nada-n6344679",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-11-12",
     "titulo": "La economía de Reino Unido creció 0,7% en el tercer trimestre por el impulso de la inteligencia artificial",
     "resumen": "La fortaleza del sector de servicios, especialmente la programación informática ligada a la IA, impulsó el desarrollo. Los detalles, en la nota.",
@@ -46,6 +81,55 @@
     "titulo": "Inocencia Fiscal: ARCA reglamentó la rebaja del 50% en las multas para pymes",
     "resumen": "El organismo avanzó en la implementación de otro de los aspectos de la norma sancionada en septiembre por el Congreso. Se podrá pedir hasta el 18 de diciembre. Alcanza a sanciones que están en litigio administrativo o en instancia judicial.",
     "link": "https://www.ambito.com/economia/inocencia-fiscal-arca-reglamento-la-rebaja-del-50-las-multas-pymes-n6344308",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "El empleo asalariado privado sumó 15 meses seguidos en baja, mientras el monotributo anotó su mayor alza en dos años",
+    "resumen": "Los datos del SIPA correspondientes a agosto volvieron a reflejar la precarización del mercado de trabajo. Los salarios reales repuntaron, pero se mantuvieron en un nivel muy bajo.",
+    "link": "https://www.ambito.com/economia/el-empleo-asalariado-privado-sumo-15-meses-seguidos-baja-mientras-el-monotributo-anoto-su-mayor-alza-dos-anos-n6344697",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Buenos Aires cerró su misión comercial en China con reuniones con Huawei y Chery",
+    "resumen": "Ocho empresas participaron de la feria CIIE y mantuvieron contactos con compradores. La delegación también exploró oportunidades de inversión.",
+    "link": "https://www.ambito.com/economia/buenos-aires-cerro-su-mision-comercial-china-reuniones-huawei-y-chery-n6344693",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Cómo es el bono por hasta $600.000 millones que analiza emitir CABA para pagar a proveedores",
+    "resumen": "La Legislatura aprobó en la sesión de la última semana de octubre un proyecto enviado por Jorge Macri que habilita a Hacienda a fondearse con un título en pesos para cubrir eventuales deudas con contratistas del Estado. Sin fecha prevista, el Gobierno porteño quedó habilitado ...",
+    "link": "https://www.ambito.com/economia/como-es-el-bono-600000-millones-que-analiza-emitir-caba-pagar-proveedores-n6344689",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "La canasta básica trepó 3,5% en octubre, su mayor suba desde enero: ¿cuánto necesitó una familia para no ser pobre?",
+    "resumen": "Tanto la canasta que determina la línea de pobreza como aquella utilizada para medir la indigencia subieron por encima de la inflación general.",
+    "link": "https://www.ambito.com/economia/la-canasta-basica-trepo-35-octubre-su-mayor-suba-enero-cuanto-necesito-una-familia-no-ser-pobre-n6344587",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Luis Caputo explicó qué impulsó la inflación de octubre y defendió el rumbo económico",
+    "resumen": "El ministro de Economía atribuyó parte del 2,2% a los cambios en el Régimen de Zona Fría. Además, destacó que la medición núcleo fue del 1,5%, su nivel más bajo desde julio de 2025.",
+    "link": "https://www.ambito.com/economia/luis-caputo-explico-que-impulso-la-inflacion-octubre-y-defendio-el-rumbo-economico-n6344665",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "La inflación se aceleró al 2,2% en octubre y alcanzó su mayor nivel en seis meses",
+    "resumen": "Vivienda, agua, electricidad, gas y otros combustibles fue el rubro de mayor aumento, con un salto del 4,2%, impulsado por subas en boletas de gas y en alquileres. Los alimentos treparon 2%, principalmente por el incremento estacional de verduras. Pero no todo fue negativo: la...",
+    "link": "https://www.ambito.com/economia/la-inflacion-se-acelero-al-22-octubre-y-alcanzo-su-mayor-nivel-seis-meses-n6344589",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Industria textil: la actividad cayó más de 20% en 2026 y ya se perdieron más de 29.000 puestos de trabajo",
+    "resumen": "La crisis se enmarca en medio de una demanda interna debilitada, mayores importaciones y dificultades para sostener los costos de producción. Actualmente, se utilizan solo 6 de cada 10 máquinas.",
+    "link": "https://www.ambito.com/economia/industria-textil-la-actividad-cayo-mas-20-2026-y-ya-se-perdieron-mas-29000-puestos-trabajo-n6344544",
     "fuente": "ambito"
   },
   {
