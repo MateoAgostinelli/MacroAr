@@ -1,29 +1,99 @@
 [
   {
+    "fecha": "2026-11-15",
+    "titulo": "Miguel Kiguel advirtió que el Gobierno subestimó la inflación y pidió priorizar la actividad económica y el empleo",
+    "resumen": "El economista y director de EconViews sostuvo que la inflación presenta una fuerte inercia que dificulta su desaceleración. Además, planteó dudas sobre las prioridades económicas del Gobierno de Javier Milei y advirtió que la recuperación deberá acelerarse para llegar a las el...",
+    "link": "https://www.ambito.com/economia/miguel-kiguel-advirtio-que-el-gobierno-subestimo-la-inflacion-y-pidio-priorizar-la-actividad-economica-y-el-empleo-n6345408",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-15",
+    "titulo": "Plazo fijo: cuánto hay que invertir para ganar $250.000",
+    "resumen": "Las entidades financieras ofrecen diferentes tasas para los depósitos en pesos. El simulador del Banco Nación te ayuda a evaluar una inversión a corto plazo.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-hay-que-invertir-ganar-250000-n6344756",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-15",
+    "titulo": "Tras la visita de León XIV, la economía vuelve al centro de la escena con luces rojas en la actividad y el empleo",
+    "resumen": "Caen las expectativas de crecimiento, se profundiza la pérdida de empleo formal y aumenta la preocupación empresaria por la falta de demanda interna.",
+    "link": "https://www.ambito.com/economia/tras-la-visita-leon-xiv-la-vuelve-al-centro-la-escena-luces-rojas-la-actividad-y-el-empleo-n6345250",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-15",
+    "titulo": "Santiago Migone, exfuncionario de Javier Milei: “A principios de año, nadie vio venir el estancamiento actual”",
+    "resumen": "Para el economista, el año cierra con una macro sólida, pero con la actividad estancada. Apunta al crédito en dólares como clave para la recuperación y descarta una turbulencia cambiaria como la de 2025. Tras la visita del Papa, advierte que Milei debería explicar mejor cómo s...",
+    "link": "https://www.ambito.com/economia/santiago-migone-exfuncionario-javier-milei-a-principios-ano-nadie-vio-venir-el-estancamiento-actual-n6345246",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-14",
+    "titulo": "Exportaciones: en lo que va del 2026, el petróleo destronó a la soja como principal producto",
+    "resumen": "Crecieron un 58% interanual, para alcanzar u$s7.753 millones desde enero a septiembre. Desde el 2002 lideraba el rubro sojero.",
+    "link": "https://www.ambito.com/economia/exportaciones-lo-que-va-del-2026-el-petroleo-destrono-la-soja-como-principal-producto-n6345334",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-14",
+    "titulo": "Argentina volvió a quedar en el segundo puesto de países con mayor inflación de Latinoamérica",
+    "resumen": "El 2,2% de octubre dejó al país nuevamente entre los de mayor aumento de precios de la región, sólo por detrás de Venezuela.",
+    "link": "https://www.ambito.com/economia/argentina-volvio-quedar-el-segundo-puesto-paises-mayor-inflacion-latinoamerica-n6345351",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-14",
+    "titulo": "\"Queda para el próximo\": Carlos Melconian descartó que el Gobierno pueda bajar la inflación",
+    "resumen": "El extitular del Banco Nación cuestionó el margen de la gestión para desacelerar los precios sin resignar actividad ni estabilidad cambiaria.",
+    "link": "https://www.ambito.com/economia/queda-el-proximo-carlos-melconian-descarto-que-el-gobierno-pueda-bajar-la-inflacion-n6345314",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-14",
+    "titulo": "Superan los u$s22.000 millones los proyectos de inversión en San Juan: el impacto energético y del RIGI",
+    "resumen": "Las inversiones productivas tienen su correlato en las exportaciones, por más de u$s2.101 millones, y en la promoción de 44.600 puestos de trabajo.",
+    "link": "https://www.ambito.com/economia/superan-los-us22000-millones-los-proyectos-inversion-san-juan-el-impacto-energetico-y-del-rigi-n6345293",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-14",
+    "titulo": "Plazo fijo: cuánto se obtiene al invertir $1.500.000",
+    "resumen": "Con esa cantidad de dinero, vale la pena mirar cuánto se puede ganar antes de decidir dónde invertir los ahorros.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-se-obtiene-al-invertir-1500000-n6344958",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-14",
+    "titulo": "El resultado fiscal de octubre definirá si el Gobierno logra cumplir la meta de superávit acordada con el FMI",
+    "resumen": "Este lunes se conocerá el dato oficial. Privados anticipan un fuerte ajuste del gasto en octubre. Diciembre amenaza la meta fiscal, salvo que llegue una \"ayuda\" del FMI.",
+    "link": "https://www.ambito.com/economia/el-resultado-fiscal-octubre-definira-si-el-gobierno-logra-cumplir-la-meta-superavit-acordada-el-fmi-n6345009",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-11-13",
     "titulo": "Motosierra: el Gobierno retira el subsidio fijo del 30% a los colectivos a gas y del 50% a los eléctricos",
-    "resumen": "<p id=\"p-1794583091915-71105\" class=\"ignore-parser\">El impacto fiscal de la medida es casi nulo, pero se inscribe en una reformulación general de las tarifas de referencia y los costos por kilómetro llevado a cabo por la Secretaría de Transporte para todas las líneas del AMBA ...",
+    "resumen": "El impacto fiscal de la medida es casi nulo, pero se inscribe en una reformulación general de las tarifas de referencia y los costos por kilómetro llevado a cabo por la Secretaría de Transporte para todas las líneas del AMBA que dependen de la Nación. La Secretaría de Transpor...",
     "link": "https://www.ambito.com/economia/motosierra-el-gobierno-retira-el-subsidio-fijo-del-30-los-colectivos-gas-y-del-50-los-electricos-n6344954",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-13",
     "titulo": "La inflación mayorista se desaceleró en EEUU, pero el mercado todavía espera dos subas de tasas al hilo",
-    "resumen": "<p id=\"p-1794577542174-79245\" class=\"ignore-parser\">Si bien el dato de octubre implica una mejora respecto a la suba de 1,4% que se registró en septiembre, las expectativas del mercado todavía descuentan una suba de tasas por parte de la Fed en diciembre y le asignan altas pro...",
+    "resumen": "Si bien el dato de octubre implica una mejora respecto a la suba de 1,4% que se registró en septiembre, las expectativas del mercado todavía descuentan una suba de tasas por parte de la Fed en diciembre y le asignan altas probabilidades a otro incremento en enero.",
     "link": "https://www.ambito.com/economia/la-inflacion-mayorista-se-desacelero-eeuu-pero-el-mercado-todavia-espera-dos-subas-tasas-al-hilo-n6344923",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-13",
     "titulo": "Mapa del empleo privado: 21 provincias en rojo y solo 3 sumaron trabajadores en la era Milei",
-    "resumen": "<p id=\"p-1794573944118-60432\" class=\"ignore-parser\">Con el total del país 4,3% por debajo del nivel de noviembre de 2023, solo tres provincias lograron superarlo, de acuerdo con un informe. La provincia de Buenos Aires explica la mayor parte de la pérdida, con 108.208 puestos ...",
+    "resumen": "Con el total del país 4,3% por debajo del nivel de noviembre de 2023, solo tres provincias lograron superarlo, de acuerdo con un informe. La provincia de Buenos Aires explica la mayor parte de la pérdida, con 108.208 puestos menos.",
     "link": "https://www.ambito.com/economia/mapa-del-empleo-privado-21-provincias-rojo-y-solo-3-sumaron-trabajadores-la-era-milei-n6344879",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-13",
     "titulo": "El \"enfriamiento\" y los dólares del colchón: el \"gurú del blue\" advirtió sobre la recesión técnica",
-    "resumen": "<p id=\"p-1794572525489-73079\" class=\"ignore-parser\">El analista Salvador Di Stéfano, uno de los gurúes más escuchados de la City, hizo hincapié en la retracción del mercado y el consumo estancado. Además, vinculó la \"mentalidad defensiva\" del argentino con la falta de inversió...",
+    "resumen": "El analista Salvador Di Stéfano, uno de los gurúes más escuchados de la City, hizo hincapié en la retracción del mercado y el consumo estancado. Además, vinculó la \"mentalidad defensiva\" del argentino con la falta de inversión productiva.",
     "link": "https://www.ambito.com/economia/el-enfriamiento-y-los-dolares-del-colchon-el-guru-del-blue-advirtio-la-recesion-tecnica-n6344837",
     "fuente": "ambito"
   },
@@ -37,42 +107,42 @@
   {
     "fecha": "2026-11-13",
     "titulo": "La demanda de pesos que sigue el BCRA cayó en octubre, pero hubo señales positivas: ¿arranca la remonetización?",
-    "resumen": "<p id=\"p-1794594650777-2818\" class=\"ignore-parser\">Mientras el circulante y los plazos fijos crecieron, los depósitos a la vista arrojaron una importante contracción. Asimismo, el crédito en pesos tuvo una leve mejora, pero no así en los préstamos para el consumo.</p>",
+    "resumen": "Mientras el circulante y los plazos fijos crecieron, los depósitos a la vista arrojaron una importante contracción. Asimismo, el crédito en pesos tuvo una leve mejora, pero no así en los préstamos para el consumo.",
     "link": "https://www.ambito.com/economia/la-demanda-pesos-que-sigue-el-bcra-cayo-octubre-pero-hubo-senales-positivas-arranca-la-remonetizacion-n6345059",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-13",
     "titulo": "Plazo fijo: cuánto debés invertir para ganar $200.000",
-    "resumen": "<p id=\"p-1794575185635-60455\" class=\"ignore-parser\">La diferencia entre entidades modifica el capital inicial necesario para alcanzar ese rendimiento en una colocación tradicional de 30 días.</p>",
+    "resumen": "La diferencia entre entidades modifica el capital inicial necesario para alcanzar ese rendimiento en una colocación tradicional de 30 días.",
     "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-debes-invertir-ganar-200000-n6344859",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-13",
     "titulo": "Empresas: se perdieron casi 32.500 unidades productivas desde 2023 y las pymes migran a la informalidad",
-    "resumen": "<p id=\"p-1794597252154-46253\" class=\"ignore-parser\">La destrucción de empresas alcanza a 23 de las 24 jurisdicciones. El oasis es la provincia de Neuquén, gracias a Vaca Muerta, donde afloraron 136 nuevas unidades productivas (+1,8%) entre noviembre 2023 y agosto de este año.</p>",
+    "resumen": "La destrucción de empresas alcanza a 23 de las 24 jurisdicciones. El oasis es la provincia de Neuquén, gracias a Vaca Muerta, donde afloraron 136 nuevas unidades productivas (+1,8%) entre noviembre 2023 y agosto de este año.",
     "link": "https://www.ambito.com/economia/empresas-se-perdieron-casi-32500-unidades-productivas-2023-y-las-pymes-migran-la-informalidad-n6345026",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-13",
     "titulo": "Industria: el uso de capacidad instalada cruzó el 60% por primera vez en 2026, aunque tuvo una caída anual",
-    "resumen": "<p id=\"p-1794597131995-24168\" class=\"ignore-parser\">Pese a la tenue mejora mensual en la producción, la industria sigue sumergida en una crisis y operando con capacidad ociosa. El retroceso más relevante contra el año pasado se observó en químicos.</p>",
+    "resumen": "Pese a la tenue mejora mensual en la producción, la industria sigue sumergida en una crisis y operando con capacidad ociosa. El retroceso más relevante contra el año pasado se observó en químicos.",
     "link": "https://www.ambito.com/industria-el-uso-capacidad-instalada-cruzo-el-60-primera-vez-2026-aunque-tuvo-una-caida-anual-n6345064",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-13",
     "titulo": "Los salarios privados registrados le empataron a la inflación en septiembre, pero los públicos volvieron a perder",
-    "resumen": "<p id=\"p-1794596699645-52881\" class=\"ignore-parser\">Desde 2023, los salarios registrados acumulan una baja de 2,3% mientras que los públicos se hundieron 15,4%. En su conjunto, perdieron 7%, según el cálculo de Ámbito en base a los datos de INDEC.</p>",
+    "resumen": "Desde 2023, los salarios registrados acumulan una baja de 2,3% mientras que los públicos se hundieron 15,4%. En su conjunto, perdieron 7%, según el cálculo de Ámbito en base a los datos de INDEC.",
     "link": "https://www.ambito.com/economia/los-salarios-privados-registrados-le-empataron-la-inflacion-septiembre-pero-los-publicos-volvieron-perder-n6345076",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-13",
     "titulo": "Generación sin casa propia: se sumaron 600.000 hogares inquilinos en la última década",
-    "resumen": "<p id=\"p-1794586752214-73946\" class=\"ignore-parser\">Por la caída del poder adquisitivo y la falta de créditos hipotecarios, la proporción de hogares propietarios se redujo durante la última década. El segmento etario de 30 a 49 años es el principal afectado por esta problemáti...",
+    "resumen": "Por la caída del poder adquisitivo y la falta de créditos hipotecarios, la proporción de hogares propietarios se redujo durante la última década. El segmento etario de 30 a 49 años es el principal afectado por esta problemática.",
     "link": "https://www.ambito.com/economia/generacion-casa-propia-se-sumaron-600000-hogares-inquilinos-la-ultima-decada-n6345015",
     "fuente": "ambito"
   },
