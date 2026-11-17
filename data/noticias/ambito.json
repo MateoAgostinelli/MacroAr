@@ -1,5 +1,75 @@
 [
   {
+    "fecha": "2026-11-17",
+    "titulo": "La inflación mayorista se desaceleró al 1,6% en octubre tras el freno del aumento del petróleo",
+    "resumen": "El aumento se explicó por la suba de 1,6% en los productos nacionales, mientras que importados avanzaron apenas 0,9%.",
+    "link": "https://www.ambito.com/economia/la-inflacion-mayorista-se-desacelero-al-16-octubre-el-freno-del-aumento-del-petroleo-n6346291",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-17",
+    "titulo": "Premio Nobel recomendó no descuidar a los que están perdiendo su empleo ante el cambio de modelo",
+    "resumen": "Se trata del académico francés Philippe Aghion, quien habló recomendó aplicar políticas de educación, competencia y \"flexiseguridad\", es decir, medidas que hagan \"socialmente aceptable\" los cambios.",
+    "link": "https://www.ambito.com/economia/premio-nobel-recomendo-no-descuidar-los-que-estan-perdiendo-su-empleo-el-cambio-modelo-n6346234",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-17",
+    "titulo": "Por qué Nvidia y Anthropic son clave para el comportamiento de las tasas de la Fed y la economía de EEUU",
+    "resumen": "Las grandes empresas tecnológicas vinculadas al desarrollo de la IA tienen un peso cada vez más fuerte sobre la economía estadounidense y pueden afectar el desempeño de la política monetaria de la Fed y el comportamiento de los bonos del Tesoro en el corto plazo.",
+    "link": "https://www.ambito.com/economia/por-que-nvidia-y-anthropic-son-clave-el-comportamiento-las-tasas-la-fed-y-la-eeuu-n6346117",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-17",
+    "titulo": "China amplía sus acuerdos comerciales con Canadá: cuáles son los puntos clave",
+    "resumen": "Tras una reunión entre Xi Jinping y Mark Carney previa a la cumbre de la APEC, Beijing recortará aranceles por u$s280 millones al agro y la pesca canadienses a cambio de exenciones al acero y aluminio. Los detalles de los intercanmbios y el papel de EEUU, en la nota.",
+    "link": "https://www.ambito.com/economia/china-amplia-sus-acuerdos-comerciales-canada-cuales-son-los-puntos-clave-n6346114",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-17",
+    "titulo": "Dólar y deuda: advierten que el Gobierno enfrentará un 2027 más exigente y deberá conseguir u$s28.000 millones",
+    "resumen": "Un informe de Fundación Mediterránea alertó que el próximo año combinará mayores necesidades financieras, menores ingresos de divisas y una demanda de dólares más elevada. El vencimiento de enero será la primera prueba para el equipo económico.",
+    "link": "https://www.ambito.com/economia/dolar-y-deuda-advierten-que-el-gobierno-enfrentara-un-2027-mas-exigente-y-debera-conseguir-us28000-millones-n6346090",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-17",
+    "titulo": "El Tesoro habría vuelto a comprar dólares al BCRA para afrontar pagos de deuda y crece la presión sobre las reservas",
+    "resumen": "El Gobierno podría concretar una nueva adquisición de divisas al Banco Central, en medio de la pausa en las colocaciones de bonos en el mercado local. En enero deberá afrontar pagos por unos u$s4.400 millones y busca asegurar los dólares necesarios sin convalidar tasas elevadas.",
+    "link": "https://www.ambito.com/economia/el-tesoro-habria-vuelto-comprar-dolares-al-bcra-afrontar-vencimientos-deuda-y-crece-la-presion-las-reservas-n6346000",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-17",
+    "titulo": "El Gobierno licita otros $200.000 millones del FGS y aplica cambios al plan de crédito hipotecario",
+    "resumen": "Los bancos podrán usar los fondos en préstamos para viviendas en construcción, aunque todavía no tengan la hipoteca inscripta, y ninguna entidad podrá quedarse con más del 40% del monto. La tasa de los créditos tendrá un techo de UVA más 7,5% nominal anual.",
+    "link": "https://www.ambito.com/economia/el-gobierno-licita-hoy-otros-200000-millones-del-fgs-y-aplica-cambios-al-plan-credito-hipotecario-n6346015",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-17",
+    "titulo": "EEUU lanza nuevas restricciones a China para el acceso a chips y Beijing advierte que tomará las \"medidas necesarias\"",
+    "resumen": "La medida apunta a Singapur, Tailandia, Malasia, Indonesia y Brasil, restringiendo envíos que podrían ser desviados a China. Por su parte, Beijing prometió tomar las \"medidas necesarias\" para defender sus intereses, calificando la acción de EEUU como \"coerción económica\".",
+    "link": "https://www.ambito.com/economia/eeuu-lanza-nuevas-restricciones-china-el-acceso-chips-y-beijing-advierte-que-tomara-las-medidas-necesarias-n6345989",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-17",
+    "titulo": "Dólar: el tipo de cambio real tocó mínimos desde el inicio del esquema de bandas y crece la alerta por la demanda de divisas",
+    "resumen": "Con el tipo de cambio real en mínimos desde el inicio de las bandas y un riesgo país en torno a los 850 puntos. El programa financiero enfrenta mayor presión sobre las reservas del BCRA.",
+    "link": "https://www.ambito.com/economia/dolar-el-tipo-cambio-real-toco-minimos-el-inicio-del-esquema-bandas-y-crece-la-alerta-la-demanda-divisas-n6345728",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-17",
+    "titulo": "Las cinco lecciones de Grecia y Australia para la Argentina sobre el dólar, reformas económicas y morosidad",
+    "resumen": "El presidente del Banco de Grecia, Yannis Stournaras, y el expresidente del Banco Central de Australia, Ian Macfarlane, repasaron sus experiencias al frente de la política monetaria de sus respectivos países y dejaron lecciones que permiten trazar paralelismos con los desafíos...",
+    "link": "https://www.ambito.com/economia/las-cinco-lecciones-grecia-y-australia-la-argentina-el-dolar-reformas-economicas-y-morosidad-n6345931",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-11-16",
     "titulo": "Carne vacuna: Argentina se encamina a cerrar 2026 con el consumo más bajo de su historia",
     "resumen": "Las malas condiciones climáticas de los últimos años, sumadas al creciente interés de los ganaderos por aumentar sus exportaciones, redujeron la cantidad de ganado disponible para la faena, lo que encareció el precio de la carne y limitó aún más su consumo en el mercado local.",
@@ -39,6 +109,34 @@
     "titulo": "Wall Street sufrió por Nvidia, la inflación y las tasas largas, pero ya está lista para retomar los récords de la mano de Anthropic",
     "resumen": "La Bolsa estadounidense atravesó una semana de tensiones por el escándalo de Nvidia, las dudas sobre el financiamiento de la inteligencia artificial y el repunte de la inflación. Sin embargo, el mercado logró recuperar terreno y ahora deposita sus expectativas en la salida a B...",
     "link": "https://www.ambito.com/economia/wall-street-sufrio-nvidia-la-inflacion-y-las-tasas-largas-pero-ya-esta-lista-retomar-los-records-la-mano-anthropic-n6345464",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-16",
+    "titulo": "RIGI: a la espera de una nueva ronda de negocios, Economía cambia las reglas para los proveedores locales",
+    "resumen": "El Ministerio de Economía introdujo, mediante un decreto, cambios en las reglas para la venta de acciones y las fusiones de empresas beneficiarias del RIGI, así como modificaciones en las condiciones de acceso al mercado de cambios (MULC).",
+    "link": "https://www.ambito.com/economia/rigi-la-espera-una-nueva-ronda-negocios-cambia-las-reglas-los-proveedores-locales-n6345753",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-16",
+    "titulo": "Plazo fijo en dólares: cuánto se gana al invertir u$d 10.000",
+    "resumen": "Con una suma importante de dólares, vale la pena mirar los números antes de decidir dónde dejar los ahorros durante un mes.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-se-gana-al-invertir-ud-10000-n6345751",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-16",
+    "titulo": "LEGO abrirá su primera tienda en Argentina: el video de Javier Milei para anunciarlo",
+    "resumen": "La compañía danesa tendrá un local oficial en el tercer piso de Unicenter. El Presidente celebró la llegada con una publicación en redes sociales y la vinculó con la apertura económica.",
+    "link": "https://www.ambito.com/economia/lego-abrira-su-primera-tienda-argentina-el-video-javier-milei-anunciarlo-n6345927",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-16",
+    "titulo": "Las canastas de crianza subieron 3,6% en octubre: cuánto cuesta mantener a un hijo",
+    "resumen": "El costo de criar a los niños aumentó más que la inflación general y se movió en sintonía con la suba de las canastas básicas.",
+    "link": "https://www.ambito.com/economia/las-canastas-crianza-subieron-36-octubre-cuanto-cuesta-mantener-un-hijo-n6345881",
     "fuente": "ambito"
   },
   {
