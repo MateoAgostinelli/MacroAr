@@ -1,5 +1,61 @@
 [
   {
+    "fecha": "2026-11-19",
+    "titulo": "El superávit comercial superó los u$s3.000 millones en octubre y rozó el récord de la era Milei",
+    "resumen": "",
+    "link": "https://www.ambito.com/economia/el-superavit-comercial-supero-los-us3000-millones-octubre-y-rozo-el-record-la-era-milei-n6347275",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Plazo fijo en dólares: ¿conviene congelar los ahorros por un mes?",
+    "resumen": "Las entidades financieras ofrecen rendimientos diferentes según el período y el canal de contratación. Qué mirar antes de inmovilizar las divisas.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-conviene-congelar-los-ahorros-un-mes-n6346562",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Se venden 50 autos por día en las concesionarias con la nueva línea de créditos del Banco Provincia",
+    "resumen": "La línea, que se tramita en la propia concesionaria, ya financió 1.560 vehículos por $20.842 millones desde su lanzamiento, a fines de septiembre. Mar del Plata encabeza las operaciones y la modalidad UVA, con tasa desde 6% anual, concentra casi todas.",
+    "link": "https://www.ambito.com/economia/se-venden-50-autos-dia-las-concesionarias-la-nueva-linea-creditos-del-banco-provincia-n6347171",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Inflación: cuánto cuesta llenar el changuito del supermercado en cada provincia y qué productos aumentaron más",
+    "resumen": "Un relevamiento privado reveló diferencias de más de $130.000 para una misma compra familiar según la provincia. La Patagonia concentra los precios más elevados, mientras que el norte registra el mayor impacto sobre los salarios.",
+    "link": "https://www.ambito.com/economia/inflacion-cuanto-cuesta-llenar-el-changuito-del-supermercado-cada-provincia-y-que-productos-aumentaron-mas-n6347133",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Aguinaldo 2026: hasta cuándo tienen tiempo las empresas para pagarlo y cuánto corresponde cobrar en diciembre",
+    "resumen": "La segunda cuota del Sueldo Anual Complementario se paga en diciembre y tiene una fecha límite establecida por ley.",
+    "link": "https://www.ambito.com/economia/aguinaldo-2026-cuando-tienen-tiempo-las-empresas-pagarlo-y-cuanto-corresponde-cobrar-diciembre-n6347106",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "El Gobierno sumó $15,6 billones al Presupuesto 2026 y recorta el superávit de fin de año",
+    "resumen": "La ampliación equivale al 10,2% del crédito vigente. PAMI y los intereses de deuda se llevan la mayor parte, mientras que Servicios Económicos pierde unos $2,3 billones.",
+    "link": "https://www.ambito.com/economia/el-gobierno-sumo-156-billones-al-presupuesto-2026-y-recorta-el-superavit-fin-ano-n6346959",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Argentina pierde interés entre los fondos de inversión latinoamericanos",
+    "resumen": "Los principales gestores de fondos de inversiones para la región han adoptado una postura defensiva de cara al 2027. Pero además han modificado sus preferencias. Así hoy les gusta más México que Brasil. Mientras los activos argentinos también han sido relegados.",
+    "link": "https://www.ambito.com/economia/argentina-pierde-interes-los-fondos-inversion-latinoamericanos-n6346930",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "La devaluación del real abarata fuerte las vacaciones en Brasil y pone en riesgo al 35% de las exportaciones regionales",
+    "resumen": "La depreciación de la moneda brasileña agrega aún más presión al turismo interno, ya golpeado por los bajos niveles de consumo. Asimismo, el bajo tipo de cambio real y el menor crecimiento esperado para Brasil también puede impactar en el comercio exterior.",
+    "link": "https://www.ambito.com/economia/la-devaluacion-del-real-abarata-fuerte-las-vacaciones-brasil-y-pone-riesgo-al-35-las-exportaciones-regionales-n6346786",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-11-18",
     "titulo": "El Sistema Previsional de la región enfrenta un nuevo desafío: el rápido envejecimiento poblacional",
     "resumen": "Un reciente análisis de la CEPAL halló que el envejecimiento poblacional se perfila como el gran problema para los países de la región, debido a que ocurre a un ritmo el doble de rápido de lo que sucedió en Europa.",
@@ -8,7 +64,7 @@
   },
   {
     "fecha": "2026-11-18",
-    "titulo": "La deuda del Tesoro se encamina a alcanzar los u$s500.000 millones por la deuda CER y la capitalización de intereses",
+    "titulo": "La deuda del Tesoro se encamina a alcanzar los u$s500.000 millones por los bonos CER y la capitalización de intereses",
     "resumen": "El director de Polomix señala que en términos netos la deuda del Gobierno creció este año unos u$s34.500 millones a pesar de haber pagado unos u$s10.000 millones. Afirma que el superávit primario no alcanza para evitar el incremento del endeudamiento.",
     "link": "https://www.ambito.com/economia/la-deuda-del-tesoro-se-encamina-alcanzar-los-us500000-millones-la-deuda-cer-y-la-capitalizacion-intereses-n6346610",
     "fuente": "ambito"
@@ -74,6 +130,41 @@
     "titulo": "Diálogos de Wall Street: la saga Nvidia no termina ¿podrá Anthropic calmar al mercado?",
     "resumen": "Wall Street sigue bajo fuego intenso. Las tribulaciones de Nvidia no terminan. ¿Podrá la colocación de Anthropic acudir al rescate, Gekko?",
     "link": "https://www.ambito.com/economia/dialogos-wall-street-la-saga-nvidia-no-termina-podra-anthropic-calmar-al-mercado-n6346425",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "\"Oportunidad estratégica\": empresarios pidieron a Diputados que apruebe la nueva ley de Biocombustibles",
+    "resumen": "La entidad sostuvo que el proyecto, que cuenta con media sanción del Senado, dará previsibilidad a las pymes y fortalecerá las economías regionales.",
+    "link": "https://www.ambito.com/economia/oportunidad-estrategica-empresarios-pidieron-diputados-que-apruebe-la-nueva-ley-biocombustibles-n6346873",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Domingo Cavallo cruzó a Javier Milei y le recordó sus elogios de 2020: \"¿Cuándo interpretaba bien, entonces o ahora?\"",
+    "resumen": "El exministro cuestionó el cambio de postura del Presidente sobre su gestión en el Banco Central, la Convertibilidad y la crisis de 2001. Le recordó sus elogios de 2020 y le pidió que vuelva a ver aquella entrevista.",
+    "link": "https://www.ambito.com/economia/domingo-cavallo-cruzo-javier-milei-y-le-recordo-sus-elogios-2020-cuando-interpretaba-bien-entonces-o-ahora-n6346880",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Los problemas de deuda de los países más ricos repercuten en los más pobres",
+    "resumen": "La deuda de los países en desarrollo se disparó a u$s9,4 billones, mientras las altas tasas de interés y otras perturbaciones mundiales afectan sus economías.",
+    "link": "https://www.ambito.com/economia/los-problemas-deuda-los-paises-mas-ricos-repercuten-los-mas-pobres-n6346851",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "El español Hernández De Cos, más cerca de presidir el BCE tras asegurarse el apoyo alemán",
+    "resumen": "Los gobiernos de la UE negocian cubrir tres lugares del Comité Ejecutivo que quedarán vacantes en los próximos meses, entre ellos la presidencia que Christine Lagarde dejará el 7 de febrero. La postura de Alemania complica las chances de Klaas Knot, único rival del español.",
+    "link": "https://www.ambito.com/economia/el-espanol-hernandez-cos-mas-cerca-presidir-el-bce-asegurarse-el-apoyo-aleman-n6346747",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Luis Caputo e Ignacio Torres firmaron un acuerdo para avanzar con un crédito de u$s150 millones para Chubut",
+    "resumen": "Los fondos de CAF financiarán mejoras en el abastecimiento de agua potable para cuatro ciudades de la Patagonia, con más de 286.000 beneficiarios directos.",
+    "link": "https://www.ambito.com/economia/luis-caputo-e-ignacio-torres-firmaron-un-acuerdo-avanzar-un-credito-us150-millones-chubut-n6346814",
     "fuente": "ambito"
   },
   {
