@@ -366,16 +366,31 @@ const SERIES = [
   {
     id:        'merval-ars',
     slug:      'merval',
-    descripcion: 'Índice Merval de la Bolsa de Buenos Aires: serie histórica de la cotización del principal índice bursátil argentino, con gráfico interactivo.',
-    titulo:    'Merval',
+    descripcion: 'Índice MSCI Merval de la Bolsa de Buenos Aires (en pesos): cotización diaria del principal índice bursátil argentino, con gráfico interactivo.',
+    titulo:    'Merval (MSCI)',
     categoria: 'Mercado de Capitales',
     fuente:    'local',
     ventana:   true,
-    serieId:   'merval',
+    // Desde nov-2026 el Merval lo calcula MSCI (Yahoo ^768692-ARS-STRD). Yahoo solo da
+    // el último cierre, así que el historial se acumula día a día con fetch_mercados.py.
+    serieId:   'msci-merval',
     unidad:    'ARS',
     color:     '#0d9488',
     dias:      365,
     premium:   false,
+  },
+  {
+    id:        'merval-historico',
+    slug:      'merval-historico',
+    descripcion: 'Índice Merval histórico de la Bolsa de Buenos Aires (S&P Merval, en pesos): serie diaria hasta octubre de 2026, antes del cambio al MSCI Merval.',
+    titulo:    'Merval histórico (hasta oct-2026)',
+    categoria: 'Mercado de Capitales',
+    fuente:    'local',
+    serieId:   'merval', // escala distinta al MSCI Merval y sin día en común: no se empalman
+    unidad:    'ARS',
+    color:     '#5eead4',
+    premium:   false,
+    discontinuada: true,
   },
   {
     id:        'inflacion-anual',

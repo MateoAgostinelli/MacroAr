@@ -193,6 +193,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://macroar.com.ar/indicador/merval-historico</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://macroar.com.ar/indicador/inflacion-interanual</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>daily</changefreq>

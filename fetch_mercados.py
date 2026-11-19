@@ -72,8 +72,10 @@ def fetch_yahoo(symbol, nombre, rango='5y', factor=1.0):
 
 if __name__ == "__main__":
     resultados = [
-        # ^MERV = índice Merval (Bolsa de Buenos Aires)
-        fetch_yahoo('%5EMERV', 'merval'),
+        # MSCI Merval en pesos (reemplazó al S&P Merval ^MERV, congelado desde oct-2026).
+        # Yahoo solo devuelve el último cierre: el historial se arma corrida a corrida.
+        # data/merval.json queda como historial del índice viejo y ya no se actualiza.
+        fetch_yahoo('%5E768692-ARS-STRD', 'msci-merval'),
         # GC=F = futuro de oro COMEX (USD/oz)
         fetch_yahoo('GC%3DF', 'oro', rango='5y'),
         # ZS=F = futuro de soja CBOT (cotiza en centavos/bushel)

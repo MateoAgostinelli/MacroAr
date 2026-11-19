@@ -1,6 +1,6 @@
 name: Actualizar datos de mercado
 
-# Refresca data/merval.json (y oro) desde Yahoo Finance.
+# Refresca el MSCI Merval, oro, soja y petróleo desde Yahoo Finance.
 # Los demás indicadores (BCRA, INDEC, Bluelytics, ArgentinaDatos) se consumen en
 # vivo desde el browser, así que no necesitan actualización acá.
 # ICC y EI (UTDT) se actualizan solos con fetch_utdt.py (update-utdt.yml).
@@ -8,8 +8,9 @@ name: Actualizar datos de mercado
 
 on:
   schedule:
-    # Lunes a las 12:00 UTC (09:00 ART)
-    - cron: '0 12 * * 1'
+    # Lunes a viernes a las 21:00 UTC (18:00 ART), después del cierre del mercado.
+    # Diario porque el MSCI Merval solo trae el último cierre y se acumula por corrida.
+    - cron: '0 21 * * 1-5'
   workflow_dispatch:  # permite correrlo manualmente desde la pestaña Actions
 
 permissions:
