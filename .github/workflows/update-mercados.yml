@@ -28,9 +28,13 @@ jobs:
           python-version: '3.12'
 
       - name: Traer datos de mercado
-        run: python fetch_mercados.py
+        shell: bash
+        run: python fetch_mercados.py 2>&1 | tee salida.txt
 
+      # Si una serie falla, el paso anterior sale con error (el run queda en rojo),
+      # pero igual se commitean las que sí se actualizaron.
       - name: Commitear si hay cambios
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -41,3 +45,10 @@ jobs:
           else
             echo "Sin cambios en los datos."
           fi
+
+      - name: Avisar por Telegram si falló
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: bash .github/scripts/avisar-telegram.sh salida.txt

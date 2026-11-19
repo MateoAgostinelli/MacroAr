@@ -29,7 +29,8 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Traer datos de UTDT
-        run: python fetch_utdt.py
+        shell: bash
+        run: python fetch_utdt.py 2>&1 | tee salida.txt
 
       - name: Commitear si hay cambios
         run: |
@@ -42,3 +43,10 @@ jobs:
           else
             echo "Sin cambios en los datos."
           fi
+
+      - name: Avisar por Telegram si falló
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: bash .github/scripts/avisar-telegram.sh salida.txt

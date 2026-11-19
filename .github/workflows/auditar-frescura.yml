@@ -1,0 +1,37 @@
+name: Auditar frescura de indicadores
+
+# Revisa que todos los indicadores de SERIES tengan datos al día en su fuente
+# (BCRA, INDEC, Bluelytics, ArgentinaDatos y los JSON locales de data/).
+# Si alguno está atrasado o roto, el run queda en rojo y GitHub avisa por mail.
+
+on:
+  schedule:
+    # Martes a las 13:00 UTC (10:00 ART), después del update de mercados del lunes
+    - cron: '0 13 * * 2'
+  workflow_dispatch:  # permite correrlo manualmente desde la pestaña Actions
+
+permissions:
+  contents: read
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Auditar
+        shell: bash
+        run: node auditar-frescura.js 2>&1 | tee salida.txt
+
+      - name: Avisar por Telegram si falló
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: bash .github/scripts/avisar-telegram.sh salida.txt

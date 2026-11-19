@@ -27,7 +27,8 @@ jobs:
           python-version: '3.12'
 
       - name: Traer noticias
-        run: python fetch_noticias.py
+        shell: bash
+        run: python fetch_noticias.py 2>&1 | tee salida.txt
 
       - name: Commitear si hay cambios
         run: |
@@ -40,3 +41,10 @@ jobs:
           else
             echo "Sin cambios en las noticias."
           fi
+
+      - name: Avisar por Telegram si falló
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: bash .github/scripts/avisar-telegram.sh salida.txt

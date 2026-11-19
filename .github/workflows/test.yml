@@ -14,4 +14,12 @@ jobs:
         with:
           node-version: '20'
       - name: Correr tests
-        run: node --test
+        shell: bash
+        run: node --test 2>&1 | tee salida.txt
+
+      - name: Avisar por Telegram si falló
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: bash .github/scripts/avisar-telegram.sh salida.txt
