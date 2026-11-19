@@ -81,6 +81,10 @@ Cubren las funciones puras de `lib.js` (formatFecha, agregarDatos, transformarEm
 2. Si la fuente es `local`, generar el `data/{id}.json` con `subir_datos.py` (o `fetch_mercados.py` para datos de mercado).
 3. Si la fuente es `bcra`, usar el ID numérico de variable de la API v4.0 del BCRA.
 
+## gstack
+
+Para toda navegación web usar el skill `/browse` de gstack. Nunca usar las herramientas `mcp__claude-in-chrome__*`.
+
 ## Skill routing
 
 When the user's request matches an available skill, invoke it via the Skill tool. When in doubt, invoke the skill.
