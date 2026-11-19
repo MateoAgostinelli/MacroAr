@@ -3,7 +3,7 @@
 const { test } = require('node:test');
 const assert = require('node:assert');
 const { formatFecha, formatTickEje, isoHace, agregarDatos, transformarEmae,
-        pearson, crossCorrelation, normalizar, alinearSeries,
+        pearson, crossCorrelation, normalizar, alinearSeries, completarSerieMensual, variacionInteranual,
         pValorT, pValorF, regresionLineal } = require('../lib.js');
 
 // ─── formatFecha ──────────────────────────────────────────────────────────────
@@ -252,4 +252,34 @@ test('pValorF: identidad F(t²,1,df) = t bilateral', () => {
     const dif = Math.abs(pValorF(t * t, 1, df) - pValorT(t, df));
     assert.ok(dif < 1e-9, `t=${t} df=${df} dif=${dif}`);
   }
+});
+
+// ─── completarSerieMensual ────────────────────────────────────────────────────
+
+test('completarSerieMensual: agrega los meses que faltan, normalizando fin de mes a día 1', () => {
+  const indec = [{ fecha: '2026-07-01', valor: 2.1 }, { fecha: '2026-08-01', valor: 1.66 }];
+  const bcra  = [{ fecha: '2026-07-31', valor: 2.1 }, { fecha: '2026-08-31', valor: 1.7 }, { fecha: '2026-09-30', valor: 1.9 }];
+  assert.deepStrictEqual(completarSerieMensual(indec, bcra), [
+    { fecha: '2026-07-01', valor: 2.1 },
+    { fecha: '2026-08-01', valor: 1.66 }, // no pisa el dato de INDEC
+    { fecha: '2026-09-01', valor: 1.9 },
+  ]);
+});
+
+test('completarSerieMensual: si la fuente extra no trae nada nuevo, la base queda igual', () => {
+  const base = [{ fecha: '2026-09-01', valor: 1.9 }];
+  assert.deepStrictEqual(completarSerieMensual(base, [{ fecha: '2026-08-31', valor: 1.7 }]), base);
+});
+
+// ─── variacionInteranual ──────────────────────────────────────────────────────
+
+test('variacionInteranual: compara con el mismo mes del año anterior y descarta los meses sin base', () => {
+  const raw = [
+    { fecha: '2025-01-01', valor: 100 }, { fecha: '2025-02-01', valor: 110 },
+    { fecha: '2026-01-01', valor: 130 }, { fecha: '2026-02-01', valor: 121 },
+  ];
+  assert.deepStrictEqual(variacionInteranual(raw), [
+    { fecha: '2026-01-01', valor: 30 },
+    { fecha: '2026-02-01', valor: 10 },
+  ]);
 });

@@ -193,6 +193,31 @@ function alinearSeries(serieA, serieB) {
   return { fechas, a, b, n: fechas.length };
 }
 
+// Variación % interanual de una serie mensual de nivel [{fecha,valor}]: compara
+// cada mes con el mismo mes del año anterior. Los primeros 12 meses (sin base)
+// quedan afuera.
+function variacionInteranual(raw) {
+  const porFecha = new Map(raw.map(d => [d.fecha.slice(0, 7), d.valor]));
+  return raw.map(d => {
+    const base = porFecha.get(`${Number(d.fecha.slice(0, 4)) - 1}${d.fecha.slice(4, 7)}`);
+    return { fecha: d.fecha, valor: base > 0 ? +((d.valor / base - 1) * 100).toFixed(2) : null };
+  }).filter(d => d.valor !== null);
+}
+
+// Completa una serie mensual [{fecha,valor}] (fechas YYYY-MM-01) con los meses
+// POSTERIORES a su último dato que traiga otra fuente. La fuente extra puede
+// venir con fecha de fin de mes (BCRA: 2026-09-30): se normaliza a YYYY-MM-01.
+// Nunca pisa un mes que la base ya tiene. Uso: la API de datos.gob.ar suele
+// tardar semanas en publicar el IPC que el BCRA ya informa.
+function completarSerieMensual(base, extra) {
+  const ultimoMes = base.length ? base[base.length - 1].fecha.slice(0, 7) : '';
+  const nuevos = extra
+    .map(d => ({ fecha: `${d.fecha.slice(0, 7)}-01`, valor: d.valor }))
+    .filter(d => d.fecha.slice(0, 7) > ultimoMes)
+    .sort((a, b) => a.fecha.localeCompare(b.fecha));
+  return base.concat(nuevos);
+}
+
 // ─── Econometría ──────────────────────────────────────────────────────────────
 
 // logGamma(x) — aproximación de Lanczos (g=7, 9 términos), con reflexión para x<0.5.
@@ -338,6 +363,6 @@ function regresionLineal(x, y) {
 // Doble export: en Node se importan; en el browser quedan como globales.
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = { formatFecha, formatTickEje, isoHoy, isoHace, agregarDatos, transformarEmae,
-                     pearson, crossCorrelation, normalizar, alinearSeries,
+                     pearson, crossCorrelation, normalizar, alinearSeries, completarSerieMensual, variacionInteranual,
                      pValorT, pValorF, regresionLineal };
 }

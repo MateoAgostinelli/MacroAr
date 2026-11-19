@@ -47,6 +47,7 @@ const SERIES = [
     categoria: 'Precios e Inflación',
     fuente:    'indec',
     serieId:   '148.3_INIVELNAL_DICI_M_26',
+    completarBcra: 27, // BCRA "Inflación mensual" (%): cubre los meses que datos.gob.ar todavía no publicó
     unidad:    '%',
     color:     '#dc2626',
     meses:     24,
@@ -82,7 +83,7 @@ const SERIES = [
     titulo:    'Producto Interno Bruto (PBI)',
     categoria: 'Actividad Económica',
     fuente:    'indec',
-    serieId:   '166.2_PPIB_0_0_3',
+    serieId:   '4.4_OGP_2004_T_17', // Oferta y Demanda Globales (precios corrientes). El 166.2 dejó de actualizarse en 2025-T4.
     deflactorSerieId: '148.3_INIVELNAL_DICI_M_26', // IPC nivel (no %), para la lectura "Precios constantes (estimado)"
     unidad:    'Millones de $',
     color:     '#4f46e5',
@@ -490,16 +491,16 @@ const SERIES = [
   {
     id:        'tpm',
     slug:      'tasa-politica-monetaria',
-    descripcion: 'Tasa de Política Monetaria (TPM) del BCRA en Argentina: tasa de interés de referencia fijada por el Banco Central, serie histórica mensual.',
+    descripcion: 'Tasa de Política Monetaria (TPM) del BCRA en Argentina: serie histórica de la tasa de referencia del Banco Central, discontinuada en julio de 2025.',
     titulo:    'Tasa de Política Monetaria',
     categoria: 'Sistema Financiero',
     fuente:    'bcra',
-    serieId:   28,
+    serieId:   160, // TNA. El BCRA dejó de fijar la TPM el 10/07/2025.
     unidad:    '% anual',
     color:     '#0891b2',
     dias:      730,
     premium:   false,
-    mensual:   true,
+    discontinuada: true,
   },
   {
     id:        'uva',
@@ -545,17 +546,33 @@ const SERIES = [
   {
     id:        'ipim',
     slug:      'precios-mayoristas',
-    descripcion: 'Índice de Precios Internos al por Mayor (IPIM) de Argentina: variación interanual mensual publicada por INDEC, base diciembre 2015.',
-    titulo:    'Precios Mayoristas (IPIM)',
+    descripcion: 'Índice de Precios Internos al por Mayor (IPIM) de Argentina: variación mensual publicada por INDEC, base diciembre 2015.',
+    titulo:    'Precios Mayoristas (IPIM) mensual',
     categoria: 'Precios e Inflación',
     fuente:    'indec',
-    serieId:   '448.1_NIVEL_GENERAL_0_0_13_46',
-    unidad:    '% i.a.',
+    serieId:   '450.1_NIVEL_GENERAL_0_0_13_92', // IPIM dic-2015=100 (dataset 450). El 448.1 quedó congelado en 2019.
+    unidad:    '% mensual',
     color:     '#9333ea',
     meses:     36,
     premium:   false,
     mensual:   true,
     variacion: true,
+  },
+  {
+    id:        'ipim-interanual',
+    slug:      'precios-mayoristas-interanual',
+    descripcion: 'Índice de Precios Internos al por Mayor (IPIM) de Argentina: variación interanual (respecto al mismo mes del año anterior) publicada por INDEC, base diciembre 2015.',
+    titulo:    'Precios Mayoristas (IPIM) interanual',
+    categoria: 'Precios e Inflación',
+    fuente:    'indec',
+    serieId:   '450.1_NIVEL_GENERAL_0_0_13_92',
+    interanual: true, // la variación % i.a. se calcula sobre el nivel del índice
+    unidad:    '% i.a.',
+    color:     '#7e22ce',
+    meses:     36,
+    premium:   false,
+    mensual:   true,
+    tipo:      'bar',
   },
   {
     id:        'salarios-total',
@@ -842,7 +859,7 @@ function inicializarHeroStats(lista = SERIES) {
 //  - SESGO_NEUTRAL: sin lectura buena/mala (commodities, tasas, base monetaria).
 //  - El resto: subir es bueno (reservas, actividad, Merval, exportaciones...).
 const SESGO_BAJA = new Set([
-  'tc-oficial', 'tc-blue', 'tc-mayorista', 'inflacion', 'inflacion-anual',
+  'tc-oficial', 'tc-blue', 'tc-mayorista', 'inflacion', 'inflacion-anual', 'ipim', 'ipim-interanual',
   'ei-ditella', 'rem-ipc', 'rem-ipc-nucleo', 'rem-tcn', 'rem-desocupacion', 'riesgo-pais',
 ]);
 const SESGO_NEUTRAL = new Set([
@@ -1658,9 +1675,19 @@ async function obtenerDatosSerie(serie, diasReq, mesesReq, completo) {
   } else if (serie.fuente.startsWith('mock')) {
     return generarMock(serie.fuente, mesesReq);
   } else {
-    let raw = await fetchIndec(serie.serieId, mesesReq);
+    // Interanual: 12 meses más de historia para tener base desde el primer mes pedido.
+    let raw = await fetchIndec(serie.serieId, serie.interanual ? mesesReq + 12 : mesesReq);
     if (serie.factor) raw = raw.map(d => ({ fecha: d.fecha, valor: d.valor * serie.factor }));
-    return serie.variacion ? variacionPct(raw) : raw;
+    let datos = serie.interanual ? variacionInteranual(raw) : serie.variacion ? variacionPct(raw) : raw;
+    // datos.gob.ar a veces tarda semanas en publicar el último mes: lo completamos
+    // con la variable equivalente del BCRA (ya viene en %). Si el BCRA falla,
+    // seguimos con lo de INDEC.
+    if (serie.completarBcra) {
+      try {
+        datos = completarSerieMensual(datos, await fetchBcra(serie.completarBcra, 400));
+      } catch { /* sin BCRA: queda la serie de INDEC tal cual */ }
+    }
+    return datos;
   }
 }
 
@@ -1702,7 +1729,8 @@ async function cargarSerie(serie) {
     // Actualizar elementos estáticos con el último dato disponible
     const ultimo = datos[datos.length - 1];
     const fechaMeta = serie._publicacion || ultimo.fecha;
-    meta.textContent  = `Último dato: ${formatFecha(fechaMeta, serie)}`;
+    const notaDisc = serie.discontinuada ? ' · Serie discontinuada' : '';
+    meta.textContent  = `Último dato: ${formatFecha(fechaMeta, serie)}${notaDisc}`;
     actualizarHeroStat(serie, datos);
     if (serie.compraventa && _bluelyticsCV[serie.tipo_tc]) {
       const cv = _bluelyticsCV[serie.tipo_tc];
@@ -1712,7 +1740,7 @@ async function cargarSerie(serie) {
 
     // Vista detalle: mostrar la fecha del último registro debajo de la categoría
     const ultimaFechaEl = document.getElementById(`ultima-fecha-${serie.id}`);
-    if (ultimaFechaEl) ultimaFechaEl.textContent = `Último registro: ${formatFecha(fechaMeta, serie)}`;
+    if (ultimaFechaEl) ultimaFechaEl.textContent = `Último registro: ${formatFecha(fechaMeta, serie)}${notaDisc}`;
 
     // Configurar controles y renderizar el gráfico por primera vez
     if (isToolsPage || isDetallePage) setupChartControls(serie, datos);
