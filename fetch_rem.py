@@ -34,7 +34,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 warnings.filterwarnings("ignore")
 
 BASE = "https://www.bcra.gob.ar"
-PAGE = f"{BASE}/PublicacionesEstadisticas/Relevamiento_Expectativas_de_Mercado.asp"
+PAGE = f"{BASE}/relevamiento-expectativas-mercado-rem/"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 OUTPUT_DIR = "data"
@@ -71,6 +71,12 @@ MESES_ES = {
 
 def link_tablas():
     html = http_get(PAGE).decode("utf-8", "ignore")
+    # Formato actual (sitio nuevo del BCRA, desde oct-2026):
+    #   relevamiento-expectativas-mercado-tablas-AAAA-MM.xlsx
+    m = re.search(r'href="(/[^"]*relevamiento-expectativas-mercado-tablas-(\d{4})-(\d{2})\.xlsx)"', html, re.I)
+    if m:
+        return BASE + m.group(1), f"{m.group(2)}-{m.group(3)}-01"
+    # Formato viejo: tablas-relevamiento-expectativas-mercado-MMM-AAAA.xlsx
     m = re.search(r'href="(/[^"]*tablas-relevamiento-expectativas-mercado-([a-z]{3})-(\d{4})\.xlsx)"', html, re.I)
     if not m:
         raise RuntimeError("No se encontró el link del Excel 'tablas' en la página del REM.")
