@@ -1,8 +1,57 @@
 [
   {
+    "fecha": "2026-11-20",
+    "titulo": "Clave para el Mercosur: el presidente de Panamá buscará que el país sea parte del bloque antes de 2030",
+    "resumen": "José Raúl Mulino afirmó que busca que su país sea parte del bloque sudamericano antes de que termine su mandato. Agroalimentos, inversiones y gas son algunos de los factores que más atraen al gobierno centroamericano, que apuesta una mayor integración con el sur del continente.",
+    "link": "https://www.ambito.com/economia/clave-el-mercosur-el-presidente-panama-buscara-que-el-pais-sea-parte-del-bloque-antes-2030-n6347643",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "Advertencia de Joaquín Cottani: \"Si el Gobierno no actúa, la economía caerá en una lenta agonía\"",
+    "resumen": "El economista criticó el apretón monetario y advirtió que, sin cambios ni crédito para reactivar la economía, el país caerá en una \"lenta agonía\" con brecha cambiaria y riesgo país altos.",
+    "link": "https://www.ambito.com/economia/advertencia-joaquin-cottani-si-el-gobierno-no-actua-la-caera-una-lenta-agonia-n6347584",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "Javier Milei ahora habla de \"privaciones\": en qué mejoró y en qué empeoró la situación económica de los argentinos",
+    "resumen": "Un relevamiento de la consultora Criteria sobre 19 variables revela que, durante el gobierno de Javier Milei, mejoraron los indicadores de pobreza, indigencia e ingresos, pero se deterioraron los vinculados con las dificultades de las familias para llegar a fin de mes.",
+    "link": "https://www.ambito.com/economia/javier-milei-ahora-habla-privaciones-que-mejoro-y-que-empeoro-la-situacion-economica-los-argentinos-n6347623",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "EEUU autorizó exportaciones de casi 900.000 chips avanzados de IA a China en seis meses",
+    "resumen": "Entre los beneficiarios figuran Alibaba, Tencent, Baidu y BYD, empresas que el Pentágono incluye en su lista de firmas presuntamente respaldadas por el ejército chino, según el comité de la Cámara de Representantes. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/eeuu-autorizo-exportaciones-casi-900000-chips-avanzados-ia-china-seis-meses-n6347525",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "Mendoza posterga su ingreso al SIRCIP, que empieza a regir en diciembre con seis provincias",
+    "resumen": "La provincia informó a la Comisión Arbitral que tuvo dificultades técnicas y operativas, aunque aseguró que se sumará al sistema de percepciones en los próximos meses.",
+    "link": "https://www.ambito.com/economia/mendoza-posterga-su-ingreso-al-sircip-que-empieza-regir-diciembre-seis-provincias-n6347432",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "Industria: empeoraron expectativas sobre demanda y producción, mientras creció la preocupación por las importaciones",
+    "resumen": "Las perspectivas para el sector no son alentadoras, pese a la última mejora mensual en la producción que arrojó el INDEC para setiembre.",
+    "link": "https://www.ambito.com/economia/industria-empeoraron-expectativas-demanda-y-produccion-mientras-crecio-la-preocupacion-las-importaciones-n6347387",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "Lo que se dice en las mesas: si algo le faltaba a la Argentina de cara al 2027 era un \"efecto caipirinha\" 2.0",
+    "resumen": "Empezó a temblar el mercado brasileño, y los más veteranos tienen un deja vú de fines de los ´90 cuando el gobierno de Henrique Cardoso dejó flotar el real ante la fuga de capitales y desató el bautizado “efecto caipirinha”. Al gobierno de Milei le sirve para distraer la atenc...",
+    "link": "https://www.ambito.com/economia/lo-que-se-dice-las-mesas-si-algo-le-faltaba-la-argentina-cara-al-2027-era-un-efecto-caipirinha-20-n6347382",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-11-19",
     "titulo": "El superávit comercial superó los u$s3.000 millones en octubre y rozó el récord de la era Milei",
-    "resumen": "",
+    "resumen": "Las exportaciones treparon a un nuevo máximo, mientras que las importaciones tuvieron un repunte mensual, pero que no refleja una mejora de la actividad económica.",
     "link": "https://www.ambito.com/economia/el-superavit-comercial-supero-los-us3000-millones-octubre-y-rozo-el-record-la-era-milei-n6347275",
     "fuente": "ambito"
   },
@@ -53,6 +102,20 @@
     "titulo": "La devaluación del real abarata fuerte las vacaciones en Brasil y pone en riesgo al 35% de las exportaciones regionales",
     "resumen": "La depreciación de la moneda brasileña agrega aún más presión al turismo interno, ya golpeado por los bajos niveles de consumo. Asimismo, el bajo tipo de cambio real y el menor crecimiento esperado para Brasil también puede impactar en el comercio exterior.",
     "link": "https://www.ambito.com/economia/la-devaluacion-del-real-abarata-fuerte-las-vacaciones-brasil-y-pone-riesgo-al-35-las-exportaciones-regionales-n6346786",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Las apuestas de inversión que ven los empresarios para 2027 y el desafío de conseguir financiamiento",
+    "resumen": "Empresarios y funcionarios identificaron a los sectores exportadores como motores del crecimiento para el próximo año. Vaca Muerta y los proyectos mineros concentran expectativas, mientras que los data centers también aparecen entre los sectores con perspectiva de crecimiento,...",
+    "link": "https://www.ambito.com/economia/las-apuestas-inversion-que-ven-los-empresarios-2027-y-el-desafio-conseguir-financiamiento-n6347260",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Nación negó que evalúe postergar el pago del aguinaldo y desmintió versiones que pusieron en alerta a ATE",
+    "resumen": "El secretario de Hacienda, Carlos Guberman, salió a desmentir una presunta decisión de pasar para enero el pago del sueldo complementario. Según dijo, se abonará \"en tiempo y forma\".",
+    "link": "https://www.ambito.com/economia/nacion-nego-que-evalua-postergar-el-pago-del-aguinaldo-y-desmintio-versiones-que-pusieron-alerta-ate-n6347360",
     "fuente": "ambito"
   },
   {
