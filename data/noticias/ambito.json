@@ -1,8 +1,15 @@
 [
   {
+    "fecha": "2026-11-21",
+    "titulo": "Ciberseguridad en la era de la IA: cómo se adaptan las empresas y dónde están las oportunidades de inversión",
+    "resumen": "La sofisticación de los ciberataques y el avance de la IA obligan a gobiernos y empresas a reforzar su seguridad digital. Especialistas analizan los principales desafíos, los segmentos con mayor potencial de crecimiento y las oportunidades para los inversores.",
+    "link": "https://www.ambito.com/economia/ciberseguridad-la-era-la-ia-como-se-adaptan-las-empresas-y-donde-estan-las-oportunidades-inversion-n6347298",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-11-20",
     "titulo": "Clave para el Mercosur: el presidente de Panamá buscará que el país sea parte del bloque antes de 2030",
-    "resumen": "José Raúl Mulino afirmó que busca que su país sea parte del bloque sudamericano antes de que termine su mandato. Agroalimentos, inversiones y gas son algunos de los factores que más atraen al gobierno centroamericano, que apuesta una mayor integración con el sur del continente.",
+    "resumen": "José Raúl Mulino pretende que su país sea parte del bloque sudamericano antes de que termine su mandato. Agroalimentos, inversiones y gas son algunos de los factores que más atraen al gobierno centroamericano, que apuesta por una mayor integración con el sur del continente.",
     "link": "https://www.ambito.com/economia/clave-el-mercosur-el-presidente-panama-buscara-que-el-pais-sea-parte-del-bloque-antes-2030-n6347643",
     "fuente": "ambito"
   },
@@ -46,6 +53,55 @@
     "titulo": "Lo que se dice en las mesas: si algo le faltaba a la Argentina de cara al 2027 era un \"efecto caipirinha\" 2.0",
     "resumen": "Empezó a temblar el mercado brasileño, y los más veteranos tienen un deja vú de fines de los ´90 cuando el gobierno de Henrique Cardoso dejó flotar el real ante la fuga de capitales y desató el bautizado “efecto caipirinha”. Al gobierno de Milei le sirve para distraer la atenc...",
     "link": "https://www.ambito.com/economia/lo-que-se-dice-las-mesas-si-algo-le-faltaba-la-argentina-cara-al-2027-era-un-efecto-caipirinha-20-n6347382",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "Deuda, reservas y dolarización: las tres alertas del mercado sobre el plan económico de Javier Milei para 2027",
+    "resumen": "Más allá de la incertidumbre electoral y el temor al regreso del peronismo que agita el oficialismo, el mercado pone el foco en las dudas sobre el programa financiero y la capacidad de afrontar los vencimientos de 2027. Los economistas Miguel Kiguel, Daniel Marx, Martín Rapett...",
+    "link": "https://www.ambito.com/economia/deuda-reservas-y-dolarizacion-las-tres-alertas-del-mercado-el-plan-economico-javier-milei-2027-n6347745",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "El economista que Javier Milei invitó a una reunión de Gabinete advirtió: \"El problema está más en la deuda que en el dólar\"",
+    "resumen": "Alberto Ades se refirió al aumento del riesgo país y a la postura del Gobierno de desentenderse de su evolución. \"Es un error\", dijo al analizar el salto del indicador que mide el J.P. Morgan.",
+    "link": "https://www.ambito.com/economia/el-economista-que-javier-milei-invito-una-reunion-gabinete-advirtio-el-problema-esta-mas-la-deuda-que-el-dolar-n6347801",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "Morosidad: las tarjetas aliviaron los atrasos en familias, pero en empresas se vio un nuevo récord desde 2024",
+    "resumen": "La reducción en familias se debió a la combinación de mayor financiamiento en pesos, mayor peso de las refinanciaciones y eliminación de créditos de los balances de los bancos.",
+    "link": "https://www.ambito.com/economia/morosidad-las-tarjetas-aliviaron-los-atrasos-familias-pero-empresas-se-vio-un-nuevo-record-2024-n6347782",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "El Gobierno propuso eliminar el Impuesto de Sellos y compensar la mitad de la recaudación perdida",
+    "resumen": "El planteo fue presentado en San Juan ante ministros de Economía. La oferta está dirigida a las jurisdicciones adheridas al RIGI y al REOR.",
+    "link": "https://www.ambito.com/economia/el-gobierno-propuso-eliminar-el-impuesto-sellos-y-compensar-la-mitad-la-recaudacion-perdida-n6347734",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "Cuánto cuesta hacer el \"alto guiso\" que valía $15 en 2011",
+    "resumen": "Una frase espontánea en una cancha de fútbol se convirtió en uno de los memes más recordados de Argentina. Quince años después, el costo de preparar el plato muestra cuánto cambiaron los precios.",
+    "link": "https://www.ambito.com/economia/cuanto-cuesta-hacer-el-alto-guiso-que-valia-15-2011-n6347650",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "Aprueban el RIGI de YPF para exportar GNL por u$s50.750 millones y será \"la mayor inversión de la historia\"",
+    "resumen": "El acuerdo llegá a partir de un consorcio entre YPF, Eni y XRG. Proyecta generar 20.000 puestos de trabajo y exportar 12 millones de toneladas de GNL",
+    "link": "https://www.ambito.com/economia/se-aprobo-el-rigi-el-proyecto-argentina-lng-implica-una-inversion-us25000-millones-tres-anos-n6347741",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "Plazo fijo con extra rendimiento: cómo funciona la nueva alternativa que paga hasta 50% más",
+    "resumen": "Los ahorristas tienen una opción para buscar mayores ganancias, aunque hay algunas condiciones que conviene conocer antes de invertir.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-extra-rendimiento-como-funciona-la-nueva-alternativa-que-paga-50-mas-n6346803",
     "fuente": "ambito"
   },
   {
