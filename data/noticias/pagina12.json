@@ -1,5 +1,26 @@
 [
   {
+    "fecha": "2026-11-22",
+    "titulo": "Argentina, la peor de la región",
+    "resumen": "El boom energético, divorciado del resto de la economía",
+    "link": "https://www.pagina12.com.ar/2026/11/22/argentina-la-peor-de-la-region/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-22",
+    "titulo": "Se la llevó Caputo",
+    "resumen": "",
+    "link": "https://www.pagina12.com.ar/2026/11/21/se-la-llevo-caputo/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-22",
+    "titulo": "Los misteriosos plazos que se pone el ministro Caputo",
+    "resumen": "En el medio de la crisis ¿el Jefe de Hacienda le pone fecha a su gestión?",
+    "link": "https://www.pagina12.com.ar/2026/11/22/los-misteriosos-plazos-que-se-pone-el-ministro-caputo/",
+    "fuente": "pagina12"
+  },
+  {
     "fecha": "2026-11-21",
     "titulo": "El sistema financiero en jaque",
     "resumen": "La crisis del mercado en un viernes negro atravesó el Congreso de Abappra",
@@ -4064,55 +4085,6 @@
     "titulo": "A la intemperie",
     "resumen": "La industria automotriz se enfrenta a la tormenta perfecta",
     "link": "https://www.pagina12.com.ar/2026/07/25/a-la-intemperie/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-07-24",
-    "titulo": "Un tiro en el pie desde adentro del Gobierno",
-    "resumen": "El vocero presidencial anticipó que el dólar podría llegar a los $1800",
-    "link": "https://www.pagina12.com.ar/2026/07/24/un-tiro-en-el-pie-desde-adentro-del-gobierno/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-07-24",
-    "titulo": "El salario mínimo, más mínimo",
-    "resumen": "Con Milei perdió más del 40 por ciento de su poder adquisitivo",
-    "link": "https://www.pagina12.com.ar/2026/07/24/el-salario-minimo-mas-minimo/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-07-24",
-    "titulo": "El Gobierno avanza sobre los dólares del colchón",
-    "resumen": "Con el nuevo proyecto de Inocencia Fiscal busca ampliar adherentes",
-    "link": "https://www.pagina12.com.ar/2026/07/24/el-gobierno-avanza-sobre-los-dolares-del-colchon/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-07-24",
-    "titulo": "El costo de las vacaciones de invierno",
-    "resumen": "Salir en familia ya es un pequeño lujo",
-    "link": "https://www.pagina12.com.ar/2026/07/24/el-costo-de-las-vacaciones-de-invierno/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-07-24",
-    "titulo": "Nuevas cuentas a sueldo en dólares",
-    "resumen": "Las habilitó el Banco Central",
-    "link": "https://www.pagina12.com.ar/2026/07/24/cuentas-a-sueldo-permite-pago-en-dolares/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-07-24",
-    "titulo": "El vocero presidencial reconoció que “es una posibilidad” que el dólar llegue a $1800 en unos meses",
-    "resumen": "¿Se mueve el tipo de cambio?",
-    "link": "https://www.pagina12.com.ar/2026/07/24/el-vocero-presidencial-reconocio-que-es-una-posibilidad-que-el-dolar-llegue-a-1800-en-unos-meses/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-07-24",
-    "titulo": "El Banco Central habilitó la apertura de cuentas sueldo en dólares",
-    "resumen": "Cómo funcionarán",
-    "link": "https://www.pagina12.com.ar/2026/07/24/el-banco-central-habilito-la-apertura-de-cuentas-sueldo-en-dolares/",
     "fuente": "pagina12"
   }
 ]
