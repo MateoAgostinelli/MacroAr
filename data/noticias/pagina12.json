@@ -1,5 +1,68 @@
 [
   {
+    "fecha": "2026-11-23",
+    "titulo": "Cierra otra fábrica de calzado, esta vez en Chivilcoy",
+    "resumen": "La firma Arluchi traslada su actividad industrial a Brasil",
+    "link": "https://www.pagina12.com.ar/2026/11/23/cierra-otra-fabrica-de-calzado-esta-vez-en-chivilcoy/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-23",
+    "titulo": "La metalúrgica volvió a caer",
+    "resumen": "Acumuló una contracción del 5 por ciento en lo que va del año",
+    "link": "https://www.pagina12.com.ar/2026/11/23/la-metalurgica-volvio-a-caer/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-23",
+    "titulo": "Mejora de los títulos argentinos",
+    "resumen": "Se recuperó una parte de lo perdido la semana pasada",
+    "link": "https://www.pagina12.com.ar/2026/11/23/mejora-de-los-titulos-argentinos/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-23",
+    "titulo": "Otro modelo para poder vivir mejor",
+    "resumen": "Un programa alternativo basado en la producción, el empleo y la justicia social",
+    "link": "https://www.pagina12.com.ar/2026/11/23/otro-modelo-para-poder-vivir-mejor/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-23",
+    "titulo": "Finde largo con más austeridad",
+    "resumen": "Datos de la Confederación Argentina de la Mediana Empresa",
+    "link": "https://www.pagina12.com.ar/2026/11/23/finde-largo-con-mas-austeridad/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-23",
+    "titulo": "El turismo no se salva de Milei: otro fin de semana largo con menos viajes y menos gastos",
+    "resumen": "La actividad cayó en comparación al año pasado",
+    "link": "https://www.pagina12.com.ar/2026/11/23/el-turismo-no-se-salva-de-milei-otro-fin-de-semana-largo-con-menos-viajes-y-menos-gastos/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-23",
+    "titulo": "Con Milei, el desempleo encubierto tocó récords",
+    "resumen": "Trepó al 15,8 por ciento entre la población económicamente activa urbana",
+    "link": "https://www.pagina12.com.ar/2026/11/22/con-milei-el-desempleo-encubierto-toco-records/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-23",
+    "titulo": "Críticas a los manejos de Milei y Caputo",
+    "resumen": "El Financial Times duda sobre el pago de la deuda",
+    "link": "https://www.pagina12.com.ar/2026/11/22/criticas-al-manejo-de-milei/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-23",
+    "titulo": "Tensión por el ajuste de tasas",
+    "resumen": "Bessent cuestionó un mayor apriete monetario en EE.UU.",
+    "link": "https://www.pagina12.com.ar/2026/11/23/tension-por-el-ajuste-de-tasas/",
+    "fuente": "pagina12"
+  },
+  {
     "fecha": "2026-11-22",
     "titulo": "Argentina, la peor de la región",
     "resumen": "El boom energético, divorciado del resto de la economía",
@@ -18,6 +81,13 @@
     "titulo": "Los misteriosos plazos que se pone el ministro Caputo",
     "resumen": "En el medio de la crisis ¿el Jefe de Hacienda le pone fecha a su gestión?",
     "link": "https://www.pagina12.com.ar/2026/11/22/los-misteriosos-plazos-que-se-pone-el-ministro-caputo/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-22",
+    "titulo": "Tensión por el ajuste de tasas en EE.UU.",
+    "resumen": "Bessent cuestionó una estrategia de mayor apriete monetario",
+    "link": "https://www.pagina12.com.ar/2026/11/22/tension-por-el-ajuste-de-tasas-en-eeuu/",
     "fuente": "pagina12"
   },
   {
@@ -4078,13 +4148,6 @@
     "titulo": "¿Qué viene a hacer Georgieva?",
     "resumen": "La titular del FMI, de visita por Vaca Muerta",
     "link": "https://www.pagina12.com.ar/2026/07/25/a-que-viene-kristalina-georgieva/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-07-25",
-    "titulo": "A la intemperie",
-    "resumen": "La industria automotriz se enfrenta a la tormenta perfecta",
-    "link": "https://www.pagina12.com.ar/2026/07/25/a-la-intemperie/",
     "fuente": "pagina12"
   }
 ]
