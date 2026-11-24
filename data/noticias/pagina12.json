@@ -1,37 +1,72 @@
 [
   {
-    "fecha": "2026-11-23",
+    "fecha": "2026-11-24",
     "titulo": "Cierra otra fábrica de calzado, esta vez en Chivilcoy",
     "resumen": "La firma Arluchi traslada su actividad industrial a Brasil",
     "link": "https://www.pagina12.com.ar/2026/11/23/cierra-otra-fabrica-de-calzado-esta-vez-en-chivilcoy/",
     "fuente": "pagina12"
   },
   {
-    "fecha": "2026-11-23",
+    "fecha": "2026-11-24",
     "titulo": "La metalúrgica volvió a caer",
     "resumen": "Acumuló una contracción del 5 por ciento en lo que va del año",
     "link": "https://www.pagina12.com.ar/2026/11/23/la-metalurgica-volvio-a-caer/",
     "fuente": "pagina12"
   },
   {
-    "fecha": "2026-11-23",
+    "fecha": "2026-11-24",
     "titulo": "Mejora de los títulos argentinos",
     "resumen": "Se recuperó una parte de lo perdido la semana pasada",
     "link": "https://www.pagina12.com.ar/2026/11/23/mejora-de-los-titulos-argentinos/",
     "fuente": "pagina12"
   },
   {
-    "fecha": "2026-11-23",
+    "fecha": "2026-11-24",
     "titulo": "Otro modelo para poder vivir mejor",
     "resumen": "Un programa alternativo basado en la producción, el empleo y la justicia social",
     "link": "https://www.pagina12.com.ar/2026/11/23/otro-modelo-para-poder-vivir-mejor/",
     "fuente": "pagina12"
   },
   {
-    "fecha": "2026-11-23",
+    "fecha": "2026-11-24",
     "titulo": "Finde largo con más austeridad",
     "resumen": "Datos de la Confederación Argentina de la Mediana Empresa",
     "link": "https://www.pagina12.com.ar/2026/11/23/finde-largo-con-mas-austeridad/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Milei lo hizo: la economía argentina entró en “recesión técnica”",
+    "resumen": "El INDEC publicó el EMAE de septiembre",
+    "link": "https://www.pagina12.com.ar/2026/11/24/milei-lo-hizo-la-economia-argentina-entro-en-recesion-tecnica/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Casi dos de cada tres personas quedaron en situación de calle desde que asumió Milei",
+    "resumen": "Fábrica de miseria",
+    "link": "https://www.pagina12.com.ar/2026/11/24/casi-dos-de-cada-tres-personas-quedaron-en-situacion-de-calle-desde-que-asumio-milei/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "El riesgo país vuelve a subir y no le da respiro a Milei y Caputo",
+    "resumen": "Pese al buen clima en los mercados globales",
+    "link": "https://www.pagina12.com.ar/2026/11/24/el-riesgo-pais-vuelve-a-subir-y-no-le-da-respiro-a-milei-y-caputo/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Dólar blue, dólar hoy: a cuánto cotizan el martes 24 de noviembre de 2026",
+    "resumen": "La cotización del dólar para la compra y para la venta",
+    "link": "https://www.pagina12.com.ar/2026/11/24/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-martes-24-de-noviembre-de-2026/",
+    "fuente": "pagina12"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "La “Toy Story” triste del Presidente Milei",
+    "resumen": "Mientras celebra el desembarco fallido de Lego, se derrumban los jugueteros locales",
+    "link": "https://www.pagina12.com.ar/2026/11/23/la-toy-story-triste-del-presidente-milei/",
     "fuente": "pagina12"
   },
   {
@@ -4120,34 +4155,6 @@
     "titulo": "Una economía partida en dos",
     "resumen": "Agro, minería y energía crecen; industria, comercio y construcción caen",
     "link": "https://www.pagina12.com.ar/2026/07/26/una-economia-partida-en-dos/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Caputo reconoció que la gente no llega a fin de mes",
-    "resumen": "El ministro de Economía además aseguró que \"si Dios quiere, habrá mayor aumento de la masa salarial\"",
-    "link": "https://www.pagina12.com.ar/2026/07/26/caputo-reconocio-que-la-gente-no-llega-a-fin-de-mes/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Noticias falsas que alentaron el ingreso al FMI",
-    "resumen": "El desarrollo industrial y la dependencia de los organismos internacionales",
-    "link": "https://www.pagina12.com.ar/2026/07/25/noticias-falsas-que-alentaron-el-ingreso-al-fmi/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "La “campaña anti Argentina” de Sturzenegger, la Sociedad Rural y fondos extranjeros",
-    "resumen": "El lobby y los apuros para que empresas foráneas se queden con tierras locales",
-    "link": "https://www.pagina12.com.ar/2026/07/26/la-campana-anti-argentina-de-sturzenegger-la-sociedad-rural-y-fondos-extranjeros/",
-    "fuente": "pagina12"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "¿Qué viene a hacer Georgieva?",
-    "resumen": "La titular del FMI, de visita por Vaca Muerta",
-    "link": "https://www.pagina12.com.ar/2026/07/25/a-que-viene-kristalina-georgieva/",
     "fuente": "pagina12"
   }
 ]

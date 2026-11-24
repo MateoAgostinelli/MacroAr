@@ -1,5 +1,229 @@
 [
   {
+    "fecha": "2026-11-24",
+    "titulo": "CyberMonday 2026: las ventas online de artículos de primera necesidad crecieron un 50% y cayeron las de bienes durables",
+    "resumen": "Las compras cotidianas ganaron terreno durante el evento de descuentos. Cuáles fueron los productos más demandados",
+    "link": "https://www.infobae.com/economia/2026/11/24/cybermonday-2026-las-ventas-online-de-articulos-de-primera-necesidad-crecieron-un-50-y-cayeron-las-de-bienes-durables/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Cuál es la diferencia entre una recesión “técnica” y una caída generalizada de la economía",
+    "resumen": "Una se define con un criterio estadístico que se verifica apenas se publican los datos del PIB. La otra exige mirar el empleo, los salarios y el consumo para saber si la caída llegó a toda la economía",
+    "link": "https://www.infobae.com/economia/2026/11/24/cual-es-la-diferencia-entre-una-recesion-tecnica-y-una-caida-generalizada-de-la-economia/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "La actividad económica registró dos trimestres de caída y Argentina entró en recesión",
+    "resumen": "El EMAE mostró una suba mensual de 1,1% en septiembre, pero no alcanzó para evitar que el tercer trimestre cerrara en rojo. Así, se cumplieron las condiciones que definen una recesión técnica. Las perspectivas para los últimos tres meses",
+    "link": "https://www.infobae.com/economia/2026/11/24/la-actividad-economica-registro-dos-trimestres-de-caida-y-argentina-entro-en-recesion/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "El dólar superó por primera vez los $1.600 en el Banco Nación y alcanzó precios récord en todos los segmentos",
+    "resumen": "El dólar mayorista ganó 13 pesos, en los $1.593. El “contado con liqui” siguió cerca de la barrera de los $1.800. El BCRA no intervino en el mercado",
+    "link": "https://www.infobae.com/economia/2026/11/24/el-dolar-supera-los-1600-en-el-banco-nacion-y-alcanza-precios-record-en-todos-los-segmentos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Narambuena: cómo es el proyecto para desarrollar el norte de Vaca Muerta por el que YPF presentó un nuevo RIGI",
+    "resumen": "El desarrollo prevé exportaciones por USD 33.000 millones hasta 2059 y consolida a la petrolera como el principal inversor del régimen, con casi USD 100.000 millones comprometidos en seis iniciativas",
+    "link": "https://www.infobae.com/economia/2026/11/24/narambuena-como-es-el-proyecto-para-desarrollar-el-norte-de-vaca-muerta-para-el-que-ypf-presento-un-nuevo-rigi/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Dólar arriba de $1.600: ¿hora de comprar o de vender?",
+    "resumen": "Con el tipo de cambio en niveles récord, analistas y operadores se inclinan por mantener posiciones compradoras, aunque recomiendan priorizar activos con cobertura cambiaria antes que dólar billete",
+    "link": "https://www.infobae.com/economia/2026/11/24/dolar-arriba-de-1600-hora-de-comprar-o-de-vender/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "¿Por qué sube el dólar?: los 8 factores que impulsaron la cotización oficial a un nuevo récord",
+    "resumen": "La divisa se acercó a $1.590 en la plaza mayorista y alcanzó los $1.615 para la venta al público en el Banco Nación. También se amplió la brecha entre las cotizaciones",
+    "link": "https://www.infobae.com/economia/2026/11/24/por-que-sube-el-dolar-los-8-factores-que-impulsaron-la-cotizacion-oficial-a-un-nuevo-record/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Las petroleras advierten que podría haber faltante de nafta en la provincia de Buenos Aires si avanza un proyecto de ley",
+    "resumen": "Un proyecto en la Legislatura bonaerense obligaría a notificar los aumentos de combustible con hasta 72 horas de anticipación. La industria rechaza la iniciativa y asegura que generaría desabastecimiento. Va en sentido contrario a la desregulación que aplicó Nación en 2025",
+    "link": "https://www.infobae.com/economia/2026/11/24/las-petroleras-advierten-que-podria-haber-faltante-de-nafta-en-la-provincia-de-buenos-aires-si-avanza-un-proyecto-de-ley/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "México vuelve a demorar el acuerdo comercial con la Argentina y hay 3.000 autos varados en la Aduana",
+    "resumen": "Tras una negociación concluida en octubre, el Gobierno mexicano aún no avaló los protocolos para renovar los convenios ACE 55 y ACE 6. Las terminales esperan una excepción para nacionalizar vehículos que ya llegaron al país",
+    "link": "https://www.infobae.com/economia/2026/11/24/mexico-vuelve-a-demorar-el-acuerdo-comercial-con-la-argentina-y-hay-3000-autos-varados-en-la-aduana/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "El Gobierno cerró nuevos préstamos con bancos y organismos internacionales: cuándo llegarán los dólares",
+    "resumen": "Fuentes del ministerio de Economía aseguraron a Infobae que terminaron las negociaciones con los bancos en base a la garantía de CAF y Fonplata. Aún con el desembolso pendiente del FMI y el ingreso por la privatización de AySA el vencimiento del 9 de enero no está cubierto",
+    "link": "https://www.infobae.com/economia/2026/11/24/el-gobierno-cerro-nuevos-prestamos-con-bancos-y-organismos-internacionales-cuando-llegaran-los-dolares/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Qué tasa pagan las pymes para financiarse en el mercado de capitales",
+    "resumen": "El costo del crédito mostró una nueva suba mensual, aunque continúa muy por debajo de los niveles registrados en octubre del año pasado",
+    "link": "https://www.infobae.com/economia/2026/11/24/que-tasa-pagan-las-pymes-para-financiarse-en-el-mercado-de-capitales/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Brasil redujo al 1,9% su previsión de crecimiento del PIB en 2026",
+    "resumen": "El Ministerio de Hacienda atribuyó la corrección a la desaceleración de la actividad, el alto costo del crédito y las tasas de interés en niveles restrictivos. La inflación también empeoró: llegaría al 5,3%, por encima del techo fijado por el Banco Central",
+    "link": "https://www.infobae.com/america/america-latina/2026/11/24/brasil-redujo-al-19-su-prevision-de-crecimiento-del-pib-en-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Las acciones argentinas retoman las pérdidas, contagiadas por las ventas de Wall Street",
+    "resumen": "Los índices de Nueva York negocian con bajas después de las fuertes ganancias del lunes. La mayoría de los ADR argentinos caen en dólares. El MSCI Merval gana 1,5% tras el feriado local",
+    "link": "https://www.infobae.com/economia/2026/11/24/las-acciones-argentinas-retoman-las-perdidas-contagiadas-por-las-ventas-de-wall-street/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Vuelven a caer los bonos argentinos y el riesgo país supera los 1.100 puntos básicos",
+    "resumen": "Mientras que Wall Street atraviesa una toma de ganancias después del fuerte salto de los precios de los activos el lunes, los bonos Globales de Argentina caen 1% y el indicador de JP Morgan escala 40 unidades, a 1.071 puntos básicos",
+    "link": "https://www.infobae.com/economia/2026/11/24/vuelven-a-caer-los-bonos-argentinos-y-el-riesgo-pais-toca-su-nivel-mas-alto-del-ano/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Las exportaciones agroindustriales superaron los USD 47.800 millones hasta octubre: cuáles fueron los productos ganadores",
+    "resumen": "Las ventas externas del sector superaron en casi USD 6.000 millones las de igual período de 2025, que implica 14,2 por ciento",
+    "link": "https://www.infobae.com/economia/2026/11/24/las-exportaciones-agroindustriales-superaron-los-usd-47800-millones-hasta-octubre-cuales-fueron-los-productos-ganadores/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Enrique Szewach: “Es difícil que en un año electoral las políticas generen algún cambio”",
+    "resumen": "El economista señaló que la incertidumbre y la falta de credibilidad condicionan el margen de acción del Gobierno de cara a las elecciones de 2027",
+    "link": "https://www.infobae.com/economia/2026/11/24/enrique-szewach-es-dificil-que-en-un-ano-electoral-las-politicas-generen-algun-cambio/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Plazo fijo: cuánto pagan los principales bancos por depósitos de $200.000",
+    "resumen": "Las entidades ofrecen tasas de entre 16% y 24% para colocaciones a 30 días. El resultado puede superar los $ 203.900, según la entidad elegida",
+    "link": "https://www.infobae.com/economia/2026/11/24/plazo-fijo-cuanto-pagan-los-principales-bancos-por-depositos-de-200000/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "De la Casa Blanca a California: cómo se gestó el retorno de Jensen Huang a Nvidia",
+    "resumen": "El ejecutivo volvió a la sede de Santa Clara entre aplausos, después de que la compañía revirtiera la salida anunciada el 12 de noviembre y mantuviera abierta una pesquisa interna",
+    "link": "https://www.infobae.com/estados-unidos/2026/11/24/de-la-casa-blanca-a-california-como-se-gesto-el-retorno-de-jensen-huang-a-nvidia/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "El Gobierno aseguró que la desregulación abarató un 15% los productos de supermercado: qué dice el estudio que lo respalda",
+    "resumen": "El ministro Federico Sturzenegger difundió una investigación realizada por economistas universitarios, quienes compararon la evolución relativa entre artículos alcanzados por cambios regulatorios y aquellos sin modificaciones normativas",
+    "link": "https://www.infobae.com/economia/2026/11/24/el-gobierno-aseguro-que-la-desregulacion-abarato-un-15-los-productos-de-supermercado-que-dice-el-estudio-que-lo-respalda/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "El real y el peso argentino fueron las monedas más depreciadas en el último mes: cuánto perdieron frente al dólar",
+    "resumen": "El peso perdió terreno frente al dólar, en un contexto de presión cambiaria y creciente tensión financiera",
+    "link": "https://www.infobae.com/economia/2026/11/24/el-real-y-el-peso-argentino-fueron-las-monedas-mas-depreciadas-en-el-ultimo-mes-cuanto-perdieron-frente-al-dolar/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Lo que un millón de jóvenes vino a decirnos en Palermo",
+    "resumen": "La convocatoria del martes por la noche reunió a asistentes de distintas provincias, que llegaron con anticipación al Monumento de los Españoles para asistir a música, oración y actividades de reconciliación",
+    "link": "https://www.infobae.com/opinion/2026/11/24/lo-que-un-millon-de-jovenes-vino-a-decirnos-en-palermo/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "¿Mantener un auto propio o viajar en apps de movilidad?: cuál de las dos opciones es más económica",
+    "resumen": "Los gastos de cochera, patente, combustible y seguro impulsaron el costo de mantener un vehículo un 44% en el último año",
+    "link": "https://www.infobae.com/economia/2026/11/24/mantener-un-auto-propio-o-viajar-en-apps-de-movilidad-cual-de-las-dos-opciones-es-mas-economica/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Cuánto costaría el boleto mínimo de colectivo en Buenos Aires si no existieran los subsidios",
+    "resumen": "El transporte público fue el servicio que más subió desde diciembre de 2023, con un alza que más que septuplicó la inflación acumulada del período",
+    "link": "https://www.infobae.com/economia/2026/11/24/cuanto-costaria-el-boleto-minimo-de-colectivo-en-buenos-aires-si-no-existieran-los-subsidios/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "El gobierno chino extendió hasta el 27 de enero la suspensión del veto a minerales críticos destinados a Estados Unidos",
+    "resumen": "La medida prolonga el envío de galio, germanio y antimonio, insumos para semiconductores, satélites y equipos militares, dentro de la tregua comercial acordada tras el encuentro entre Xi Jinping y Donald Trump",
+    "link": "https://www.infobae.com/america/mundo/2026/11/24/el-gobierno-chino-extendio-hasta-el-27-de-enero-la-suspension-del-veto-a-minerales-criticos-destinados-a-estados-unidos/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "El regreso de Huang trae un respiro al sector de la IA, pero persisten dudas",
+    "resumen": "La reincorporación del director ejecutivo impulsó al Nasdaq 100 casi un 7% y alivió la inquietud de los mercados, tras su salida a principios de mes por revelaciones sobre relaciones extramatrimoniales",
+    "link": "https://www.infobae.com/estados-unidos/2026/11/24/el-regreso-de-huang-trae-un-respiro-al-sector-de-la-ia-pero-persisten-dudas/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Quiénes cobran ANSES hoy, 24 de noviembre de 2026",
+    "resumen": "El organismo previsional continúa con los pagos del mes, que incluyen un aumento del 1,93% y diferentes fechas según la prestación y la terminación del DNI de cada beneficiario",
+    "link": "https://www.infobae.com/economia/2026/11/24/quienes-cobran-anses-hoy-24-de-noviembre-de-2026/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "¿El dólar empieza a inquietar?: el mercado vuelve a cubrirse ante una eventual suba a menos de un año de las elecciones",
+    "resumen": "El Banco Central prioriza la venta de bonos atados al dólar a diferencia de la previa de las elecciones de 2025 en donde priorizó la venta de futuros. Cómo es la “bazuca” del Gobierno para evitar tensiones cambiarias en 2027",
+    "link": "https://www.infobae.com/economia/2026/11/24/el-dolar-empieza-a-inquietar-el-mercado-vuelve-a-cubrirse-ante-una-eventual-suba-a-un-menos-de-un-ano-de-las-elecciones/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Alivio para el Gobierno: volvió la calma a los mercados justo cuando empezaban a subir el dólar y la brecha cambiaria",
+    "resumen": "El regreso de Jensen Huang a Nvidia alivió a los inversores de todo el mundo. La reapertura de la semana financiera luego del feriado debería ser favorable, incluyendo un retroceso del riesgo país. Expectativa por suspensión de la PASO",
+    "link": "https://www.infobae.com/economia/2026/11/24/alivio-para-el-gobierno-volvio-la-calma-a-los-mercados-justo-cuando-empezaban-a-subir-el-dolar-y-la-brecha-cambiaria/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Hoy se conoce un dato clave sobre el rumbo de la economía: ¿la actividad entró en recesión técnica?",
+    "resumen": "El EMAE de septiembre, publicado por el Indec, definirá el resultado del tercer trimestre, en un contexto de previsiones privadas a la baja y tras un período marcado por debilidad en la producción, el consumo y otros sectores",
+    "link": "https://www.infobae.com/economia/2026/11/24/hoy-se-conoce-un-dato-clave-sobre-el-rumbo-de-la-economia-la-actividad-entro-en-recesion-tecnica/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "En medio de la tensión por Malvinas, el Gobierno recibió dos ofertas para construir el muelle de la Base Naval Integrada en Ushuaia",
+    "resumen": "Dos de las 15 firmas que habían mostrado interés en la construcción se presentaron a la licitación; el proceso avanza a días de que un tribunal internacional resuelva el reclamo argentino contra Sea Lion",
+    "link": "https://www.infobae.com/economia/2026/11/24/en-medio-de-la-tension-por-malvinas-el-gobierno-recibio-dos-ofertas-para-construir-el-muelle-de-la-base-naval-integrada-en-ushuaia/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Dólar, tasas y Brasil: los tres factores que pueden complicar a Argentina pese al rally global",
+    "resumen": "La recuperación de los mercados emergentes abrió una ventana para los activos locales, aunque la presión cambiaria en el principal socio comercial, el encarecimiento del crédito externo y la cautela de Wall Street ponen límites al optimismo",
+    "link": "https://www.infobae.com/economia/2026/11/24/dolar-tasas-y-brasil-los-tres-factores-que-pueden-complicar-a-argentina-pese-al-rally-global/",
+    "fuente": "infobae"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "¿Cómo sigue la película sobre la economía argentina?",
+    "resumen": "La intervención cambiaria abarata los bienes externos y eleva los costos fabriles locales sin financiamiento accesible, una dinámica que repite errores del pasado tarifario y amenaza la supervivencia de numerosas fábricas nacionales",
+    "link": "https://www.infobae.com/opinion/2026/11/24/como-sigue-la-pelicula-sobre-la-economia-argentina/",
+    "fuente": "infobae"
+  },
+  {
     "fecha": "2026-11-23",
     "titulo": "Sin operaciones en el mercado local, el riesgo país cayó 30 puntos y las acciones argentinas volaron en Wall Street",
     "resumen": "Las acciones de Nvidia ascendieron un 32% e impulsaron subas de hasta 6,5% en los principales indicadores de Wall Street. Las acciones argentinas ganaron hasta 10% y los bonos, un 1,5%. El indicador de JP Morgan cedió 30 unidades, a 1.035 puntos básicos",
@@ -19520,104 +19744,6 @@
     "titulo": "Héctor Torres, ex director del FMI sobre la visita de Kristalina Georgieva: “El riesgo de 2027 es una de las dudas más importantes que hay”",
     "resumen": "El ex funcionario del organismo explicó que el viaje de la titular del Fondo no es una revisión técnica sino una señal política. Advirtió que la continuidad macroeconómica es la pregunta que más preocupa al organismo",
     "link": "https://www.infobae.com/economia/2026/07/27/hector-torres-ex-director-del-fmi-sobre-la-visita-de-kristalina-georgieva-el-riesgo-de-2027-es-una-de-las-dudas-mas-importantes-que-hay/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Volvió a caer la venta de ropa: se redujo 6,9% y sólo una de cada seis empresas espera una mejora",
-    "resumen": "La cámara sectorial confirmó una desaceleración en el ritmo de caída de las ventas, pero advirtió que la demanda sigue débil y las expectativas de mejora son minoritarias entre las empresas del sector",
-    "link": "https://www.infobae.com/economia/2026/07/26/volvio-a-caer-la-venta-de-ropa-se-redujo-69-y-solo-una-de-cada-seis-empresas-espera-una-mejora/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Se toma menos y resignando calidad: el consumo per cápita de vino sigue cayendo y está en el mínimo histórico",
-    "resumen": "Los primeros cinco meses de 2026 muestran una nueva caída, en un mercado que resigna volumen y en el que la ingesta de varietales cae más del 26% y el tetra brik le gana terreno a la botella",
-    "link": "https://www.infobae.com/economia/2026/07/26/se-toma-menos-y-resignando-calidad-el-consumo-per-capita-de-vino-sigue-cayendo-y-esta-en-el-minimo-historico/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Por qué el campo quedó conforme con el discurso de Javier Milei en Palermo",
-    "resumen": "Aunque el sector no consiguió la eliminación total de las retenciones, las principales entidades valoraron el reconocimiento al agro como motor de la economía",
-    "link": "https://www.infobae.com/economia/2026/07/26/por-que-el-campo-quedo-conforme-con-el-discurso-de-javier-milei-en-palermo/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Reservas, meta fiscal y el desafío de 2027: las claves de la visita de la titular del FMI a la Argentina",
-    "resumen": "Kristalina Georgieva llega el lunes y mantedrá reuniones con Javier Milei y Luis Caputo. Cuánto tiempo estará y puntos centrales del vínculo con el organismo",
-    "link": "https://www.infobae.com/economia/2026/07/26/reservas-meta-fiscal-y-el-desafio-de-2027-las-claves-de-la-visita-de-la-titular-del-fmi-a-la-argentina/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "La enorme importancia económica y comercial que tiene Brasil para la Argentina",
-    "resumen": "En el primer semestre del año el socio mayor del Mercosur fue el principal destino de las exportaciones argentinas y el segundo mayor proveedor del país, muy cerca del primero",
-    "link": "https://www.infobae.com/economia/2026/07/26/la-enorme-importancia-economica-y-comercial-que-tiene-brasil-para-la-argentina/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Las guerras internacionales impulsaron los precios del trigo y la soja a sus máximos de los últimos dos años",
-    "resumen": "El conflicto en Medio Oriente y la tensión entre Rusia y Ucrania reconfiguran la logística mundial de granos, mientras el maíz argentino enfrenta demoras por lluvias y Estados Unidos suma un nuevo esquema arancelario",
-    "link": "https://www.infobae.com/economia/2026/07/26/las-guerras-internacionales-impulsaron-los-precios-del-trigo-y-la-soja-a-sus-maximos-de-los-ultimos-dos-anos/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Nicolas Pino: “Las retenciones deben dejar de existir, por ley y para siempre”",
-    "resumen": "En la apertura de la Exposición en Palermo, el titular de la Sociedad Rural dijo que en eso coincide con el presidente Javier Milei, a cuya política económica reconoció “notables logros”: menor inflación, equilibrio fiscal, estabilidad cambiaria, baja del riesgo país. Y acusó ...",
-    "link": "https://www.infobae.com/economia/2026/07/26/nicolas-pino-las-retenciones-deben-dejar-de-existir-por-ley-y-para-siempre/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "El vocero presidencial volvió a poner al dólar en escena, pero lo que preocupa es que el consumo no despega",
-    "resumen": "Según el Gobierno, el tipo de cambio flota, pero hay funcionarios que insisten en proyectar precios. En julio se mantuvo el proceso de desinflación, aunque a la actividad le cuesta despegar. Expectativa por la llegada de la titular del FMI a la Argentina",
-    "link": "https://www.infobae.com/economia/2026/07/26/el-blooper-del-vocero-presidencial-volvio-a-poner-al-dolar-en-escena-pero-lo-que-preocupa-es-que-el-consumo-no-despega/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Kristalina Georgieva aterriza en Buenos Aires para ratificar su sintonía política y económica con Javier Milei",
-    "resumen": "La directora gerente considera al presidente argentino un leading case, en un escenario internacional atravesado por la guerra de Medio Oriente y su impacto sobre la cadena de suministros y el comercio global",
-    "link": "https://www.infobae.com/economia/2026/07/26/kristalina-georgieva-aterriza-en-buenos-aires-para-ratificar-su-sintonia-politica-y-economica-con-javier-milei/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Clima de Negocios: la nueva Aerolíneas Argentinas busca su destino con números en caja y la privatización postergada",
-    "resumen": "La compañía presentó en la feria de Farnborough su mayor renovación de flota de la última década, financiada por completo con superávits operativos. Lo que viene para la aerolínea de bandera",
-    "link": "https://www.infobae.com/economia/2026/07/26/clima-de-negocios-la-nueva-aerolineas-argentinas-busca-su-destino-con-numeros-en-caja-y-la-privatizacion-postergada/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Qué autos que se fabrican en Estados Unidos podrían llegar a la Argentina cuando se habilite el cupo acordado entre Milei y Trump",
-    "resumen": "Muchos creen que solo entrarían autos de marcas como Ford, Chevrolet, Jeep, Ram y Tesla, pero hay una larga lista de modelos que podrían ingresar sin el 35% de arancel",
-    "link": "https://www.infobae.com/economia/2026/07/26/que-autos-que-se-fabrican-en-estados-unidos-podrian-llegar-a-la-argentina-cuando-se-habilite-el-cupo-acordado-entre-milei-y-trump/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "La inflación cedió, pero los salarios siguen en deuda: cuánto recuperaron este año y qué pasará con el consumo",
-    "resumen": "La desaceleración de los aumentos de precios frenó el deterioro del poder adquisitivo, aunque los trabajadores registrados aún no compensan las pérdidas acumuladas. El escenario para el próximo semestre",
-    "link": "https://www.infobae.com/economia/2026/07/26/la-inflacion-cedio-pero-los-salarios-siguen-en-deuda-cuanto-recuperaron-este-ano-y-que-pasara-con-el-consumo/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Daniel Garro, CEO de Value International: “El único precio de algo es el de mercado libre en cada momento”",
-    "resumen": "El economista enmarcó en diálogo con Infobae su visión sobre el tipo de cambio en el desempeño del comercio exterior y en la dinámica de incentivos para exportadores e importadores",
-    "link": "https://www.infobae.com/economia/2026/07/26/daniel-garro-ceo-de-value-international-el-unico-precio-de-algo-es-el-de-mercado-libre-en-cada-momento/",
-    "fuente": "infobae"
-  },
-  {
-    "fecha": "2026-07-26",
-    "titulo": "Logros, límites, desafío y oportunidad del gobierno de Javier Milei, según un ex economista jefe del FMI",
-    "resumen": "Maurice Obstfeld, que tuvo esa función entre 2015 y 2018, dice que si bien la actual gestión redujo “dramáticamente” la inflación, su política monetaria y cambiaria sigue siendo “frágil”. La relación con EEUU y los antecedentes del trumpismo",
-    "link": "https://www.infobae.com/economia/2026/07/25/logros-limites-desafio-y-oportunidad-del-gobierno-de-javier-milei-segun-un-ex-economista-jefe-del-fmi/",
     "fuente": "infobae"
   }
 ]
