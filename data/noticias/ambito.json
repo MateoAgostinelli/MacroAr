@@ -1,29 +1,134 @@
 [
   {
-    "fecha": "2026-11-24",
+    "fecha": "2026-11-25",
     "titulo": "La economía entró en recesión técnica: sumó dos trimestres seguidos de caída pese a crecer 1,1% mensual en septiembre",
-    "resumen": "<p id=\"p-1795548457132-28322\" class=\"ignore-parser\">La actividad económica cayó 1,2% interanual y acumuló su tercer mes consecutivo de retroceso en esa medición. El deterioro de la industria, el comercio y la intermediación financiera plantea nuevos desafíos para la recuperaci...",
+    "resumen": "La actividad económica cayó 1,2% interanual y acumuló su tercer mes consecutivo de retroceso en esa medición. El deterioro de la industria, el comercio y la intermediación financiera plantea nuevos desafíos para la recuperación de cara a 2027.",
     "link": "https://www.ambito.com/la-economia-entro-recesion-tecnica-sumo-dos-trimestres-seguidos-caida-pese-crecer-11-mensual-septiembre-n6348824",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Consumo: las ventas en supermercados cayeron en septiembre por cuarto mes seguido y acumulan una baja del 2,9% en 2026",
+    "resumen": "Las ventas en supermercados retrocedieron un 0,9% mensual y un 3% interanual en septiembre, según el INDEC. La pérdida del poder adquisitivo, la debilidad del mercado interno y las dificultades para sostener la rentabilidad condicionan las perspectivas del sector.",
+    "link": "https://www.ambito.com/economia/consumo-las-ventas-supermercados-cayeron-septiembre-cuarto-mes-seguido-y-acumulan-una-baja-del-29-2026-n6349311",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Las dos velocidades de la industria: las exportadoras crecen, mientras que el resto se hunden",
+    "resumen": "Un reciente estudio identificó los dos factores que golpean al entramado productivo local. Por un lado, la caída del consumo y el bajo nivel de actividad en la construcción. Por otro lado, la competencia frente a las importaciones.",
+    "link": "https://www.ambito.com/economia/la-dos-velocidades-la-industria-las-exportadoras-crecen-mientras-que-el-resto-se-hunden-n6349266",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Cuánto cuesta armar un árbol de Navidad en Argentina en 2026: del modelo económico a la opción top",
+    "resumen": "Con las fiestas cada vez más cerca, las familias empiezan a comparar precios para decorar sus casas sin gastar de más.",
+    "link": "https://www.ambito.com/economia/cuanto-cuesta-armar-un-arbol-navidad-argentina-2026-del-modelo-economico-la-opcion-top-n6348680",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "China y EEUU avanzan en negociaciones por el comercio agrícola y el acceso a los mercados",
+    "resumen": "Funcionarios de ambos países mantuvieron en Pekín la primera reunión de un grupo de trabajo bilateral sobre agricultura.",
+    "link": "https://www.ambito.com/economia/china-y-eeuu-avanzan-negociaciones-el-comercio-agricola-y-el-acceso-los-mercados-n6349154",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Debate clave: los funcionarios de la Fed discrepan sobre las causas de la persistente inflación",
+    "resumen": "El PCE de octubre, la medida predilecta del banco central, treparía a 3,8% interanual, según el consenso de economistas. Mientras algunos funcionarios piden más ajuste, como Christopher Waller, con una suba de medio punto en diciembre, miembros del Gobierno de Trump advierten ...",
+    "link": "https://www.ambito.com/economia/debate-clave-los-funcionarios-la-fed-discrepan-las-causas-la-persistente-inflacion-n6349153",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "China calificó de \"maniobra política\" la amenaza de nuevos aranceles de Donald Trump y pidió preservar la tregua comercial",
+    "resumen": "China cuestionó la amenaza de nuevos aranceles de Trump, los calificó como una “maniobra política” y pidió a Washington preservar la tregua comercial.",
+    "link": "https://www.ambito.com/mundo/china-califico-maniobra-politica-la-amenaza-nuevos-aranceles-donald-trump-y-pidio-preservar-la-tregua-comercial-n6349152",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "La inflación en EEUU sigue firme y el mercado se prepara para una suba de tasas en diciembre",
+    "resumen": "Una inflación subyacente que se mantiene por encima del 3% y una economía que sube con fuerza a pesar de la suba de los combustibles son el combo ideal para que la Reserva Federal retome el rumbo alcista en las tasas.",
+    "link": "https://www.ambito.com/economia/la-inflacion-eeuu-sigue-firme-y-el-mercado-se-prepara-una-suba-tasas-diciembre-n6349170",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Nueva ofensiva de Donald Trump: impondrá aranceles de hasta 20% a China, la UE, India y otras 11 economías",
+    "resumen": "La medida se basa en una investigación y busca rehacer las relaciones comerciales. Según una fuente, las economías mencionadas promueven una producción desvinculada de la demanda y los principios de mercado.",
+    "link": "https://www.ambito.com/economia/nueva-ofensiva-donald-trump-impondra-aranceles-20-china-la-ue-india-y-otras-11-s-n6349164",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "ARCA modificó los requisitos para los FAL: qué cambia para las cooperativas y las pymes",
+    "resumen": "El organismo actualizó las condiciones para acceder al régimen y precisó los requisitos de inscripción y certificación de los empleadores. La medida incorpora expresamente a las cooperativas y establece nuevas pautas de caracterización para las entidades sin fines de lucro.",
+    "link": "https://www.ambito.com/economia/arca-modifico-los-requisitos-los-fal-que-cambia-las-cooperativas-y-las-pymes-n6349108",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "La UE creará un nuevo fondo tecnológico de 50.000 millones de euros para reducir dependencia de EEUU y China",
+    "resumen": "El fondo, que tendría su foco en inteligencia artificial y computación cuántica, sería administrado por la firma de capital de riesgo EQT. Bruselas apunta a que las empresas europeas con mayor potencial puedan crecer sin buscar financiamiento en otros países.",
+    "link": "https://www.ambito.com/economia/la-ue-creara-un-nuevo-fondo-tecnologico-50000-millones-euros-reducir-dependencia-eeuu-y-china-n6349091",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Qué dijo Luis Caputo sobre el dólar, la inflación y la suba del riesgo país",
+    "resumen": "El ministro de Economía habló en una entrevista televisiva tras el dato del EMAE, atribuyó las tensiones cambiarias al contexto internacional y defendió la solidez del programa económico.",
+    "link": "https://www.ambito.com/economia/que-dijo-luis-caputo-el-dolar-la-inflacion-y-la-suba-del-riesgo-pais-n6349087",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Para Luis Caputo, la definición de recesión técnica es \"arbitraria\" y descartó que la suba del dólar vaya a precios",
+    "resumen": "El ministro de Economía cuestionó el criterio de dos trimestres consecutivos de contracción para determinar una recesión y calificaron la caída de julio como un dato fuera de lo común.",
+    "link": "https://www.ambito.com/economia/luis-caputo-la-definicion-recesion-tecnica-es-arbitraria-n6349037",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "El secretario de Finanzas aseguró que la economía no entró en recesión y planteó que la caída fue transitoria",
+    "resumen": "Furiase sostuvo que Argentina no sufre el contexto global adverso por su superávit fiscal y por tener cubiertas las necesidades de financiamiento de este año y del próximo. Además, dijo que el mercado está \"preocupado\" por lo que pase tras las elecciones de 2027.",
+    "link": "https://www.ambito.com/economia/el-secretario-finanzas-aseguro-que-la-no-entro-recesion-y-planteo-que-la-caida-fue-transitoria-n6349038",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Petróleo: la OPEP+ enfrenta una cumbre decisiva que podría marcar el rumbo de los precios en 2027",
+    "resumen": "El próximo domingo el cártel petrolero mundial se reúne en Austria. No será una cumbre más. Los especialistas advierten que es una de las más complicadas de los últimos tiempos. ¿Cuáles son los escenarios plausibles y cómo jugará cada país productor? ¿Para 2027 acordarán exced...",
+    "link": "https://www.ambito.com/economia/petroleo-la-opep-enfrenta-una-cumbre-decisiva-que-podria-marcar-el-rumbo-los-precios-2027-n6348938",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Diálogos de Wall Street: volvió Huang pero sigue la volatilidad del sector tecnológico, sumado al temor por subas de tasas de la Fed",
+    "resumen": "Volvió Jensen Huang a Nvidia. Lo trajo el propio presidente Trump, nervioso por el derrape de las cotizaciones, pero el alivio duró un solo día. La Bolsa continúa en modo corrección. En las tecnológicas, ¿estamos en un mercado bear? ¿Cuánto influye la Fed y el temor a que suba...",
+    "link": "https://www.ambito.com/economia/dialogos-wall-street-volvio-huang-pero-sigue-la-volatilidad-del-sector-tecnologico-sumado-al-temor-subas-tasas-la-fed-n6348926",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-24",
     "titulo": "Plazo fijo en dólares: ¿cuánto se gana al invertir u$s750?",
-    "resumen": "<p id=\"p-1795528094775-11805\" class=\"ignore-parser\">Los bancos no pagan lo mismo por dejar los dólares en un plazo fijo, por lo que elegir bien puede cambiar la ganancia.</p>",
+    "resumen": "Los bancos no pagan lo mismo por dejar los dólares en un plazo fijo, por lo que elegir bien puede cambiar la ganancia.",
     "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-se-gana-al-invertir-us750-n6348631",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-24",
     "titulo": "El presidente de España propone un impuesto a las fortunas de más de 100 millones de euros",
-    "resumen": "<p id=\"p-1795541862889-79362\" dir=\"ltr\" class=\"ignore-parser\">El mandatario busca recaudar para financiar prestaciones sociales y servicios públicos, en un intento por distinguirse del PP a días de los comicios. Las encuestas anticipan que el partido conservador ganaría sin ma...",
+    "resumen": "El mandatario busca recaudar para financiar prestaciones sociales y servicios públicos, en un intento por distinguirse del PP a días de los comicios. Las encuestas anticipan que el partido conservador ganaría sin mayoría absoluta.",
     "link": "https://www.ambito.com/economia/el-presidente-espana-propone-un-impuesto-las-fortunas-mas-100-millones-euros-n6348761",
     "fuente": "ambito"
   },
   {
     "fecha": "2026-11-24",
     "titulo": "INAES: suspenden unas 3.000 cooperativas, la mayoría de trabajo, por no presentar documentación desde 2017",
-    "resumen": "<p id=\"p-1795538442745-41014\" class=\"ignore-parser\">Se trata de organizaciones a las que se adjudica intermediar puestos de empleo en funciones de baja calificación, en su mayoría con municipios.</p>",
+    "resumen": "Se trata de organizaciones a las que se adjudica intermediar puestos de empleo en funciones de baja calificación, en su mayoría con municipios.",
     "link": "https://www.ambito.com/economia/inaes-suspenden-unas-3000-cooperativas-la-mayoria-trabajo-no-presentar-documentacion-2017-n6348739",
     "fuente": "ambito"
   },
@@ -74,6 +179,13 @@
     "titulo": "EEUU suma a su lista negra a una filial de Alibaba y a Megaspeed luego del escándalo en Nvidia",
     "resumen": "<p id=\"p-1795518519926-16077\" dir=\"ltr\" class=\"ignore-parser\">La medida llega tras la presión pública de Scott Bessent y del senador Pete Ricketts sobre el Departamento de Comercio por su gestión del caso. Alibaba sostiene que su filial nunca desvió chips sujetos a restriccion...",
     "link": "https://www.ambito.com/economia/eeuu-suma-su-lista-negra-una-filial-alibaba-y-megaspeed-luego-del-escandalo-nvidia-n6348494",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "La economía en recesión: cuánto tiempo puede durar y qué hay detrás de la caída de la actividad",
+    "resumen": "El rebote de septiembre dejó un arrastre favorable para que la actividad vuelva a crecer en el cuarto trimestre. Pero la debilidad del empleo, los ingresos y el crédito condiciona la recuperación, mientras la tensión financiera amenaza con demorarla.",
+    "link": "https://www.ambito.com/economia/la-recesion-cuanto-tiempo-puede-durar-y-que-hay-detras-la-caida-la-actividad-n6348954",
     "fuente": "ambito"
   },
   {
@@ -8376,69 +8488,6 @@
     "titulo": "Empleo: advierten que el RIGI no alcanza para reponer ni un tercio de los puestos que se destruyeron en la era Milei",
     "resumen": "Así lo señaló un informe de Misión Productiva, considerando los 95.158 puestos que promete el RIGI en el escenario más optimista. Al contemplar solo empleos directos y permanentes, se compensaría apenas el 4% de lo perdido.",
     "link": "https://www.ambito.com/economia/empleo-advierten-que-el-rigi-no-alcanza-reponer-ni-un-tercio-los-puestos-que-se-destruyeron-la-era-milei-n6315943",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-27",
-    "titulo": "La presión impositiva de 2026 será la más baja en 20 años: por qué es difícil acelerar la baja de retenciones",
-    "resumen": "En el primer semestre los ingresos de retenciones bajaron 40% respecto del año pasado. El IVA cae 7%. Respecto de 2025 las retenciones bajan 0,19 puntos del PBI y el IVA, 0,43.",
-    "link": "https://www.ambito.com/economia/la-presion-impositiva-2026-sera-la-mas-baja-20-anos-que-es-dificil-acelerar-la-baja-retenciones-n6304002",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-27",
-    "titulo": "Luis Caputo junto a Kristalina Georgieva encabezan una conferencia de prensa en Economía",
-    "resumen": "gLa directora gerente del Fondo Monetario Internacional llegó la Palacio de Hacienda para iniciar su visita oficial a la Argentina. Realizará una conferencia de prensa y más tarde se reunirá con Javier Milei.",
-    "link": "https://www.ambito.com/economia/kristalina-georgieva-llego-al-ministerio-y-se-reune-el-ministro-luis-caputo-n6304005",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-27",
-    "titulo": "Los precios del trigo y la soja alcanzan máximos de más de dos años por el impacto de la guerra de Medio Oriente",
-    "resumen": "La escalada del conflicto en Medio Oriente y el recrudecimiento de la guerra entre Rusia y Ucrania volvieron a tensionar los mercados agrícolas. El trigo y la soja alcanzaron sus precios más altos de los últimos años, mientras el maíz también ganó impulso por problemas climáti...",
-    "link": "https://www.ambito.com/economia/los-precios-del-trigo-y-la-soja-alcanzan-maximos-mas-dos-anos-el-impacto-la-guerra-medio-oriente-n6303920",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-27",
-    "titulo": "Ranking de inflación en América Latina: ¿qué posición ocupa Argentina este año?",
-    "resumen": "El ranking presenta grandes diferencias entre los países de la región. Argentina, más allá de su desaceleración semestral, continúa entre las más altas.",
-    "link": "https://www.ambito.com/economia/ranking-inflacion-america-latina-que-posicion-ocupa-argentina-este-ano-n6303902",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-27",
-    "titulo": "El Washington Post destacó la mejora de las perspectivas económicas durante la gestión de Javier Milei",
-    "resumen": "El diario estadounidense volvió a destacar la evolución de la economía argentina y puso el foco en la mejora de la percepción de los mercados y en las recientes revisiones favorables de las calificadoras de riesgo.",
-    "link": "https://www.ambito.com/economia/el-washington-post-destaco-la-mejora-las-perspectivas-economicas-la-gestion-javier-milei-n6303890",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-27",
-    "titulo": "La venta de indumentaria cayó 6,9% y solo 1 de cada 6 empresas espera una recuperación",
-    "resumen": "Aunque la caída se moderó respecto de bimestres anteriores, el consumo continúa deprimido. Ocho de cada diez empresas atribuyen la crisis a la falta de demanda y la mayoría no prevé una mejora en las ventas durante los próximos meses.",
-    "link": "https://www.ambito.com/economia/las-ventas-indumentaria-cayo-69-y-solo-1-cada-6-empresas-espera-una-recuperacion-n6303884",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-27",
-    "titulo": "ARCA habilitó el uso del Certificado de Origen Digital para liberar garantías aduaneras: cómo funciona",
-    "resumen": "La medida permite que importadores y despachantes de aduana gestionen de manera digital la liberación de garantías por la falta del Certificado de Origen MERCOSUR y de las multas automáticas asociadas. Entró en vigencia este lunes con su publicación en el Boletín Oficial.",
-    "link": "https://www.ambito.com/economia/arca-habilito-el-uso-del-certificado-origen-digital-liberar-garantias-aduaneras-como-funciona-n6303833",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-27",
-    "titulo": "Dólar: el mercado no ve una suba a $1.800 para este año, pero no lo descarta para las elecciones de 2027",
-    "resumen": "El mercado desestima la posibilidad de que el dólar alcance los $1.800 en 2026, pero sí podría suceder durante las elecciones del año entrante.",
-    "link": "https://www.ambito.com/economia/dolar-el-mercado-no-ve-una-suba-1800-este-ano-pero-no-lo-descarta-las-elecciones-2027-n6303704",
-    "fuente": "ambito"
-  },
-  {
-    "fecha": "2026-07-27",
-    "titulo": "Los mercados ya subieron las tasas: es la hora de Kevin Warsh para revalidar sus credenciales de halcón",
-    "resumen": "Con la inflación nuevamente bajo presión y los bonos del Tesoro anticipando un endurecimiento monetario, la Fed enfrenta una decisión crucial. La definición sobre las tasas de interés pondrá a prueba el compromiso del nuevo presidente del banco central con la estabilidad de pr...",
-    "link": "https://www.ambito.com/economia/los-mercados-ya-subieron-las-tasas-es-la-hora-kevin-warsh-revalidar-sus-credenciales-halcon-n6303756",
     "fuente": "ambito"
   }
 ]
