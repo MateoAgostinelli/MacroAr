@@ -1,5 +1,89 @@
 [
   {
+    "fecha": "2026-11-26",
+    "titulo": "La suba del dólar oficial se tomó un respiro en medio del feriado en EEUU, pero cerró arriba de los $1.600",
+    "resumen": "La divisa mayorista cerró arriba de los $1.600. Este jueves hay feriado de hoy en Estados Unidos que impacta en la actividad local.",
+    "link": "https://www.ambito.com/economia/el-dolar-oficial-encadeno-siete-subas-y-marco-un-nuevo-record-nominal-mientras-crecen-las-senales-intervencion-n6349490",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "El consumo anotó una leve suba mensual en octubre tras dos bajas al hilo, pero en el año mostró una nueva caída",
+    "resumen": "La medición de la CAC mostró una mejora mensual de 0,6%, aunque el indicador continúa por debajo de los niveles de principios de 2025. El crédito a los hogares sigue en retroceso y limita la compra de bienes durables.",
+    "link": "https://www.ambito.com/economia/el-consumo-anoto-una-leve-suba-mensual-octubre-dos-bajas-al-hilo-pero-el-ano-mostro-una-nueva-caida-n6349755",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "Reforma del BCRA: cuáles son los puntos clave del proyecto que se aprobó en Diputados",
+    "resumen": "Avanzó la reforma de la carta magna del Central, que modifica la metodología de la destitución de sus directivos y fija su objetivo.",
+    "link": "https://www.ambito.com/economia/reforma-del-bcra-cuales-son-los-puntos-clave-del-proyecto-que-se-aprobo-diputados-n6349705",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "Comienza el Black Friday 2026: qué esperan las empresas en medio de la baja del consumo",
+    "resumen": "Tras los bajos números del consumo masivo y las ventas online en alza, el Black Friday pone a prueba la narrativa del Gobierno respecto al comercio digital. Los detalles, las expectativas de las empresas, y el \"comprador comparador\", en la nota.",
+    "link": "https://www.ambito.com/economia/comienza-el-black-friday-2026-que-esperan-las-empresas-medio-la-baja-del-consumo-n6349676",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "Respiro en las expectativas: la inflación anual esperada por los argentinos retrocedió al 30% en noviembre",
+    "resumen": "En el desglose por regiones, un informe de la Universidad Torcuato di Tella reveló que las perspectivas en GBA permanecen más altas que en el interior del país.",
+    "link": "https://www.ambito.com/economia/respiro-las-expectativas-la-inflacion-anual-esperada-los-argentinos-retrocedio-al-30-noviembre-n6349638",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "Empleadas domésticas: cuánto cobrarán en diciembre con el aumento salarial y el aguinaldo",
+    "resumen": "El personal de casas particulares recibirá un aumento del 1,7% y la segunda cuota del aguinaldo. Cuáles son los nuevos salarios mínimos por categoría y cuánto corresponde cobrar por el SAC.",
+    "link": "https://www.ambito.com/economia/empleadas-domesticas-cuanto-cobraran-diciembre-el-aumento-salarial-y-el-aguinaldo-n6349601",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "Salarios y paritarias de metalúrgicos: cuánto cobrarán en diciembre de 2026 tras el nuevo aumento",
+    "resumen": "La UOM aplicará otro aumento en diciembre y pagará una nueva cuota del bono no remunerativo. Conocé los salarios básicos por categoría y el ingreso mínimo garantizado.",
+    "link": "https://www.ambito.com/economia/salarios-y-paritarias-metalurgicos-cuanto-cobraran-diciembre-2026-el-nuevo-aumento-n6349623",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "Recesión: economistas anticipan una caída de la actividad en octubre y recortan las proyecciones para 2026",
+    "resumen": "Tras el rebote del EMAE en septiembre, las primeras mediciones privadas muestran que la economía habría vuelto a contraerse en el inicio del cuarto trimestre. La debilidad del consumo, las restricciones del crédito y el deterioro de la producción industrial condicionan las per...",
+    "link": "https://www.ambito.com/economia/recesion-economistas-anticipan-una-caida-la-actividad-octubre-y-recortan-las-proyecciones-2026-n6349597",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "Se profundiza la caída del consumo masivo: retrocedió un 7,5% anual y todos los canales de venta registraron bajas",
+    "resumen": "Las ventas registraron en el bimestre septiembre-octubre su mayor contracción interanual de los últimos doce meses. Las bebidas lideraron el deterioro, mientras que los kioscos y los comercios tradicionales fueron los canales más afectados.",
+    "link": "https://www.ambito.com/economia/se-profundiza-la-caida-del-consumo-masivo-retrocedio-un-75-anual-y-todos-los-canales-venta-registraron-bajas-n6349531",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "J.P. Morgan advirtió que los bonos argentinos ya descuentan 50% de chances de un triunfo opositor en 2027",
+    "resumen": "En su informe \"Perspectivas Económicas Argentina 2027\", el banco proyecta continuidad de las políticas de Milei como escenario base, pero advierte que una elección reñida podría presionar el peso, bonos y reservas. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/jp-morgan-advirtio-que-los-bonos-argentinos-ya-descuentan-50-chances-triunfo-opositor-2027-n6349517",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "Recesión y dólar: por qué los economistas advierten sobre los riesgos de cambiar el rumbo económico",
+    "resumen": "Los especialistas consideran que la actual inestabilidad financiera limita el margen de maniobra del Gobierno. Una devaluación podría mejorar la competitividad, pero también acelerar la inflación y profundizar la caída de la actividad en los sectores más golpeados.",
+    "link": "https://www.ambito.com/economia/recesion-y-dolar-que-los-economistas-advierten-los-riesgos-cambiar-el-rumbo-economico-n6349219",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "Oro: pese al derrumbe de los precios, los ETF sumaron u$s2.700 millones en octubre",
+    "resumen": "Al igual que los bancos centrales, los fondos ETF de oro mantuvieron sus apuestas al metal amarillo el mes pasado. En lo que va del 2026 sumaron 246 toneladas. En octubre impactó la caída de las acciones tecnológicas y la suba de las tasas de interés sobre los inversores de or...",
+    "link": "https://www.ambito.com/economia/oro-los-fondos-etf-siguieron-sumando-octubre-n6349409",
+    "fuente": "ambito"
+  },
+  {
     "fecha": "2026-11-25",
     "titulo": "La economía entró en recesión técnica: sumó dos trimestres seguidos de caída pese a crecer 1,1% mensual en septiembre",
     "resumen": "La actividad económica cayó 1,2% interanual y acumuló su tercer mes consecutivo de retroceso en esa medición. El deterioro de la industria, el comercio y la intermediación financiera plantea nuevos desafíos para la recuperación de cara a 2027.",
@@ -109,6 +193,20 @@
     "titulo": "Diálogos de Wall Street: volvió Huang pero sigue la volatilidad del sector tecnológico, sumado al temor por subas de tasas de la Fed",
     "resumen": "Volvió Jensen Huang a Nvidia. Lo trajo el propio presidente Trump, nervioso por el derrape de las cotizaciones, pero el alivio duró un solo día. La Bolsa continúa en modo corrección. En las tecnológicas, ¿estamos en un mercado bear? ¿Cuánto influye la Fed y el temor a que suba...",
     "link": "https://www.ambito.com/economia/dialogos-wall-street-volvio-huang-pero-sigue-la-volatilidad-del-sector-tecnologico-sumado-al-temor-subas-tasas-la-fed-n6348926",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Martín Guzmán cuestionó el rumbo económico de Javier Milei: \"No hay una forma de salir de ahí desde su propio modelo\"",
+    "resumen": "El exministro advirtió sobre el estancamiento de la actividad, la caída de la inversión y las dificultades del empleo. También cuestionó la dependencia financiera de Estados Unidos.",
+    "link": "https://www.ambito.com/economia/martin-guzman-cuestiono-el-rumbo-economico-javier-milei-no-hay-una-forma-salir-ahi-su-propio-modelo-n6349438",
+    "fuente": "ambito"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Plazo fijo: cuánto ganás al colocar $500.000 durante 30, 60 o 90 días",
+    "resumen": "Las tasas de interés cambian según el banco y pueden hacer una diferencia en el dinero que reciben los ahorristas. Qué tener en cuenta antes de invertir.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-ganas-al-colocar-500000-30-60-o-90-dias-n6349172",
     "fuente": "ambito"
   },
   {
